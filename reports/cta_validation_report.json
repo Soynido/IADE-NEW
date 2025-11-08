@@ -1,0 +1,19 @@
+{
+  "generated_at": "/Users/valentingaludec/IADE NEW",
+  "summary": {
+    "total_questions": 165,
+    "valid": 165,
+    "invalid": 0,
+    "missing_pdf": 0,
+    "low_similarity": 0,
+    "success_rate": 100.0
+  },
+  "pdfs_available": [
+    "Prepaconcoursiade-Complet.pdf",
+    "annalescorrigées-Volume-2.pdf",
+    "annalescorrigées-Volume-1.pdf"
+  ],
+  "low_similarity": [],
+  "missing_pdf": [],
+  "invalid": []
+}
