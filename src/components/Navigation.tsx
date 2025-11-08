@@ -10,7 +10,9 @@ import { useUserStore } from '@/store/useUserStore';
 export function Navigation() {
   const location = useLocation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const { attempts, correct } = useUserStore();
+  const userStore = useUserStore();
+  const attempts = userStore.attempts || 0;
+  const correct = userStore.correct || 0;
 
   const isActive = (path: string) => location.pathname === path;
 

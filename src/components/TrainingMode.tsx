@@ -33,7 +33,7 @@ export function TrainingMode() {
   useEffect(() => {
     const loadQuestions = async () => {
       try {
-        const response = await fetch('/src/data/questions/entrainement.json');
+        const response = await fetch('/data/questions/entrainement.json');
         const data = await response.json();
         setQuestions(data);
         setLoading(false);

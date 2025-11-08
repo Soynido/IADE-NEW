@@ -30,7 +30,7 @@ export function RevisionMode() {
   useEffect(() => {
     const loadQuestions = async () => {
       try {
-        const response = await fetch('/src/data/questions/revision.json');
+        const response = await fetch('/data/questions/revision.json');
         const data = await response.json();
         setQuestions(data);
         setFilteredQuestions(data);
