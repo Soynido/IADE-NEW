@@ -149,24 +149,24 @@ export function RevisionMode() {
   const isMarkedToReview = toReview.has(currentQuestion.id || currentQuestion.chunk_id);
 
   return (
-    <div className="container mx-auto px-4 py-8 max-w-4xl">
+    <div className="container mx-auto px-3 md:px-4 py-4 md:py-8 max-w-4xl pb-20 md:pb-8">
       {/* En-tête */}
-      <div className="mb-6">
-        <h1 className="text-3xl font-bold text-gray-900 mb-2">Mode Révision</h1>
-        <p className="text-gray-600">
+      <div className="mb-4 md:mb-6">
+        <h1 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Mode Révision</h1>
+        <p className="text-sm md:text-base text-gray-600">
           Apprenez à votre rythme avec des explications immédiates
         </p>
       </div>
 
       {/* Filtres */}
-      <div className="bg-white rounded-lg shadow p-4 mb-6">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center gap-4">
+      <div className="bg-white rounded-lg shadow p-3 md:p-4 mb-4 md:mb-6">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 md:gap-0">
+          <div className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4 w-full md:w-auto">
             <label className="text-sm font-medium text-gray-700">Module :</label>
           <select
             value={selectedModule}
             onChange={(e) => setSelectedModule(e.target.value)}
-            className="px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent bg-white text-gray-900"
+            className="px-3 md:px-4 py-2 text-sm md:text-base border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent bg-white text-gray-900 w-full md:w-auto"
           >
               <option value="all">Tous les modules ({questions.length})</option>
               {modules.map(module => (
@@ -196,37 +196,41 @@ export function RevisionMode() {
       />
 
       {/* Navigation */}
-      <div className="flex items-center justify-between mt-6">
+      <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-2 md:gap-0 mt-4 md:mt-6">
         <button
           onClick={handlePrevious}
           disabled={currentIndex === 0}
-          className="px-6 py-3 bg-gray-200 text-gray-700 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-300 transition"
+          className="px-4 md:px-6 py-3 bg-gray-200 text-gray-700 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-300 transition touch-manipulation text-sm md:text-base"
         >
           ← Précédente
         </button>
         
         <button
           onClick={handleMarkToReview}
-          className={`px-6 py-3 rounded-lg transition ${
+          className={`px-4 md:px-6 py-3 rounded-lg transition touch-manipulation text-sm md:text-base ${
             isMarkedToReview
               ? 'bg-yellow-500 text-white hover:bg-yellow-600'
               : 'bg-white border-2 border-yellow-500 text-yellow-700 hover:bg-yellow-50'
           }`}
         >
-          {isMarkedToReview ? '✓ Marquée à revoir' : '⭐ Marquer à revoir'}
+          {isMarkedToReview ? '✓ À revoir' : '⭐ Marquer'}
         </button>
         
         <button
           onClick={handleNext}
           disabled={currentIndex === filteredQuestions.length - 1}
-          className="px-6 py-3 bg-primary-600 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-primary-700 transition"
+          className="px-4 md:px-6 py-3 bg-primary-600 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-primary-700 transition touch-manipulation text-sm md:text-base"
         >
           Suivante →
         </button>
       </div>
 
       {/* Progression */}
-      <div className="mt-6">
+      <div className="mt-4 md:mt-6">
+        <div className="flex justify-between text-xs md:text-sm text-gray-600 mb-2">
+          <span>Question {currentIndex + 1} / {filteredQuestions.length}</span>
+          <span>{Math.round(((currentIndex + 1) / filteredQuestions.length) * 100)}%</span>
+        </div>
         <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
           <div
             className="h-full bg-primary-600 transition-all duration-300"

@@ -137,9 +137,9 @@ export function QuestionCard({
 
       {/* Explication (conditionnelle) */}
       {(hasAnswered || showExplanation) && (
-        <div className="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded">
-          <h4 className="font-semibold text-blue-900 mb-2">💡 Explication</h4>
-          <p className="text-gray-700 leading-relaxed">
+        <div className="mt-4 md:mt-6 p-3 md:p-4 bg-blue-50 border-l-4 border-blue-500 rounded">
+          <h4 className="text-sm md:text-base font-semibold text-blue-900 mb-2">💡 Explication</h4>
+          <p className="text-sm md:text-base text-gray-700 leading-relaxed">
             {question.explanation}
           </p>
           
