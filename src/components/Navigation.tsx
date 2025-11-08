@@ -5,10 +5,12 @@
 
 import { Link, useLocation } from 'react-router-dom';
 import { useState } from 'react';
+import { useUserStore } from '@/store/useUserStore';
 
 export function Navigation() {
   const location = useLocation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { attempts, correct } = useUserStore();
 
   const isActive = (path: string) => location.pathname === path;
 
