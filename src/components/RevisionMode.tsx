@@ -32,8 +32,12 @@ export function RevisionMode() {
       try {
         const response = await fetch('/data/questions/revision.json');
         const data = await response.json();
-        setQuestions(data);
-        setFilteredQuestions(data);
+        
+        // Randomise l'ordre des questions
+        const shuffled = [...data].sort(() => Math.random() - 0.5);
+        
+        setQuestions(shuffled);
+        setFilteredQuestions(shuffled);
         setLoading(false);
       } catch (error) {
         console.error('Erreur chargement questions:', error);
@@ -186,14 +190,14 @@ export function RevisionMode() {
       </div>
 
       {/* Question Card */}
-      <QuestionCard
-        question={currentQuestion}
-        showExplanation={true}
-        showFeedback={true}
-        onAnswer={handleAnswer}
-        onFeedback={handleFeedback}
-        onViewCourse={handleViewCourse}
-      />
+          <QuestionCard
+            question={currentQuestion}
+            showExplanation={false}
+            showFeedback={true}
+            onAnswer={handleAnswer}
+            onFeedback={handleFeedback}
+            onViewCourse={handleViewCourse}
+          />
 
       {/* Navigation */}
       <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-2 md:gap-0 mt-4 md:mt-6">

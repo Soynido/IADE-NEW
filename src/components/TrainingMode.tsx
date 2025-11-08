@@ -35,7 +35,14 @@ export function TrainingMode() {
       try {
         const response = await fetch('/data/questions/entrainement.json');
         const data = await response.json();
-        setQuestions(data);
+        
+        // Gère les deux formats possibles
+        const questionsList = Array.isArray(data) ? data : (data.questions || []);
+        
+        // Randomise l'ordre
+        const shuffled = [...questionsList].sort(() => Math.random() - 0.5);
+        
+        setQuestions(shuffled);
         setLoading(false);
       } catch (error) {
         console.error('Erreur chargement questions:', error);
@@ -218,6 +225,26 @@ export function TrainingMode() {
 
   // Session en cours
   const currentQuestion = sessionQuestions[currentIndex];
+  
+  // Vérifie que la question existe
+  if (!currentQuestion) {
+    return (
+      <div className="container mx-auto px-4 py-8 max-w-4xl">
+        <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-lg">
+          <h3 className="text-xl font-semibold text-red-900 mb-2">Erreur</h3>
+          <p className="text-red-700">
+            Aucune question disponible pour ce module.
+          </p>
+          <button
+            onClick={() => setSessionActive(false)}
+            className="mt-4 px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700"
+          >
+            Retour
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="container mx-auto px-4 py-8 max-w-4xl">
@@ -247,11 +274,13 @@ export function TrainingMode() {
       {/* Question */}
       <QuestionCard
         question={currentQuestion}
-        showExplanation={true}
+        showExplanation={false}
         showFeedback={true}
         onAnswer={handleAnswer}
         onFeedback={addFeedback}
-        onViewCourse={handleViewCourse}
+        onViewCourse={(pdf, page) => {
+          window.open(`/pdf-viewer?pdf=${pdf}&page=${page}`, '_blank');
+        }}
       />
 
       {/* Navigation */}
