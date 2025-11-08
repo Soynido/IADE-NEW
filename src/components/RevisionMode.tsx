@@ -33,8 +33,11 @@ export function RevisionMode() {
         const response = await fetch('/data/questions/revision.json');
         const data = await response.json();
         
+        // Gère les deux formats possibles (array ou object avec questions)
+        const questionsList = Array.isArray(data) ? data : (data.questions || data);
+        
         // Randomise l'ordre des questions
-        const shuffled = [...data].sort(() => Math.random() - 0.5);
+        const shuffled = [...questionsList].sort(() => Math.random() - 0.5);
         
         setQuestions(shuffled);
         setFilteredQuestions(shuffled);
@@ -149,8 +152,32 @@ export function RevisionMode() {
     );
   }
 
+  // Vérifie qu'il y a des questions
+  if (filteredQuestions.length === 0) {
+    return (
+      <div className="container mx-auto px-4 py-8 max-w-4xl">
+        <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-lg">
+          <h3 className="text-xl font-semibold text-yellow-900 mb-2">⚠️ Aucune question</h3>
+          <p className="text-yellow-700 mb-4">
+            Aucune question disponible pour le filtre sélectionné.
+          </p>
+          <p className="text-sm text-gray-600">
+            Total questions chargées : {questions.length}<br/>
+            Module sélectionné : {selectedModule}
+          </p>
+          <button
+            onClick={() => setSelectedModule('all')}
+            className="mt-4 px-4 py-2 bg-yellow-600 text-white rounded hover:bg-yellow-700"
+          >
+            Afficher tous les modules
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   const currentQuestion = filteredQuestions[currentIndex];
-  const isMarkedToReview = toReview.has(currentQuestion.id || currentQuestion.chunk_id);
+  const isMarkedToReview = toReview.has(currentQuestion?.id || currentQuestion?.chunk_id || '');
 
   return (
     <div className="container mx-auto px-3 md:px-4 py-4 md:py-8 max-w-4xl pb-20 md:pb-8">
