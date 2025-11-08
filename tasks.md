@@ -1749,23 +1749,56 @@ gh release create v1.1 \
 
 ---
 
+## [116] ✅ DONE Alignement sémantique automatique
+
+**Description** : recalculer automatiquement le meilleur PDF et la page la plus pertinente pour chaque question via similarité sémantique (SentenceTransformers)
+
+**Dépendances** : [115] Validation CTA
+
+**Fichiers concernés** :
+- `scripts/refinement/align_cta_semantic.py`
+- `src/data/questions/compiled_refined_aligned.json`
+- `reports/cta_alignment_report.json`
+
+**Critères de validation** :
+- ✅ 3 PDF extraits et encodés (141 pages total)
+- ✅ 165 QCM alignés sémantiquement
+- ✅ Score moyen d'alignement ≥ 0.5
+- ✅ 100% confiance ≥ 0.3
+
+**Estimation** : 5-10 min (temps encodage)
+
+**Résultats** :
+- Score moyen : 0.546
+- Changements : 146/165 (88.5%)
+- Haute confiance (≥0.5) : 105 QCM (63.6%)
+- Moyenne confiance (0.3-0.5) : 60 QCM (36.4%)
+- Faible confiance (<0.3) : 0 QCM (0.0%)
+- Distribution : 63% Cours / 19% Annales V2 / 18% Annales V1
+
+**Durée réelle** : 77 secondes
+
+**Statut** : ✅ DONE
+
+---
+
 ## Résumé Phase 11
 
-**Objectif** : audit qualité externe, validation CTA et expansion du corpus vers v2
+**Objectif** : audit qualité externe, validation CTA, alignement sémantique et expansion du corpus vers v2
 
-**Tâches** : 4 (112-115)
+**Tâches** : 5 (112-116)
 
 **Durée estimée** : ~6-8h
 
 **Statut** :
-- ✅ DONE : 1 tâche (115)
+- ✅ DONE : 2 tâches (115, 116)
 - 🕒 TODO : 3 tâches (112-114)
 
 ---
 
 ## Conclusion
 
-Ce document **tasks.md** liste les **115 tâches actionnables** pour livrer IADE NEW de v1.0 à v2.0.
+Ce document **tasks.md** liste les **116 tâches actionnables** pour livrer IADE NEW de v1.0 à v2.0.
 
 **Chaque tâche est atomique, testable et mesurable.**
 
@@ -1787,8 +1820,8 @@ Ce document **tasks.md** liste les **115 tâches actionnables** pour livrer IADE
 | **Phase 9** | 13 | 13 | 0 | 0 | ✅ **100%** |
 | **Phase 10** | 5 | 4 | 0 | 2 | 🟡 **80%** |
 | **Phase 10+** | 5 | 5 | 0 | 0 | ✅ **100%** |
-| **Phase 11** | 4 | 1 | 0 | 3 | 🟡 **25%** |
-| **TOTAL** | **115** | **112** | **0** | **3** | **97%** |
+| **Phase 11** | 5 | 2 | 0 | 3 | 🟡 **40%** |
+| **TOTAL** | **116** | **113** | **0** | **3** | **97%** |
 
 ### Étapes Récemment Complétées
 
@@ -1797,12 +1830,14 @@ Ce document **tasks.md** liste les **115 tâches actionnables** pour livrer IADE
 3. ✅ **[109]** Validation examens blancs
 4. ✅ **[110]** Génération notes de release
 5. ✅ **[111]** Publication GitHub v1.1
-6. ✅ **[115]** Validation liens CTA
+6. ✅ **[115]** Validation liens CTA (100%)
+7. ✅ **[116]** Alignement sémantique (146 QCM relocalisés)
 
 ### Déploiement & Services
 
-7. ✅ **Vercel** : Application déployée sur production
-8. ✅ **Redis** : Système de feedback Upstash configuré
+8. ✅ **Vercel** : Application déployée sur production
+9. ✅ **Redis** : Système de feedback Upstash configuré
+10. ✅ **Alignement** : Corpus optimisé sémantiquement
 
 ### Roadmap Post-v1.1
 

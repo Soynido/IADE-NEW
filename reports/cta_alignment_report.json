@@ -1,0 +1,14 @@
+{
+  "total_questions": 165,
+  "changes": 146,
+  "improvements": 146,
+  "avg_score": 0.546,
+  "high_confidence": 105,
+  "medium_confidence": 60,
+  "low_confidence": 0,
+  "pdf_distribution": {
+    "Prepaconcoursiade-Complet.pdf": 104,
+    "annalescorrigées-Volume-2.pdf": 32,
+    "annalescorrigées-Volume-1.pdf": 29
+  }
+}

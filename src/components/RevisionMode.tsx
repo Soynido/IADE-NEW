@@ -77,12 +77,12 @@ export function RevisionMode() {
   const handleViewCourse = (sourcePdf?: string, page?: number) => {
     if (!sourcePdf || !page) return;
     
-    // Nettoie le nom du PDF
-    const pdfName = sourcePdf.replace('.pdf', '');
-    const pdfUrl = `/pdfs/${pdfName}.pdf#page=${page}`;
+    // Utilise le viewer intégré pour compatibilité mobile
+    const pdfFile = sourcePdf.includes('.pdf') ? sourcePdf : `${sourcePdf}.pdf`;
+    const viewerUrl = `/pdf-viewer?pdf=${pdfFile}&page=${page}`;
     
     // Ouvre dans un nouvel onglet
-    window.open(pdfUrl, '_blank');
+    window.open(viewerUrl, '_blank');
   };
 
   const handleMarkToReview = () => {
