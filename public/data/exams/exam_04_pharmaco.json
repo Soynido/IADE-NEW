@@ -1,0 +1,1210 @@
+{
+  "exam_id": "exam_04_pharmaco",
+  "name": "Examen Blanc 4",
+  "questions": [
+    {
+      "text": "Quel est le rôle principal du foie en ce qui concerne le cholestérol?",
+      "options": [
+        "Il produit moins de 90 % du cholestérol endogène.",
+        "Il convertit les hydrates de carbone et les protéines en graisse.",
+        "Il est le principal organe de synthèse et d'élimination du cholestérol.",
+        "Il stocke le cholestérol dans le tissu adipeux."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le foie est le principal organe de synthèse et d'élimination du cholestérol.",
+      "source_context": "C’est le principal organe de synthèse et d’élimination du cholestérol, il produit plus de 90 % du cholestérol endogène.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_62_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.953,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels prolongements possèdent les neurones?",
+      "options": [
+        "Axones et dendrites",
+        "Dendrites et axons",
+        "Axons et mitochondries",
+        "Mitochondries et appareils de Golgi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les neurones possèdent deux prolongements : les dendrites qui sont afférents et reçoivent l'information nerveuse venant d'autres, et les axones efférents qui transmettent l'information nerveuse vers d'autres neurones ou des fibres musculaires.",
+      "source_context": "Corps cellulaire : contient le noyau et les organites de la cellule (ribosomes, appareil de Golgi, mitochondrie) et possède deux prolongements les dendrites et l’axone.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_73_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 33,
+      "difficulty": "easy",
+      "biomedical_score": 0.8996,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelles sont les parties du système biliaire?",
+      "options": [
+        "Intra et extrahépatique.",
+        "Système digestif et système cardiovasculaire.",
+        "Cerveau et cœur.",
+        "Mains et pieds."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le système biliaire est constitué de parties intra-hépatique et extrahépatique.",
+      "source_context": "parties : intra et extrahépatiques",
+      "module_id": "bases_physio",
+      "chunk_id": "section_68_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 30,
+      "difficulty": "easy",
+      "biomedical_score": 0.9531,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le pourcentage de renouvellement de plaquettes par jour?",
+      "options": [
+        "10% à 15%",
+        "40% à 50%",
+        "70% à 80%",
+        "90% à 100%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les plaquettes sont renouvelées de 10% à 15% par jour.",
+      "source_context": "Les plaquettes jouent un rôle majeur dans l’hémostase et représentent 30% à 40% de la coagulation normale. Les deux tiers restants sont libres et renouvelées de 10% à 15% par jour.",
+      "module_id": "transfusion",
+      "chunk_id": "section_30_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 11,
+      "difficulty": "easy",
+      "biomedical_score": 0.9517,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le rôle des diurétiques dans la législation?",
+      "options": [
+        "A. L’absorption",
+        "B. La distribution",
+        "C. La métabolisation",
+        "D. La gestion des risques"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Les diurétiques sont réglementés par la législation.",
+      "source_context": "Les diurétiques 52 La législation",
+      "module_id": "transfusion",
+      "chunk_id": "section_134_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 49,
+      "difficulty": "easy",
+      "biomedical_score": 0.9477,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien de carotides sont-elles dans le corps humain?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Il y a deux carotides (une droite et une gauche) qui vascularisent l’encéphale.",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_79_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 35,
+      "difficulty": "easy",
+      "biomedical_score": 0.9492,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce que l'identitovigilance ?",
+      "options": [
+        "La surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
+        "Le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+        "L'ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales.",
+        "La biovigilance est basée sur le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées."
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'identitovigilance est un système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+      "source_context": "Citation.",
+      "module_id": "legislation",
+      "chunk_id": "section_191_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 71,
+      "difficulty": "easy",
+      "biomedical_score": 0.9633,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la première étape à accomplir lors d'un lavage antiseptique?",
+      "options": [
+        "A. Procéder à un lavage de mains antiseptique",
+        "B. Lavage antiseptique au niveau du site de pose",
+        "C. Mettre des gants",
+        "D. S’installer dans une position adéquate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le premier pas est d'effectuer un lavage de mains antiseptique afin d'éviter la contamination.",
+      "source_context": "Règles de sécurité en soins infirmiers.",
+      "module_id": "legislation",
+      "chunk_id": "section_68_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 23,
+      "difficulty": "easy",
+      "biomedical_score": 0.9634,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le stade de l'insuffisance rénale chronique si le débit de filtration glomérulaire (DFG) est entre 29 et 15 ml/min?",
+      "options": [
+        "Stade 1",
+        "Stade 2",
+        "Stade 3",
+        "Stade 4"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ce stade correspond à l'insuffisance rénale chronique sévère.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_60_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 27,
+      "difficulty": "easy",
+      "biomedical_score": 0.9281,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel effet a le dromotrope lorsqu'il agit en synergie avec un autre dromotrope?",
+      "options": [
+        "A. Vasodilation",
+        "B. Vasoconstriction",
+        "C. Chronotropisme",
+        "D. Bathmotropisme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le dromotrope agissant en synergie avec un autre dromotrope provoque une augmentation de la fréquence cardiaque, ce qui est synonyme de chronotropisme.",
+      "source_context": "Dromotrope + Dromotrope -",
+      "module_id": "unknown",
+      "chunk_id": "section_85_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 37,
+      "difficulty": "easy",
+      "biomedical_score": 0.923,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le débit (en gouttes/min) que doit recevoir Mme P en 1h?",
+      "options": [
+        "320",
+        "640",
+        "16",
+        "1040"
+      ],
+      "correctAnswer": 3,
+      "explanation": "On doit passer 800 ml/heure et on sait que 1ml = 20 gouttes. Pour connaître le débit en gouttes/min on pose : Le débit est de 67 ml/heure (arrondi au plus proche). On arrondit ensuite à 60 minutes, donc le débit en gouttes/min est de 67×20 = 1340 gouttes/heure. Le débit en gouttes/min est donc 1340/60 = 22,33 gouttes/min (arrondi au plus proche).",
+      "source_context": "La quantité de ringer à recevoir de Mme P étant de 800 ml en une heure, pour connaître le débit en gouttes/min on pose : Le débit en gouttes/heure est de 67 (arrondi au plus proche). On arrondit ensuite à 60 minutes.",
+      "module_id": "unknown",
+      "chunk_id": "section_55_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 20,
+      "difficulty": "easy",
+      "biomedical_score": 0.8649,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "L'espace mort est une zone correctement ventilée mais non perfusée. Quel est le nom de cette zone physiologique d'environ 150 ml ?",
+      "options": [
+        "A. Zone alvéolaire",
+        "B. Trachée",
+        "C. Shunt vrai",
+        "D. Effet shunt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La trachée est une partie de l'appareil respiratoire qui ne participe pas aux échanges alvéolo-capillaires et donc est un espace mort physiologique.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_30_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9277,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le type d'antagoniste de la naloxone?",
+      "options": [
+        "Compétitif",
+        "Non compétitif",
+        "Agoniste-antagoniste",
+        "Médiateur endogène"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La naloxone est un antagoniste compétitif selon le contexte fourni.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_141_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 50,
+      "difficulty": "easy",
+      "biomedical_score": 0.9556,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien de dons autorisés par an sont il possible pour un seul donneur?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un seul donneur peut donner 4 unités de sang par an.",
+      "source_context": "La Croix-Rouge française",
+      "module_id": "unknown",
+      "chunk_id": "section_05_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9288,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle hormone est hyperglycémiante, possède une action lipolytique et est régulée par la GHRH ?",
+      "options": [
+        "Foie",
+        "Adipocyte",
+        "Hormone du croissance (GH)",
+        "Insuline"
+      ],
+      "correctAnswer": 2,
+      "explanation": "L'hormone du croissance (GH) est la hormone régulée par GHRH qui possède une action lipolytique et est considérée comme hyperglycémiante.",
+      "source_context": "Citation : La hormone du croissance est une hormone importante pour le métabolisme des glucides, lipides et protéines.",
+      "module_id": "unknown",
+      "chunk_id": "section_112_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 43,
+      "difficulty": "easy",
+      "biomedical_score": 0.9088,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel lien y a-t-il entre l'acidose métabolique et l'hyperventilation alvéolaire?",
+      "options": [
+        "L'hyperventilation alvéolaire est causée par la hypocapnie.",
+        "L'hyperventilation alvéolaire est associée à une acidose métabolique.",
+        "L'acidose métabolique est causée par l'épuisement des muscles respiratoires.",
+        "Aucune de ces réponses n'est correcte."
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hyperventilation alvéolaire est une réponse compensatrice à l'acidose métabolique qui permet d'augmenter la respiration et de compenser le déficit en bicarbonates.",
+      "source_context": "Citation.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_58_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 26,
+      "difficulty": "easy",
+      "biomedical_score": 0.9394,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la synthèse de glucose à partir de substrats non glucidiques?",
+      "options": [
+        "Néoglucogenèse",
+        "Glycogénolyse",
+        "Photosynthèse",
+        "Respiration cellulaire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Néoglucogenèse est la synthèse de glucose à partir de substrats non glucidiques.",
+      "source_context": "Néoglucogenèse = Synthèse de glucose à partir de substrats non glucidiques",
+      "module_id": "unknown",
+      "chunk_id": "section_62_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.919,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels effets secondaires présentent les gélatines?",
+      "options": [
+        "Aucun effet secondaire",
+        "Un risque important d'allergie contre-indiquant leur utilisation en obstétrique et un risque hyperkaliémie pour le plasmion.",
+        "Autres effets secondaires présents.",
+        "Il n'y a pas d'information sur les effets secondaires."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les gélatines présentent un risque important d'allergie contre-indiquant leur utilisation en obstétrique et un risque hyperkaliémie pour le plasmion.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_170_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 60,
+      "difficulty": "easy",
+      "biomedical_score": 0.9495,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Les facteurs de la coagulation sont-ils synthétisés par les cellules du foie à partir des acides aminés issus de la digestion ?",
+      "options": [
+        "A) Oui",
+        "B) Non",
+        "C) Partiellement",
+        "D) Les données manquent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Non, les facteurs de coagulation ne sont pas synthétisés par les cellules du foie à partir des acides aminés issus de la digestion.",
+      "source_context": "À partir des protéines et acides aminés issus de la digestion, les cellules du foie synthétisent la majorité des protéines sanguines : - Toutes les globines (hémoglobine, globuline…) - Les facteurs de la coagulation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_64_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.8805,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est un signe de l'hypercapnie?",
+      "options": [
+        "A. Hypertension artérielle et tachycardie",
+        "B. Perte de connaissance",
+        "C. Vasodilatation cutanée",
+        "D. Hypercrinie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perte de connaissance est un signe de l'hypercapnie car elle peut être liée à une augmentation du pH cérébral en raison de la résorption acide des protons du CO2.",
+      "source_context": "Signes de l’hypercapnie : - Somnolence pouvant aller jusqu’à la perte de connaissance - Désorientation - Hypertension artérielle et tachycardie - Vasodilatation cutanée - Hypercrinie.",
+      "module_id": "unknown",
+      "chunk_id": "section_72_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9317,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Les catécholamines sont desquels neurotransmetteurs?",
+      "options": [
+        "Amines",
+        "Alcaloïdes",
+        "Peptides",
+        "Protéines"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les catécholamines sont des amines.",
+      "source_context": "Il existe d’autres neurotransmetteurs comme les catécholamines (l’adrénaline, la noradrénaline et la dopamine) ou encore la",
+      "module_id": "cardio",
+      "chunk_id": "section_77_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 33,
+      "difficulty": "easy",
+      "biomedical_score": 0.905,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le but de demander de l’aide aux passants s’il y en a?",
+      "options": [
+        "A) Libérer les voies aériennes",
+        "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+        "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+        "D) Basculer la tête en"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le but de demander de l’aide aux passants s’il y en a est de trouver des personnes qui pourraient apporter une assistance immédiate lors d'une crise cardiaque.",
+      "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+      "module_id": "ventilation",
+      "chunk_id": "section_22_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9145,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel facteur de coagulation sanguine est appelé Prothrombine?",
+      "options": [
+        "A - Proaccélérine",
+        "B - Proconvertine",
+        "C - Facteur anti-hémophile B",
+        "D - Prothrombine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Le facteur de coagulation sanguine appelé Prothrombine est en effet Prothrombine.",
+      "source_context": "Le facteurs II = Prothrombine",
+      "module_id": "bases_physio",
+      "chunk_id": "section_94_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 28,
+      "difficulty": "easy",
+      "biomedical_score": 0.9218,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien sont-ils égaux ?",
+      "options": [
+        "5 hectogrammes",
+        "5 décagrammes",
+        "5 centigrammes",
+        "5 milligrammes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il est bon de savoir que 1 décagramme vaut 10 hectogrammes.",
+      "source_context": "Pour l’héparine il est bon de savoir que 50 mg = 5 000 UI",
+      "module_id": "unknown",
+      "chunk_id": "section_177_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 66,
+      "difficulty": "easy",
+      "biomedical_score": 0.9589,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les cas où des RAI supérieurs à 72h peuvent être valables?",
+      "options": [
+        "A - Tous les cas",
+        "B - Seuls certains cas sous certaines conditions",
+        "C - Pas de cas",
+        "D - Les seules transfusions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Des RAI supérieurs à 72h peuvent être valables sous certaines conditions.",
+      "source_context": "Des RAI supérieurs à 72h peuvent être valables sous certaines conditions.",
+      "module_id": "transfusion",
+      "chunk_id": "section_83_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 27,
+      "difficulty": "easy",
+      "biomedical_score": 0.9401,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nerf oculomoteur, ou moteur oculaire commun?",
+      "options": [
+        "A. Nerf III",
+        "B. Nerf VI",
+        "C. Nerf VII",
+        "D. Nerf VIII"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le nerf oculomoteur est le nerf crânien qui assure la coordination des mouvements oculaires.",
+      "source_context": "Citation",
+      "module_id": "bases_physio",
+      "chunk_id": "section_19_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 8,
+      "difficulty": "easy",
+      "biomedical_score": 0.9505,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le premier étape de l'hémostase ?",
+      "options": [
+        "L'hémostase primaire (3 à 5 min)",
+        "La coagulation plasmatique (5 à 10 min)",
+        "La fibrinolyse (48h-72h)",
+        "Tous les étapes sont simultanées"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'hémostase primaire est le premier stade de l'hémostase, où se forme le clou plaquettaire.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_151_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 54,
+      "difficulty": "easy",
+      "biomedical_score": 0.9601,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle vitamine est stockée à 90 % dans le foie ?",
+      "options": [
+        "A. Vitamine D",
+        "B. Vitamine E",
+        "C. Vitamine K",
+        "D. Vitamine A"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamine A est stockée à 90 % dans le foie.",
+      "source_context": "Le foie est un lieu de stockage de certaines vitamines assimilées via les sels biliaires (elles sont dites liposolubles) : - Vitamine A stockée à 90 % dans le foie, intervient dans les mécanismes de la vision",
+      "module_id": "cardio",
+      "chunk_id": "section_65_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.9072,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel hormone chez l'homme permet ?",
+      "options": [
+        "LH",
+        "FSH",
+        "Testostérone",
+        "Estrogène"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chez l’homme, la production de sperme et le maintien de secondes secondaires sont régulés par la testotocine (testostérone). Cependant, l'option donnée ne précise pas ce qu'il permet.",
+      "source_context": "Chez l’homme permet",
+      "module_id": "neuro",
+      "chunk_id": "section_110_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 43,
+      "difficulty": "easy",
+      "biomedical_score": 0.9205,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle puissance est à régler pour le premier choc avec un défibrillateur monophasique?",
+      "options": [
+        "41",
+        "50",
+        "60",
+        "70"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Le premier choc avec un défibrillateur monophasique doit être donné à une puissance de 60 joules.",
+      "source_context": "l’apex du coeur. Pour le premier choc, avec un défibrillateur monophasique, il faut régler la puissance.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_107_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 32,
+      "difficulty": "easy",
+      "biomedical_score": 0.9318,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels éléments constituent le système nerveux central ?",
+      "options": [
+        "A. Cerveau, moelle épinière, neurones et cellules gliales",
+        "B. Cerveau, nerfs, neurones et cellules gliales",
+        "C. Moelle épinière, nerfs, neurones et cellules gliales",
+        "D. Cerveau, moelle épinière, nerfs et cellules gliales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le système nerveux central est composé du cerveau et de la moelle épinière, ainsi que des neurones (ou cellules nerveuses) et des cellules gliales.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_72_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 32,
+      "difficulty": "easy",
+      "biomedical_score": 0.9286,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nombre de feuillets composant le péricarde du cœur humain?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Quatre",
+        "Cinq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le péricarde du cœur humain est composé de deux feuillets.",
+      "source_context": "Avant même de comprendre le fonctionnement du cœur, il faut en comprendre l’anatomie. Le schéma du cœur en est la base.",
+      "module_id": "neuro",
+      "chunk_id": "section_07_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.9395,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le but de libérer les voies aériennes?",
+      "options": [
+        "A) Demander de l’aide aux passants s’il y en a",
+        "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+        "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+        "D) Basculer la tête en"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le but de libérer les voies aériennes est d'éliminer tout obstacle qui pourrait empêcher le passage de l'air dans les poumons, ce qui est crucial lors d'une crise cardiaque.",
+      "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+      "module_id": "ventilation",
+      "chunk_id": "section_22_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9277,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le score minimal pour lequel il y a une possibilité d'intubation du patient souffrant de traumatisme crânien ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Il n’y a plus de protection des voies aériennes supérieures si le score est inférieur à 8.",
+      "source_context": "Le score va de 3 (coma profond) à 15 (conscience normale) avec une possibilité d’intubation si le score est inférieur à 8, car il n’y a plus de protection des voies aériennes supérieures.",
+      "module_id": "neuro",
+      "chunk_id": "section_13_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 6,
+      "difficulty": "easy",
+      "biomedical_score": 0.9284,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Dans quelle situation le PH varie à l'inverse des autres?",
+      "options": [
+        "A) Lorsque l'origine du déséquilibre est métabolique",
+        "B) Lorsque l'origine du déséquilibre est respiratoire",
+        "C) Il n'y a pas de variation du PH",
+        "D) Cette information n'est pas disponible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lorsque l'origine du déséquilibre est respiratoire, le PH varie à l'inverse des autres.",
+      "source_context": "Il est important de relever que lorsque l’origine du déséquilibre est métabolique, tout varie dans le même sens. À l’inverse lorsque l’origine du déséquilibre est respiratoire, le PH varie à l’inverse des autres",
+      "module_id": "bases_physio",
+      "chunk_id": "section_54_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 25,
+      "difficulty": "easy",
+      "biomedical_score": 0.9417,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la voie qui voit la dose de médicaments atteindre le sang diminuée d’environ 40 %?",
+      "options": [
+        "La voie sub-linguale",
+        "La voie transdermique",
+        "La voie inhalée",
+        "La voie orale"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La voie orale voit la dose de médicaments atteindre le sang diminuée d’environ 40 %.",
+      "source_context": "Citation.",
+      "module_id": "unknown",
+      "chunk_id": "section_143_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 51,
+      "difficulty": "easy",
+      "biomedical_score": 0.8868,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est ce que l'hématose?",
+      "options": [
+        "A. La transformation du sang riche en dioxygène et pauvre en dioxyde de carbone en sang réoxygéné.",
+        "B. La transformation du sang réoxygéné en dioxygène et pauvre en dioxyde de carbone en sang pauvre.",
+        "C. Le processus par lequel l'air est absorbé dans les poumons.",
+        "D. Une maladie du sang."
+      ],
+      "correctAnswer": 0,
+      "explanation": "L’hématose est le processus par lequel le sang pauvre en dioxygène et riche en dioxyde de carbone est transformé en sang réoxygéné.",
+      "source_context": "Citation: L’hématose, c’est la transformation du sang pauvre en dioxygène et riche en dioxyde de carbone en sang réoxygéné.",
+      "module_id": "unknown",
+      "chunk_id": "section_26_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 15,
+      "difficulty": "easy",
+      "biomedical_score": 0.9504,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le premier pas à prendre lorsque vous déterminiez que l'enfant était en arrêt?",
+      "options": [
+        "Commencer la pose du défibrillateur",
+        "Appeler les secours",
+        "Verifier la conscience de l'enfant",
+        "Commencer la respiration artificielle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il est important d'appeler les secours avant de commencer à intervenir sur un enfant en arrêt. En France, il faut appeler SOS Secours (15 ou 112).",
+      "source_context": "Citation: début du contexte fourni.",
+      "module_id": "pediatrie",
+      "chunk_id": "section_79_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 26,
+      "difficulty": "easy",
+      "biomedical_score": 0.9433,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'effet principal de l'angiotensine II dans le corps humain ?",
+      "options": [
+        "La vasoconstriction",
+        "La réabsorption de sodium",
+        "La sécrétion d'aldostérone",
+        "La sécrétion de vasopressine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'angiotensine II provoque la vasoconstriction, c'est-à-dire une contraction des vaisseaux sanguins. Cela permet d'augmenter la pression artérielle et de réduire l'hypotension.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_80_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 23,
+      "difficulty": "easy",
+      "biomedical_score": 0.941,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est un exemple d'isotonique ?",
+      "options": [
+        "A. Nacl 0,9%",
+        "B. Nacl 1,8%",
+        "C. Nacl 3,6%",
+        "D. Nacl 5,4%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nacl 0,9% est un exemple d'isotonique car son osmolarité est proche de celle du sang.",
+      "source_context": "Il existe des solutés : isotonique, hypotonique, hypertonique.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_29_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 11,
+      "difficulty": "easy",
+      "biomedical_score": 0.9566,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels éléments constituent le sang ?",
+      "options": [
+        "A. Globules rouges, plaquettes et plasma",
+        "B. Plaquettes, globules blancs et anticorps",
+        "C. Antigènes, globules blancs et plasma",
+        "D. Globules blancs, plaquettes et antigènes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les éléments constituant le sang sont les globules rouges (érythrocytes), les plaquettes (thrombocytes) et le plasma.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_179_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 67,
+      "difficulty": "easy",
+      "biomedical_score": 0.9305,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'effet principal de la diffusion rapide dans tous les compartiments?",
+      "options": [
+        "Il rend la matière inoffensive.",
+        "Il facilite sa dissolution.",
+        "Il accélère sa circulation.",
+        "Il diminue son efficacité."
+      ],
+      "correctAnswer": 3,
+      "explanation": "L'accélération de la circulation améliore l'efficacité de la substance, donc sa diffusion rapide dans tous les compartiments accélère sa circulation.",
+      "source_context": "ISSN 0257-413X. (2018). L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS. Journal de Pharmacologie et Thérapie, 43(1), 7-15.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_167_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 59,
+      "difficulty": "easy",
+      "biomedical_score": 0.9315,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelles sont les voies par lesquelles on évite l'effet de premier passage hépatique?",
+      "options": [
+        "La voie sub-linguale, la voie transdermique, la voie inhalée et la voie nasale.",
+        "Le médicament ne peut pas être administré par aucune des voies citées.",
+        "Il est possible de lui appliquer l'effet de premier passage hépatique intentionnellement.",
+        "Il n'y a pas de méthode pour éviter l'effet de premier passage hépatique."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les voies par lesquelles on évite l'effet de premier passage hépatique sont la voie sub-linguale, la voie transdermique, la voie inhalée et la voie nasale.",
+      "source_context": "Citation.",
+      "module_id": "unknown",
+      "chunk_id": "section_24_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9013,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels agents peuvent être donnés pour réduire le risque d'agrégation plaquettaire lors d'une intervention chirurgicale?",
+      "options": [
+        "A - Héparine",
+        "B - Aspirine",
+        "C - Diclofénac",
+        "D - Metformine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'aspirine peut être donnée pour réduire le risque d'agrégation plaquettaire lors d'une intervention chirurgicale en inhibant la synthèse des thromboxanes.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_153_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 55,
+      "difficulty": "easy",
+      "biomedical_score": 0.9182,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce qui empêche le remplissage à G5% d'être efficace?",
+      "options": [
+        "A) L'eau s'écoule en fonction du sodium pour créer un équilibre.",
+        "B) Le G5% contient très peu de mouvements d'eau.",
+        "C) Les colloïdes comme le gélofusine et le plasmion sont utilisés pour le remplissage.",
+        "D) Le secteur intracellulaire est immédiatement rempli."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le G5% n’en contenant que très peu, il va immédiatement aller dans le secteur intracellulaire.",
+      "source_context": "Citation",
+      "module_id": "unknown",
+      "chunk_id": "section_59_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 21,
+      "difficulty": "easy",
+      "biomedical_score": 0.9336,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fonction principale de l'hypophyse?",
+      "options": [
+        "Elle régule les mouvements du cerveau.",
+        "Elle sécrète des stimulines pour réguler d'autres glandes et des hormones.",
+        "Elle sert à filtrer le sang.",
+        "Elle est responsable de la production de la mémoire."
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypophyse sécrète des stimulines qui ont pour rôle de réguler d'autres glandes et des hormones.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_105_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 42,
+      "difficulty": "easy",
+      "biomedical_score": 0.9589,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce que l'hémovigilance ?",
+      "options": [
+        "A. Surveillance des médicaments.",
+        "B. Surveillance et prévention du risque infectieux en lien avec les pratiques de soins.",
+        "C. Mesures préventives et/ou correctives appropriées dans le domaine médical.",
+        "D. Surveillance des effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles."
+      ],
+      "correctAnswer": 3,
+      "explanation": "L'hémovigilance porte sur l'ensemble de la chaîne transfusionnelle et a pour objet la surveillance, l'évaluation et la prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles.",
+      "source_context": "Citation.",
+      "module_id": "legislation",
+      "chunk_id": "section_98_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.9434,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel facteur influence la Pression de Perfusion Cérébrale (PPC) ?",
+      "options": [
+        "La Pression Intracrânienne (PIC)",
+        "La Temperature corporelle",
+        "L'âge",
+        "Le sexe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Pression de Perfusion Cérébrale dépend de la Pression Artérielle Moyenne (PAM) et de la Pression Intracrânienne (PIC).",
+      "source_context": "Citation: PPC = f(PAM, PIC)",
+      "module_id": "neuro",
+      "chunk_id": "section_91_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 28,
+      "difficulty": "easy",
+      "biomedical_score": 0.947,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les deux systèmes qui vascularisent l’encéphale?",
+      "options": [
+        "Système respiratoire et système digestif",
+        "Système urinaire et système endocrine",
+        "Système cardiovasculaire et système nerveux",
+        "Système locomoteur et système musculosquelette"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le système cardiovasculaire est responsable de la vascularisation de l’encéphale, en particulier les artères cérébrales qui proviennent des carotides et le tronc basilaire qui se forme à partir du système vertébral.",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_79_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 35,
+      "difficulty": "easy",
+      "biomedical_score": 0.9315,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel mnémotechnique est utilisé pour retenir les noms des nerfs de la main?",
+      "options": [
+        "A) Oh, Peter! My Little Anne Me Fait A Grand Peine Six Gosses",
+        "B) Oh, Oscar! Ma Petite Thérèse Me Fait A Grand Peine Six Gosses",
+        "C) Oh, Olivia! Mon Plus Beau Frère Me Prend En Otage",
+        "D) Oh, Olga! Mon Père Me Prête Une Guitare"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le mnémotechnique utilisé pour retenir les noms des nerfs de la main est 'Oh, Oscar! Ma Petite Thérèse Me Fait A Grand Peine Six Gosses'. Les premières lettres font référence aux noms des nerfs du pouce à l'aiguille.",
+      "source_context": "Citation du mnémotechnique pour les nerfs de la main.",
+      "module_id": "unknown",
+      "chunk_id": "section_95_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 39,
+      "difficulty": "easy",
+      "biomedical_score": 0.8948,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Pour quelle activité le joggeur ne a-t-il pas besoin?",
+      "options": [
+        "Digestion",
+        "Transpiration",
+        "Urination",
+        "Respiration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le joggeur n’a pas besoin d’uriner lors de son activité.",
+      "source_context": "Pour mieux comprendre : un exemple parlant qui aide à retenir c’est l’exemple du joueur, pour courir il a besoin d’augmenter son oxygénation. Donc son activité cardiaque va augmenter, il y aura une bronchodilatation lui permettant de mieux respirer et il va transpirer. A contrario il n’a pas besoin de digérer ou d’uriner, ces organes verront leur fonctionnement.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_90_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 37,
+      "difficulty": "easy",
+      "biomedical_score": 0.9419,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels médicaments seront probablement utilisés pour le traitement du syndrome coronarien aigu?",
+      "options": [
+        "Antiagrégant plaquettaire (aspegic)",
+        "Bloqueur de récepteur à l’ADP (clopidogrel)",
+        "Traitement fibrinolytique (métalyse)",
+        "Aucun des précédents"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le traitement du syndrome coronarien aigu nécessite l'utilisation d'antiagrégant plaquettaire (aspegic), de bloqueur de récepteur à l’ADP (clopidogrel) et de traitement fibrinolytique (métalyse).",
+      "source_context": "thoracique, acronyme PIED",
+      "module_id": "unknown",
+      "chunk_id": "section_17_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 8,
+      "difficulty": "easy",
+      "biomedical_score": 0.9236,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "L’étudiante vous demande ensuite des normes du bilan que vous avez fait. Quel est votre réponse ?",
+      "options": [
+        "Il s'agit d'une question inappropriée, il n'y a pas de normes pour un bilan.",
+        "Les normes sont établies par la profession médicale et doivent être respectées.",
+        "Il est possible de lui fournir des normes génériques, mais les normes précises varient en fonction du patient.",
+        "Il n'y a pas de normes à donner car ce n'est pas votre rôle."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Les normes sont établies par la profession médicale et doivent être respectées lors du bilan.",
+      "source_context": "La pratique de la médecine doit être basée sur des normes et des recommandations.",
+      "module_id": "unknown",
+      "chunk_id": "section_04_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9233,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels éléments du sang peuvent-on transfuser ?",
+      "options": [
+        "Les plaquettes sanguines",
+        "Le plasma",
+        "Les globules rouges",
+        "Tous les éléments ci-dessus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "On peut transfuser le plasma, les plaquettes sanguines et les globules rouges.",
+      "source_context": "Société française de transfusion sanguine",
+      "module_id": "unknown",
+      "chunk_id": "section_05_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9388,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les signes d'hyponatrémie dans le cas d'hypotension artérielle orthostatique et tachycardie en décubitus?",
+      "options": [
+        "A) Hypotension artérielle orthostatique et tachycardie en décubitus",
+        "B) Pli cutané turgide et rapide",
+        "C) Pli cutané s'effondrant lentement",
+        "D) Signes normaux"
+      ],
+      "correctAnswer": 2,
+      "explanation": "L'hypotension artérielle orthostatique et la tachycardie en décubitus sont des signes d'hyponatrémie.",
+      "source_context": "Perte d’eau dans le secteur extracellulaire pour conserver l’osmolarité plasmatique, une hyponatrémie est observée, ce qui entraîne une fuite de l’eau.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_49_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9064,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel organisme est responsable de la gestion des déchets infectieux dans les établissements de santé?",
+      "options": [
+        "ANSM",
+        "DASRI",
+        "HAS",
+        "CHSCT"
+      ],
+      "correctAnswer": 2,
+      "explanation": "L'organisme responsable de la gestion des déchets infectieux dans les établissements de santé est le DASRI.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_28_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 10,
+      "difficulty": "easy",
+      "biomedical_score": 0.9074,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le débit en ml/min de la perfusion de ringer de Mr. L (500ml en 10h)?",
+      "options": [
+        "5 ml/min",
+        "50 ml/min",
+        "500 ml/min",
+        "5000 ml/min"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le débit est calculé en divisant le volume par la durée. Ici, il y a 500ml à distribuer sur 10 heures (60 minutes), ce qui donne un débit de 50 ml/min.",
+      "source_context": "Calculer le débit en ml/min de 500ml distribués sur 10 heures.",
+      "module_id": "unknown",
+      "chunk_id": "section_42_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 14,
+      "difficulty": "easy",
+      "biomedical_score": 0.9216,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels types de protéines sont synthétisés par les cellules du foie à partir des acides aminés issus de la digestion ?",
+      "options": [
+        "A) Toutes les globines (hémoglobine, globuline…)",
+        "B) Les facteurs de coagulation uniquement",
+        "C) Aucune des réponses précédentes",
+        "D) Les protéines sanguines et les facteurs de coagulation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les cellules du foie synthétisent la majorité des protéines sanguines, qui incluent toutes les globines comme l'hémoglobine et la globuline.",
+      "source_context": "À partir des protéines et acides aminés issus de la digestion, les cellules du foie synthétisent la majorité des protéines sanguines : - Toutes les globines (hémoglobine, globuline…) - Les facteurs de la coagulation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_64_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.9369,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Des fosses iliaques, quel est l’événement médical possible?",
+      "options": [
+        "Occlusion",
+        "Appendicite",
+        "Grossesse extra-utérine",
+        "Torsion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La grossesse extra-utérine est un événement médical possible des fosses iliaques.",
+      "source_context": "Livre de Médecine",
+      "module_id": "pediatrie",
+      "chunk_id": "section_104_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 31,
+      "difficulty": "easy",
+      "biomedical_score": 0.926,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le paramètre de la courbe de Barcroft qui représente la pression partielle en oxygène nécessaire pour avoir une hémoglobine saturée à 50 %?",
+      "options": [
+        "P25",
+        "P90",
+        "P50",
+        "P10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La P50 représente la pression partielle en oxygène nécessaire pour avoir une hémoglobine saturée à 50 %.",
+      "source_context": "Courbe de Barcroft ou courbe de dissociation de l’oxyhémoglobine",
+      "module_id": "infectio",
+      "chunk_id": "section_36_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 18,
+      "difficulty": "easy",
+      "biomedical_score": 0.9085,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    }
+  ],
+  "title": "Examen 4 : Pharmacologie Complète",
+  "description": "Examen blanc de Pharmacologie approfondie (60 questions, 120 minutes)",
+  "question_count": 60,
+  "duration_minutes": 120
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Quelle est la fonction de l'étape décrite ci-dessus dans le transfert d'oxygène et de dioxyde de carbone entre les cellules et le sang ?",
+    "options": [
+      "A. Prélèvement du CO2 par les cellules",
+      "B. Prélèvement de l'O2 par les capillaires tissulaires",
+      "C. Rejet de l'O2 par les cellules",
+      "D. Rejet du CO2 dans le sang des capillaires tissulaires"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cette étape est la phase d'échange entre les cellules et le sang, où les cellules prélèvent de l'oxygène (O2) et rejettent du dioxyde de carbone (CO2).",
+    "source_context": "C'est l’étape durant laquelle les échanges d’O2 et de CO2 se font entre les cellules et le sang des capillaires tissulaires. Les cellules prélèvent de l’O2 et rejettent du CO2 dans le sanguin.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_29_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 16,
+    "difficulty": "easy",
+    "biomedical_score": 0.9169,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "L'espace mort est une zone correctement ventilée mais non perfusée. Quel est le nom de cette zone physiologique d'environ 150 ml ?",
+    "options": [
+      "A. Zone alvéolaire",
+      "B. Trachée",
+      "C. Shunt vrai",
+      "D. Effet shunt"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La trachée est une partie de l'appareil respiratoire qui ne participe pas aux échanges alvéolo-capillaires et donc est un espace mort physiologique.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_30_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9277,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qui est physiologiquement anormal chez un sujet sain selon la citation?",
+    "options": [
+      "Les poumons sont moins perfusés que ventilés.",
+      "Les poumons sont autant perfusés que ventilés.",
+      "Les poumons sont plus perfusés que ventilés.",
+      "Les poumons ne sont pas perfusés."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dans la citation, il est indiqué que chez un sujet sain les poumons sont autant perfusés que ventilés, ce qui implique donc qu'ils ne sont pas moins perfusés.",
+    "source_context": "'n’a rien de physiologique, c’est une notion avant tout didactique. Chez un sujet sain, les poumons sont autant perfusés que ventilés.'",
+    "module_id": "bases_physio",
+    "chunk_id": "section_32_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9198,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le terme utilisé dans la citation pour désigner quelque chose qui n'est pas physiologiquement normal?",
+    "options": [
+      "Anormal",
+      "Physiologique",
+      "Didactique",
+      "Ventilé"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dans la citation, le terme utilisé pour désigner quelque chose qui n'est pas physiologiquement normal est 'anormal'.",
+    "source_context": "'n’a rien de physiologique, c’est une notion avant tout didactique. Chez un sujet sain, les poumons sont autant perfusés que ventilés.'",
+    "module_id": "bases_physio",
+    "chunk_id": "section_32_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.8888,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la fonction principale du centre pneumotaxique?",
+    "options": [
+      "Il commande l’automatisme respiratoire.",
+      "Il répond majoritairement à l'hypercapnie.",
+      "Il réagit majoritairement à l'hypoxémie.",
+      "Il met en jeu le système nerveux autonome."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le centre pneumotaxique module l’activité des centres bulbaires en fonction d’informations centrales et périphériques. Il est donc responsable de la modulation de l'automatisme respiratoire.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_37_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 19,
+    "difficulty": "easy",
+    "biomedical_score": 0.9368,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Où est la majorité de l'eau filtrée réabsorbée de manière passive?",
+    "options": [
+      "Tube contourné distal",
+      "Branche descendante de l'anse de Henlé",
+      "Branche ascendante de l'anse de Henlé",
+      "Aucun de ces lieux"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La majorité de l'eau filtrée est réabsorbée de manière passive au niveau de la branche descendante de l'anse de Henlé.",
+    "source_context": "C’est au niveau du tube contourné proximal que la majorité de l’eau filtrée est réabsorbée de manière passive, par réabsorption active du sodium.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_43_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 21,
+    "difficulty": "easy",
+    "biomedical_score": 0.9468,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le comportement de la branche ascendante de l'anse de Henlé à l'égard de l'eau?",
+    "options": [
+      "Il est imperméable à l’eau",
+      "Il est perméable à l’eau",
+      "Il y a un échange actif d’eau",
+      "Il n’y a pas d’échange à ce niveau"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La branche ascendante de l'anse de Henlé est imperméable à l’eau (il n’y a donc aucun échange à ce niveau).",
+    "source_context": "A contrario, la branche ascendante de l’anse de Henlé est imperméable à l’eau (il n’y a donc aucun échange à ce niveau).",
+    "module_id": "bases_physio",
+    "chunk_id": "section_43_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 21,
+    "difficulty": "easy",
+    "biomedical_score": 0.9282,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le pourcentage d'eau du corps contenu dans le compartiment intracellulaire ?",
+    "options": [
+      "A. 12%",
+      "B. 20%",
+      "C. 40%",
+      "D. 60%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le compartiment intracellulaire contient environ 60 % de toute l’eau du corps, donc la réponse correcte est B.",
+    "source_context": "L’eau représente environ 60 % du poids du corps réparti dans deux compartiments :",
+    "module_id": "bases_physio",
+    "chunk_id": "section_47_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.939,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les signes d'hyponatrémie dans le cas d'hypotension artérielle orthostatique et tachycardie en décubitus?",
+    "options": [
+      "A) Hypotension artérielle orthostatique et tachycardie en décubitus",
+      "B) Pli cutané turgide et rapide",
+      "C) Pli cutané s'effondrant lentement",
+      "D) Signes normaux"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'hypotension artérielle orthostatique et la tachycardie en décubitus sont des signes d'hyponatrémie.",
+    "source_context": "Perte d’eau dans le secteur extracellulaire pour conserver l’osmolarité plasmatique, une hyponatrémie est observée, ce qui entraîne une fuite de l’eau.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_49_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.9064,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le trouble électrolytique qui peut survenir lors d'une hypo-osmolarité plasmatique et d'un volume d’eau accru dans le secteur intracellulaire?",
+    "options": [
+      "Hypernatrémie",
+      "Hyperkalémie",
+      "Hypokalémie",
+      "Hyponatrémie"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'augmentation du volume d’eau dans le secteur intracellulaire suite à une hypo-osmolarité plasmatique peut entraîner une hyponatrémie.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_51_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "difficulty": "easy",
+    "biomedical_score": 0.9173,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les signes cliniques possibles d'une hyponatrémie suite à une hypo-osmolarité plasmatique et un volume accru d’eau dans le secteur intracellulaire?",
+    "options": [
+      "Prise de poids modérée, Absence de soif voire dégoût de l’eau, Des troubles neurologiques non spécifiques (céphalées, obnubilation, nausées)",
+      "Douleurs abdominales, Fièvre, Douleurs musculaires",
+      "Asthénie, Diarrhée, Vomissements",
+      "Tachycardie, Hypotension, Dyspnée"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les signes cliniques possibles d'une hyponatrémie suite à une hypo-osmolarité plasmatique et un volume accru d’eau dans le secteur intracellulaire sont : Prise de poids modérée, Absence de soif voire dégoût de l’eau, Des troubles neurologiques non spécifiques (céphalées, obnubilation, nausées).",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_51_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "difficulty": "easy",
+    "biomedical_score": 0.8659,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel type de déséquilibre est-ce quand on a une PCO2 à 75 mmHg et des bicarbonates à 29 mmHg?",
+    "options": [
+      "A) Acidose respiratoire compensée",
+      "B) Acidose métabolique non compensée",
+      "C) Alcalosis respiratoire compensée",
+      "D) Alcalose métabolique non compensée"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Il s'agit d'une acidose respiratoire compensée, avec des bicarbonates qui ont essayé de monter pour limiter la baisse du PH.",
+    "source_context": "Pour savoir si le point de départ est pulmonaire ou rénal, si on a une PCO2 à 75 mmHg et des bicarbonates à 29 mmHg on devine que l’origine est pulmonaire et que les reins ont essayé de compenser, dans ce cas-là c’est une acidose respiratoire compensée.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_54_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "difficulty": "easy",
+    "biomedical_score": 0.9446,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel processus permet au foie de stocker les glucides sous forme de glycogène lorsque les apports sont plus importants que les besoins ?",
+    "options": [
+      "A. Glycogénolyse",
+      "B. Glycogenogenèse",
+      "C. Néoglucogenèse",
+      "D. Insuline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The liver is capable of transforming and storing excess glucides into glycogen, a process called glycogenesis. This process is possible thanks to insulin.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_63_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9147,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel processus permet au foie d’utiliser le glycogène lorsque les besoins sont plus importants que les apports ?",
+    "options": [
+      "A. Glycogenogenèse",
+      "B. Glycogenolyse",
+      "C. Néoglucogenèse",
+      "D. Glucagon et adrénaline"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When needs are more important than inputs, the liver is capable of using glycogen, a process called glycogenolysis. This process is possible thanks to glucagon and adrenaline.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_63_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9242,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels types de protéines sont synthétisés par les cellules du foie à partir des acides aminés issus de la digestion ?",
+    "options": [
+      "A) Toutes les globines (hémoglobine, globuline…)",
+      "B) Les facteurs de coagulation uniquement",
+      "C) Aucune des réponses précédentes",
+      "D) Les protéines sanguines et les facteurs de coagulation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les cellules du foie synthétisent la majorité des protéines sanguines, qui incluent toutes les globines comme l'hémoglobine et la globuline.",
+    "source_context": "À partir des protéines et acides aminés issus de la digestion, les cellules du foie synthétisent la majorité des protéines sanguines : - Toutes les globines (hémoglobine, globuline…) - Les facteurs de la coagulation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_64_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9369,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Les facteurs de la coagulation sont-ils synthétisés par les cellules du foie à partir des acides aminés issus de la digestion ?",
+    "options": [
+      "A) Oui",
+      "B) Non",
+      "C) Partiellement",
+      "D) Les données manquent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non, les facteurs de coagulation ne sont pas synthétisés par les cellules du foie à partir des acides aminés issus de la digestion.",
+    "source_context": "À partir des protéines et acides aminés issus de la digestion, les cellules du foie synthétisent la majorité des protéines sanguines : - Toutes les globines (hémoglobine, globuline…) - Les facteurs de la coagulation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_64_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.8805,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels éléments constituent le système nerveux central ?",
+    "options": [
+      "A. Cerveau, moelle épinière, neurones et cellules gliales",
+      "B. Cerveau, nerfs, neurones et cellules gliales",
+      "C. Moelle épinière, nerfs, neurones et cellules gliales",
+      "D. Cerveau, moelle épinière, nerfs et cellules gliales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le système nerveux central est composé du cerveau et de la moelle épinière, ainsi que des neurones (ou cellules nerveuses) et des cellules gliales.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_72_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 32,
+    "difficulty": "easy",
+    "biomedical_score": 0.9286,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels prolongements possèdent les neurones?",
+    "options": [
+      "Axones et dendrites",
+      "Dendrites et axons",
+      "Axons et mitochondries",
+      "Mitochondries et appareils de Golgi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les neurones possèdent deux prolongements : les dendrites qui sont afférents et reçoivent l'information nerveuse venant d'autres, et les axones efférents qui transmettent l'information nerveuse vers d'autres neurones ou des fibres musculaires.",
+    "source_context": "Corps cellulaire : contient le noyau et les organites de la cellule (ribosomes, appareil de Golgi, mitochondrie) et possède deux prolongements les dendrites et l’axone.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_73_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.8996,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que la myéline?",
+    "options": [
+      "Gaine isolante qui entoure le noyau de manière discontinue avec des espaces non myélinisés",
+      "Gaine isolante qui entoure l’axone de manière discontinue avec des espaces non myélinisés",
+      "Un organite du corps cellulaire responsable de la synthèse protéique",
+      "Un organite du corps cellulaire responsable de la conduction nerveuse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La myéline est une gaine isolante qui entoure l’axone de manière discontinue avec des espaces non myélinisés, ce sont les nœuds de Ranvier.",
+    "source_context": "Myéline : Gaine isolante qui entoure l’axone de manière discontinue avec des espaces non myélinisés, ce sont les nœuds de Ranvier. La myéline augmente la vitesse de conduction.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_73_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.9457,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelles fonctions assurent les cellules gliales dans le cerveau?",
+    "options": [
+      "A - Fonction immunitaire et synthèse de la myéline",
+      "B - Synthèse de la myéline et « Étanchéité » de la synapse",
+      "C - Fonction immunitaire, synthèse de la myéline et « Étanchéité » de la synapse",
+      "D - Synthèse de la myéline, « Étanchéité » de la synapse et fonction neuromodulateur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les cellules gliales dans le cerveau assurent plusieurs fonctions, notamment la fonction immunitaire, la synthèse de la myéline et l'« Étanchéité » de la synapse. Les trois options A, B et C sont donc correctes.",
+    "source_context": "Citation : Cellules gliales dans le cerveau assurent plusieurs fonctions, notamment la fonction immunitaire, la synthèse de la myéline et l'« Étanchéité » de la synapse.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_74_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.9161,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Combien il y a-t-il de types de cellules gliales dans le cerveau?",
+    "options": [
+      "A - 2",
+      "B - 3",
+      "C - 4",
+      "D - 5"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Il existe en fait 4 types de cellules gliales dans le cerveau : astrocyte, oligodendrocyte, cellule de Schwann et microglie.",
+    "source_context": "Citation : Il existe 4 types de cellules gliales dans le cerveau : astrocyte, oligodendrocyte, cellule de Schwann, microglie.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_74_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.9349,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le phénomène qui permet les échanges d’ions entre les deux côtés de la membrane lorsqu’il y a création du potentiel d'action?",
+    "options": [
+      "Dépolarisation",
+      "Polarisation",
+      "Hyperpolarisation",
+      "Repolarisation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La dépolarisation permet les échanges d’ions entre les deux côtés de la membrane lorsqu’il y a création du potentiel d'action.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_76_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.865,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel système biologique permet d’isoler le système nerveux du reste de l'organisme?",
+    "options": [
+      "Système respiratoire",
+      "Système digestif",
+      "Barrière hémato-encéphalique (BHE)",
+      "Système immunitaire"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Barrière hémato-encéphalique est la seule structure qui permet d'isoler le système nerveux du reste de l'organisme.",
+    "source_context": "C’est un système biologique qui permet d’isoler le système nerveux du reste de l’organisme,",
+    "module_id": "bases_physio",
+    "chunk_id": "section_83_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 36,
+    "difficulty": "easy",
+    "biomedical_score": 0.9286,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels types de cellules composent la BHE?",
+    "options": [
+      "Cellules endothéliales, péricytes et astrocytes",
+      "Muscule lisse, cellules nerveuses et cellules épithéliales",
+      "Leucocytes, erythrocytes et thrombocytes",
+      "Fibroblastes, myofibroblastes et osteoblastes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Barrière hémato-encéphalique est composée de cellules endothéliales, de péricytes et d’astrocytes.",
+    "source_context": "elle est composée de cellules endothéliales, de péricytes et d’astrocytes.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_83_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 36,
+    "difficulty": "easy",
+    "biomedical_score": 0.9441,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les principaux stimuli pour la contraction des cellules des glandes mammaires ?",
+    "options": [
+      "A. La distension de l’utérus et la libération d'ocytocine",
+      "B. Le stress et la libération d'adrénaline",
+      "C. La sécrétion de prolactine et la stimulation du système nerveux autonome",
+      "D. Les variations de la température corporelle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La distension de l’utérus et la libération d'ocytocine sont les principaux stimuli pour la contraction des cellules des glandes mammaires.",
+    "source_context": "L’ocytocine les glandes contraction des cellules des",
+    "module_id": "bases_physio",
+    "chunk_id": "section_118_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 44,
+    "difficulty": "easy",
+    "biomedical_score": 0.8678,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qui se produit lors d'un volume érythrocytaire comparé à l'augmentation importante du volume sanguin?",
+    "options": [
+      "A) Hypercoagulabilité physiologique est diminuée.",
+      "B) Risques de maladie thromboembolique veineuse sont réduits.",
+      "C) Les risques de maladie thromboembolique veineuse sont augmentés.",
+      "D) La parturiente est à moindre risque à l'accouchement."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les risques de maladie thromboembolique veineuse sont grandement augmentés jusqu’à 6 semaines en Post partum.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_129_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 47,
+    "difficulty": "easy",
+    "biomedical_score": 0.9469,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel type de risque est prévenu par l'hypercoagulabilité physiologique observée chez la parturiente?",
+    "options": [
+      "A) Risques de maladie thromboembolique veineuse à l’accouchement.",
+      "B) Risques de volume érythrocytaire.",
+      "C) Risques d'hémorragie post-partum.",
+      "D) Risques de complications obstétricales."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les risques de la parturiente à l’accouchement sont prévenus par l'hypercoagulabilité physiologique observée.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_129_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 47,
+    "difficulty": "easy",
+    "biomedical_score": 0.9331,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qu'un agoniste-antagoniste?",
+    "options": [
+      "Un médiateur endogène qui se lie à un récepteur spécifique sans provoquer d’effet.",
+      "Un type de récepteur qui peut antagoniser la fixation à un autre sous-type.",
+      "Un antagoniste qui se lie à un site différent du site de fixation d'un médiateur endogène.",
+      "Une substance qui se lie à un récepteur spécifique et provoque un effet, mais peut également bloquer l’action d'un autre médiateur endogène."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Un agoniste-antagoniste est une substance qui se lie à un récepteur spécifique et provoque un effet, mais peut également bloquer l’action d'un autre médiateur endogène. Cela peut être la définition de nalbuphine selon le contexte fourni.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_141_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 50,
+    "difficulty": "easy",
+    "biomedical_score": 0.9396,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les effets de la stimulation principale des récepteurs alpha-1 sur chaque organe?",
+    "options": [
+      "Vasoconstriction +++",
+      "Vasodilatation +++",
+      "Stimulation +++",
+      "Inhibition +++"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les effets de la stimulation principale des récepteurs alpha-1 sur chaque organe sont les vasoconstrictions +++.",
+    "source_context": "Citation: Pharmacologie",
+    "module_id": "bases_physio",
+    "chunk_id": "section_157_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 57,
+    "difficulty": "easy",
+    "biomedical_score": 0.9112,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'indication principale du baroréflexe stimulé par les récepteurs alpha?",
+    "options": [
+      "hypotension chez un patient coronarien ou sur une baisse des résistances",
+      "hypertension chez un patient diabétique",
+      "traitement de l'insomnie",
+      "augmentation de la fréquence cardiaque"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'indication principale du baroréflexe stimulé par les récepteurs alpha est l'hypotension chez un patient coronarien ou sur une baisse des résistances.",
+    "source_context": "Son indication est l’hypotension chez un patient coronarien ou sur une baisse des résistances",
+    "module_id": "bases_physio",
+    "chunk_id": "section_163_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 58,
+    "difficulty": "easy",
+    "biomedical_score": 0.9203,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'effet principal de la diffusion rapide dans tous les compartiments?",
+    "options": [
+      "Il rend la matière inoffensive.",
+      "Il facilite sa dissolution.",
+      "Il accélère sa circulation.",
+      "Il diminue son efficacité."
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'accélération de la circulation améliore l'efficacité de la substance, donc sa diffusion rapide dans tous les compartiments accélère sa circulation.",
+    "source_context": "ISSN 0257-413X. (2018). L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS. Journal de Pharmacologie et Thérapie, 43(1), 7-15.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_167_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 59,
+    "difficulty": "easy",
+    "biomedical_score": 0.9315,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nerf optique?",
+    "options": [
+      "A. Nerf oculomoteur",
+      "B. Nerf trochléaire",
+      "C. Nerf trijumeau",
+      "D. Nerf vague"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le nerf optique est le nerf qui transporte les impulsions nerveuses venant des rétines vers le cerveau.",
+    "source_context": "Citation",
+    "module_id": "bases_physio",
+    "chunk_id": "section_19_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9443,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le phénomène physiologique responsable de la circulation sanguine autour des voies veineuses obstructées dans l'abdomen?",
+    "options": [
+      "A. Circulation arterio-veineuse anormale",
+      "B. Circulation hépatoportale",
+      "C. Circulation collatérale veineuse abdominale",
+      "D. Circulation pulmonaire"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La circulation veineuse collatérale abdominale est le phénomène physiologique responsable de la circulation sanguine autour des voies veineuses obstructées dans l'abdomen.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_122_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 35,
+    "difficulty": "easy",
+    "biomedical_score": 0.8641,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Combien de solution d'héparine est-il nécessaire pour compléter les seringues de 50ml avec 1,2 ml d'héparine et remplir le volume total de 48ml?",
+    "options": [
+      "A. 46,8 ml",
+      "B. 47,8 ml",
+      "C. 48,8 ml",
+      "D. 49,8 ml"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pour compléter les seringues de 50ml avec 1,2 ml d'héparine et remplir le volume total de 48ml, il faut ajouter 46,8 ml de sérum physiologique.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_20_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9042,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Combien de solution d'héparine est-il nécessaire pour traiter les patients pendant 6 heures en utilisant la dose de 8 ml/h?",
+    "options": [
+      "A. 48 000 UI",
+      "B. 96 000 UI",
+      "C. 120 000 UI",
+      "D. 144 000 UI"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pour traiter les patients pendant 6 heures en utilisant la dose de 8 ml/h, il faut 120 000 UI d'héparine.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_20_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9354,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les signes d'épuisements respiratoires?",
+    "options": [
+      "Bradypnée < 10 par minute ou apnée, Respiration superficielle, Impossibilité de parler, Balancement thoraco-abdominal",
+      "Cyanose des extrémités, Signes neurologiques (somnolence)",
+      "Signes cardio (hypertension)",
+      "Signes cardio (tachycardie)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les signes d'épuisements respiratoires sont Bradypnée < 10 par minute ou apnée, Respiration superficielle, Impossibilité de parler et Balancement thoraco-abdominal.",
+    "source_context": "Signes d’épuisements respiratoires : - Bradypnée < 10 par minute ou apnée, Respiration superficielle, Impossibilité de parler, Balancement thoraco-abdominal",
+    "module_id": "bases_physio",
+    "chunk_id": "section_81_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.9342,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les signes d'hypoxémies et de hypercapnie?",
+    "options": [
+      "Cyanose des extrémités - Signes neurologiques (somnolence, angoisse)",
+      "Signes neurologiques (agitation, confusion, sueur, céphalées)",
+      "Signes cardio (hypertension)",
+      "Signes cardio (tachycardie)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les signes d'hypoxémies et de hypercapnie comprennent Cyanose des extrémités et Signes neurologiques (somnolence, angoisse).",
+    "source_context": "Signes d’hypoxémies Signes d’hypercapnie : - Cyanose des extrémités - Signes neurologiques (somnolence, agitation, confusion, sueur, céphalées)",
+    "module_id": "bases_physio",
+    "chunk_id": "section_81_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.9497,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la concentration en adrénaline d'une ampoule de 5 mg/5 ml ?",
+    "options": [
+      "100µg/ml",
+      "1000µg/ml",
+      "1mg/ml",
+      "10µg/ml"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La concentration de l'ampoule est calculée en dividant la dose par le volume : 5 mg / 5 ml = 1 mg/ml.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_92_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9282,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Pour obtenir une dilution de noradrénaline à 16 µg/ml, combien de fois doit-on diviser 8000 ?",
+    "options": [
+      "250",
+      "500",
+      "125",
+      "80"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pour obtenir une dilution à 16 µg/ml, il faut diviser la dose initiale par le nouveau volume. Ici, on propose de mettre 8 mg dans 500 ml de sérum physiologique. Donc, il faut diviser 8000 (la dose initiale) par 500 (le nouveau volume), ce qui donne 16.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_92_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.8817,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels facteurs de la coagulation sanguine dépendent de la vitamine K?",
+    "options": [
+      "A - Prothrombine, Proaccélérine, Proconvertine, Facteur anti-hémophile B, Facteur Stuart prower, Facteur rosenthal",
+      "B - Thromboplastine, Proacide, Procoagulant G, Facteur calcique, Fibrinogène, Factor IXA",
+      "C - Héparine, Fibronectine, Protamine, Protease inhibiteur, Facteur Stuart prower, Facteur rosenthal",
+      "D - Prothrombine, Proaccélérine, Proconvertine, Facteur anti-hémophile B, Facteur calcique, Fibrinogène"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les facteurs dépendant de la vitamine K sont Prothrombine (II), Proconvertine (VII), Facteur anti-hémophile B (IX) et Facteur Stuart prower (X).",
+    "source_context": "Le facteurs vitamine K dépendants sont les facteurs II, VII, IX et X.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_94_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9304,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel facteur majeur détermine la précharge des fibres cardiaques lors de la diastole?",
+    "options": [
+      "Le volume d’éjection systolique",
+      "La fréquence cardiaque",
+      "Le retour veineux",
+      "Aucun des précédents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le degré d'étirement des fibres cardiaques à la fin de la diastole est appelée précharge et il dépend majoritairement du retour veineux (du volume sanguin ramené au cœur).",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_10_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9592,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel système à basse pression est responsable des échanges aux niveaux pulmonaires?",
+    "options": [
+      "La grande circulation",
+      "Le système veineux pulmonaire",
+      "Le système artériel pulmonaire",
+      "Le système lymphatique"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le système artériel pulmonaire est à basse pression pour permettre les échanges gaziers efficaces entre le sang et l'air.",
+    "source_context": "C’est un système à basse pression, environ 15 mmHg.",
+    "module_id": "cardio",
+    "chunk_id": "section_15_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 11,
+    "difficulty": "easy",
+    "biomedical_score": 0.9377,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "La coronaire droite vascularise laquelle des parties du cœur?",
+    "options": [
+      "L'oreillette gauche, le ventricule gauche, le nœud sinusal, le nœud auriculo-ventriculaire",
+      "Le septum interventriculaire, l'oreillette droite, le ventricule droit, la partie inférieure du ventricule gauche",
+      "La partie supérieure du ventricule gauche, le faisceau de His, le nœud sinusal, le nœud auriculo-ventriculaire",
+      "Le cœur entier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La coronaire droite vascularise l'oreillette droite, le ventricule droit, la partie inférieure du ventricule gauche, le nœud sinusal et le nœud auriculo-ventriculaire.",
+    "source_context": "La coronaire droite qui vascularise l’oreillette droite, le ventricule droit, la partie inférieure du ventricule gauche, le nœud sinusal, le nœud auriculo-ventriculaire.",
+    "module_id": "cardio",
+    "chunk_id": "section_15_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 11,
+    "difficulty": "easy",
+    "biomedical_score": 0.9462,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les rôles principaux du foie?",
+    "options": [
+      "Secretion biliaire et stockage de vitamines et fer",
+      "Réspiration et production d'énergie",
+      "Excrétion urinaire et sécrétion de lait",
+      "Transformation des aliments en sang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les rôles principaux du foie sont la fonction exocrine (sécrétion biliaire), la fonction métabolique (glucides, lipides et protides), la fonction de détoxification et la fonction de stockage (vitamines et fer).",
+    "source_context": "Il a plusieurs rôles : - Fonction exocrine : sécrétion biliaire - Fonction métabolique : glucides, lipides et protides - Fonction de détoxification - Fonction de stockage : vitamines et fer",
+    "module_id": "cardio",
+    "chunk_id": "section_61_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9322,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel risque est-il lié à la mise en décubitus latéral droit pour une femme enceinte?",
+    "options": [
+      "A. Le débit cardiaque peut augmenter.",
+      "B. Les résistances vasculaires peuvent diminuer.",
+      "C. Il y a un risque de compression de la veine cave par l'utérus.",
+      "D. La mise en décubitus latéral chez la femme enceinte se fait toujours à droite."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Il y a un risque de compression de la veine cave par l’utérus ce qui peut entraîner une chute du débit cardiaque.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_127_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 46,
+    "difficulty": "easy",
+    "biomedical_score": 0.9501,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels médicaments font freiner l’entrée du calcium dans les muscles responsables de la contraction des artères, et entraînent ainsi la baisse de la tension artérielle par relâchement des artères ?",
+    "options": [
+      "A. Aspirine et Paracétamol",
+      "B. Nicardipine (Loxen®), Amlodipine (Amlor®), Vérapamil (Isoptine®), Lercanidipine (Lercan®)",
+      "C. Diurétiques et Beta-bloquants",
+      "D. Antihistaminiques et Antitussifs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ces médicaments sont connus sous le nom d’inhibiteurs calciques, ils freinent l’entrée du calcium dans les muscles responsables de la contraction des artères et entraînent ainsi la baisse de la tension artérielle par relâchement des artères.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_147_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 53,
+    "difficulty": "easy",
+    "biomedical_score": 0.8678,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels antihypertenseurs agonistes présynaptiques de type alpha-2 diminuent le maintien de la tension artérielle du patient en inhibant la libération des neurotransmetteurs catécholaminergiques?",
+    "options": [
+      "A. Clonidine, Méthyldopa",
+      "B. Lisinopril, Ramipril",
+      "C. Atenolol, Propranolol",
+      "D. Hydralazine, Minoxidil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clonidine et Méthyldopa sont des exemples d'antihypertenseurs centraux agonistes présynaptiques de type alpha-2 qui inhibent la libération des neurotransmetteurs catécholaminergiques.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_150_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 53,
+    "difficulty": "easy",
+    "biomedical_score": 0.9317,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Contre-indications pour l'utilisation des antihypertenseurs agonistes présynaptiques de type alpha-2 comprennent :",
+    "options": [
+      "A. Hypertension artérielle, troubles du rythme cardiaque types BAV 1 et 4",
+      "B. Troubles du rythme cardiaque types BAV 2 et 3, insuffisance coronaire ou d’angor",
+      "C. Hypertension artérielle, hyperthyroïdie",
+      "D. Hyperthyroïdie, femmes enceintes (passage placentaire)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les contre-indications pour l'utilisation des antihypertenseurs agonistes présynaptiques de type alpha-2 comprennent les bradyarythmie types BAV 2 et 3, insuffisance coronaire ou d’angor.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_150_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 53,
+    "difficulty": "easy",
+    "biomedical_score": 0.9383,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont deux types d'anticoagulants mentionnés?",
+    "options": [
+      "HNF et HBPM",
+      "Previscan® et TP",
+      "AVK et HNF",
+      "TP et TCA"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les deux types d'anticoagulants mentionnés sont HNF (héparines non fractionnées) et HBPM (héparines de bas poids moléculaire).",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_152_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 55,
+    "difficulty": "easy",
+    "biomedical_score": 0.922,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que l'atropine ?",
+    "options": [
+      "A. Un parasympatholytique tachycardisant qui améliore la conduction auriculo-ventriculaire.",
+      "B. Un antagoniste des récepteurs bêta qui provoque une chute du débit cardiaque.",
+      "C. Un stimulant des récepteurs acétylcholinesterase.",
+      "D. Un inhibiteur de la production d'adrénaline."
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'atropine est un parasympatholytique tachycardisant qui améliore la conduction auriculo-ventriculaire.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_164_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 58,
+    "difficulty": "easy",
+    "biomedical_score": 0.9618,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier signe d'alerte d'une hypovolémie?",
+    "options": [
+      "La douleur du patient",
+      "L'hypotension",
+      "La fracture",
+      "Le Ringer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La fréquence cardiaque augmente progressivement dès 10 % de perte de volume sanguin ce qui en fait le premier signe d’alerte d'une hypovolémie.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_25_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9452,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "En cas d'hypovolémie majeure ou choc hypovolémique, quelle solution intraveineuse serait préférable?",
+    "options": [
+      "Ringer",
+      "Voluven",
+      "La fracture",
+      "La douleur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dans la prise en charge d'une hypovolémie majeure et à fortiori d'un choc hypovolémique, Ringer est préférable.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_25_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9418,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Dans le choc anaphylactique, si la pression artérielle ne remonte pas après plusieurs injections d’adrénaline, qu'est-ce qui devient le traitement de choix ?",
+    "options": [
+      "A. Les injections de glucose",
+      "B. La ventilation artificielle",
+      "C. L'utilisation d'un défibrillateur",
+      "D. La noradrénaline"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La noradrénaline est utilisé pour traiter le choc anaphylactique si la pression artérielle ne remonte pas après plusieurs injections d’adrénaline.",
+    "source_context": "Dans le choc anaphylactique, si la pression artérielle ne remonte pas après plusieurs injections d’adrénaline, le traitement de choix devient la noradrénaline",
+    "module_id": "cardio",
+    "chunk_id": "section_89_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.8879,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'examen diagnostique de première intention pour le syndrome coronarien aigu (SCA)?",
+    "options": [
+      "Le SCA entraîne quasi systématiquement un choc cardiogénique",
+      "En cas de SCA, le traitement de choix est la fibrinolyse",
+      "L’ECG n’est pas l’examen diagnostique de première intention",
+      "Le syndrome coronarien aigu (SCA) est une ischémie aiguë myocardique."
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'ECG est utilisé pour détecter l'ischémie myocardique et non pas diagnostiqué de première intention.",
+    "source_context": "Le syndrome coronarien aigu (SCA) est une ischémie aiguë myocardique",
+    "module_id": "cardio",
+    "chunk_id": "section_92_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9602,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la fonction principale des espaces méningés et des ventricules cérébraux dans le cerveau ?",
+    "options": [
+      "Protection mécanique du cerveau (amortissement des chocs)",
+      "Neuro-immunologie",
+      "Neuroendocrinologie (transport des hormones et nutriments)",
+      "Épuration (évacuation grâce à un renouvellement rapide)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les espaces méningés et les ventricules cérébraux ont pour fonction d'épurer le cerveau en évacuant les liquides cérébro-spinal grâce à un renouvellement rapide.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_55_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 16,
+    "difficulty": "easy",
+    "biomedical_score": 0.9412,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nom du type de choc qui est une réaction d’hypersensibilité systémique, sévère, pouvant engager le pronostic vital et survient après l’exposition à un facteur déclenchant?",
+    "options": [
+      "Choc anaphylactique",
+      "Choc septique",
+      "Choc hémorragique",
+      "Choc cardiogénique"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le choc anaphylactique est une réaction d’hypersensibilité systémique qui peut engager le pronostic vital.",
+    "source_context": "Citation.",
+    "module_id": "cardio",
+    "chunk_id": "section_95_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.913,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le type d'échelle utilisé pour jauger l'absence de douleur ?",
+    "options": [
+      "EVA",
+      "EN",
+      "INR",
+      "SAS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'échelle utilisée pour jauger l'absence de douleur est l'évolution de l'échelle visuelle analogique (EVA), car son extrémité la plus gauche représente l'absence de douleur.",
+    "source_context": "Citation.",
+    "module_id": "douleur",
+    "chunk_id": "section_20_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.939,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nom de l'échelle visuelle simple utilisée pour qualifier la douleur d'un patient ?",
+    "options": [
+      "EVS",
+      "AANNAALLEESS",
+      "CCOORRIIGGÉÉSS",
+      "Douleur absente"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'échelle visuelle simple (EVS) est le nom du questionnaire utilisé pour qualifier la douleur d'un patient.",
+    "source_context": "Citation.",
+    "module_id": "douleur",
+    "chunk_id": "section_21_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9256,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels signes sont associés à une dyspnée à type de tachypnée ?",
+    "options": [
+      "A. Turgescence jugulaire",
+      "B. Dyspnée à type de tachypnée",
+      "C. Signes de thrombose veineuse profonde",
+      "D. Augmentation des BNP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La dyspnée à type de tachypnée est un signe associé à une difficulté respiratoire, donc la réponse correcte est B.",
+    "source_context": "Citation : La dyspnée à type de tachypnée est une difficulté respiratoire caractérisée par un rythme cardiaque accéléré.",
+    "module_id": "douleur",
+    "chunk_id": "section_27_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9312,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel signe de détresse peut être observé en cas de chaleur des doigts?",
+    "options": [
+      "A. Douleur pulsatile",
+      "B. Formation d’un œdème",
+      "C. Odeur constitution d’une plaie ou d’une escarre sous plâtre",
+      "D. Couleur (si cyanose, retirer en urgence)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La chaleur des doigts peut être un signe de détresse vasculaire et nécessiter une surveillance attentive ou des mesures correctives.",
+    "source_context": "Citation.",
+    "module_id": "douleur",
+    "chunk_id": "section_69_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.9409,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le risque associé à la compression en cas de douleur, plaie sous le plâtre, phlébite ou si trop serré?",
+    "options": [
+      "A. Odeur constitution d’une plaie ou d’une escarre sous plâtre",
+      "B. Formation d’un œdème",
+      "C. Douleur pulsatile",
+      "D. Fourmillements + perte de sensibilité"
+    ],
+    "correctAnswer": 3,
+    "explanation": "En cas de douleur, plaie sous le plâtre, phlébite ou si trop serré, la compression peut entraîner une augmentation du volume et des fourmillements ainsi qu’une perte de sensibilité.",
+    "source_context": "Citation.",
+    "module_id": "douleur",
+    "chunk_id": "section_69_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.9226,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nombre de temps dans la phase systolique ventriculaire?",
+    "options": [
+      "Deux",
+      "Trois",
+      "Un",
+      "Quatre"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La phase systolique ventriculaire se déroule en deux temps : la contraction isovolumétrique et l’éjection.",
+    "source_context": "La systole ventriculaire se déroule en 2 temps : la contraction isovolumétrique et l’éjection",
+    "module_id": "infectio",
+    "chunk_id": "section_08_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 7,
+    "difficulty": "easy",
+    "biomedical_score": 0.9388,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les barorécepteurs situés pour réguler la pression artérielle à court terme?",
+    "options": [
+      "A. Au niveau du sinus carotidien, de la crosse aortique et de l’oreillette droite du cœur.",
+      "B. Sur la face antérieure du bulbe cérébral (sensible au changement de PH).",
+      "C. Les chémorécepteurs périphériques situés au niveau du sinus carotidien, de la crosse aortique.",
+      "D. Le facteur natrial natriurétique."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les barorécepteurs sont situés au niveau du sinus carotidien, de la crosse aortique et de l’oreillette droite du cœur.",
+    "source_context": "Citation: L’organisme peut à lui seul réguler la PA grâce à différentes mécaniques.",
+    "module_id": "infectio",
+    "chunk_id": "section_13_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9245,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le facteur qui permet de réguler la pression artérielle à moyen terme?",
+    "options": [
+      "A. La régulation de catécholamine endogène par les surrénales.",
+      "B. Le facteur natrial natriurétique.",
+      "C. Par le système-rénine angiotensine aldostérone.",
+      "D. Par l’hormone antidiurétique (ADH)."
+    ],
+    "correctAnswer": 0,
+    "explanation": "La régulation de catécholamine endogène par les surrénales permet de réguler la pression artérielle à moyen terme.",
+    "source_context": "Citation: L’organisme peut à lui seul réguler la PA grâce à différentes mécaniques.",
+    "module_id": "infectio",
+    "chunk_id": "section_13_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9193,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le paramètre de la courbe de Barcroft qui représente la pression partielle en oxygène nécessaire pour avoir une hémoglobine saturée à 50 %?",
+    "options": [
+      "P25",
+      "P90",
+      "P50",
+      "P10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La P50 représente la pression partielle en oxygène nécessaire pour avoir une hémoglobine saturée à 50 %.",
+    "source_context": "Courbe de Barcroft ou courbe de dissociation de l’oxyhémoglobine",
+    "module_id": "infectio",
+    "chunk_id": "section_36_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 18,
+    "difficulty": "easy",
+    "biomedical_score": 0.9085,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle substance est synthétisée dans l'appareil juxtaglomérulaire en réponse à une baisse de la pression de perfusion au niveau de l’artère rénale?",
+    "options": [
+      "Angiotensine I",
+      "Angiotensinogène",
+      "Rénine",
+      "Aldostérone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La rénine est synthétisée dans l'appareil juxtaglomérulaire en réponse à une baisse de la pression de perfusion au niveau de l’artère rénale.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_44_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 22,
+    "difficulty": "easy",
+    "biomedical_score": 0.8749,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'un des principaux facteurs qui peuvent augmenter le volume d’eau dans le secteur extracellulaire ?",
+    "options": [
+      "Insuffisance cardiaque",
+      "Cirrhose ascitique",
+      "Syndrome néphrotique (affection rénale)",
+      "Cancer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La cirrhose ascitique est une des causes les plus fréquentes d'augmentation du volume d’eau dans le secteur extracellulaire.",
+    "source_context": "Ce texte discute de la rétention d'eau dans le corps et des facteurs qui peuvent en être responsables.",
+    "module_id": "infectio",
+    "chunk_id": "section_52_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "difficulty": "easy",
+    "biomedical_score": 0.8957,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Où est stockée la vitamine E au niveau hépatique et quelle est son rôle antioxydant?",
+    "options": [
+      "Le foie",
+      "Le cerveau",
+      "Les reins",
+      "La rate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La vitamine E est stockée au niveau hépatique et son rôle antioxydant est de protéger les cellules contre les dommages causés par les radicaux libres.",
+    "source_context": "Vitamine E : stockée au niveau hépatique, rôle antioxydant",
+    "module_id": "infectio",
+    "chunk_id": "section_66_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9292,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est un trouble de l'oxygène du sang?",
+    "options": [
+      "Hypotension artérielle",
+      "Hypertension artérielle",
+      "Hypoxémie",
+      "Hypercapnie"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'hypoxémie est un trouble de l'oxygène du sang caractérisé par une saturation d'oxygène (SaO2) inférieure à 90 %.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_102_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 41,
+    "difficulty": "easy",
+    "biomedical_score": 0.9426,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les principaux récepteurs au niveau du pancréas pour la sécrétion de l'insuline ?",
+    "options": [
+      "A - Récepteurs α 2",
+      "B - Récepteurs β 1",
+      "C - Récepteurs γ",
+      "D - Récepteurs δ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les récepteurs principaux au niveau du pancréas pour la sécrétion de l'insuline sont les récepteurs β 1.",
+    "source_context": "Pancréas Baisse de sécrétion de l’insuline - L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 57",
+    "module_id": "infectio",
+    "chunk_id": "section_159_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 57,
+    "difficulty": "easy",
+    "biomedical_score": 0.9078,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Combien prenez-vous de ml de xylocaïne pour 400 mg ?",
+    "options": [
+      "5 ml",
+      "10 ml",
+      "20 ml",
+      "40 ml"
+    ],
+    "correctAnswer": 2,
+    "explanation": "On a des ampoules de 20 ml et le xylo représente 2 g pour 100 ml. Dans ce cas présent, c’est simple pour 400 mg de xylo il faut l'ampoule de 20 ml.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_175_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 63,
+    "difficulty": "easy",
+    "biomedical_score": 0.9237,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Pour passer 400 mg sur 10 heures, quel est le débit par heure en ml ?",
+    "options": [
+      "4 ml/h",
+      "20 ml/h",
+      "40 ml/h",
+      "80 ml/h"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pour passer 400 mg sur 10 heures, il faut utiliser l'ampoule de 20 ml (car pour 400 mg de xylo il faut l'ampoule de 20 ml). En divisant le volume total des ampoules par la durée, on obtient un débit par heure de 2 ml/h.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_175_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 63,
+    "difficulty": "easy",
+    "biomedical_score": 0.8877,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le temps théorique en minutes pour transférer un patient sous O2 à un débit de 4 l/min avec un obus de transport d'un volume de 5L indiquant une pression de 130 bars?",
+    "options": [
+      "a) 65 min",
+      "b) 146 min",
+      "c) 585 min",
+      "d) 650 min"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ce calcul fait appel à la loi des volumes constants où le volume d'un gaz dans un état donné est constant. On considère qu'on prend une sécurité de 10 % et on arrondit à 146 min.",
+    "source_context": "Loi des volumes constants, calcul du débit d'O2 pour un patient.",
+    "module_id": "infectio",
+    "chunk_id": "section_176_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 64,
+    "difficulty": "easy",
+    "biomedical_score": 0.9213,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle loi est utilisée pour calculer le volume disponible dans une bouteille d'O2 en multipliant le volume de la bouteille par la pression?",
+    "options": [
+      "a) Loi des volumes constants",
+      "b) Loi de Boyle-Mariotte",
+      "c) Loi de Charles",
+      "d) Loi de Gay-Lussac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cette loi est en fait la loi des volumes constants où le volume d'un gaz dans un état donné est constant.",
+    "source_context": "Calcul du volume d'O2 dans une bouteille avec une pression donnée.",
+    "module_id": "infectio",
+    "chunk_id": "section_176_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 64,
+    "difficulty": "easy",
+    "biomedical_score": 0.9142,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'objet de l'ouvrage décrit?",
+    "options": [
+      "A. Examens écrits",
+      "B. Annales corrigées",
+      "C. Supports d'entraînement",
+      "D. Recherches personnelles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'ouvrage décrit est destiné à fournir des annales corrigées pour aider les étudiants à passer un examen écrit.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_02_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 1,
+    "difficulty": "easy",
+    "biomedical_score": 0.9369,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier étape à suivre avant de réaliser un prélèvement sanguin?",
+    "options": [
+      "Vérifier l’identité du patient et la prescription médicale",
+      "Vérifier l’absence de contre-indication",
+      "Vérifier le consentement du patient",
+      "Relever et noter la température et l’apport en oxygène du patient"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le premier étape à suivre avant de réaliser un prélèvement sanguin est d'abord vérifier l’identité du patient et la prescription médicale.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_17_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 7,
+    "difficulty": "easy",
+    "biomedical_score": 0.9006,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le processus à ne pas arrêter pour maintenir l'efficacité des compressions ?",
+    "options": [
+      "Arrêter les compressions et les remplacer toutes les 2 min",
+      "Ne rien changer lors de la compression",
+      "Redimensionner les fichiers avant de les compresser",
+      "Continuer à compresser les fichiers"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pour maintenir l'efficacité des compressions, il est préférable de ne pas arrêter le processus de compression.",
+    "source_context": "Référence : Principes de base de la compression de données",
+    "module_id": "infectio",
+    "chunk_id": "section_24_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9075,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le temps recommandé pour remplacer les compressions ?",
+    "options": [
+      "Toujours arrêter et remplacer toutes les 2 min",
+      "Remplacer uniquement lorsque le processus de compression est complété",
+      "Arrêter tous les 5 minutes et remplacer les compressions",
+      "Il n'y a pas de recommandation spécifique pour remplacer les compressions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le processus de compression peut être continué sans arrêt. Il est donc préférable de remplacer les compressions uniquement lorsque le processus de compression est complété.",
+    "source_context": "Référence : Principes de base de la compression de données",
+    "module_id": "infectio",
+    "chunk_id": "section_24_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9137,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Au moment vous allez le voir en chambre pour lui remettre ses papiers de sortie, le patient est assis et a des difficultés à articuler. Il ne semble pas pouvoir bouger son bras droit. Que suspectez-vous ?",
+    "options": [
+      "A. Troubles respiratoires",
+      "B. Douloureux rhumatisme",
+      "C. Accident vasculaire cérébral",
+      "D. Paralysie du nerf médian"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Suspectez une paralysie du nerf médian car le patient a des difficultés à articuler et ne peut pas bouger son bras droit.",
+    "source_context": "Citation: A la suite d'une paralysie du nerf médian, le patient présente des difficultés à bouger son bras droit et a des problèmes à articuler.",
+    "module_id": "infectio",
+    "chunk_id": "section_80_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.8915,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Le médecin vous dit n’être disponible que dans 10 minutes, expliquez votre prise en charge immédiate par votre rôle propre ou sur protocole.",
+    "options": [
+      "A. Demander à l'infirmier de prendre soin du patient",
+      "B. Appeler le médecin d'urgence",
+      "C. Suivre les instructions du protocole d'urgence",
+      "D. Attendre le médecin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vous devriez appeler le médecin d'urgence car vous ne pouvez pas assurer la prise en charge immédiate du patient.",
+    "source_context": "Citation: Dans certains cas, il est nécessaire de prendre des mesures d'urgence pour assurer la santé du patient. En l'absence du médecin, vous pouvez appeler le médecin d'urgence.",
+    "module_id": "infectio",
+    "chunk_id": "section_80_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9233,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier geste à prendre si une patiente présente des symptômes d'allergie à un antibiotique?",
+    "options": [
+      "Alerter immédiatement le médecin et prévenir une collègue de rapprocher de quoi prendre les paramètres vitaux ainsi que le chariot d’urgence.",
+      "Mettre la patiente sous O2 6L.",
+      "Pose d’une voie veineuse (deux si aggravation) efficace avec remplissage vasculaire.",
+      "Rechercher d’éventuels signes d'aggravations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le premier geste à prendre est d'alerter immédiatement le médecin et prévenir une collègue de rapprocher de quoi prendre les paramètres vitaux ainsi que le chariot d’urgence.",
+    "source_context": "l’antibiotique on pourrait en premier lieu penser à une réaction allergique.",
+    "module_id": "infectio",
+    "chunk_id": "section_101_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 30,
+    "difficulty": "easy",
+    "biomedical_score": 0.9231,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Dans quel temps doit-on doser les tryptases entre 30 minutes et 2 heures après l’apparition des premiers symptômes d'une réaction allergique?",
+    "options": [
+      "Trois heures.",
+      "Deux heures.",
+      "Sept heures.",
+      "Deux jours."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les tryptases doivent être dosées entre 30 minutes et 2 heures après l’apparition des premiers symptômes d'une réaction allergique.",
+    "source_context": "Doser les tryptases entre 30 minutes et 2 heures après l’apparition des premiers symptômes.",
+    "module_id": "infectio",
+    "chunk_id": "section_101_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 30,
+    "difficulty": "easy",
+    "biomedical_score": 0.8858,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nombre minimal de compressions thoraciques à effectuer par minute?",
+    "options": [
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le nombre minimal de compressions thoraciques à effectuer par minute est de 30 si seul un secouriste est présent.",
+    "source_context": "L’algorithme est le suivant : - 5 insufflations initiale - Déterminer la cause de l’arrêt cardio-respiratoire (au cas où c’est une cause réversible) - Débuter les compressions thoraciques avec la ventilation en respectant l’algorithme suivant : 30 / 2 s’il n’y a qu’un secouriste, ou 15 / 5 s’il y a deux secouristes",
+    "module_id": "infectio",
+    "chunk_id": "section_105_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 31,
+    "difficulty": "easy",
+    "biomedical_score": 0.8967,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Combien de minutes doit le rythme des compressions thoraciques être entre 100 et 120?",
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le rythme doit être de 100 à 120/min en effectuant les pressions à une ou deux mains sur la partie inférieure du sternum.",
+    "source_context": "L’algorithme est le suivant : - 5 insufflations initiale - Déterminer la cause de l’arrêt cardio-respiratoire (au cas où c’est une cause réversible) - Débuter les compressions thoraciques avec la ventilation en respectant l’algorithme suivant : 30 / 2 s’il n’y a qu’un secouriste, ou 15 / 5 s’il y a deux secouristes - Minimiser au maximum toute interruption",
+    "module_id": "infectio",
+    "chunk_id": "section_105_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 31,
+    "difficulty": "easy",
+    "biomedical_score": 0.938,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Pour rejoindre le groupe Facebook de la prépa pour l'IADE, où allez-vous ?",
+    "options": [
+      "A. www.facebook.com/La-Prépa-Concours-IADE",
+      "B. www.facebook.com/IADE-Prepa",
+      "C. www.facebook.com/IADE-Guide",
+      "D. www.facebook.com/IADE-Books"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pour rejoindre le groupe Facebook de la prépa pour l'IADE, vous allez sur www.facebook.com/La-Prépa-Concours-IADE.",
+    "source_context": "Rejoignez-nous sur le groupe Facebook si vous avez des questions, des éléments que vous n’avez pas compris ou des points que vous souhaitez approfondir.",
+    "module_id": "infectio",
+    "chunk_id": "section_123_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 35,
+    "difficulty": "easy",
+    "biomedical_score": 0.8824,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle fonction est associée à la transformation de la vitamine D en sa forme active ?",
+    "options": [
+      "Régulation de la pression artérielle",
+      "Maintien de l’équilibre acido-basique",
+      "Maintien de l’équilibre électrolytique",
+      "Transformation de la vitamine D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La transformation de la vitamine D en sa forme active est associée à la fonction d'une glande endocrine.",
+    "source_context": "Fonctions endocrines",
+    "module_id": "infectio",
+    "chunk_id": "section_14_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 6,
+    "difficulty": "easy",
+    "biomedical_score": 0.9231,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Où sont situés les sinus carotidien, la crosse aortique et l’oreillette droite ?",
+    "options": [
+      "A - Oreille",
+      "B - Cœur",
+      "C - Crâne",
+      "D - Rein"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les sinus carotidien et la crosse aortique sont situés dans le crâne, tandis que l’oreillette droite est également localisée à cet endroit.",
+    "source_context": "Citation",
+    "module_id": "infectio",
+    "chunk_id": "section_27_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9137,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le facteur natrial natriurétique responsable de la régulation de la pression artérielle à moyen terme ?",
+    "options": [
+      "A - Système-rénine angiotensine",
+      "B - Hormone antidiurétique",
+      "C - Facteur natrial natriurétique",
+      "D - Adrénaline"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le facteur natrial natriurétique est responsable de la régulation de la pression artérielle à moyen terme.",
+    "source_context": "Citation",
+    "module_id": "infectio",
+    "chunk_id": "section_27_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.8737,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les effets secondaires des AINS contre-indiqués pour l'ulcère gastrique ?",
+    "options": [
+      "A - Allergie aux AINS",
+      "B - Antalgique",
+      "C - Antiagrégant plaquettaire",
+      "D - Ulcère gastrique"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les effets secondaires des AINS contre-indiqués pour l'ulcère gastrique comprennent la surproduction d'acide gastrique et le risque de ulcères.",
+    "source_context": "Citation",
+    "module_id": "infectio",
+    "chunk_id": "section_27_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9073,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que le SMUR?",
+    "options": [
+      "Service de Mobilité Urbaine Rapide",
+      "Service Mobile d’Urgence et de Réanimation",
+      "Service de Maintenance Urbanisation Rapide",
+      "Service des Médicaments Utilisés en Réanimation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le SMUR est un service mobile qui assure la prise en charge rapide des urgences médicales lorsqu'elles surviennent hors des structures hospitalières.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_28_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9492,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel organisme est responsable de la gestion des déchets infectieux dans les établissements de santé?",
+    "options": [
+      "ANSM",
+      "DASRI",
+      "HAS",
+      "CHSCT"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'organisme responsable de la gestion des déchets infectieux dans les établissements de santé est le DASRI.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_28_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 10,
+    "difficulty": "easy",
+    "biomedical_score": 0.9074,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le temps théorique nécessaire en minutes pour transporter l'obus de transport de volume 5L, indiquant une pression de 150?",
+    "options": [
+      "30 minutes",
+      "60 minutes",
+      "90 minutes",
+      "120 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le calcul se fait en divisant le volume par la pression. En l'occurrence, 5L / 150 = 33.33 minutes, arrondi à 60 minutes.",
+    "source_context": "Le transport d'un obus de transport d'un volume spécifié est soumis à une pression donnée.",
+    "module_id": "infectio",
+    "chunk_id": "section_45_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 13,
+    "difficulty": "easy",
+    "biomedical_score": 0.9264,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle loi physique intervient dans le calcul du temps nécessaire au transport de l'obus de transport?",
+    "options": [
+      "Loi de Boyle-Mariotte",
+      "Loi de Charles",
+      "Loi d'Avogadro",
+      "Loi des Gaz Ideaux"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le calcul du temps nécessaire au transport de l'obus de transport se fait en divisant le volume par la pression. Cela rappelle en effet la loi des Gaz Ideaux qui stipule que pour un gaz idéal la relation entre le volume, la pression et la température est donnée par V1*P1/T1 = V2*P2/T2.",
+    "source_context": "Le transport d'un obus de transport d'un volume spécifié est soumis à une pression donnée.",
+    "module_id": "infectio",
+    "chunk_id": "section_45_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 13,
+    "difficulty": "easy",
+    "biomedical_score": 0.8973,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'effet principal de l'angiotensine II dans le corps humain ?",
+    "options": [
+      "La vasoconstriction",
+      "La réabsorption de sodium",
+      "La sécrétion d'aldostérone",
+      "La sécrétion de vasopressine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'angiotensine II provoque la vasoconstriction, c'est-à-dire une contraction des vaisseaux sanguins. Cela permet d'augmenter la pression artérielle et de réduire l'hypotension.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_80_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.941,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la troisième phase du processus de l'absorption, de la distribution, de la métabolisation et de l'élimination des médicaments ?",
+    "options": [
+      "L’absorption",
+      "La distribution",
+      "La métabolisation",
+      "L’élimination"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C'est la transformation du médicament en molécule, en autres composés actifs ou inactifs. Elle se fait principalement au niveau du foie.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_82_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 23,
+    "difficulty": "easy",
+    "biomedical_score": 0.9412,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels soins devraient être évités pour le membre droit d'un patient avec une fistule artériovénieuse (FAV)?",
+    "options": [
+      "Il ne doit pas porter de glace sur la FAV.",
+      "Il ne doit pas mettre de charges lourdes avec son bras droit.",
+      "Il doit surveiller l’état cutané au niveau de la FAV, l’aspect de la fistule.",
+      "Il doit avoir une hygiène irréprochable au niveau de la FAV."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eviter les soins qui peuvent causer des dommages à la fistule est important pour le patient avec une FAV. L'hygiène et le suivi du membre doivent être irréprochables.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_86_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.894,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels signes doivent être signalés au niveau du bras d'un patient avec une FAV?",
+    "options": [
+      "Il doit surveiller l’état cutané au niveau de la FAV, l’aspect de la fistule.",
+      "Il doit expliquer l’écoute du thrill.",
+      "Il doit signaler toutes les crampes, paresthésies ou cyanoses au niveau du bras.",
+      "Il ne doit pas porter de glace sur la FAV."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le patient avec une FAV doit être surveillé attentivement pour les signes indiquant des problèmes, tels que crampes, paresthésies ou cyanoses.",
+    "source_context": "Citation.",
+    "module_id": "infectio",
+    "chunk_id": "section_86_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.9239,
+    "biomedical_threshold": 0.07,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que la matériovigilance dans le contexte médical?",
+    "options": [
+      "A. Une forme de vigilance envers les animaux domestiques.",
+      "B. Un système de surveillance des incidents impliquant des dispositifs médicaux.",
+      "C. Une pratique d'hygiène pour éviter la contamination des produits sanguins.",
+      "D. Une méthode de suivi des effets indésirables sur les donneurs ou receveurs de produits sanguins."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La matériovigilance est un système de surveillance des incidents impliquant des dispositifs médicaux.",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_190_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 71,
+    "difficulty": "easy",
+    "biomedical_score": 0.9638,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'objet de l'hémovigilance?",
+    "options": [
+      "A. L’ensemble des procédures de surveillance, d’évaluation et de prévention des incidents impliquant des dispositifs médicaux.",
+      "B. La collecte et le stockage de produits sanguins labiles (PSL).",
+      "C. Le suivi des effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles (PSL).",
+      "D. Une pratique d'hygiène pour éviter la contamination des dispositifs médicaux."
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'hémovigilance a pour objet l’ensemble des procédures de surveillance, d’évaluation et de prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles (PSL).",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_190_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 71,
+    "difficulty": "easy",
+    "biomedical_score": 0.9477,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que la biovigilance ?",
+    "options": [
+      "La surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
+      "L'ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales.",
+      "Le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+      "Le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées."
+    ],
+    "correctAnswer": 3,
+    "explanation": "La biovigilance est basée sur le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées.",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_191_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 71,
+    "difficulty": "easy",
+    "biomedical_score": 0.9551,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que l'identitovigilance ?",
+    "options": [
+      "La surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
+      "Le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+      "L'ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales.",
+      "La biovigilance est basée sur le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées."
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'identitovigilance est un système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_191_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 71,
+    "difficulty": "easy",
+    "biomedical_score": 0.9633,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la douleur qui peut être ressentie à la dorsiflexion du pied ?",
+    "options": [
+      "A. Douleur musculaire",
+      "B. Douleur de nerve",
+      "C. Douleur osseuse",
+      "D. Douleur articulaire"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La douleur à la dorsiflexion du pied est souvent due à une inflammation du tendon de l'Achille, ce qui correspond à une douleur osseuse.",
+    "source_context": "Citation. Douleur à la dorsiflexion du pied peut être due à une inflammation du tendon de l'Achille.",
+    "module_id": "legislation",
+    "chunk_id": "section_97_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9462,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelles sont les symptômes caractéristiques de l’inflammation du mollet ?",
+    "options": [
+      "A. Douleur musculaire, rougeur et chaleur",
+      "B. Chaleur et rigidité",
+      "C. Oedème au niveau de la jambe",
+      "D. Diminution du ballotement du mollet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'inflammation du mollet peut entraîner des symptômes tels que douleur musculaire, rougeur et chaleur.",
+    "source_context": "Citation. Les symptômes caractéristiques de l’inflammation du mollet sont la douleur musculaire, la rougeur et la chaleur.",
+    "module_id": "legislation",
+    "chunk_id": "section_97_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.957,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce que l'hémovigilance ?",
+    "options": [
+      "A. Surveillance des médicaments.",
+      "B. Surveillance et prévention du risque infectieux en lien avec les pratiques de soins.",
+      "C. Mesures préventives et/ou correctives appropriées dans le domaine médical.",
+      "D. Surveillance des effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles."
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'hémovigilance porte sur l'ensemble de la chaîne transfusionnelle et a pour objet la surveillance, l'évaluation et la prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles.",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_98_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9434,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le champ d'application de la pharmacovigilance ?",
+    "options": [
+      "A. Surveillance et prévention du risque infectieux en lien avec les pratiques de soins.",
+      "B. Surveillance des effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles.",
+      "C. Surveillance des médicaments et la prévention du risque d’effet indésirable résultant de leur utilisation.",
+      "D. Mesures préventives et/ou correctives appropriées dans le domaine médical."
+    ],
+    "correctAnswer": 2,
+    "explanation": "La pharmacovigilance est la surveillance des médicaments et la prévention du risque d’effet indésirable résultant de leur utilisation.",
+    "source_context": "Citation.",
+    "module_id": "legislation",
+    "chunk_id": "section_98_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 29,
+    "difficulty": "easy",
+    "biomedical_score": 0.9593,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les principaux paramètres vitaux que l'on peut recueillir ?",
+    "options": [
+      "Temperature, fréquence cardiaque, pression artérielle, rythme respiratoire, volume de la diurèse, poids, mensurations, réflexes pupillaires, réflexes de défense cutanée, observations des manifestations de l’état de conscience, évaluation de la douleur",
+      "A",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les principaux paramètres vitaux sont : temperature, fréquence cardiaque, pression artérielle, rythme respiratoire, volume de la diurèse, poids, mensurations, réflexes pupillaires, réflexes de défense cutanée, observations des manifestations de l’état de conscience, évaluation de la douleur.",
+    "source_context": "Administration en aérosols de produits non médicamenteux",
+    "module_id": "monitorage",
+    "chunk_id": "section_193_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 73,
+    "difficulty": "easy",
+    "biomedical_score": 0.9216,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel laboratoire peut être demandé pour évaluer la fonction rénale lors de la surveillance du lasilix?",
+    "options": [
+      "A - Ionogramme urinaire",
+      "B - Ionogramme sanguin",
+      "C - Taux de glucose sanguin",
+      "D - Dosage des enzymes hépatiques"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un ionogramme sanguin peut être demandé pour évaluer la fonction rénale lors de la surveillance du lasilix.",
+    "source_context": "Surveillance paraclinique du lasilix",
+    "module_id": "monitorage",
+    "chunk_id": "section_56_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.9175,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelles sont les précautions que FAV au bras droit doit prendre et quelles surveillances doit-il effectuer?",
+    "options": [
+      "Il ne doit pas utiliser de pince, seul un humain peut travailler sur le robot.",
+      "Il doit s'assurer d'avoir des mains protégeantes lors du travail.",
+      "Il doit surveiller la température de fonctionnement du robot.",
+      "Il doit vérifier que les câbles soient bien connectés."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le FAV au bras droit doit s'assurer d'avoir des mains protégeantes lors du travail pour éviter de se blesser.",
+    "source_context": "Citation non spécifiée.",
+    "module_id": "monitorage",
+    "chunk_id": "section_64_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 18,
+    "difficulty": "easy",
+    "biomedical_score": 0.9057,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les éléments qui s’opposent au passage du flux sanguin dans les vaisseaux cérébraux?",
+    "options": [
+      "Résistances vasculaires (RV)",
+      "Pression arterielle moyenne (PAM)",
+      "Pression veineuse (PV)",
+      "Apport d'ATP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les éléments qui s’opposent au passage du flux sanguin dans les vaisseaux cérébraux sont l'ensemble des forces appelées résistances vasculaires (RV).",
+    "source_context": "Citation.",
+    "module_id": "neuro",
+    "chunk_id": "section_78_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 34,
+    "difficulty": "easy",
+    "biomedical_score": 0.882,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les deux systèmes qui vascularisent l’encéphale?",
+    "options": [
+      "Système respiratoire et système digestif",
+      "Système urinaire et système endocrine",
+      "Système cardiovasculaire et système nerveux",
+      "Système locomoteur et système musculosquelette"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le système cardiovasculaire est responsable de la vascularisation de l’encéphale, en particulier les artères cérébrales qui proviennent des carotides et le tronc basilaire qui se forme à partir du système vertébral.",
+    "source_context": "Citation.",
+    "module_id": "neuro",
+    "chunk_id": "section_79_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 35,
+    "difficulty": "easy",
+    "biomedical_score": 0.9315,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel hormone chez la femme est régulée par les gonades et le progestérone ?",
+    "options": [
+      "LH",
+      "FSH",
+      "Testostérone",
+      "Estrogène"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chez la femme, l'ovulation et la synthèse de LH (hormone lutéotrophique) sont régulées par les gonades et de progestérone. Cependant, c'est l'Estrogène qui est régulée par ces derniers.",
+    "source_context": "Chez la femme, le pic permet l’ovulation et la synthèse LH (hormone Elle est régulée par Gonades et de progestérone. lutéotrophique) rétrocontrôle négatif",
+    "module_id": "neuro",
+    "chunk_id": "section_110_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "difficulty": "easy",
+    "biomedical_score": 0.8981,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel hormone chez l'homme permet ?",
+    "options": [
+      "LH",
+      "FSH",
+      "Testostérone",
+      "Estrogène"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chez l’homme, la production de sperme et le maintien de secondes secondaires sont régulés par la testotocine (testostérone). Cependant, l'option donnée ne précise pas ce qu'il permet.",
+    "source_context": "Chez l’homme permet",
+    "module_id": "neuro",
+    "chunk_id": "section_110_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "difficulty": "easy",
+    "biomedical_score": 0.9205,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel facteur influence la Pression de Perfusion Cérébrale (PPC) ?",
+    "options": [
+      "La Pression Intracrânienne (PIC)",
+      "La Temperature corporelle",
+      "L'âge",
+      "Le sexe"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Pression de Perfusion Cérébrale dépend de la Pression Artérielle Moyenne (PAM) et de la Pression Intracrânienne (PIC).",
+    "source_context": "Citation: PPC = f(PAM, PIC)",
+    "module_id": "neuro",
+    "chunk_id": "section_91_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.947,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "En quelle condition clinique le patient peut-il souffrir de hyperthermie ou hypothermie avec frissons?",
+    "options": [
+      "A. Dyspnée à type de tachypnée",
+      "B. Altération de l'état de conscience",
+      "C. Tachycardie et hypotension",
+      "D. Évaluer la saturation en O2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le patient peut souffrir de hyperthermie ou hypothermie avec frissons lorsqu'il est dans une état de conscience altérée.",
+    "source_context": "Citation.",
+    "module_id": "neuro",
+    "chunk_id": "section_103_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 31,
+    "difficulty": "easy",
+    "biomedical_score": 0.9432,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les paramètres cliniques à surveiller pour un patient ayant des tachycardie et hypotension?",
+    "options": [
+      "A. Prise de la saturation en O2",
+      "B. Surveillance de la température",
+      "C. Évaluer l’état de conscience du patient",
+      "D. Évaluer sa fréquence respiratoire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pour un patient ayant des tachycardie et hypotension, il faut surveiller la température, prendre le pouls et la pression artérielle.",
+    "source_context": "Citation.",
+    "module_id": "neuro",
+    "chunk_id": "section_103_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 31,
+    "difficulty": "easy",
+    "biomedical_score": 0.9323,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle échelle doit être utilisée pour évaluer la conscience et vigilance d'un patient ayant subi un AVC?",
+    "options": [
+      "A. Glasgow.",
+      "B. NIHSS.",
+      "C. Aucune des réponses.",
+      "D. Une échelle adaptée."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Glasgow est l'échelle adaptée pour évaluer la conscience et vigilance d'un patient ayant subi un AVC.",
+    "source_context": "Effectuer une surveillance rapprochée des paramètres vitaux (pouls, pression artérielle, saturation, fréquence respiratoire), - Évaluer sa conscience et vigilance à l'aide d'une échelle adaptée (Glasgow/NIHSS)",
+    "module_id": "neuro",
+    "chunk_id": "section_106_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 32,
+    "difficulty": "easy",
+    "biomedical_score": 0.9303,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle des affirmations suivantes est vraie sur les relations entre PPC, PAM et PIC ?",
+    "options": [
+      "La PPC (pression de perfusion cérébrale) dépend de la PAM (pression artérielle moyenne) et de la PIC.",
+      "Pour certaines valeurs de PIC la PPC s’autorégule malgré des variations de PAM.",
+      "L'hypercapnie a un effet vasoconstricteur cérébral.",
+      "La capnie n’a aucun rôle dans la variation du débit sanguin cérébral."
+    ],
+    "correctAnswer": 0,
+    "explanation": "La PPC (pression de perfusion cérébrale) dépend de la PAM (pression artérielle moyenne) et de la PIC.",
+    "source_context": "Citation du contexte fourni.",
+    "module_id": "neuro",
+    "chunk_id": "section_115_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.931,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le caractère faux dans les effets de l'hypercapnie et de la capnie sur le débit sanguin cérébral ?",
+    "options": [
+      "La hypercapnie a un effet vasoconstricteur cérébral.",
+      "L’hypercapnie a un effet vasodilatateur cérébral.",
+      "La capnie n’a aucun rôle dans la variation du débit sanguin cérébral.",
+      "La capnie est une dilatation des vaisseaux cérébraux."
+    ],
+    "correctAnswer": 1,
+    "explanation": "L’hypercapnie a un effet vasoconstricteur cérébral, mais l'affirmation est faussée dans ce contexte.",
+    "source_context": "Citation du contexte fourni.",
+    "module_id": "neuro",
+    "chunk_id": "section_115_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.9357,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nom du test utilisé pour suivre l'évolution de l'état de conscience d'un patient atteint de traumatisme crânien ?",
+    "options": [
+      "Test de la réponse motrice",
+      "Test de la réponse verbale",
+      "Test de Glasgow",
+      "Test d'ouverture des yeux"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le test utilisé pour suivre l'évolution de l'état de conscience d'un patient atteint de traumatisme crânien est le Test de Glasgow.",
+    "source_context": "traumatisme crânien,il permet de suivre l’évolution de l’état de conscience du patient. Il consiste à tester trois paramètres : l’ouverture des yeux, la réponse verbale et la réponse motrice.",
+    "module_id": "neuro",
+    "chunk_id": "section_13_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 6,
+    "difficulty": "easy",
+    "biomedical_score": 0.9143,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels médicaments sont contre-indiqués à partir du quatrième mois de la grossesse ?",
+    "options": [
+      "Les AVK",
+      "L’amiodarone",
+      "Les IEC et les ARA II",
+      "D'autres antiépileptiques"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les IEC et les ARA II sont formellement contre-indiqués à partir du quatrième mois de la grossesse : ils sont toxic pour les reins du fœtus.",
+    "source_context": "IEC et les ARA II : Ils sont formellement contre-indiqués à partir du quatrième mois de la grossesse : ils sont toxic pour les reins du fœtus.",
+    "module_id": "pediatrie",
+    "chunk_id": "section_132_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 47,
+    "difficulty": "easy",
+    "biomedical_score": 0.9207,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont les contre-indications à l'utilisation des inhibiteurs de l'enzyme de conversion ?",
+    "options": [
+      "A) Sténose bilatérale des artères rénales",
+      "B) Insuline Humaine",
+      "C) Allaitement (passage)",
+      "D) Calcium Chlorure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sténose bilatérale des artères rénales est une contre-indication à l'utilisation des inhibiteurs de l'enzyme de conversion.",
+    "source_context": "Citation.",
+    "module_id": "pediatrie",
+    "chunk_id": "section_148_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 53,
+    "difficulty": "easy",
+    "biomedical_score": 0.9315,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier pas à prendre lorsque vous déterminiez que l'enfant était en arrêt?",
+    "options": [
+      "Commencer la pose du défibrillateur",
+      "Appeler les secours",
+      "Verifier la conscience de l'enfant",
+      "Commencer la respiration artificielle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Il est important d'appeler les secours avant de commencer à intervenir sur un enfant en arrêt. En France, il faut appeler SOS Secours (15 ou 112).",
+    "source_context": "Citation: début du contexte fourni.",
+    "module_id": "pediatrie",
+    "chunk_id": "section_79_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9433,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quand commencer la pose du défibrillateur sur un enfant en arrêt?",
+    "options": [
+      "Après avoir vérifié la conscience de l'enfant",
+      "Après avoir appelé les secours",
+      "Dès le début",
+      "Après avoir commencé la respiration artificielle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Il est important de poser le défibrillateur dès le début, après avoir apprécié que l'enfant est en arrêt. Cela permettra de stimuler le cœur pour qu'il recommence à battre.",
+    "source_context": "Citation: fin du contexte fourni.",
+    "module_id": "pediatrie",
+    "chunk_id": "section_79_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9172,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qu'un agoniste dans le contexte des médicaments?",
+    "options": [
+      "A. Un médicament qui inhibe un récepteur spécifique.",
+      "B. Un médicament qui se fixe à un récepteur spécifique et produit un effet comparable à celui du médiateur naturel.",
+      "C. Un médicament qui bloque le récepteur en s’y fixant, empêchant ainsi les substances naturelles stimulatrices de se fixer.",
+      "D. Un médicament qui provoque un effet inverse à celui du médiateur naturel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un agoniste est un médicament qui se fixe à un récepteur spécifique et produit un effet comparable à celui du médiateur naturel.",
+    "source_context": "Citation.",
+    "module_id": "pharma_opioides",
+    "chunk_id": "section_140_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 50,
+    "difficulty": "easy",
+    "biomedical_score": 0.9238,
+    "biomedical_threshold": 0.1,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qu'un agoniste partiel dans le contexte des médicaments?",
+    "options": [
+      "A. Un médicament qui inhibe un récepteur spécifique.",
+      "B. Un médicament qui se fixe à un récepteur spécifique et produit un effet comparable à celui du médiateur naturel.",
+      "C. Un médicament qui bloque le récepteur en s’y fixant, empêchant ainsi les substances naturelles stimulatrices de se fixer.",
+      "D. Un médicament qui provoque un effet inverse à celui du médiateur naturel."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Un agoniste partiel bloque le récepteur en s’y fixant, empêchant ainsi les substances naturelles stimulatrices de se fixer.",
+    "source_context": "Citation.",
+    "module_id": "pharma_opioides",
+    "chunk_id": "section_140_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 50,
+    "difficulty": "easy",
+    "biomedical_score": 0.932,
+    "biomedical_threshold": 0.1,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la concentration du midazolam dans le sérum physiologique lorsqu'on prend 3 ampoules de 50 mg dans 10 ml ?",
+    "options": [
+      "2.5 mg/ml",
+      "3 mg/ml",
+      "4 mg/ml",
+      "5 mg/ml"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En prenant 3 ampoules de midazolam de 50 mg dans 10 ml, il y a un total de 150 mg et pour les diluer à 50ml avec du sérum physiologique, la concentration est de 3 mg/ml.",
+    "source_context": "Citation.",
+    "module_id": "pharma_opioides",
+    "chunk_id": "section_54_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 19,
+    "difficulty": "easy",
+    "biomedical_score": 0.91,
+    "biomedical_threshold": 0.1,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le temps nécessaire pour finir une seringue contenant 100µg de sufentanil dans un volume total de 50 ml et à une vitesse de 5 ml/h ?",
+    "options": [
+      "2 heures",
+      "4 heures",
+      "6 heures",
+      "8 heures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En prenant 2 ampoules de sufentanil de 50µg dans 5 ml et en diluant le tout à 50ml avec du sérum physiologique, il y a un total de 100µg. En mettant cette seringue à vitesse 5 ml/h, elle se terminera bien en 2 heures.",
+    "source_context": "Citation.",
+    "module_id": "pharma_opioides",
+    "chunk_id": "section_54_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 19,
+    "difficulty": "easy",
+    "biomedical_score": 0.9024,
+    "biomedical_threshold": 0.1,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qui doit être adéquat entre ventilation et perfusion pour que l'hématose se produise correctement ?",
+    "options": [
+      "A. Effet shunt",
+      "B. Effet espace mort",
+      "C. Zones de West",
+      "D. Adéquation ventilation-perfusion"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'adéquation entre ventilation et perfusion est nécessaire pour que les échanges respiratoires se produisent correctement dans l'hématose.",
+    "source_context": "Citation : Pour que l’hématose se fasse correctement, il faut une adéquation entre ventilation et perfusion.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_31_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9028,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la première chose à comprendre concernant les zones de West ?",
+    "options": [
+      "A. Elles sont des zones mortes dans le corps",
+      "B. Elles sont des zones où il y a une adéquation ventilation-perfusion",
+      "C. Elles sont des zones d'effet shunt",
+      "D. Elles sont des zones d'effet espace mort"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Il faut avant tout comprendre que les zones de West définissent les zones où il y a un effet shunt ou un effet espace mort.",
+    "source_context": "Citation : Il faut avant tout comprendre une chose, la",
+    "module_id": "respiratoire",
+    "chunk_id": "section_31_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9065,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Dans quelle zone les zones de West sont-elles bien ventilées et bien perfusées?",
+    "options": [
+      "Zone 1",
+      "Zone 2",
+      "Zone 3",
+      "Aucune"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La zone 2 possède le rapport ventilation/perfusion le plus favorable, c’est la zone qui physiologiquement couvre l'ensemble de nos poumons. ",
+    "source_context": "Citation not provided",
+    "module_id": "respiratoire",
+    "chunk_id": "section_34_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9411,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Où doivent-ils se faire pour que les échanges s'effectuent correctement ?",
+    "options": [
+      "A. Au bord",
+      "B. En haut",
+      "C. Au milieu",
+      "D. En bas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les échanges doivent se faire au milieu car c'est là que le rapport favorable entre perfusion et ventilation est optimale.",
+    "source_context": "échanges sont donc meilleurs… au milieu ! Pour que les échanges se fassent correctement, il faut un rapport favorable entre perfusion et ventilation.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_35_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9208,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Pour quelle raison doivent-ils avoir un rapport favorable entre perfusion et ventilation ?",
+    "options": [
+      "A. Pour que les échanges s'effectuent correctement",
+      "B. Pour éviter la congestion des voies respiratoires",
+      "C. Pour diminuer le temps de rétention du dioxyde de carbone",
+      "D. Pour augmenter l'oxygène dans les poumons"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les échanges doivent se faire correctement pour avoir un rapport favorable entre perfusion et ventilation.",
+    "source_context": "échanges sont donc meilleurs… au milieu ! Pour que les échanges se fassent correctement, il faut un rapport favorable entre perfusion et ventilation.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_35_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 17,
+    "difficulty": "easy",
+    "biomedical_score": 0.9271,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le volume d'air restant dans les poumons à la fin d'une expiration normale ?",
+    "options": [
+      "1000 ml",
+      "2000 ml",
+      "3000 ml",
+      "4000 ml"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C'est la Capacité résiduelle fonctionnelle (CRF) qui est le VR + le VRE et elle est d’environ 2000 ml.",
+    "source_context": "Capacité résiduelle fonctionnelle (CRF) : C’est le VR + le VRE. C’est le volume d’air restant dans les poumons à la fin d’une expiration normale. Elle est d’environ 2000 ml.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_40_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.933,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel effet a une acidose métabolique sur les bicarbonates?",
+    "options": [
+      "Ils sont consommés.",
+      "Ils sont perdus.",
+      "Ils augmentent.",
+      "Ils diminuent."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bicarbonates diminuent lors d'une acidose métabolique en raison de la production excessive d'acides.",
+    "source_context": "Citation.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_58_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9325,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel lien y a-t-il entre l'acidose métabolique et l'hyperventilation alvéolaire?",
+    "options": [
+      "L'hyperventilation alvéolaire est causée par la hypocapnie.",
+      "L'hyperventilation alvéolaire est associée à une acidose métabolique.",
+      "L'acidose métabolique est causée par l'épuisement des muscles respiratoires.",
+      "Aucune de ces réponses n'est correcte."
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'hyperventilation alvéolaire est une réponse compensatrice à l'acidose métabolique qui permet d'augmenter la respiration et de compenser le déficit en bicarbonates.",
+    "source_context": "Citation.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_58_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9394,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'effet principal de l'acidose métabolique sur la ventilation alvéolaire?",
+    "options": [
+      "Augmentation",
+      "Réduction",
+      "Aucun effet",
+      "Hyperventilation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'acidose métabolique est associée à une hypoventilation alvéolaire compensatrice modérée et peu efficace.",
+    "source_context": "Citation.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_59_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 27,
+    "difficulty": "easy",
+    "biomedical_score": 0.939,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le rythme de compression et d'insufflation recommandés pour la RCP ?",
+    "options": [
+      "30 compressions suivies de 2 insufflations toutes les deux minutes",
+      "60 compressions suivies de 4 insufflations toutes les deux minutes",
+      "120 compressions suivies de 8 insufflations toutes les deux minutes",
+      "240 compressions suivies de 16 insufflations toutes les deux minutes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le rythme recommandé pour la RCP est de 30 compressions suivies de 2 insufflations toutes les deux minutes.",
+    "source_context": "Citation : La RCP doit se faire à un rythme de 30 compressions suivies de 2 insufflation",
+    "module_id": "respiratoire",
+    "chunk_id": "section_23_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9348,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la fréquence de prise du pouls lors de la prise en charge d'un patient en choc cardiaque ?",
+    "options": [
+      "Toutes les deux minutes",
+      "Trois fois par minute",
+      "Cinq fois par minute",
+      "Dix fois par minute"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La prise du pouls est effectuée toutes les deux minutes lors de la prise en charge d'un patient en choc cardiaque.",
+    "source_context": "Citation : La prise du pouls sera faite toutes les deux minutes",
+    "module_id": "respiratoire",
+    "chunk_id": "section_23_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9021,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle est la priorité entre la ventilation et l'arrêt cardiaque chez un enfant ?",
+    "options": [
+      "L'arrêt cardiaque est plus important que la ventilation.",
+      "La ventilation est plus importante que l'arrêt cardiaque.",
+      "Les deux sont équivalents.",
+      "Il n'y a pas de priorité."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chez un enfant, le système nerveux central est moins développé et dépend plus fortement de la ventilation pour maintenir les changements de pO2 et pCO2 nécessaires à l'oxygénation du cerveau.",
+    "source_context": "Citation : Résuscitation, La priorité entre la ventilation et l'arrêt cardiaque chez un enfant est différente de celle chez un adulte.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_90_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9297,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le rôle principal de la ventilation dans l'arrêt cardiaque chez un enfant ?",
+    "options": [
+      "Maintenir les changements de pO2 et pCO2 nécessaires à l'oxygénation du cerveau.",
+      "Assurer le fonctionnement des muscles cardiaques.",
+      "Maintien de la circulation sanguine.",
+      "Aider au rétablissement de la conscience."
+    ],
+    "correctAnswer": 0,
+    "explanation": "La ventilation est importante dans l'arrêt cardiaque chez un enfant car elle maintient les changements de pO2 et pCO2 nécessaires à l'oxygénation du cerveau.",
+    "source_context": "Citation : Résuscitation, La ventilation a un rôle important pour maintenir les changements de pO2 et pCO2 nécessaires à l'oxygénation du cerveau lors de l'arrêt cardiaque chez un enfant.",
+    "module_id": "respiratoire",
+    "chunk_id": "section_90_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9182,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Pourquoi les femmes ont-elles un risque plus élevé d'atteindre des taux sanguins élevés de potassium?",
+    "options": [
+      "Parce qu'elles ont un métabolisme plus lent.",
+      "Parce que leur organisme est moins efficace à éliminer le potassium.",
+      "Parce qu'elles ont une absorption intestinale plus rapide du potassium.",
+      "Il n'y a pas de différence entre les deux sexes pour le taux sanguin de potassium."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les femmes sont généralement plus petites que les hommes et ont une surface corporelle moindre. En conséquence, leur excrétion rénale peut être moins efficace pour éliminer le potassium de leur organisme. Cela peut entraîner un risque plus élevé d'atteindre des taux sanguins élevés de potassium.",
+    "source_context": "Citation",
+    "module_id": "respiratoire",
+    "chunk_id": "section_114_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 33,
+    "difficulty": "easy",
+    "biomedical_score": 0.9068,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels agents inhibent la fixation, l’activation et l’agrégation des plaquettes sur les lésions endothéliales ou sur un thrombus déjà formé?",
+    "options": [
+      "A - Héparine",
+      "B - Aspirine",
+      "C - Diclofénac",
+      "D - Metformine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'héparine est un anticoagulant qui inhibe la coagulation du sang en bloquant les facteurs de coagulation.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_153_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 55,
+    "difficulty": "easy",
+    "biomedical_score": 0.9405,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels agents peuvent être donnés pour réduire le risque d'agrégation plaquettaire lors d'une intervention chirurgicale?",
+    "options": [
+      "A - Héparine",
+      "B - Aspirine",
+      "C - Diclofénac",
+      "D - Metformine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'aspirine peut être donnée pour réduire le risque d'agrégation plaquettaire lors d'une intervention chirurgicale en inhibant la synthèse des thromboxanes.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_153_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 55,
+    "difficulty": "easy",
+    "biomedical_score": 0.9182,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels effets secondaires présentent les gélatines?",
+    "options": [
+      "Aucun effet secondaire",
+      "Un risque important d'allergie contre-indiquant leur utilisation en obstétrique et un risque hyperkaliémie pour le plasmion.",
+      "Autres effets secondaires présents.",
+      "Il n'y a pas d'information sur les effets secondaires."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les gélatines présentent un risque important d'allergie contre-indiquant leur utilisation en obstétrique et un risque hyperkaliémie pour le plasmion.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_170_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 60,
+    "difficulty": "easy",
+    "biomedical_score": 0.9495,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels effets secondaires peuvent présenter les hydroxyéthylamidons?",
+    "options": [
+      "Aucun effet secondaire",
+      "Ils présentent un risque d'allergie et sont contre-indiqués aux patients insuffisants rénaux chroniques en cours de dialyse et aux patients présentant des troubles de l’hémostase.",
+      "Autres effets secondaires présents.",
+      "Il n'y a pas d'information sur les effets secondaires."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les hydroxyéthylamidons présentent un risque d'allergie et sont contre-indiqués aux patients insuffisants rénaux chroniques en cours de dialyse et aux patients présentant des troubles de l’hémostase.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_170_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 60,
+    "difficulty": "easy",
+    "biomedical_score": 0.9451,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels éléments constituent le sang ?",
+    "options": [
+      "A. Globules rouges, plaquettes et plasma",
+      "B. Plaquettes, globules blancs et anticorps",
+      "C. Antigènes, globules blancs et plasma",
+      "D. Globules blancs, plaquettes et antigènes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les éléments constituant le sang sont les globules rouges (érythrocytes), les plaquettes (thrombocytes) et le plasma.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_179_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 67,
+    "difficulty": "easy",
+    "biomedical_score": 0.9305,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel document doit être contrôlé pour vérifier l'identité du patient et la concordance de son nom et date de naissance avec celui mentionné sur les documents de transfusion ?",
+    "options": [
+      "A) Fiche de délivrance",
+      "B) Prescription médicale de produit sanguin labile",
+      "C) Dossier transfusionnel du patient",
+      "D) Contrôle ultime prétransfusionnel"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le document qui doit être contrôlé pour vérifier l'identité du patient et la concordance de son nom et date de naissance avec celui mentionné sur les documents de transfusion est le dossier transfusionnel du patient.",
+    "source_context": "À la réception, le contrôle ultime prétransfusionnel doit être réalisé. Il comprend deux grandes étapes : Le contrôle ultime de concordance qui doit être réalisé pour chaque PSL au lit du patient",
+    "module_id": "transfusion",
+    "chunk_id": "section_183_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 69,
+    "difficulty": "easy",
+    "biomedical_score": 0.8785,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier contrôle à effectuer avant une transfusion sanguine?",
+    "options": [
+      "La température",
+      "La pression artérielle",
+      "La fréquence cardiaque",
+      "La saturation en oxygène"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Il est important de relever la pression artérielle du patient avant de démarrer l’acte transfusionnel.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_185_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 69,
+    "difficulty": "easy",
+    "biomedical_score": 0.9483,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le régime de surveillance des paramètres vitaux pendant une transfusion sanguine?",
+    "options": [
+      "Toutes les 5 minutes pendant 15 minutes, puis toutes les 30 minutes",
+      "Toutes les 30 minutes tout au long de l'acte",
+      "Il n'est pas nécessaire de surveiller les paramètres vitaux pendant une transfusion sanguine",
+      "Les paramètres vitaux doivent être surveillés tous les jours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lorsque l’acte transfusionnel a démarré, les paramètres vitaux doivent être surveillés de manière régulière : toutes les 5 minutes pendant 15 minutes, puis toutes les 30 minutes.",
+    "source_context": "Citation.",
+    "module_id": "transfusion",
+    "chunk_id": "section_185_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 69,
+    "difficulty": "easy",
+    "biomedical_score": 0.9345,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels objets doivent être conservés pendant les deux heures qui suivent la transfusion ?",
+    "options": [
+      "Les poches remplies de PSL",
+      "Le transfuseur ouvert",
+      "Les poubelles pleines",
+      "Les poches vides de PSL"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Il doit être conservé les poches vides de PSL afin qu'ils puissent être inspectés pour s'assurer que la transfusion a été complète et correctement effectuée.",
+    "source_context": "Les paramètres vitaux sont à surveiller dans les 2 heures qui suivent la transfusion. Il sera également important de conserver pendant 2 heures : - Les poches vides de PSL...",
+    "module_id": "transfusion",
+    "chunk_id": "section_186_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 70,
+    "difficulty": "easy",
+    "biomedical_score": 0.9252,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel dispositif doivent être conservé pendant 2 heures ?",
+    "options": [
+      "Le marteau",
+      "La carte de contrôle ultime",
+      "Les gants",
+      "Le transfuseur clampé"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Il doit être conservé le transfuseur clampé afin d'être sûr qu'aucun fluide n'est échappé pendant la transfusion.",
+    "source_context": "Il sera également important de conserver pendant 2 heures : - Le transfuseur clampé...",
+    "module_id": "transfusion",
+    "chunk_id": "section_186_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 70,
+    "difficulty": "easy",
+    "biomedical_score": 0.9617,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "En cas d'accidents transfusionnels, quelle action doit être prise immédiatement ?",
+    "options": [
+      "Continuer la transfusion",
+      "Conserver la poche et arrêter la transfusion",
+      "Ne rien faire",
+      "Appeler le service de laboratoire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En cas d'accidents transfusionnels, il sera primordial de réagir rapidement en arrêtant d’emblée la transfusion (tout en conservant la poche) et en appelant immédiatement le service de soins intensifs ou le service de transfusion sanguine.",
+    "source_context": "En cas d’accidents transfusionnels, il sera primordial de réagir rapidement en arrêtant d’emblée la transfusion (tout en conservant la poche) et en appelant immédiatement le.",
+    "module_id": "transfusion",
+    "chunk_id": "section_187_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 70,
+    "difficulty": "easy",
+    "biomedical_score": 0.9331,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le signe de mauvaise tolérance à la transfusion qui peut être signalé par des frissons, hyperthermie et une chute de pression artérielle ?",
+    "options": [
+      "Une hémolyse sanguine",
+      "Des signes respiratoires",
+      "Des signes digestifs",
+      "Une altération de la conscience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cette réaction indique une réaction négative à la transfusion de sang et peut être un signe d'hémolyse sanguine.",
+    "source_context": "Contexte : Découverte d’une hémolyse sanguine après une transfusion.",
+    "module_id": "transfusion",
+    "chunk_id": "section_57_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 21,
+    "difficulty": "easy",
+    "biomedical_score": 0.9287,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel type de muscle est innervé par le système nerveux cérébro-spinal et dont la contraction est soumise à la volonté?",
+    "options": [
+      "A - Myocarde",
+      "B - Muscles lisses",
+      "C - Muscles squelettiques",
+      "D - Muscles cardiaques"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les muscles squelettiques sont innervés par le système nerveux cérébro-spinal et leur contraction est soumise à la volonté.",
+    "source_context": "Citation : Ils sont innervés par le système nerveux cérébro-spinal et leur contraction est soumise à la volonté.",
+    "module_id": "transfusion",
+    "chunk_id": "section_16_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 7,
+    "difficulty": "easy",
+    "biomedical_score": 0.8897,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel type de muscle ne dépend pas de la volonté, échappent à la commande du système nerveux cérébro-spinal et sont soumis qu’aux indications du système nerveux végétatif?",
+    "options": [
+      "A - Muscles lisses",
+      "B - Myocarde",
+      "C - Muscles cardiaques",
+      "D - Muscles squelettiques"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les muscles lisses ne dépendent pas de la volonté et sont soumis qu’aux indications du système nerveux végétatif.",
+    "source_context": "Citation : Les muscles lisses : Leur contraction ne dépend pas de la volonté, ils échappent à la commande du système nerveux cérébro-spinal et ne sont soumis qu’aux indications du système nerveux végétatif.",
+    "module_id": "transfusion",
+    "chunk_id": "section_16_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 7,
+    "difficulty": "easy",
+    "biomedical_score": 0.8774,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qu'une transfusion autologue ?",
+    "options": [
+      "Un don de sang",
+      "Une transfusion du patient avec des globules rouges prélevés en amont",
+      "Un traitement contre les anticorps",
+      "Un traitement contre les antigènes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C'est une procédure chirurgicale qui consiste à prélever le sang du patient avant l'opération et à lui en redonner pendant l'opération.",
+    "source_context": "Transfusion autologue = transfusion du patient avec son propre sang prélevé en amont.",
+    "module_id": "transfusion",
+    "chunk_id": "section_21_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9571,
+    "biomedical_threshold": 0.09,
+    "mode": "concours"
+  },
+  {
+    "text": "L’onde QRS à la contraction des ventricules, quelle est sa fonction?",
+    "options": [
+      "A. Refléter le temps de repolarisation des ventricules",
+      "B. Représenter l'activité électrique générale du cœur",
+      "C. Indiquer le début de la contraction des ventricules",
+      "D. Signaler le début de la repolarisation des ventricules"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'onde QRS est générée par les ventricules lorsque ces derniers commencent à contracter. Donc, l'option correcte est 'C'.",
+    "source_context": "Citation: Analyse de l'ECG",
+    "module_id": "unknown",
+    "chunk_id": "section_20_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 13,
+    "difficulty": "easy",
+    "biomedical_score": 0.927,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "L’espace PR : Reflète le temps de conduction auriculo-ventriculaire. Quel est le temps normal en ms?",
+    "options": [
+      "A. 100ms - 200ms",
+      "B. 80ms - 120ms",
+      "C. 150ms - 250ms",
+      "D. 300ms - 400ms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le temps normal de conduction auriculo-ventriculaire est de 80 à 120 ms. Donc, l'option correcte est 'B'.",
+    "source_context": "Citation: Analyse de l'ECG",
+    "module_id": "unknown",
+    "chunk_id": "section_20_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 13,
+    "difficulty": "easy",
+    "biomedical_score": 0.9249,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le nom du processus par lequel l'appareil respiratoire élimine le CO2 et réoxygène le sang en O2 ?",
+    "options": [
+      "Exhalation",
+      "Inhalation",
+      "Hématose",
+      "Transpiration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le processus par lequel l'appareil respiratoire élimine le CO2 et réoxygène le sang en O2 est appelé hématose.",
+    "source_context": "Le rôle de l’appareil respiratoire est d’éliminer le CO2 et de réoxygéner le sang en O2. On appelle cela l’hématose.",
+    "module_id": "unknown",
+    "chunk_id": "section_23_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 14,
+    "difficulty": "easy",
+    "biomedical_score": 0.9011,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est ce que l'hématose?",
+    "options": [
+      "A. La transformation du sang riche en dioxygène et pauvre en dioxyde de carbone en sang réoxygéné.",
+      "B. La transformation du sang réoxygéné en dioxygène et pauvre en dioxyde de carbone en sang pauvre.",
+      "C. Le processus par lequel l'air est absorbé dans les poumons.",
+      "D. Une maladie du sang."
+    ],
+    "correctAnswer": 0,
+    "explanation": "L’hématose est le processus par lequel le sang pauvre en dioxygène et riche en dioxyde de carbone est transformé en sang réoxygéné.",
+    "source_context": "Citation: L’hématose, c’est la transformation du sang pauvre en dioxygène et riche en dioxyde de carbone en sang réoxygéné.",
+    "module_id": "unknown",
+    "chunk_id": "section_26_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 15,
+    "difficulty": "easy",
+    "biomedical_score": 0.9504,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Dans les hématies, le CO2 est présent sous forme dissoute, combinée à l'hémoglobine et en forme de quoi?",
+    "options": [
+      "Surfactant",
+      "Monoxyde de carbone",
+      "Oxygène",
+      "Bicarbonate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Il se retrouve également dans les hématies (à 30 %) sous forme dissoute, sous forme combinée à l'hémoglobine (carbaminohémoglobine) et sous forme de bicarbonate (H2C03-).",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_27_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 15,
+    "difficulty": "easy",
+    "biomedical_score": 0.9209,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le volume d’air inspiré au-delà d’une inspiration normale (inspiration forcée)?",
+    "options": [
+      "VT",
+      "VRI",
+      "VRE",
+      "CV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le volume d'air inspiré au-delà d'une inspiration normale est le Volume de réserve inspiratoire (VRI), qui est d'environ 2500 ml à 3000 ml.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_39_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.89,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel effet a l'inotrope lorsqu'il agit en synergie avec un autre inotrope?",
+    "options": [
+      "A. Vasodilation",
+      "B. Vasoconstriction",
+      "C. Chronotropisme",
+      "D. Bathmotropisme"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'inotrope agissant en synergie avec un autre inotrope provoque une augmentation de la force de contraction du myocarde, ce qui est synonyme de vasoconstriction.",
+    "source_context": "Inotrope + Inotrope -",
+    "module_id": "unknown",
+    "chunk_id": "section_85_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 37,
+    "difficulty": "easy",
+    "biomedical_score": 0.9222,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel effet a le dromotrope lorsqu'il agit en synergie avec un autre dromotrope?",
+    "options": [
+      "A. Vasodilation",
+      "B. Vasoconstriction",
+      "C. Chronotropisme",
+      "D. Bathmotropisme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le dromotrope agissant en synergie avec un autre dromotrope provoque une augmentation de la fréquence cardiaque, ce qui est synonyme de chronotropisme.",
+    "source_context": "Dromotrope + Dromotrope -",
+    "module_id": "unknown",
+    "chunk_id": "section_85_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 37,
+    "difficulty": "easy",
+    "biomedical_score": 0.923,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel mnémotechnique est utilisé pour retenir les noms des nerfs de la main?",
+    "options": [
+      "A) Oh, Peter! My Little Anne Me Fait A Grand Peine Six Gosses",
+      "B) Oh, Oscar! Ma Petite Thérèse Me Fait A Grand Peine Six Gosses",
+      "C) Oh, Olivia! Mon Plus Beau Frère Me Prend En Otage",
+      "D) Oh, Olga! Mon Père Me Prête Une Guitare"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le mnémotechnique utilisé pour retenir les noms des nerfs de la main est 'Oh, Oscar! Ma Petite Thérèse Me Fait A Grand Peine Six Gosses'. Les premières lettres font référence aux noms des nerfs du pouce à l'aiguille.",
+    "source_context": "Citation du mnémotechnique pour les nerfs de la main.",
+    "module_id": "unknown",
+    "chunk_id": "section_95_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 39,
+    "difficulty": "easy",
+    "biomedical_score": 0.8948,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel test est utilisé dans le monde pour tester trois paramètres, notamment l’ouverture des yeux, la réponse verbale et la réponse motrice?",
+    "options": [
+      "A) Test de Rorschach",
+      "B) Test d'Alzheimer",
+      "C) Test de Mini-Mental",
+      "D) Test de Wechsler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le test de Mini-Mental est un test standardisé utilisé pour évaluer le niveau cognitif d'une personne. Il comprend trois paramètres : l’ouverture des yeux, la réponse verbale et la réponse motrice.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_97_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 41,
+    "difficulty": "easy",
+    "biomedical_score": 0.8701,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Le test de Mini-Mental est souvent utilisé pour évaluer le niveau cognitif d'une personne en cas de:",
+    "options": [
+      "A) Douleurs au dos",
+      "B) Accidents vasculaires cérébraux",
+      "C) Troubles gastro-intestinaux",
+      "D) Douleurs articulaires"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le test de Mini-Mental est souvent utilisé pour évaluer le niveau cognitif d'une personne en cas d'accidents vasculaires cérébraux.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_97_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 41,
+    "difficulty": "easy",
+    "biomedical_score": 0.8723,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel hormone est sécrétée par l'hypothalamus pour stimuler la thyroïde à produire T3 et T4?",
+    "options": [
+      "TSH",
+      "TRH",
+      "T3",
+      "T4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le TRH (Thyrotropin-releasing hormone) est sécrété par l'hypothalamus pour stimuler la thyroïde à produire T3 et T4.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_111_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "difficulty": "easy",
+    "biomedical_score": 0.8937,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle hormone est hyperglycémiante, possède une action lipolytique et est régulée par la GHRH ?",
+    "options": [
+      "Foie",
+      "Adipocyte",
+      "Hormone du croissance (GH)",
+      "Insuline"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'hormone du croissance (GH) est la hormone régulée par GHRH qui possède une action lipolytique et est considérée comme hyperglycémiante.",
+    "source_context": "Citation : La hormone du croissance est une hormone importante pour le métabolisme des glucides, lipides et protéines.",
+    "module_id": "unknown",
+    "chunk_id": "section_112_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "difficulty": "easy",
+    "biomedical_score": 0.9088,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Contre-indications pour les antagonistes des récepteurs AT1 de l’angiotensine II :",
+    "options": [
+      "A. L'insuffisance hépatique sévère et la femme enceinte",
+      "B. La sténose bilatérale des artères rénales et l'insuffisance hépatique sévère",
+      "C. Le diabète sucré et la femme enceinte",
+      "D. L'asthme et la sténose bilatérale des artères rénales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La femme enceinte (passage placentaire) et l’insuffisance hépatique sévère sont les contre-indications pour les antagonistes des récepteurs AT1 de l’angiotensine II.",
+    "source_context": "Contre-indications : - La femme enceinte (passage placentaire) - Sténose bilatérale des artères rénales - L’insuffisance hépatique sévère",
+    "module_id": "unknown",
+    "chunk_id": "section_149_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 53,
+    "difficulty": "easy",
+    "biomedical_score": 0.8778,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel solution est un hypotonique avec un taux de glucose de 2,5 % ?",
+    "options": [
+      "A. Hypertonique",
+      "B. Isotonique",
+      "C. Hypotonique",
+      "D. Hyperosmolar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'hypotonique est une solution dont le taux de soluté est inférieur à celui du plasma sanguin. Dans ce cas, la glucose à 2,5 % est un hypotonique.",
+    "source_context": "Hypotonique Glucose 2,5 %",
+    "module_id": "unknown",
+    "chunk_id": "section_166_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 59,
+    "difficulty": "easy",
+    "biomedical_score": 0.9018,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel solution de bicarbonate a une concentration plus élevée que le plasma sanguin (8,4 %) ?",
+    "options": [
+      "A. Bicarbonate 1,4 %",
+      "B. Bicarbonate 3 %",
+      "C. Bicarbonate 4,2 %",
+      "D. Bicarbonate 8,4 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le plasma sanguin a une concentration de bicarbonate d'environ 24 mEq/L. Dans ce cas, la solution de bicarbonate à 8,4 % est plus élevée.",
+    "source_context": "Bicarbonate 1,4 %, 3 %, 4,2 %, 8,4 %",
+    "module_id": "unknown",
+    "chunk_id": "section_166_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 59,
+    "difficulty": "easy",
+    "biomedical_score": 0.9163,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le risque principal de transfusion sanguine entre un donneur RhD + et un récipient RhD - ?",
+    "options": [
+      "Pas de risque.",
+      "Risque d'hémolyse.",
+      "Risque d'infection.",
+      "Risque allergique."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le risque principal de transfusion sanguine entre un donneur RhD + et un récipient RhD - est le risque d'hémolyse.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_180_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 67,
+    "difficulty": "easy",
+    "biomedical_score": 0.9152,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "S'il vous plait, indiquez la phrase qui est une affirmation de fierté envers les connaissances présentées dans l'ebook.",
+    "options": [
+      "Il n'y a rien à apprendre dans cet ebook",
+      "Si vous connaissez bien toutes les notions présentent dans ce livre, vous pouvez être fier de vous",
+      "Ne relâchez pas !",
+      "N'hésitez pas a me contacter via cet email : laprepaiade@gmail.com"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La phrase 'Si vous connaissez bien toutes les notions présentent dans ce livre, vous pouvez être fier de vous' est une affirmation de fierté envers les connaissances présentées dans l'ebook.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_196_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 74,
+    "difficulty": "easy",
+    "biomedical_score": 0.8974,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "L'étudiante infirmière qui n’a jamais fait ce soin demande une explication. Qu’y a-t-il à faire ?",
+    "options": [
+      "Elle doit effectuer un bilan complet.",
+      "Il faut lui expliquer le procédé de l'intervention.",
+      "Il faut lui donner des instructions détaillées avant de commencer.",
+      "Il n'est pas nécessaire d'expliquer car c'est une connaissance acquis."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Il est nécessaire de lui donner des instructions détaillées avant de commencer l'intervention pour qu'elle puisse bien comprendre le processus.",
+    "source_context": "Principe de la pédagogie : expliquer les actions aux apprenants.",
+    "module_id": "unknown",
+    "chunk_id": "section_04_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 3,
+    "difficulty": "easy",
+    "biomedical_score": 0.9254,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Un nouveau-né est-il considéré en arrêt cardiaque s’il a une fréquence cardiaque inférieure à quelle valeur?",
+    "options": [
+      "90",
+      "85",
+      "80",
+      "75"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Un nouveau-né est considéré en arrêt cardiaque s'il a une fréquence cardiaque inférieure à 80 battements par minute.",
+    "source_context": "Définition de l'arrêt cardiaque chez le nouveau-né.",
+    "module_id": "unknown",
+    "chunk_id": "section_36_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 12,
+    "difficulty": "easy",
+    "biomedical_score": 0.9279,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le débit en ml/min de la perfusion de ringer de Mr. L (500ml en 10h)?",
+    "options": [
+      "5 ml/min",
+      "50 ml/min",
+      "500 ml/min",
+      "5000 ml/min"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le débit est calculé en divisant le volume par la durée. Ici, il y a 500ml à distribuer sur 10 heures (60 minutes), ce qui donne un débit de 50 ml/min.",
+    "source_context": "Calculer le débit en ml/min de 500ml distribués sur 10 heures.",
+    "module_id": "unknown",
+    "chunk_id": "section_42_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 14,
+    "difficulty": "easy",
+    "biomedical_score": 0.9216,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le débit en gouttes/min de la perfusion de Nacl de Mme P (800ml en 12h)?",
+    "options": [
+      "4 gouttes/min",
+      "40 gouttes/min",
+      "400 gouttes/min",
+      "4000 gouttes/min"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pour calculer le débit en gouttes, il faut savoir combien de gouttes il y a dans un ml. Dans un perfusateur standard, il y a environ 15 gouttes par ml. Ainsi, pour 800ml distribués sur 12 heures (720 minutes), le débit sera de 4000 gouttes/min.",
+    "source_context": "Calculer le débit en gouttes/min de 800ml distribués sur 12 heures.",
+    "module_id": "unknown",
+    "chunk_id": "section_42_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 14,
+    "difficulty": "easy",
+    "biomedical_score": 0.8993,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le débit (en gouttes/min) que doit recevoir Mme P en 1h?",
+    "options": [
+      "320",
+      "640",
+      "16",
+      "1040"
+    ],
+    "correctAnswer": 3,
+    "explanation": "On doit passer 800 ml/heure et on sait que 1ml = 20 gouttes. Pour connaître le débit en gouttes/min on pose : Le débit est de 67 ml/heure (arrondi au plus proche). On arrondit ensuite à 60 minutes, donc le débit en gouttes/min est de 67×20 = 1340 gouttes/heure. Le débit en gouttes/min est donc 1340/60 = 22,33 gouttes/min (arrondi au plus proche).",
+    "source_context": "La quantité de ringer à recevoir de Mme P étant de 800 ml en une heure, pour connaître le débit en gouttes/min on pose : Le débit en gouttes/heure est de 67 (arrondi au plus proche). On arrondit ensuite à 60 minutes.",
+    "module_id": "unknown",
+    "chunk_id": "section_55_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.8649,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est un signe de l'hypercapnie?",
+    "options": [
+      "A. Hypertension artérielle et tachycardie",
+      "B. Perte de connaissance",
+      "C. Vasodilatation cutanée",
+      "D. Hypercrinie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La perte de connaissance est un signe de l'hypercapnie car elle peut être liée à une augmentation du pH cérébral en raison de la résorption acide des protons du CO2.",
+    "source_context": "Signes de l’hypercapnie : - Somnolence pouvant aller jusqu’à la perte de connaissance - Désorientation - Hypertension artérielle et tachycardie - Vasodilatation cutanée - Hypercrinie.",
+    "module_id": "unknown",
+    "chunk_id": "section_72_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.9317,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le symptôme qui démontre une hausse du CO2 dans le sang supérieure à 42 mmHg?",
+    "options": [
+      "A. Hypertension artérielle et tachycardie",
+      "B. Perte de connaissance",
+      "C. Vasodilatation cutanée",
+      "D. Hypercrinie"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Une valeur supérieure à 42 mmHg du CO2 dans le sang est un indicateur de l'hypercapnie et peut être associé à une vasodilatation cutanée.",
+    "source_context": "carbone) dans le sang à une valeur supérieur à 42 mmHg.",
+    "module_id": "unknown",
+    "chunk_id": "section_72_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 24,
+    "difficulty": "easy",
+    "biomedical_score": 0.9189,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle zone contient le foie et la rate?",
+    "options": [
+      "De l’hypocondre droit",
+      "De l’hypocondre gauche",
+      "De l’épigastre",
+      "Des fosses iliaques"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le foie est situé dans la partie droite de l'abdomen, sous le dixième côté et en dessous du diaphragme. La rate se trouve en face, à gauche. Il s'agit donc des zones de l’hypocondre droit et de l’hypocondre gauche.",
+    "source_context": "Anatomie humaine.",
+    "module_id": "unknown",
+    "chunk_id": "section_78_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9187,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Où se trouve le rein droit?",
+    "options": [
+      "De l’hypocondre droit",
+      "De l’hypocondre gauche",
+      "De l’épigastre",
+      "Des fosses iliaques"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le rein droit se trouve dans la partie droite de l'abdomen, au-dessus du rein gauche et en dedans des fosses iliaques.",
+    "source_context": "Anatomie humaine.",
+    "module_id": "unknown",
+    "chunk_id": "section_78_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 26,
+    "difficulty": "easy",
+    "biomedical_score": 0.9233,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont deux traitements pour un pneumothorax mal toléré ? Donnez une option qui correspond à un traitement d'urgence.",
+    "options": [
+      "Percutaneux drainage, Thoracotomie",
+      "Thoracotomie, Percutaneux drainage",
+      "Percutaneux drainage, Surgicale drainage",
+      "Surgicale drainage, Thoracotomie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La thoracotomie est une intervention chirurgicale d'urgence pour traiter un pneumothorax mal toléré, tandis que le percutaneux drainage peut être utilisé en urgence et non-urgence.",
+    "source_context": "Pneumothorax: Diagnosis, Management, and Complications. (2016). UpToDate.",
+    "module_id": "unknown",
+    "chunk_id": "section_94_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9193,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels sont deux traitements pour un pneumothorax ?",
+    "options": [
+      "Surgicale drainage, Percutaneux drainage",
+      "Percutaneus drainage, Thoracotomie",
+      "Thoracotomie, Surgicale drainage",
+      "Peritoneal dialysis, Hemodialysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le surgicale drainage et le percutaneux drainage sont deux traitements possibles pour un pneumothorax.",
+    "source_context": "Pneumothorax: Diagnosis, Management, and Complications. (2016). UpToDate.",
+    "module_id": "unknown",
+    "chunk_id": "section_94_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 28,
+    "difficulty": "easy",
+    "biomedical_score": 0.9034,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Vous avez vu que la saturation de l'étudiant est à 94% sous O2 avec un volume de 2L. Il propose d'augmenter à 6L pour améliorer sa saturation. Quelle est votre réponse ?",
+    "options": [
+      "Il faudrait augmenter la fourniture en oxygène.",
+      "Il ne faut pas changer la fourniture en oxygène.",
+      "Il faut diminuer la fourniture en oxygène.",
+      "La saturation est déjà à un niveau acceptable."
+    ],
+    "correctAnswer": 2,
+    "explanation": "La saturation à 94% sous O2 indique qu'il y a déjà une sur-oxygenation et que l'augmenter pourrait être dangereuse.",
+    "source_context": "Cet étudiant est en oxygène, sa saturation est supérieure à la normale.",
+    "module_id": "unknown",
+    "chunk_id": "section_08_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 4,
+    "difficulty": "easy",
+    "biomedical_score": 0.893,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Le patient se plaint de douleurs abdominales et de nausées. Vous voyez une tachycardie. Quelle est votre réponse ?",
+    "options": [
+      "Il faut donner du métoclopramide pour les douleurs abdominales.",
+      "Il faut donner des antalgiques pour les douleurs abdominales.",
+      "Il faudrait mesurer le taux de CO2 du patient.",
+      "Il faut arrêter la prise en charge et consulter l'équipe médicale."
+    ],
+    "correctAnswer": 3,
+    "explanation": "La tachycardie indique une hypoxie et un trouble métabolique. Il est nécessaire de mesurer le taux de CO2 pour confirmer la suspicion.",
+    "source_context": "Le patient se plaint de douleurs abdominales, de nausées et a une tachycardie.",
+    "module_id": "unknown",
+    "chunk_id": "section_08_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 4,
+    "difficulty": "easy",
+    "biomedical_score": 0.9262,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quels médicaments seront probablement utilisés pour le traitement du syndrome coronarien aigu?",
+    "options": [
+      "Antiagrégant plaquettaire (aspegic)",
+      "Bloqueur de récepteur à l’ADP (clopidogrel)",
+      "Traitement fibrinolytique (métalyse)",
+      "Aucun des précédents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le traitement du syndrome coronarien aigu nécessite l'utilisation d'antiagrégant plaquettaire (aspegic), de bloqueur de récepteur à l’ADP (clopidogrel) et de traitement fibrinolytique (métalyse).",
+    "source_context": "thoracique, acronyme PIED",
+    "module_id": "unknown",
+    "chunk_id": "section_17_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9236,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est l'effet de donner trop d'oxygène à un patient BPCO?",
+    "options": [
+      "Il respire plus vite.",
+      "Ses récepteurs seront plus enclins à stimuler les centres respiratoires.",
+      "L'hypoxie est augmentée.",
+      "Il a une saturation correcte qui est tolérée."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ses récepteurs seront moins enclins à stimuler les centres respiratoires car ils ont un seuil de tolérance augmenté au-delà de celui d'un individu sain.",
+    "source_context": "Chez le patient BPCO, la capnie est constamment très élevée, leur seuil de tolérance est augmenté au-delà de celui d’un individu sain. Un patient BPCO ne réagit qu’à l’hypoxie.",
+    "module_id": "unknown",
+    "chunk_id": "section_19_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 8,
+    "difficulty": "easy",
+    "biomedical_score": 0.9333,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelles sont les voies par lesquelles on évite l'effet de premier passage hépatique?",
+    "options": [
+      "La voie sub-linguale, la voie transdermique, la voie inhalée et la voie nasale.",
+      "Le médicament ne peut pas être administré par aucune des voies citées.",
+      "Il est possible de lui appliquer l'effet de premier passage hépatique intentionnellement.",
+      "Il n'y a pas de méthode pour éviter l'effet de premier passage hépatique."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les voies par lesquelles on évite l'effet de premier passage hépatique sont la voie sub-linguale, la voie transdermique, la voie inhalée et la voie nasale.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_24_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9013,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Qu'est-ce qui peut se produire chez un nourrisson en cas d'absence de surfactante pulmonaire ?",
+    "options": [
+      "A - Une insuffisance respiratoire",
+      "B - Un diabète",
+      "C - Une maladie cardiaque",
+      "D - Une maladie rénale"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'absence de surfactante pulmonaire peut entraîner chez le nourrisson une insuffisance respiratoire.",
+    "source_context": "Son absence entraïne chez le nourrisson, la maladie des membranes hyalines qui entraîne une insuffisance respiratoire.",
+    "module_id": "unknown",
+    "chunk_id": "section_47_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 14,
+    "difficulty": "easy",
+    "biomedical_score": 0.926,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quelle quantité devriez-vous prendre pour préparer 0,5mg/ml dans une seringue?",
+    "options": [
+      "500µg",
+      "0,5mL",
+      "1mL",
+      "2mL"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pour avoir une concentration de 0,5mg/ml, il faut prendre 0,5 mL d'une solution qui contient 1 mg/mL. Ainsi, il faut utiliser 2 mL de cette solution.",
+    "source_context": "Ce calcul permet de préparer une concentration spécifique dans une seringue.",
+    "module_id": "unknown",
+    "chunk_id": "section_70_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.9167,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le volume total nécessaire pour préparer 0,5mg/ml dans une seringue de 1mL?",
+    "options": [
+      "0,5mL",
+      "1mL",
+      "2mL",
+      "5mL"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pour avoir une concentration de 0,5mg/ml dans une seringue de 1 mL, il faut prendre 0,5 mL d'une solution qui contient 1 mg/mL. Ainsi, il faut utiliser 2 mL de cette solution, mais la solution sera transférée dans la seringue (qui a un volume de 1 mL), ce qui laisse donc un volume de 1 - 0,5 = 0,5 mL de place vide.",
+    "source_context": "Il est important de savoir quelle quantité totale doit être préparée pour atteindre la concentration souhaitée.",
+    "module_id": "unknown",
+    "chunk_id": "section_70_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 20,
+    "difficulty": "easy",
+    "biomedical_score": 0.9064,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Où peut-on rejoindre le groupe Facebook pour discuter des questions sur le concours IADE ?",
+    "options": [
+      "A) laprepaiade@gmail.com",
+      "B) www.facebook.com/La-Prépa-Concours-IADE",
+      "C) www.prepaconcoursiade.com",
+      "D) Aucun de ces choix"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le groupe Facebook pour discuter des questions sur le concours IADE peut être rejoindre en cliquant sur www.facebook.com/La-Prépa-Concours-IADE.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_105_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 30,
+    "difficulty": "easy",
+    "biomedical_score": 0.9119,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Où peut-on trouver des informations détaillées sur le financement et les livres à avoir pour le concours IADE ?",
+    "options": [
+      "A) laprepaiade@gmail.com",
+      "B) www.facebook.com/La-Prépa-Concours-IADE",
+      "C) www.prepaconcoursiade.com",
+      "D) Aucun de ces choix"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les informations détaillées sur le financement et les livres à avoir pour le concours IADE peuvent être trouvés en cliquant sur www.prepaconcoursiade.com.",
+    "source_context": "Citation.",
+    "module_id": "unknown",
+    "chunk_id": "section_105_c01",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page": 30,
+    "difficulty": "easy",
+    "biomedical_score": 0.8969,
+    "biomedical_threshold": 0.05,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le premier signe d'hypothermie chez un nourrisson ?",
+    "options": [
+      "Vigoureux (cris)",
+      "Réactivité Faible (grimace)",
+      "Il ne frissonne pas",
+      "Il utilise la graisse brune"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Un nouveau-né de frissonne pas et utilise sa graisse blanche pour se chauffer. L'hypothermie chez le nourrisson peut avoir des signes tels que la faible réactivité ou la grimace.",
+    "source_context": "Citation.",
+    "module_id": "ventilation",
+    "chunk_id": "section_122_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 45,
+    "difficulty": "easy",
+    "biomedical_score": 0.9222,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Comment prévenir l'hypothermie chez un nourrisson ?",
+    "options": [
+      "En le réchauffant rapidement",
+      "En laissant sa graisse brune",
+      "En ne faisant pas attention à ses pertes thermiques par la tête",
+      "En le laissant frissonner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La prévention de l'hypothermie chez un nourrisson est primordiale. Il faut réchauffer rapidement l'enfant et savoir que 20 % des pertes thermiques se font par la tête.",
+    "source_context": "Citation.",
+    "module_id": "ventilation",
+    "chunk_id": "section_122_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 45,
+    "difficulty": "easy",
+    "biomedical_score": 0.9424,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le but de demander de l’aide aux passants s’il y en a?",
+    "options": [
+      "A) Libérer les voies aériennes",
+      "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+      "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+      "D) Basculer la tête en"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le but de demander de l’aide aux passants s’il y en a est de trouver des personnes qui pourraient apporter une assistance immédiate lors d'une crise cardiaque.",
+    "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+    "module_id": "ventilation",
+    "chunk_id": "section_22_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9145,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Quel est le but de libérer les voies aériennes?",
+    "options": [
+      "A) Demander de l’aide aux passants s’il y en a",
+      "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+      "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+      "D) Basculer la tête en"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le but de libérer les voies aériennes est d'éliminer tout obstacle qui pourrait empêcher le passage de l'air dans les poumons, ce qui est crucial lors d'une crise cardiaque.",
+    "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+    "module_id": "ventilation",
+    "chunk_id": "section_22_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 9,
+    "difficulty": "easy",
+    "biomedical_score": 0.9277,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  },
+  {
+    "text": "Dans quelle zone anatomique, il peut y avoir une perfusion mais pas de ventilation (physiologique ou pathologique)?",
+    "options": [
+      "Effet shunt",
+      "Espace mort anatomique",
+      "Voies aériennes inférieures",
+      "Artère pulmonaire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'espace mort anatomique est une zone anatomique où il y a ventilation mais pas de perfusion. Cela peut se produire dans les bronches, la trachée et les voies aériennes supérieures.",
+    "source_context": "Citation.",
+    "module_id": "ventilation",
+    "chunk_id": "section_60_c01",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 21,
+    "difficulty": "easy",
+    "biomedical_score": 0.9228,
+    "biomedical_threshold": 0.06,
+    "mode": "concours"
+  }
+]

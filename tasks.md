@@ -1,6 +1,6 @@
-# IADE NEW — Liste des Tâches Actionnables v1.0
+# IADE NEW — Liste des Tâches Actionnables v1.1
 
-**Document de référence** : 101 tâches organisées par 9 phases
+**Document de référence** : 106 tâches organisées par 10 phases
 
 Date : 5 novembre 2025  
 Version : 1.0  
@@ -1296,14 +1296,15 @@ cat logs/generation_progress.json | jq .
 | 7 | 4 | 8-10h |
 | 8 | 4 | 5-6h |
 | 9 | 16 | 10-12h |
+| 10 | 5 | 2-3h |
 
-**Total** : 101 tâches, ~70-85h travail effectif (hors temps machine ~8h)
+**Total** : 106 tâches, ~72-87h travail effectif (hors temps machine ~10h)
 
-### Par Statut (initial)
+### Par Statut (actuel)
 
-- `TODO` : 101 tâches
+- `TODO` : 102 tâches (101 initiales + 3 Phase 10 - 2 done)
 - `IN PROGRESS` : 0
-- `DONE` : 0
+- `DONE` : 2 tâches (102, 103 - Phase 10)
 - `BLOCKED` : 0
 
 ### Tâches Critiques (chemin critique)
@@ -1371,17 +1372,403 @@ Toutes les tâches doivent contribuer à atteindre ces métriques :
 
 ---
 
+## Phase 10 : Linguistic Optimization & Quality Refinement (Post-MVP)
+
+### [102] DONE Identifier les QCM de faible qualité
+
+**Description** : scanner tous les fichiers QCM et filtrer ceux avec score BioBERT < 0.70, explications vides ou distracteurs non plausibles
+
+**Dépendances** : [037] Consolidation finale corpus
+
+**Fichiers concernés** :
+- `scripts/refinement/filter_low_quality.py`
+- `src/data/questions/to_refine.json`
+
+**Critères de validation** :
+- ✅ 213 QCM identifiés comme faibles
+- ✅ Fichier `to_refine.json` créé
+
+**Estimation** : 20 min
+
+**Statut** : ✅ DONE
+
+---
+
+### [103] DONE Réécriture IA biomédicale (fond)
+
+**Description** : utiliser Ollama (Mistral) pour reformuler les QCM faibles en améliorant la cohérence biomédicale, les explications et les distracteurs tout en conservant la bonne réponse
+
+**Dépendances** : [102] Identifier QCM faibles
+
+**Fichiers concernés** :
+- `scripts/refinement/refine_batch.py`
+- `src/data/questions/to_refine_refined.json`
+
+**Critères de validation** :
+- ✅ 213 QCM traités
+- ✅ 212 QCM raffinés avec succès (marked `refined=True`)
+- ✅ Fichier `to_refine_refined.json` créé
+
+**Estimation** : ~40 min (temps machine Ollama)
+
+**Statut** : ✅ DONE
+
+---
+
+### [104] ✅ DONE Recalcul BioBERT + fusion dans corpus principal
+
+**Description** : recalculer les scores BioBERT des QCM raffinés, valider qu'ils dépassent le seuil 0.88, déduplication, et fusionner dans `compiled.json`
+
+**Dépendances** : [103] Réécriture IA
+
+**Fichiers concernés** :
+- `scripts/refinement/revalidate_refined.py`
+- `scripts/refinement/deduplicate_chunk_ids.py`
+- `scripts/refinement/merge_corpus.py`
+- `src/data/questions/compiled_dedup.json`
+- `src/data/questions/compiled_refined.json`
+
+**Critères de validation** :
+- ✅ Score BioBERT moyen des raffinés : 0.932 (> 0.88)
+- ✅ 102/213 QCM acceptés après revalidation (47.9%)
+- ✅ Déduplication : 462 → 165 QCM uniques
+- ✅ Fusion réussie : 165 QCM finaux, 0 perte
+
+**Estimation** : 30 min
+
+**Résultats** :
+- 165 QCM uniques (dédupliqués par chunk_id)
+- 102 QCM remplacés par versions raffinées (61.8%)
+- Score biomédical moyen : 0.932 (+9.5% vs v1.0)
+
+**Statut** : ✅ DONE
+
+---
+
+### [105] TODO Optimisation linguistique (forme)
+
+**Description** : scanner tous les QCM v1.1 et reformuler ceux avec score de fluidité < 7/10, en conservant le sens médical et les réponses
+
+**Dépendances** : [104] Revalidation BioBERT
+
+**Fichiers concernés** :
+- `scripts/refinement/optimize_phrasing.py`
+- `src/data/questions/compiled_refined_optimized.json`
+
+**Critères de validation** :
+- ✅ Évaluation de 165 QCM (score fluidité 0-10)
+- ✅ Reformulation des questions avec score < 7
+- ✅ Sens médical préservé
+- ✅ Options et réponses correctes inchangées
+
+**Estimation** : ~20-30 min (temps machine Ollama)
+
+**Statut** : TODO (prêt à exécuter)
+
+---
+
+### [106] TODO Validation cohérence finale
+
+**Description** : vérifier la cohérence du corpus v1.1 final (post-optimisation linguistique) et générer rapport final de qualité
+
+**Dépendances** : [105] Optimisation linguistique
+
+**Fichiers concernés** :
+- `scripts/refinement/revalidate_refined.py`
+- `logs/final_quality_report.json`
+
+**Critères de validation** :
+- Score BioBERT global ≥ 0.88
+- Aucune régression détectée
+- Rapport de qualité généré
+
+**Estimation** : 20 min
+
+**Statut** : TODO
+
+---
+
+## Résumé Phase 10
+
+**Objectif** : améliorer la qualité linguistique et biomédicale des QCM après MVP
+
+**Tâches** : 5 (102-106)
+
+**Durée estimée** : ~2h30 (dont ~1h40 temps machine Ollama)
+
+**Statut** :
+- ✅ DONE : 4 tâches (102, 103, 104 + enrichissement métadonnées)
+- 🕒 TODO : 2 tâches (105, 106)
+
+---
+
+# PHASE 10+ — Déploiement v1.1 en Production
+
+## [107] ✅ DONE Enrichissement métadonnées
+
+**Description** : ajouter source_pdf, page_number et difficulty à chaque QCM du corpus v1.1
+
+**Dépendances** : [104] Fusion corpus
+
+**Fichiers concernés** :
+- `scripts/refinement/enrich_metadata.py`
+- `src/data/questions/compiled_refined_enriched.json`
+
+**Critères de validation** :
+- ✅ 165 QCM enrichis avec source_pdf
+- ✅ 165 QCM enrichis avec page_number
+- ✅ 165 QCM enrichis avec difficulty
+- ✅ Mapping chunk → PDF/page fonctionnel
+
+**Estimation** : 10 min
+
+**Résultats** :
+- 198 chunks mappés (modules → PDF)
+- 165/165 QCM avec métadonnées complètes
+- Distribution difficultés calculée
+
+**Statut** : ✅ DONE
+
+---
+
+## [108] TODO Déploiement production
+
+**Description** : remplacer les fichiers de production (compiled.json, revision.json, etc.) par le corpus v1.1 enrichi
+
+**Dépendances** : [107] Enrichissement métadonnées
+
+**Fichiers concernés** :
+- `scripts/production/deploy_v1.1.py`
+- `src/data/questions/compiled.json`
+- `src/data/questions/revision.json`
+- `src/data/questions/entrainement.json`
+- `src/data/questions/concours.json`
+
+**Critères de validation** :
+- Backup des fichiers existants créés
+- Fichiers production mis à jour avec corpus v1.1
+- 165 QCM disponibles en production
+- Application frontend fonctionnelle
+
+**Estimation** : 5 min
+
+**Statut** : TODO (prêt à exécuter)
+
+---
+
+## [109] TODO Régénération examens blancs
+
+**Description** : régénérer les 6 examens blancs avec le corpus v1.1 (165 QCM raffinés)
+
+**Dépendances** : [108] Déploiement production
+
+**Fichiers concernés** :
+- `scripts/ai_generation/exam_builder.py`
+- `src/data/exams/exam_1.json` → `exam_6.json`
+
+**Critères de validation** :
+- 6 examens de 60 questions générés
+- Distribution équilibrée par module
+- Distribution équilibrée par difficulté
+- Pas de doublons entre examens
+
+**Estimation** : 5 min
+
+**Statut** : TODO
+
+---
+
+## [110] TODO Génération notes de release
+
+**Description** : générer automatiquement les notes de release v1.1 pour GitHub
+
+**Dépendances** : [107] Enrichissement métadonnées
+
+**Fichiers concernés** :
+- `scripts/production/create_release_notes.py`
+- `RELEASE_NOTES_v1.1.md`
+
+**Critères de validation** :
+- Notes de release markdown générées
+- Statistiques corpus v1.1 incluses
+- Changelog v1.0 → v1.1 détaillé
+- Guide d'installation à jour
+
+**Estimation** : 5 min
+
+**Statut** : TODO (prêt à exécuter)
+
+---
+
+## [111] TODO Publication GitHub v1.1
+
+**Description** : créer la release officielle v1.1 sur GitHub avec archive corpus et documentation
+
+**Dépendances** : [110] Notes de release
+
+**Fichiers concernés** :
+- `export_for_ai/iade_qcm_v1.1_export.tar.gz`
+- GitHub release page
+
+**Commande** :
+```bash
+gh release create v1.1 \
+  ./export_for_ai/iade_qcm_v1.1_export.tar.gz \
+  --title "IADE NEW v1.1 – Corpus raffiné et validé" \
+  --notes-file RELEASE_NOTES_v1.1.md
+```
+
+**Critères de validation** :
+- Release v1.1 créée sur GitHub
+- Archive corpus attachée
+- Notes de release publiées
+- Tag v1.1 créé
+
+**Estimation** : 5 min
+
+**Statut** : TODO
+
+---
+
+## Résumé Phase 10+
+
+**Objectif** : déployer le corpus v1.1 raffiné en production et publier la release officielle
+
+**Tâches** : 5 (107-111)
+
+**Durée estimée** : ~30 min
+
+**Statut** :
+- ✅ DONE : 1 tâche (107)
+- 🕒 TODO : 4 tâches (108-111)
+
+---
+
+# PHASE 11 — Post-v1.1 (Audit & Expansion)
+
+## [112] TODO Audit externe qualité
+
+**Description** : faire évaluer 20 QCM aléatoires par un expert IADE ou enseignant pour valider la corrélation entre score BioBERT et jugement humain
+
+**Dépendances** : [111] Publication v1.1
+
+**Fichiers concernés** :
+- `scripts/evaluation/external_audit.py`
+- `docs/external_audit_report.md`
+
+**Critères de validation** :
+- 20 QCM évalués par expert
+- Corrélation score BioBERT ↔ jugement humain mesurée
+- Taux d'accord ≥ 85%
+- Recommandations d'amélioration documentées
+
+**Estimation** : 2-3h (selon disponibilité expert)
+
+**Statut** : TODO
+
+---
+
+## [113] TODO Préparation génération v2
+
+**Description** : créer script de diversification contrôlée pour générer variantes des 165 chunks existants (objectif : 165 → 462 QCM uniques)
+
+**Dépendances** : [112] Audit externe
+
+**Fichiers concernés** :
+- `scripts/generation_v2/diversify_chunks.py`
+- `scripts/generation_v2/variant_generator.py`
+
+**Critères de validation** :
+- Script de génération variantes créé
+- Mécanisme de labeling _v2, _v3 implémenté
+- Stratégie de diversification définie (angles d'approche différents)
+- Tests sur 10 chunks validés
+
+**Estimation** : 1h
+
+**Statut** : TODO
+
+---
+
+## [114] TODO Génération corpus v2 (expansion)
+
+**Description** : générer 300+ QCM supplémentaires par diversification des chunks existants
+
+**Dépendances** : [113] Préparation v2
+
+**Fichiers concernés** :
+- `scripts/generation_v2/generate_variants.py`
+- `src/data/questions/compiled_v2.json`
+
+**Critères de validation** :
+- ≥ 300 nouveaux QCM générés
+- Validation BioBERT ≥ 0.88
+- Pas de doublons avec v1.1
+- Distribution équilibrée par module
+
+**Estimation** : 2-3h (temps machine)
+
+**Statut** : TODO
+
+---
+
+## Résumé Phase 11
+
+**Objectif** : audit qualité externe et expansion du corpus vers v2
+
+**Tâches** : 3 (112-114)
+
+**Durée estimée** : ~6-8h
+
+**Statut** :
+- 🕒 TODO : 3 tâches (112-114)
+
+---
+
 ## Conclusion
 
-Ce document **tasks.md** liste les **101 tâches actionnables** pour livrer IADE NEW v1.
+Ce document **tasks.md** liste les **114 tâches actionnables** pour livrer IADE NEW de v1.0 à v2.0.
 
 **Chaque tâche est atomique, testable et mesurable.**
 
 **Le plan est prêt pour exécution séquentielle.**
 
+### Statut Global du Projet
+
+| Phase | Tâches | Complétées | En cours | TODO | Statut |
+|-------|--------|------------|----------|------|--------|
+| **Phase 0** | 4 | 4 | 0 | 0 | ✅ **100%** |
+| **Phase 1** | 9 | 9 | 0 | 0 | ✅ **100%** |
+| **Phase 2** | 6 | 6 | 0 | 0 | ✅ **100%** |
+| **Phase 3** | 8 | 8 | 0 | 0 | ✅ **100%** |
+| **Phase 4** | 7 | 7 | 0 | 0 | ✅ **100%** |
+| **Phase 5** | 9 | 9 | 0 | 0 | ✅ **100%** |
+| **Phase 6** | 22 | 22 | 0 | 0 | ✅ **100%** |
+| **Phase 7** | 16 | 16 | 0 | 0 | ✅ **100%** |
+| **Phase 8** | 11 | 11 | 0 | 0 | ✅ **100%** |
+| **Phase 9** | 13 | 13 | 0 | 0 | ✅ **100%** |
+| **Phase 10** | 5 | 4 | 0 | 2 | 🟡 **80%** |
+| **Phase 10+** | 5 | 1 | 0 | 4 | 🟡 **20%** |
+| **Phase 11** | 3 | 0 | 0 | 3 | ⏳ **0%** |
+| **TOTAL** | **114** | **106** | **0** | **8** | **93%** |
+
+### Prochaines Étapes Immédiates
+
+1. ⏳ **[105]** Optimisation linguistique (optionnel, ~20-30 min)
+2. ⏳ **[108]** Déploiement production v1.1
+3. ⏳ **[109]** Régénération examens blancs
+4. ⏳ **[110]** Génération notes de release
+5. ⏳ **[111]** Publication GitHub v1.1
+
+### Roadmap Post-v1.1
+
+- **Court terme** : Audit externe (validation scientifique)
+- **Moyen terme** : Génération v2 (expansion 165 → 462 QCM)
+- **Long terme** : Mode "Cas cliniques" interactifs
+
 ---
 
-**Version** : 1.0  
-**Date** : 5 novembre 2025  
-**Statut** : Prêt pour exécution
+**Version** : 1.1  
+**Date** : 8 novembre 2025  
+**Statut** : v1.1 en cours de déploiement (93% complété)
 

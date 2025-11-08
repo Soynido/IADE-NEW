@@ -1,0 +1,1210 @@
+{
+  "exam_id": "exam_02_cardio_rea",
+  "name": "Examen Blanc 2",
+  "questions": [
+    {
+      "text": "Quels sont les anticoagulants?",
+      "options": [
+        "A. Antialgiques",
+        "B. Antiagrégants plaquettaires",
+        "C. Antidotes",
+        "D. Anticoagulants"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Les anticoagulants sont des médicaments qui empêchent le sang de coaguler.",
+      "source_context": "Lexique de médecine",
+      "module_id": "unknown",
+      "chunk_id": "section_136_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 49,
+      "difficulty": "easy",
+      "biomedical_score": 0.9238,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel facteur majeur détermine la précharge des fibres cardiaques lors de la diastole?",
+      "options": [
+        "Le volume d’éjection systolique",
+        "La fréquence cardiaque",
+        "Le retour veineux",
+        "Aucun des précédents"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le degré d'étirement des fibres cardiaques à la fin de la diastole est appelée précharge et il dépend majoritairement du retour veineux (du volume sanguin ramené au cœur).",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_10_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9592,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le volume d'espace mort physiologique pour un adulte de 70 kg?",
+      "options": [
+        "100 ml",
+        "200 ml",
+        "300 ml",
+        "400 ml"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pour un adulte de 70 kg, l'espace mort physiologique est d'environ 150 ml.",
+      "source_context": "Citation.",
+      "module_id": "ventilation",
+      "chunk_id": "section_60_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 21,
+      "difficulty": "easy",
+      "biomedical_score": 0.9332,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien de dons autorisés par an sont il possible pour un seul donneur?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un seul donneur peut donner 4 unités de sang par an.",
+      "source_context": "La Croix-Rouge française",
+      "module_id": "unknown",
+      "chunk_id": "section_05_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9288,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle matière est étudiée dans la partie 2 de l'épreuve écrite de pharmacologie?",
+      "options": [
+        "Les Généralités",
+        "Les Précisions",
+        "La Pharmacodynamique",
+        "La Pharmacokinétique"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La matière étudiée dans la partie 2 de l'épreuve écrite de pharmacologie est les Généralités.",
+      "source_context": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 67",
+      "module_id": "infectio",
+      "chunk_id": "section_181_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 67,
+      "difficulty": "easy",
+      "biomedical_score": 0.9273,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Contre-indications aux inhibiteurs calciques sont :",
+      "options": [
+        "A. Hypotension grave ou état de choc",
+        "B. Hypertension grave ou état de choc",
+        "C. Hypercalciémie grave",
+        "D. Hypocalciémie grave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hypotension grave ou état de choc est une contre-indication aux inhibiteurs calciques.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_147_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 53,
+      "difficulty": "easy",
+      "biomedical_score": 0.9541,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Pour réussir un examen, il faut :",
+      "options": [
+        "B. Des supports",
+        "A. Du repos",
+        "C. De la chance",
+        "D. De l'entraînement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il faut des supports pour s’entraîner et réussir un examen.",
+      "source_context": "Pour réussir n’importe quel examen, il faut de l’entraînement et pour s’entraîner il faut des supports !",
+      "module_id": "infectio",
+      "chunk_id": "section_02_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 1,
+      "difficulty": "easy",
+      "biomedical_score": 0.9431,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les effets secondaires des AINS contre-indiqués pour l'ulcère gastrique ?",
+      "options": [
+        "A - Allergie aux AINS",
+        "B - Antalgique",
+        "C - Antiagrégant plaquettaire",
+        "D - Ulcère gastrique"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Les effets secondaires des AINS contre-indiqués pour l'ulcère gastrique comprennent la surproduction d'acide gastrique et le risque de ulcères.",
+      "source_context": "Citation",
+      "module_id": "infectio",
+      "chunk_id": "section_27_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 10,
+      "difficulty": "easy",
+      "biomedical_score": 0.9073,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la branche principale de l'artère coronaire gauche ou tronc commun?",
+      "options": [
+        "Artère coronaire droite",
+        "Artère circonflexe",
+        "Tronc commun",
+        "Aorte pulmonaire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'artère circonflexe est la branche principale de l'artère coronaire gauche ou tronc commun.",
+      "source_context": "L'artère coronaire gauche ou tronc commun se divise en deux branches principales : l'artère circonflexe et l'artère ramus interventricularis (ou artère diagonale). (Source: Livre de Physiologie Humaine)",
+      "module_id": "unknown",
+      "chunk_id": "section_66_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 22,
+      "difficulty": "easy",
+      "biomedical_score": 0.9015,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel nerf est le nerf de l’odorat?",
+      "options": [
+        "A. Nerf I",
+        "B. Nerf II",
+        "C. Nerf III",
+        "D. Nerf IV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le nerf olfactif est le nerf sensoriel de numéro 1.",
+      "source_context": "Nerfs de l’homme",
+      "module_id": "unknown",
+      "chunk_id": "section_91_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 39,
+      "difficulty": "easy",
+      "biomedical_score": 0.943,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le médicament inhibiteur de calcique ?",
+      "options": [
+        "Aldactone",
+        "Aténolol",
+        "Amlor",
+        "Coversyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Amlor est un inhibiteur de calcique.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_52_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9294,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le risque associé à la compression en cas de douleur, plaie sous le plâtre, phlébite ou si trop serré?",
+      "options": [
+        "A. Odeur constitution d’une plaie ou d’une escarre sous plâtre",
+        "B. Formation d’un œdème",
+        "C. Douleur pulsatile",
+        "D. Fourmillements + perte de sensibilité"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En cas de douleur, plaie sous le plâtre, phlébite ou si trop serré, la compression peut entraîner une augmentation du volume et des fourmillements ainsi qu’une perte de sensibilité.",
+      "source_context": "Citation.",
+      "module_id": "douleur",
+      "chunk_id": "section_69_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 23,
+      "difficulty": "easy",
+      "biomedical_score": 0.9226,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Les paramètres vitaux doivent être rapprochés avec quels éléments ?",
+      "options": [
+        "A - Symptômes",
+        "B - Échantillons de sang",
+        "C - L'hémovigilance",
+        "D - Les concordances patient/documents/PSL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les paramètres vitaux doivent être rapprochés avec les symptômes.",
+      "source_context": "Citation : rapprochée les paramètres vitaux ainsi que traiter les symptômes.",
+      "module_id": "legislation",
+      "chunk_id": "section_188_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 70,
+      "difficulty": "easy",
+      "biomedical_score": 0.9223,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le palier utilisé pour traiter des douleurs plus importantes avec une EVA entre 5 et 7?",
+      "options": [
+        "Le palier 2",
+        "Le palier 3",
+        "Un médicament spécifique",
+        "Aucune de ces réponses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le palier 2 est utilisé pour traiter des douleurs plus importantes avec une EVA entre 5 et 7.",
+      "source_context": "Le palier 2 pour les autres douleurs plus importantes plus importantes (EVA entre 5 et 7) traité par.",
+      "module_id": "douleur",
+      "chunk_id": "section_57_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 16,
+      "difficulty": "easy",
+      "biomedical_score": 0.8915,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'objet de l'ouvrage décrit?",
+      "options": [
+        "A. Examens écrits",
+        "B. Annales corrigées",
+        "C. Supports d'entraînement",
+        "D. Recherches personnelles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'ouvrage décrit est destiné à fournir des annales corrigées pour aider les étudiants à passer un examen écrit.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_02_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 1,
+      "difficulty": "easy",
+      "biomedical_score": 0.9369,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le palier utilisé pour traiter des douleurs très intenses avec une EVA supérieure à 7?",
+      "options": [
+        "Le palier 2",
+        "Le palier 3",
+        "Un médicament spécifique",
+        "Aucune de ces réponses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le palier 3 est utilisé pour traiter des douleurs très intenses avec une EVA supérieure à 7.",
+      "source_context": "Le palier 3 pour les douleurs très intenses (EVA supérieure à 7) traité par de la.",
+      "module_id": "douleur",
+      "chunk_id": "section_57_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 16,
+      "difficulty": "easy",
+      "biomedical_score": 0.9045,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les hydrates de carbone ou glucides convertis par le foie en graisse?",
+      "options": [
+        "Protéines.",
+        "Glucides.",
+        "Lipides.",
+        "Minerais."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le foie convertit les hydrates de carbone (ou glucides) en graisse.",
+      "source_context": "Le foie convertit les hydrates de carbone (ou glucides) et les protéines en graisse,",
+      "module_id": "bases_physio",
+      "chunk_id": "section_62_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.9367,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel risque est-il lié à la mise en décubitus latéral droit pour une femme enceinte?",
+      "options": [
+        "A. Le débit cardiaque peut augmenter.",
+        "B. Les résistances vasculaires peuvent diminuer.",
+        "C. Il y a un risque de compression de la veine cave par l'utérus.",
+        "D. La mise en décubitus latéral chez la femme enceinte se fait toujours à droite."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Il y a un risque de compression de la veine cave par l’utérus ce qui peut entraîner une chute du débit cardiaque.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_127_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 46,
+      "difficulty": "easy",
+      "biomedical_score": 0.9501,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels médicaments sont contre-indiqués à partir du quatrième mois de la grossesse ?",
+      "options": [
+        "Les AVK",
+        "L’amiodarone",
+        "Les IEC et les ARA II",
+        "D'autres antiépileptiques"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Les IEC et les ARA II sont formellement contre-indiqués à partir du quatrième mois de la grossesse : ils sont toxic pour les reins du fœtus.",
+      "source_context": "IEC et les ARA II : Ils sont formellement contre-indiqués à partir du quatrième mois de la grossesse : ils sont toxic pour les reins du fœtus.",
+      "module_id": "pediatrie",
+      "chunk_id": "section_132_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 47,
+      "difficulty": "easy",
+      "biomedical_score": 0.9207,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Le patient se plaint de douleurs abdominales et de nausées. Vous voyez une tachycardie. Quelle est votre réponse ?",
+      "options": [
+        "Il faut donner du métoclopramide pour les douleurs abdominales.",
+        "Il faut donner des antalgiques pour les douleurs abdominales.",
+        "Il faudrait mesurer le taux de CO2 du patient.",
+        "Il faut arrêter la prise en charge et consulter l'équipe médicale."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La tachycardie indique une hypoxie et un trouble métabolique. Il est nécessaire de mesurer le taux de CO2 pour confirmer la suspicion.",
+      "source_context": "Le patient se plaint de douleurs abdominales, de nausées et a une tachycardie.",
+      "module_id": "unknown",
+      "chunk_id": "section_08_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 4,
+      "difficulty": "easy",
+      "biomedical_score": 0.9262,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est la formule pour calculer la Pression de Perfusion Cérébrale (PPC)?",
+      "options": [
+        "PPC = PAM - pression veineuse (PV)",
+        "PPC = Résistances vasculaires (RV) + pression arterielle moyenne (PAM)",
+        "PPC = PAM - PV - RV",
+        "PPC = RV - PAM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La formule pour calculer la Pression de Perfusion Cérébrale est PPC = PAM - pression veineuse (PV).",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_78_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 34,
+      "difficulty": "easy",
+      "biomedical_score": 0.935,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "S'il vous plait, indiquez la phrase qui est une affirmation de fierté envers les connaissances présentées dans l'ebook.",
+      "options": [
+        "Il n'y a rien à apprendre dans cet ebook",
+        "Si vous connaissez bien toutes les notions présentent dans ce livre, vous pouvez être fier de vous",
+        "Ne relâchez pas !",
+        "N'hésitez pas a me contacter via cet email : laprepaiade@gmail.com"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La phrase 'Si vous connaissez bien toutes les notions présentent dans ce livre, vous pouvez être fier de vous' est une affirmation de fierté envers les connaissances présentées dans l'ebook.",
+      "source_context": "Citation.",
+      "module_id": "unknown",
+      "chunk_id": "section_196_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 74,
+      "difficulty": "easy",
+      "biomedical_score": 0.8974,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien de carotides sont-elles dans le corps humain?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Il y a deux carotides (une droite et une gauche) qui vascularisent l’encéphale.",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_79_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 35,
+      "difficulty": "easy",
+      "biomedical_score": 0.9492,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le capillaire qui entoure l’alvéole pour se charger correctement en O2?",
+      "options": [
+        "Arterie pulmonaire",
+        "Vaisseau veineux pulmonaire",
+        "Artère pulmonaire interne",
+        "Artère pulmonaire externe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le vaisseau veineux pulmonaire entoure l’alvéole et sert à collecter l'oxygène. ",
+      "source_context": "Citation not provided",
+      "module_id": "respiratoire",
+      "chunk_id": "section_34_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9416,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel hormone chez la femme est régulée par les gonades et le progestérone ?",
+      "options": [
+        "LH",
+        "FSH",
+        "Testostérone",
+        "Estrogène"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chez la femme, l'ovulation et la synthèse de LH (hormone lutéotrophique) sont régulées par les gonades et de progestérone. Cependant, c'est l'Estrogène qui est régulée par ces derniers.",
+      "source_context": "Chez la femme, le pic permet l’ovulation et la synthèse LH (hormone Elle est régulée par Gonades et de progestérone. lutéotrophique) rétrocontrôle négatif",
+      "module_id": "neuro",
+      "chunk_id": "section_110_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 43,
+      "difficulty": "easy",
+      "biomedical_score": 0.8981,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la troisième phase du processus de l'absorption, de la distribution, de la métabolisation et de l'élimination des médicaments ?",
+      "options": [
+        "L’absorption",
+        "La distribution",
+        "La métabolisation",
+        "L’élimination"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C'est la transformation du médicament en molécule, en autres composés actifs ou inactifs. Elle se fait principalement au niveau du foie.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_82_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 23,
+      "difficulty": "easy",
+      "biomedical_score": 0.9412,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "En formule, qu'est-ce qui représente PA ?",
+      "options": [
+        "QC",
+        "RVS",
+        "PA = QC x RVS",
+        "Il n'y a pas de représentation de PA en formule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "PA = QC x RVS est la formule qui représente la pression artérielle (PA).",
+      "source_context": "La norme pour la systolique est : 100 mmHg à 140 mmHg. En formule elle est notée : PA = QC x RVS. Pour mieux comprendre : pour augmenter la pression artérielle, on peut augmenter soit le débit cardiaque (en remplissant un patient) soit les résistances en utilisant des.",
+      "module_id": "cardio",
+      "chunk_id": "section_12_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 10,
+      "difficulty": "easy",
+      "biomedical_score": 0.9321,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Pour rejoindre le groupe Facebook de la prépa pour l'IADE, où allez-vous ?",
+      "options": [
+        "A. www.facebook.com/La-Prépa-Concours-IADE",
+        "B. www.facebook.com/IADE-Prepa",
+        "C. www.facebook.com/IADE-Guide",
+        "D. www.facebook.com/IADE-Books"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pour rejoindre le groupe Facebook de la prépa pour l'IADE, vous allez sur www.facebook.com/La-Prépa-Concours-IADE.",
+      "source_context": "Rejoignez-nous sur le groupe Facebook si vous avez des questions, des éléments que vous n’avez pas compris ou des points que vous souhaitez approfondir.",
+      "module_id": "infectio",
+      "chunk_id": "section_123_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 35,
+      "difficulty": "easy",
+      "biomedical_score": 0.8824,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le médicament métabolisé par le foie en métabolites inactifs?",
+      "options": [
+        "Kardegic®",
+        "Plavix®",
+        "Paracétamol",
+        "AINS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le Paracétamol est métabolisé par le foie en métabolites inactifs.",
+      "source_context": "Les antalgiques sont divisés en 3 paliers de puissances et en deux grands groupes, les antalgiques non opiacés et les antalgiques opiacés. Il est métabolisé par le foie en métabolites inactifs.",
+      "module_id": "infectio",
+      "chunk_id": "section_154_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 55,
+      "difficulty": "easy",
+      "biomedical_score": 0.8867,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle substance toxique est dégradée en urée puis éliminée par les urines par le foie?",
+      "options": [
+        "L'ammoniaque",
+        "La bilirubine libre",
+        "L'alcool",
+        "Les traitements pris par voie orale"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'ammoniaque est dégradée en urée puis éliminée par les urines par le foie.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_67_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 30,
+      "difficulty": "easy",
+      "biomedical_score": 0.9225,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce que la biovigilance ?",
+      "options": [
+        "La surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
+        "L'ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales.",
+        "Le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+        "Le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La biovigilance est basée sur le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées.",
+      "source_context": "Citation.",
+      "module_id": "legislation",
+      "chunk_id": "section_191_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 71,
+      "difficulty": "easy",
+      "biomedical_score": 0.9551,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels prolongements possèdent les neurones?",
+      "options": [
+        "Axones et dendrites",
+        "Dendrites et axons",
+        "Axons et mitochondries",
+        "Mitochondries et appareils de Golgi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les neurones possèdent deux prolongements : les dendrites qui sont afférents et reçoivent l'information nerveuse venant d'autres, et les axones efférents qui transmettent l'information nerveuse vers d'autres neurones ou des fibres musculaires.",
+      "source_context": "Corps cellulaire : contient le noyau et les organites de la cellule (ribosomes, appareil de Golgi, mitochondrie) et possède deux prolongements les dendrites et l’axone.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_73_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 33,
+      "difficulty": "easy",
+      "biomedical_score": 0.8996,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Des fosses iliaques, quel est l’événement médical possible?",
+      "options": [
+        "Occlusion",
+        "Appendicite",
+        "Grossesse extra-utérine",
+        "Torsion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La grossesse extra-utérine est un événement médical possible des fosses iliaques.",
+      "source_context": "Livre de Médecine",
+      "module_id": "pediatrie",
+      "chunk_id": "section_104_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 31,
+      "difficulty": "easy",
+      "biomedical_score": 0.926,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien sont-ils égaux ?",
+      "options": [
+        "5 hectogrammes",
+        "5 décagrammes",
+        "5 centigrammes",
+        "5 milligrammes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il est bon de savoir que 1 décagramme vaut 10 hectogrammes.",
+      "source_context": "Pour l’héparine il est bon de savoir que 50 mg = 5 000 UI",
+      "module_id": "unknown",
+      "chunk_id": "section_177_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 66,
+      "difficulty": "easy",
+      "biomedical_score": 0.9589,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce que l'hémovigilance ?",
+      "options": [
+        "A. Surveillance des médicaments.",
+        "B. Surveillance et prévention du risque infectieux en lien avec les pratiques de soins.",
+        "C. Mesures préventives et/ou correctives appropriées dans le domaine médical.",
+        "D. Surveillance des effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles."
+      ],
+      "correctAnswer": 3,
+      "explanation": "L'hémovigilance porte sur l'ensemble de la chaîne transfusionnelle et a pour objet la surveillance, l'évaluation et la prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles.",
+      "source_context": "Citation.",
+      "module_id": "legislation",
+      "chunk_id": "section_98_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.9434,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Un shunt vrai est une zone correctement perfusée mais non ventilée. Quelle est la conséquence de l'hypoxémie créée par un shunt vrai ?",
+      "options": [
+        "A. Corrigée sous O2",
+        "B. Non corrigée sous O2",
+        "C. Indépendante de l'oxygène",
+        "D. Inconnue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypoxémie créée par un shunt vrai ne se corrige pas sous O2.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_30_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9343,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle fonction est associée à la transformation de la vitamine D en sa forme active ?",
+      "options": [
+        "Régulation de la pression artérielle",
+        "Maintien de l’équilibre acido-basique",
+        "Maintien de l’équilibre électrolytique",
+        "Transformation de la vitamine D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La transformation de la vitamine D en sa forme active est associée à la fonction d'une glande endocrine.",
+      "source_context": "Fonctions endocrines",
+      "module_id": "infectio",
+      "chunk_id": "section_14_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 6,
+      "difficulty": "easy",
+      "biomedical_score": 0.9231,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le temps d'action des gélatines?",
+      "options": [
+        "1 heure",
+        "2 heures",
+        "4 à 5 heures",
+        "Plus de 6 heures"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Les gélatines ont une durée d'action de 4 à 5 heures.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_170_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 60,
+      "difficulty": "easy",
+      "biomedical_score": 0.945,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'effet de l'hypercapnie sur le débit sanguin cérébral ?",
+      "options": [
+        "Hypercapnie a un effet vasodilatateur cérébral",
+        "L'hypercapnie a un effet vasoconstricteur cérébral",
+        "L'hypercapnie n'a aucun effet sur le débit sanguin cérébral",
+        "L'hypercapnie provoque une augmentation du débit sanguin cérébral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypercapnie a un effet vasoconstricteur cérébral.",
+      "source_context": "Citation: L'hypercapnie affecte le débit sanguin cérébral",
+      "module_id": "neuro",
+      "chunk_id": "section_91_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 28,
+      "difficulty": "easy",
+      "biomedical_score": 0.9623,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels médicaments seront probablement utilisés pour le traitement du syndrome coronarien aigu?",
+      "options": [
+        "Antiagrégant plaquettaire (aspegic)",
+        "Bloqueur de récepteur à l’ADP (clopidogrel)",
+        "Traitement fibrinolytique (métalyse)",
+        "Aucun des précédents"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le traitement du syndrome coronarien aigu nécessite l'utilisation d'antiagrégant plaquettaire (aspegic), de bloqueur de récepteur à l’ADP (clopidogrel) et de traitement fibrinolytique (métalyse).",
+      "source_context": "thoracique, acronyme PIED",
+      "module_id": "unknown",
+      "chunk_id": "section_17_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 8,
+      "difficulty": "easy",
+      "biomedical_score": 0.9236,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel hormone est sécrétée par l'hypothalamus pour stimuler la thyroïde à produire T3 et T4?",
+      "options": [
+        "TSH",
+        "TRH",
+        "T3",
+        "T4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le TRH (Thyrotropin-releasing hormone) est sécrété par l'hypothalamus pour stimuler la thyroïde à produire T3 et T4.",
+      "source_context": "Citation.",
+      "module_id": "unknown",
+      "chunk_id": "section_111_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 43,
+      "difficulty": "easy",
+      "biomedical_score": 0.8937,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel processus oppose l'inhalation et l'exhalation ?",
+      "options": [
+        "Exhalation",
+        "Inhalation",
+        "Hématose",
+        "Transpiration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le processus qui oppose l'inhalation et l'exhalation est l'inhalation.",
+      "source_context": "Le rôle de l’appareil respiratoire est d’éliminer le CO2 et de réoxygéner le sang en O2. On appelle cela l’hématose.",
+      "module_id": "unknown",
+      "chunk_id": "section_23_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 14,
+      "difficulty": "easy",
+      "biomedical_score": 0.9179,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Pourquoi les femmes ont-elles un risque plus élevé d'atteindre des taux sanguins élevés de potassium?",
+      "options": [
+        "Parce qu'elles ont un métabolisme plus lent.",
+        "Parce que leur organisme est moins efficace à éliminer le potassium.",
+        "Parce qu'elles ont une absorption intestinale plus rapide du potassium.",
+        "Il n'y a pas de différence entre les deux sexes pour le taux sanguin de potassium."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les femmes sont généralement plus petites que les hommes et ont une surface corporelle moindre. En conséquence, leur excrétion rénale peut être moins efficace pour éliminer le potassium de leur organisme. Cela peut entraîner un risque plus élevé d'atteindre des taux sanguins élevés de potassium.",
+      "source_context": "Citation",
+      "module_id": "respiratoire",
+      "chunk_id": "section_114_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 33,
+      "difficulty": "easy",
+      "biomedical_score": 0.9068,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce qui empêche le remplissage à G5% d'être efficace?",
+      "options": [
+        "A) L'eau s'écoule en fonction du sodium pour créer un équilibre.",
+        "B) Le G5% contient très peu de mouvements d'eau.",
+        "C) Les colloïdes comme le gélofusine et le plasmion sont utilisés pour le remplissage.",
+        "D) Le secteur intracellulaire est immédiatement rempli."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le G5% n’en contenant que très peu, il va immédiatement aller dans le secteur intracellulaire.",
+      "source_context": "Citation",
+      "module_id": "unknown",
+      "chunk_id": "section_59_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 21,
+      "difficulty": "easy",
+      "biomedical_score": 0.9336,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est la durée de validité des RAI ?",
+      "options": [
+        "3 ans",
+        "5 ans",
+        "7 ans",
+        "10 ans"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les RAI sont valides pendant 3 ans.",
+      "source_context": "Ministère de la Santé française",
+      "module_id": "unknown",
+      "chunk_id": "section_05_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9486,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le type d'antagoniste de la naloxone?",
+      "options": [
+        "Compétitif",
+        "Non compétitif",
+        "Agoniste-antagoniste",
+        "Médiateur endogène"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La naloxone est un antagoniste compétitif selon le contexte fourni.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_141_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 50,
+      "difficulty": "easy",
+      "biomedical_score": 0.9556,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels soins devraient être évités pour le membre droit d'un patient avec une fistule artériovénieuse (FAV)?",
+      "options": [
+        "Il ne doit pas porter de glace sur la FAV.",
+        "Il ne doit pas mettre de charges lourdes avec son bras droit.",
+        "Il doit surveiller l’état cutané au niveau de la FAV, l’aspect de la fistule.",
+        "Il doit avoir une hygiène irréprochable au niveau de la FAV."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eviter les soins qui peuvent causer des dommages à la fistule est important pour le patient avec une FAV. L'hygiène et le suivi du membre doivent être irréprochables.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_86_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.894,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle catécholamine présente un effet majeur sur la bronchodilatation des bronches ?",
+      "options": [
+        "Adrénaline",
+        "Noradrénaline",
+        "Dopamine",
+        "Dobutamine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L’adrénaline présente un effet majeur sur la bronchodilatation des bronches.",
+      "source_context": "Citation : l’adrénaline, la noradrénaline et la dopamine sont des catécholamines naturelles, a contrario la dobutamine est une catécholamine de",
+      "module_id": "cardio",
+      "chunk_id": "section_160_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 58,
+      "difficulty": "easy",
+      "biomedical_score": 0.9432,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fonction principale du centre pneumotaxique?",
+      "options": [
+        "Il commande l’automatisme respiratoire.",
+        "Il répond majoritairement à l'hypercapnie.",
+        "Il réagit majoritairement à l'hypoxémie.",
+        "Il met en jeu le système nerveux autonome."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le centre pneumotaxique module l’activité des centres bulbaires en fonction d’informations centrales et périphériques. Il est donc responsable de la modulation de l'automatisme respiratoire.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_37_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 19,
+      "difficulty": "easy",
+      "biomedical_score": 0.9368,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fonction principale de l'hypophyse?",
+      "options": [
+        "Elle régule les mouvements du cerveau.",
+        "Elle sécrète des stimulines pour réguler d'autres glandes et des hormones.",
+        "Elle sert à filtrer le sang.",
+        "Elle est responsable de la production de la mémoire."
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypophyse sécrète des stimulines qui ont pour rôle de réguler d'autres glandes et des hormones.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_105_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 42,
+      "difficulty": "easy",
+      "biomedical_score": 0.9589,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel effet a le dromotrope lorsqu'il agit en synergie avec un autre dromotrope?",
+      "options": [
+        "A. Vasodilation",
+        "B. Vasoconstriction",
+        "C. Chronotropisme",
+        "D. Bathmotropisme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le dromotrope agissant en synergie avec un autre dromotrope provoque une augmentation de la fréquence cardiaque, ce qui est synonyme de chronotropisme.",
+      "source_context": "Dromotrope + Dromotrope -",
+      "module_id": "unknown",
+      "chunk_id": "section_85_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 37,
+      "difficulty": "easy",
+      "biomedical_score": 0.923,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les cas où des RAI supérieurs à 72h peuvent être valables?",
+      "options": [
+        "A - Tous les cas",
+        "B - Seuls certains cas sous certaines conditions",
+        "C - Pas de cas",
+        "D - Les seules transfusions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Des RAI supérieurs à 72h peuvent être valables sous certaines conditions.",
+      "source_context": "Des RAI supérieurs à 72h peuvent être valables sous certaines conditions.",
+      "module_id": "transfusion",
+      "chunk_id": "section_83_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 27,
+      "difficulty": "easy",
+      "biomedical_score": 0.9401,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le but de demander de l’aide aux passants s’il y en a?",
+      "options": [
+        "A) Libérer les voies aériennes",
+        "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+        "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+        "D) Basculer la tête en"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le but de demander de l’aide aux passants s’il y en a est de trouver des personnes qui pourraient apporter une assistance immédiate lors d'une crise cardiaque.",
+      "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+      "module_id": "ventilation",
+      "chunk_id": "section_22_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9145,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est l'artère coronaire principale de droite?",
+      "options": [
+        "Artère coronaire droite",
+        "Artère coronaire gauche",
+        "Tronc commun",
+        "Aorte pulmonaire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'artère coronaire droite est l'artère principale de droite.",
+      "source_context": "Cet artériole se partage en deux branches : l'artérie coronaire droite et l'artérie du ventricule droit. (Source: Livre de Physiologie Humaine)",
+      "module_id": "unknown",
+      "chunk_id": "section_66_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 22,
+      "difficulty": "easy",
+      "biomedical_score": 0.9281,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel type de déséquilibre est-ce quand on a une PCO2 à 75 mmHg et des bicarbonates à 29 mmHg?",
+      "options": [
+        "A) Acidose respiratoire compensée",
+        "B) Acidose métabolique non compensée",
+        "C) Alcalosis respiratoire compensée",
+        "D) Alcalose métabolique non compensée"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Il s'agit d'une acidose respiratoire compensée, avec des bicarbonates qui ont essayé de monter pour limiter la baisse du PH.",
+      "source_context": "Pour savoir si le point de départ est pulmonaire ou rénal, si on a une PCO2 à 75 mmHg et des bicarbonates à 29 mmHg on devine que l’origine est pulmonaire et que les reins ont essayé de compenser, dans ce cas-là c’est une acidose respiratoire compensée.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_54_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 25,
+      "difficulty": "easy",
+      "biomedical_score": 0.9446,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le comportement de la branche ascendante de l'anse de Henlé à l'égard de l'eau?",
+      "options": [
+        "Il est imperméable à l’eau",
+        "Il est perméable à l’eau",
+        "Il y a un échange actif d’eau",
+        "Il n’y a pas d’échange à ce niveau"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La branche ascendante de l'anse de Henlé est imperméable à l’eau (il n’y a donc aucun échange à ce niveau).",
+      "source_context": "A contrario, la branche ascendante de l’anse de Henlé est imperméable à l’eau (il n’y a donc aucun échange à ce niveau).",
+      "module_id": "bases_physio",
+      "chunk_id": "section_43_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 21,
+      "difficulty": "easy",
+      "biomedical_score": 0.9282,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le symptôme qui démontre une hausse du CO2 dans le sang supérieure à 42 mmHg?",
+      "options": [
+        "A. Hypertension artérielle et tachycardie",
+        "B. Perte de connaissance",
+        "C. Vasodilatation cutanée",
+        "D. Hypercrinie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Une valeur supérieure à 42 mmHg du CO2 dans le sang est un indicateur de l'hypercapnie et peut être associé à une vasodilatation cutanée.",
+      "source_context": "carbone) dans le sang à une valeur supérieur à 42 mmHg.",
+      "module_id": "unknown",
+      "chunk_id": "section_72_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9189,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Peut-il être administré ?",
+      "options": [
+        "Oui",
+        "Non",
+        "Souvent",
+        "Rarement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le substance ne doit pas être administrée car elle est toxique.",
+      "source_context": "Il s'agit d'une substance toxique.",
+      "module_id": "unknown",
+      "chunk_id": "section_50_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 16,
+      "difficulty": "easy",
+      "biomedical_score": 0.9511,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel espace EKG reflète le temps de conduction auriculo-ventriculaire?",
+      "options": [
+        "A. L'espace PR",
+        "B. L'onde QRS",
+        "C. L'onde T",
+        "D. L'espace ST"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'espace PR reflète le temps de conduction auriculo-ventriculaire.",
+      "source_context": "Contexte : Analyse d'une électrocardiogramme (EKG)",
+      "module_id": "unknown",
+      "chunk_id": "section_15_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.9333,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le but de libérer les voies aériennes?",
+      "options": [
+        "A) Demander de l’aide aux passants s’il y en a",
+        "B) Appeler le 15 et demander aux personnes présentes d’aller chercher un défibrillateur semi-automatique (DAE) et le mettre en place",
+        "C) Débuter la RCP en notant l’heure début (elle doit se faire sans interruption jusqu’à l’arrivée",
+        "D) Basculer la tête en"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le but de libérer les voies aériennes est d'éliminer tout obstacle qui pourrait empêcher le passage de l'air dans les poumons, ce qui est crucial lors d'une crise cardiaque.",
+      "source_context": "Source : Algorithme de réanimation cardiopulmonaire (RCP) - La méthode du chien",
+      "module_id": "ventilation",
+      "chunk_id": "section_22_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9277,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    }
+  ],
+  "title": "Examen 2 : Cardio & Réanimation",
+  "description": "Examen blanc couvrant les modules Cardiologie et Réanimation (60 questions, 120 minutes)",
+  "question_count": 60,
+  "duration_minutes": 120
+}
