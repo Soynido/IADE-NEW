@@ -1,0 +1,169 @@
+{
+  "module_id": "douleur",
+  "title": "Module Douleur",
+  "sections": [
+    {
+      "section_id": "section_99",
+      "title": "Réponse orientée",
+      "pages": [
+        41
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_99_c01",
+          "text": "À la demande ou au bruit : 3 Confuse : 4\nà la douleur : 5\nMouvement d’évitement\nÀ la douleur : 2 Inappropriée : 3\nnon adapté, à la douleur : 4",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 41,
+          "page_end": 41,
+          "token_count": 35
+        }
+      ]
+    },
+    {
+      "section_id": "section_100",
+      "title": "Réponse stéréotypée",
+      "pages": [
+        41
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_100_c01",
+          "text": "Aucune : 1 Incompréhensible : 2\nen flexion à la douleur : 3",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 41,
+          "page_end": 41,
+          "token_count": 14
+        }
+      ]
+    },
+    {
+      "section_id": "section_20",
+      "title": "6 Voici les 3 échelles d’auto-évaluation de la douleur chez l’adulte :",
+      "pages": [
+        8
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_20_c01",
+          "text": "EVA : échelle visuelle analogique. Elle se présente sous la forme d’une ligne droite\nallant de l’absence de douleur à la douleur la plus extrême. Le patient place un\ncurseur entre ses deux extrémités pour ainsi jauger l’intensité de sa douleur.\nEN : échelle numérique. Permets au patient de côté sa douleur en y associant un\nnombre de 0 à 10.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 85
+        }
+      ]
+    },
+    {
+      "section_id": "section_21",
+      "title": "0 étant l’absence de douleur et 10 une douleur insupportable.",
+      "pages": [
+        8
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_21_c01",
+          "text": "EVS : échelle visuelle simple. Permets au patient de hiérarchiser sa douleur grâce\nà un qualificatif. Douleur absente, douleur faible, douleur modérée, douleur intense,\ndouleur extrêmement intense.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 88",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 82
+        }
+      ]
+    },
+    {
+      "section_id": "section_27",
+      "title": "10 Voici 10 signes d’une embolie pulmonaire :",
+      "pages": [
+        10
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_27_c01",
+          "text": "- Douleur thoracique\n- Dyspnée à type de tachypnée\n- Turgescence jugulaire\n- Signes de thrombose veineuse profonde\n- Augmentation des D-dimères\n- Augmentation des BNP\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 1100",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 10,
+          "page_end": 10,
+          "token_count": 75
+        }
+      ]
+    },
+    {
+      "section_id": "section_69",
+      "title": "36 Les surveillances d’un plâtre sont :",
+      "pages": [
+        23,
+        24
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_69_c01",
+          "text": "- Chaleur des doigts\n- Couleur (si cyanose, retirer en urgence)\n- Douleur → signe d’alerte (trop serré , douleur pulsatile, plaie sous le plâtre, phlébite)\n- Formation d’un œdème ou augmentation de volume → compression\n- Odeur : constitution d’une plaie ou d’une escarre sous plâtre\n- Fourmillements + perte de sensibilité → compression vasculo-nerveuse.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 2233\n\nRÉPONSES DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 23,
+          "page_end": 24,
+          "token_count": 127
+        }
+      ]
+    },
+    {
+      "section_id": "section_118",
+      "title": "56 Le pneumothorax est défini par la présence d’air dans l’espace pleural, cavité",
+      "pages": [
+        34
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_118_c01",
+          "text": "située entre les plèvres pariétale et viscérale. Il peut être d’origine spontanée ou\nSuspicion clinique :\n- La douleur thoracique: pleurale, constante, parfois violente en «coup de poignard»,\nà type de point de côté, inhibant la respiration, irradiant à l’épaule, unilatérale. Elle\nsurvient le plus souvent au repos.\n- La dyspnée est souvent associée, d’intensité variable selon le terrain sous-jacent.\n- Signe de lutte, saturation en oxygène < 90% en air ambiant.\n- Hémithorax distendu.\n- Une toux sèche d’origine pleurale est fréquente.\n- À l’examen physique: tympanisme, abolition des vibrations vocales, diminution ou\ndisparition du murmure vésiculaire du côté du pneumothorax.\nLe traitement de première intention dans l’urgence est l’exsufflation.\nLe drainage pleural est un autre traitement du pneumothorax.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 34,
+          "page_end": 34,
+          "token_count": 203
+        }
+      ]
+    },
+    {
+      "section_id": "section_57",
+      "title": "36 Le palier 1 pour les douleurs légères à modérées (EVA entre 0 et 4) traité par du",
+      "pages": [
+        16
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_57_c01",
+          "text": "Le palier 2 pour les autres douleurs plus importantes (EVA entre 5 et 7) traité par\nLe palier 3 pour les douleurs très intenses (EVA supérieure à 7) traité par de la",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 16,
+          "page_end": 16,
+          "token_count": 41
+        }
+      ]
+    },
+    {
+      "section_id": "section_65",
+      "title": "48 Un homme est retrouvé inconscient avec :",
+      "pages": [
+        18
+      ],
+      "module_id": "douleur",
+      "chunks": [
+        {
+          "chunk_id": "section_65_c01",
+          "text": "- une ouverture des yeux à la douleur\n- une réponse verbale inappropriée\n- une réponse motrice à type d’extension stéréotypée\nQuel est son score de Glasgow au regard de chaque signe ? Que proposez-vous ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 18,
+          "page_end": 18,
+          "token_count": 50
+        }
+      ]
+    }
+  ]
+}

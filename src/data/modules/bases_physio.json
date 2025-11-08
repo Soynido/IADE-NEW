@@ -1,0 +1,1147 @@
+{
+  "module_id": "bases_physio",
+  "title": "Module Bases Physio",
+  "sections": [
+    {
+      "section_id": "section_05",
+      "title": "LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE",
+      "pages": [
+        6
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_05_c01",
+          "text": "Cardio-vasculaire Métabolisation protéine 29\nAnatomie et physiologie cardiaque 7 Stockage des vitamines et fer 29\nLe débit cardiaque 9 Fonction de détoxification 30\nLa pression artérielle 10 Voies biliaires 30\nLes types de circulations Pancréas 31\net la vascularisation du cœur 11 Fonction neurologique\nL’innervation du cœur 12 Système nerveux central 32\nL’innervation intrinsèque 12 Le neurone 32\nL’innervation extrinsèque 13 Anatomie de la cellule nerveuse 33\nL’ECG 13 Les cellules gliales 33\nFonction respiratoire Physiologie de la cellule nerveuse 33\nLa respiration 14 Cerveau 34\nLa ventilation 14 Déterminant du débit sanguin cérébral 34\nLa diffusion alvéolo-artérielle 15 Polygone de Willis 35\nLa convection sanguine 16 Moelle épinière 36\nLa diffusion tissulaire 16 La barrière hématoencéphalique (BHE) 36\nEspace mort et effet shunt 17 Système nerveux végétatif 37\nLes zones de West 17 Système nerveux périphérique 39\nLa courbe de Barcroft 18 Les nerfs crâniens 39\nCentres de contrôle respiratoire Les nerfs rachidiens 40\net récepteur 19 Score de Glasgow 41\nLes volumes respiratoires 20 Les Acsos 41\nLes volumes mobilisables 20 Fonction endocrine\nLes volumes non mobilisables 20 Thyroïde 42\nLes débits 20 Parathyroïde 42\nFonction rénale L’hypothalamus 42\nRôles du rein 21 L’hypophyse 43\nRôle exocrine 21 L’antéhypophyse 43\nRôle endocrine 22 La posthypophyse 44\nRôle des surrénales 23 Pédiatrie\nL’eau dans l’organisme 24 Le score d’Apgar 45\nDéshydratation intracellulaire 24 Déshydratation du nourrisson 45\nDéshydratation extracellulaire 24 Femme enceinte\nHyperhydratation intracellulaire 25 Modification physiologique 46\nHyperhydratation extracellulaire 25 Au niveau respiratoire 46\nÉquilibre acide-base 25 Au niveau cardio-vasculaire 46\nL’acidose respiratoire 26 Au niveau hématologique 47\nL’alcalose respiratoire 26 Au niveau digestif 47\nL’acidose métabolique 26 Traitements contre-indiqués pendant\nL’alcalose métabolique 27 la grossesse 47\nInsuffisance rénale 27",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 6,
+          "page_end": 6,
+          "token_count": 492
+        }
+      ]
+    },
+    {
+      "section_id": "section_18",
+      "title": "L’INNERVATION INTRINSÈQUE",
+      "pages": [
+        12
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_18_c01",
+          "text": "C’est ce qui permet au cœur de battre sans stimulation extérieure, c’est ce que l’on appelle\nl’automatisme cardiaque.\nPhysiologiquement, le point de départ est le nœud sinusal (également nommé nœud de\nKeith et Flack) qui se situe dans la paroi de l’oreillette droite.\nSa dépolarisation entraîne la propagation d’une activité électrique dans la paroi auriculaire\njusqu’au nœud auriculo-ventriculaire (ou nœud d’Aschoff-tawara) via trois faisceaux.\nLe nœud auriculo-ventriculaire (N.A.V) est situé à la limite entre les oreillettes et les ventricules\ndans le septum interventriculaire. Il a pour rôle de filtrer les impulsions électriques pour les\ncoordonner, puis le potentiel d’action continue ensuite jusqu’aux faisceaux de His.\nLe faisceau de His se trouve dans le septum interventriculaire, il se divisera en deux\nbranches, puis en multiples ramifications formant le réseau de Purkinje qui vont stimuler le\nmyocarde au niveau ventriculaire.\nLa propagation du potentiel est possible grâce au tissu nodal. C’est un ensemble de cellules\n(contenant un taux important de potassium) qui sont polarisées au repos et qui vont se\ndépolariser au passage de l’influx électrique. La dépolarisation de ces cellules (par entrée\nmassive de sodium contre une sortie de potassium) entraîne la contraction cardiaque.\nPour mieux comprendre : le nœud sinusal fait office de « Pace-maker » grâce à son\ncontact avec la veine cave, l’influx se propage et permet ainsi la contraction du cœur.\nIl arrive parfois que certaines personnes aient un 4e faisceau qui part du nœud sinusal, le\nfaisceau de Kent. Ce faisceau shunt le N.A.V et entraîne donc une contraction supplémentaire,\nvous connaissez cette pathologie sous le nom de maladie de Bouveret.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 431
+        }
+      ]
+    },
+    {
+      "section_id": "section_28",
+      "title": "LA CONVECTION SANGUINE",
+      "pages": [
+        16
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_28_c01",
+          "text": "C’est l’étape de transport des gaz par le sang, l’oxygène va des poumons vers les tissus et\nle CO2 des tissus vers les poumons.\nC’est la forme libre (ou dissoute) qui est consommée par les cellules.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 16,
+          "page_end": 16,
+          "token_count": 49
+        }
+      ]
+    },
+    {
+      "section_id": "section_29",
+      "title": "LA DIFFUSION TISSULAIRE",
+      "pages": [
+        16
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_29_c01",
+          "text": "C’est l’étape durant laquelle les échanges d’O2 et de CO2 se font entre les cellules et le\nsang des capillaires tissulaires. Les cellules prélèvent de l’O2 et rejettent du CO2 dans le",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 16,
+          "page_end": 16,
+          "token_count": 45
+        }
+      ]
+    },
+    {
+      "section_id": "section_30",
+      "title": "ESPACE MORT ET EFFET SHUNT",
+      "pages": [
+        17
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_30_c01",
+          "text": "L’espace mort : Zone correctement ventilée, mais non perfusée. La trachée est un espace\nmort physiologique d’environ 150 ml. Elle est ventilée, mais non perfusé, elle ne participe\npas aux échanges.\nShunt vrai : Zone correctement perfusée, mais non ventilée. C’est la zone vasculaire qui ne\nparticipe pas aux échanges alvéolo-capillaires.\nIl peut être anatomique ou physiologique. Pour le détecter, l’hypoxémie créée par le shunt\nvrai ne se corrige pas sous O2.\nEffet shunt : Zone correctement perfusée, mais non (ou mal) ventilée. Il peut être\nphysiologique ou pathologique. Par exemple, un patient sain en décubitus dorsal aura ses\nalvéoles un peu écrasés par leur masse et donc peu ou pas ventilés, alors qu’elles resteront\nContrairement au shunt vrai, l’hypoxémie créée par l’effet shunt peut être corrigée sous O2.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 204
+        }
+      ]
+    },
+    {
+      "section_id": "section_32",
+      "title": "division des poumons par les zones de West",
+      "pages": [
+        17
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_32_c01",
+          "text": "n’a rien de physiologique, c’est une notion\navant tout didactique. Chez un sujet sain, les\npoumons sont autant perfusés que ventilés.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 33
+        }
+      ]
+    },
+    {
+      "section_id": "section_37",
+      "title": "CENTRES DE CONTRÔLE RESPIRATOIRE ET RÉCEPTEUR",
+      "pages": [
+        19
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_37_c01",
+          "text": "Le centre de contrôle respiratoire se situe au niveau du bulbe rachidien, il commande\nl’automatisme respiratoire. Le centre pneumotaxique module l’activité des centres bulbaires\nen fonction d’informations centrales et périphériques.\nLes centres de contrôle sont informés des variations de PCO2 et de PO2 par des récepteurs.\nLes Chémorécepteurs :\nIls se divisent en deux catégories.\nLes chémorécepteurs centraux qui sont situés au niveau du bulbe rachidien, ils répondent\nmajoritairement à l’hypercapnie.\nLes chémorécepteurs périphériques situés au niveau du glomus carotidien, qui réagissent\nmajoritairement à l’hypoxémie.\nLes mécanorécepteurs :\nIls mettent en jeu le système nerveux autonome, ils sont situés au niveau de la paroi\nthoracique, du pharynx, du larynx, de la trachée et des poumons.\nPour mieux comprendre : attention à ne surtout pas confondre hypoxémie qui est la\ndiminution de la pression partielle en O2 dans le sang artériel (PaO2) et l’hypoxie qui\nest le défaut d’apport d’O2 aux cellules.\nConcernant les BPCO, leur capnie est constamment très élevée, leur seuil de tolérance\nest augmenté au-delà de celui d’un individu sain. Autrement dit, un BPCO ne réagit qu’à\nl’hypoxie. Si vous lui mettez beaucoup d’oxygène, ses récepteurs seront moins enclins\nà stimuler les centres respiratoires puisque le patient à « suffisamment » d’oxygène.\nDonc le patient respire moins vite, sa bradypnée entraîne une augmentation de la\nPCO2 et aggrave son acidose.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 19,
+          "page_end": 19,
+          "token_count": 366
+        }
+      ]
+    },
+    {
+      "section_id": "section_42",
+      "title": "Il faut bien distinguer le rôle des",
+      "pages": [
+        21
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_42_c01",
+          "text": "reins et des surrénales.\nLe rein à deux types de rôles, un rôle exocrine et un rôle endocrine.\n- L’homéostasie (équilibre de l’eau et des électrolytes et régulation de l’équilibre\nRôle endocrine :\n- La régulation de la pression artérielle\n- La régulation de l’érythropoïèse\n- La transformation de la vitamine D en sa forme active\n- La néoglucogenèse\nLe rôle exocrine du rein est d’éliminer les déchets du métabolisme tout en maintenant la\nstabilité du milieu intérieur.\nParmi les déchets éliminés par l’organisme on retrouve ceux du métabolisme :\n- Des protéines : l’urée\n- Des acides nucléiques : acide urique\n- Du muscle : créatinine\nOu d’autres sources comme les additifs alimentaires, les médicaments, etc..\nMais avant la formation de l’urine, il y a plusieurs étapes qui ont également un rôle dans\nl’équilibre hydroélectrolytique.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 21,
+          "page_end": 21,
+          "token_count": 208
+        }
+      ]
+    },
+    {
+      "section_id": "section_43",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 21",
+      "pages": [
+        21,
+        22
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_43_c01",
+          "text": "C’est au niveau du tube contourné proximal que la majorité de l’eau filtrée est réabsorbée\nde manière passive, par réabsorption active du sodium.\nAu niveau de la branche descendante de l’anse de Henlé, il y a également une réabsorption\nA contrario, la branche ascendante de l’anse de Henlé est imperméable à l’eau (il n’y a donc\naucun échange à ce niveau).\nEnfin, il n’y a pas de mouvements d’eau au niveau du tube contourné distal sauf sous\nl’action de certaines hormones.\nPour mieux comprendre : il faut bien comprendre que les mouvements d’eau dans\nl’organisme se font via des mouvements de sodium. Ainsi pour ramener de l’eau dans\nun compartiment il faut y amener du sodium. L’eau suivra de manière passive.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 21,
+          "page_end": 22,
+          "token_count": 177
+        }
+      ]
+    },
+    {
+      "section_id": "section_47",
+      "title": "L’EAU DANS L’ORGANISME",
+      "pages": [
+        24
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_47_c01",
+          "text": "L’eau représente environ 60 % du poids du corps réparti dans deux compartiments :\n- Le compartiment intracellulaire qui contient environ 60 % de toute l’eau du corps\n- Le compartiment extracellulaire qui contient 40 % de l’eau du corps réparti entre le\nsecteur plasmatique (12 % de l’eau totale) et le secteur interstitiel (20 % de l’eau\nDans l’organisme, les mouvements d’eau se font selon l’osmolarité. À l’équilibre, la pression\nosmotique est identique de part et d’autre de la membrane cellulaire.\nPour équilibrer la pression osmotique, les mouvements d’eau se font du compartiment ayant\nune faible concentration d’osmoles vers celui ayant une forte concentration d’osmoles.\nLes mouvements d’eau dans l’organisme ne se fait pas seul, ils se font via des échanges\nde sodium et de potassium. Le milieu intracellulaire contient plus de potassium K+ que de\nsodium NA+ et inversement le milieu extracellulaire contient plus de NA+ que de K+.\nChez l’homme, il n’y a pas de régulation pour les entrées de NA+, cependant il existe 2\nfacteurs hormonaux qui régulent sa sortie, l’aldostérone et le facteur natriurétique auriculaire\nLe FNA a le rôle d’inhiber la sécrétion d’aldostérone et augmente le débit de filtration\nglomérulaire en cas d’hypernatrémie.\nDans des cas pathologiques, un secteur peut être déshydraté ou hyperhydraté.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 332
+        }
+      ]
+    },
+    {
+      "section_id": "section_48",
+      "title": "DÉSHYDRATATION INTRACELLULAIRE",
+      "pages": [
+        24
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_48_c01",
+          "text": "Perte d’eau dans le secteur intracellulaire suite à une hyperosmolarité du secteur\nextracellulaire, on y retrouve une hypernatrémie.\nLes signes sont :\n- Sécheresse des muqueuses, en particulier à la face interne des joues\n- Syndrome polyuro-polydipsique en cas de pertes d’origine rénale\n- Perte de poids\n- Des troubles neurologiques non spécifiques (somnolence, asthénie)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 93
+        }
+      ]
+    },
+    {
+      "section_id": "section_49",
+      "title": "DÉSHYDRATATION EXTRACELLULAIRE",
+      "pages": [
+        24
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_49_c01",
+          "text": "Perte d’eau dans le secteur extracellulaire pour conserver l’osmolarité plasmatique, une\nhyponatrémie est observée, ce qui entraîne une fuite de l’eau.\nLes signes sont :\n- Signe du pli cutané\n- Hypotension artérielle orthostatique, puis de décubitus avec tachycardie",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 66
+        }
+      ]
+    },
+    {
+      "section_id": "section_51",
+      "title": "HYPERHYDRATATION INTRACELLULAIRE",
+      "pages": [
+        25
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_51_c01",
+          "text": "Augmentation du volume d’eau dans le secteur intracellulaire suite à une hypo-osmolarité\nplasmatique, on y retrouve une hyponatrémie.\nLes signes sont :\n- Prise de poids modérée\n- Absence de soif voire dégoût de l’eau.\n- Des troubles neurologiques non spécifiques (céphalées, obnubilation, nausées,",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 25,
+          "page_end": 25,
+          "token_count": 74
+        }
+      ]
+    },
+    {
+      "section_id": "section_53",
+      "title": "ÉQUILIBRE ACIDE-BASE",
+      "pages": [
+        25
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_53_c01",
+          "text": "À l’état physiologique, le PH naturel d’un individu est compris entre 7,38 et 7,42 (ou selon\nd’autres normes plus larges entre 7,35 et 7,45). Lorsque ce chiffre est modifié, on parle de\ndéséquilibre acido-basique :\n- Si le PH est inférieur à 7,38, on parle d’acidose\n- Si le PH est supérieur à 7,42, on parle d’alcalose\nVient ensuite une deuxième notion, ce dérèglement (alcalose ou acidose) peut être\nmétabolique ou respiratoire.\nUne formule un peu barbare permet de calculer le PH.\nDans cette équation on notera que pKa est une constante invariable tout comme le 0.03, ces\nchiffres ne changent jamais. Ce sont HCO3- (les bicarbonates) et PCO2 qui varient.\nIl n’est pas nécessaire d’apprendre cette formule, on ne vous demandera pas de calculer un\nPH (bien qu’en comprenant et avec les éléments c’est possible), mais elle aide à comprendre\ndans quel sens vont les variations.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 25,
+          "page_end": 25,
+          "token_count": 219
+        }
+      ]
+    },
+    {
+      "section_id": "section_54",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 25",
+      "pages": [
+        25,
+        26
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_54_c01",
+          "text": "Il est important de relever que lorsque l’origine du déséquilibre est métabolique, tout varie\ndans le même sens.\nÀ l’inverse lorsque l’origine du déséquilibre est respiratoire, le PH varie à l’inverse des autres\nOn peut aisément comprendre grâce à la formule ci-dessus, lorsque l’on connaît la PCO2 et\nle HCO3-, si l’origine du déséquilibre est métabolique ou respiratoire.\nIl reste une chose à déterminer, savoir si le point de départ est pulmonaire ou rénal.\nGénéralement, la valeur la plus grave est le point de départ, si on a une PCO2 à 75 mmHg\net des bicarbonates à 29 mmHg on devine que l’origine est pulmonaire et que les reins ont\nessayé de compenser, dans ce cas-là c’est une acidose respiratoire compensée, avec des\nbicarbonates qui ont essayé de monter pour limiter la baisse du PH.\nPour mieux comprendre : PH = pKa + log\nSi la PCO2 augmente fortement, on va avoir un PH qui baisse de la même manière.\nPour comprendre imaginons PH = on est à l’équilibre avec un PH=1.\nSi j’augmente la PCO2, le PH va diminuer ( 1/2 = 0.5 et 1/3 = 0.33, etc... ) donc pour",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 25,
+          "page_end": 26,
+          "token_count": 266
+        }
+      ]
+    },
+    {
+      "section_id": "section_60",
+      "title": "INSUFFISANCE RÉNALE",
+      "pages": [
+        27
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_60_c01",
+          "text": "Pour détecter une maladie rénale, on se sert en majorité d’éléments biologiques tel que,\nl’albuminurie, l’hématurie, la leucocyturie. On peut également essayer de dépister toutes\nanomalies morphologiques ou histologiques, ainsi que la présence de marqueurs de\ndysfonction tubulaire persistant depuis plus de 3 mois.\nOn peut se servir du débit de filtration glomérulaire (DFG) pour déterminer l’avancée d’une\ninsuffisance rénale, qui est le meilleur indicateur du fonctionnement rénal.\nStade 1 : Maladie rénale chronique avec DFG normal ≥ 90 ml/min\nStade 2 : Insuffisance rénale chronique minime DFG entre 89 et 60 ml/min\nStade 3 : Insuffisance rénale chronique modérée DFG entre 59 et 30 ml/min\nStade 4 : Insuffisance rénale chronique sévère DFG entre 29 et 15 ml/min\nStade 5 : Insuffisance rénale chronique terminale DFG < 15 ml/min\nClairance d’une substance = volume virtuel de plasma complètement épuré de cette\nsubstance/unité de temps\nElle permet d’apprécier la filtration glomérulaire en pratique clinique (Valeur normale 120\nUn ionogramme permet d’apprécier les ions et les réserves alcalines.\nÀ l’ECBU on peut retrouver des hématies ou des leucocytes.\nEn cas d’insuffisance rénale à un stade avancé le patient devra effectuer des séances de\ndialyse avec la mise en place d’une fistule artérioveineuse (FAV) qui permet d’aboucher une\nartère à une veine afin d’en augmenter son débit.\nCertaines précautions seront à prendre par le patient :\n- Surveiller le thrill (souffle entendu grâce à un stéthoscope)\n- Ne jamais mettre de glace sur la FAV\n- Surveiller la température et coloration du bras\n- Ne pas prendre de tension artérielle sur le bras porteur de la FAV\n- Pas de prélèvement de sang ni d’injection dans la FAV\n- Éviter de dormir sur le bras porteur de la FAV\n- Ne pas porter de vêtements ou bijoux trop serré au niveau de la FAV\n- Ne pas porter d’objets lourd avec le bras porteur de la FAV",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 27,
+          "page_end": 27,
+          "token_count": 476
+        }
+      ]
+    },
+    {
+      "section_id": "section_62",
+      "title": "MÉTABOLISATION LIPIDE",
+      "pages": [
+        29
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_62_c01",
+          "text": "Le foie a un rôle important dans la gestion du cholestérol, des triglycérides et des\nphospholipides. C’est le principal organe de synthèse et d’élimination du cholestérol, il\nproduit plus de 90 % du cholestérol endogène.\nLe foie convertit les hydrates de carbone (ou glucides) et les protéines en graisse, pour\nensuite les transporter et les stocker dans le tissu adipeux.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 93
+        }
+      ]
+    },
+    {
+      "section_id": "section_63",
+      "title": "MÉTABOLISATION GLUCIDE",
+      "pages": [
+        29
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_63_c01",
+          "text": "Le foie a un rôle majeur dans la régulation du glucose :\n- Lorsque les apports sont plus importants que les besoins, le foie est capable\nde transformer et stocker les glucides sous forme de glycogène, on nomme cela la\nglycogénogenèse. Ce processus est possible grâce à l’insuline.\n- Lorsque les besoins sont plus importants que les apports, le foie est capable\nd’utiliser le glycogène, on nomme cela la glycogénolyse. Ce processus est possible\ngrâce au glucagon et à l’adrénaline.\nLe foie stocke les nutriments pour l’organisme et lorsque les réserves en glucose sont\népuisées, le foie peut en fabriquer à partir d’acides aminés et d’acides gras. On appelle cela\nla néoglucogenèse.\nPour mieux comprendre : les glucides représentent la principale source d’énergie pour\nles cellules. Pour cela, ils vont être transformés en pyruvate (c’est la glycolyse) via 10\nUne fois la transformation en pyruvate terminée il y a deux possibilités :\n- En aérobie (avec consommation d’O2), le cycle de krebs est entamé et produira à\nterme environ 36 ATP (adénosine triphosphate), source d’énergie des cellules.\n- En anaérobie (sans consommation d’O2, en état de choc par exemple), il n’y a pas\nde cycle de krebs, le pyruvate formera des lactates. Une partie des lactates produira",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 315
+        }
+      ]
+    },
+    {
+      "section_id": "section_64",
+      "title": "MÉTABOLISATION PROTÉINE",
+      "pages": [
+        29
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_64_c01",
+          "text": "À partir des protéines et acides aminés issus de la digestion, les cellules du foie synthétisent\nla majorité des protéines sanguines :\n- Toutes les globines (hémoglobine, globuline…)\n- Les facteurs de la coagulation.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 54
+        }
+      ]
+    },
+    {
+      "section_id": "section_67",
+      "title": "FONCTION DE DÉTOXIFICATION",
+      "pages": [
+        30
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_67_c01",
+          "text": "Le foie a pour rôle de détoxifier certaines substances toxiques à l’organisme parmi elles :\n- L’ammoniaque naturellement produite par l’organisme et ayant une forte toxicité\nneurologique est dégradée en urée puis éliminée par les urines.\n- Après 120 jours de vie, les globules rouges sont détruits dans la rate, ce qui produit\nde la bilirubine libre. Cette substance toxique est transformée par le foie en bilirubine\nconjuguée, elle est déversée dans la bile et éliminée dans les selles.\n- L’alcool qui est transformé par le foie en acétate est éliminé par voie rénale. Mais cette\ntransformation n’est pas sans effet, ce processus est toxique pour les cellules\n- Les traitements pris par voie orale sont en partie éliminés et absorbés par le foie, on\nnomme cela l’effet de premier passage hépatique.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 30,
+          "page_end": 30,
+          "token_count": 199
+        }
+      ]
+    },
+    {
+      "section_id": "section_68",
+      "title": "La bile produite dans le foie est recueillie par les voies biliaires qui sont divisées en deux",
+      "pages": [
+        30
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_68_c01",
+          "text": "parties : intra et extrahépatiques\nVoies intrahépatiques : Elles recueillent la bile au niveau des cellules hépatiques via le canal",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 30,
+          "page_end": 30,
+          "token_count": 32
+        }
+      ]
+    },
+    {
+      "section_id": "section_71",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 30",
+      "pages": [
+        30,
+        31
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_71_c01",
+          "text": "Le pancréas est la seule glande mixte du corps, elle est exocrine et endocrine.\nFonction endocrine :\nCe sont les îlots de langerhans qui constituent la fonction endocrine.\nLes cellules alpha (α) sécrètent le glucagon qui est une hormone hyperglycémiante.\nLes cellules bêta (β) sécrètent l’insuline qui est une hormone hypoglycémiante,\nhypokaliémiante et favorise la glycogénèse.\nIl existe deux types de diabète, le type I et le type II.\nLe type I est auto-immun, il est dit insulinodépendant. Il est dû à l’inaction des cellules β des\nîlots de langerhans, il est traité par de l’insuline.\nLe type II est dit acquis, il est dit non insulinodépendant. Il se fait en plusieurs étapes,\nd’abord une insulinorésistance due à une hyperglycémie qui s’installe progressivement au\nfil des années, puis pour compenser l’organisme va sécréter des quantités importantes\nd’insuline. Pour finir, les réserves d’insulines vont s’épuiser, c’est l’insulino-déficience.\nFonction exocrine :\nCe sont les sucs pancréatiques qui sont sécrétés par le pancréas exocrine, ils sont destinés\nà la digestion, on retrouve ainsi :\n- Des bicarbonates, ce qui explique que le suc pancréatique soit alcalin\n- La trypsine pour la digestion des protides\n- L’amylase pour la digestion des glucides\n- La lipase pour la digestion des lipides.\nPour mieux comprendre : pour la digestion il y a donc la salive, les sucs gastriques, les\nsucs pancréatiques et la bile qui rentrent en compte.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 30,
+          "page_end": 31,
+          "token_count": 361
+        }
+      ]
+    },
+    {
+      "section_id": "section_72",
+      "title": "SYSTÈME NERVEUX CENTRAL",
+      "pages": [
+        32
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_72_c01",
+          "text": "Le système nerveux central est composé du cerveau et de la moelle épinière. On y retrouve\négalement des neurones (ou cellules nerveuses) et des cellules gliales.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 32,
+          "page_end": 32,
+          "token_count": 40
+        }
+      ]
+    },
+    {
+      "section_id": "section_73",
+      "title": "ANATOMIE DE LA CELLULE NERVEUSE",
+      "pages": [
+        33
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_73_c01",
+          "text": "Corps cellulaire : contient le noyau et les organites de la cellule (ribosomes, appareil de\nGolgi, mitochondrie) et possède deux prolongements les dendrites et l’axone.\nDendrites : prolongement afférent, ils reçoivent l’information nerveuse venant d’autres\nAxones : prolongement efférent, ils transmettent l’information nerveuse vers d’autres\nneurones ou vers des fibres musculaires.\nMyéline : Gaine isolante qui entoure l’axone de manière discontinue avec des espaces non\nmyélinisés, ce sont les nœuds de Ranvier. La myéline augmente la vitesse de conduction",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 139
+        }
+      ]
+    },
+    {
+      "section_id": "section_74",
+      "title": "LES CELLULES GLIALES",
+      "pages": [
+        33
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_74_c01",
+          "text": "Ces cellules environnent les neurones et assurent de multiples :\n- Fonction immunitaire\n- Synthèse de la myéline\n- « Étanchéité » de la synapse\nIl existe 4 types de cellules gliales : astrocyte, oligodendrocyte, cellule de Schwann, microglie.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 60
+        }
+      ]
+    },
+    {
+      "section_id": "section_75",
+      "title": "PHYSIOLOGIE DE LA CELLULE NERVEUSE",
+      "pages": [
+        33
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_75_c01",
+          "text": "La cellule nerveuse possède deux propriétés, l’excitabilité qui lui permet d’émettre un\npotentiel d’action et la conductibilité qui lui permet de propager ce même potentiel jusqu’à\nl’arborisation terminale de l’axone.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 54
+        }
+      ]
+    },
+    {
+      "section_id": "section_76",
+      "title": "Les neurones sont des cellules qui peuvent être excitées en réponse à un stimulus",
+      "pages": [
+        33
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_76_c01",
+          "text": "(thermique, chimique, électrique, mécanique). À partir d’un certain seuil, il y a création d’un\npotentiel d’action (PA) qui va se propager le long de l’axone, on appelle ça l’influx nerveux.\nTout cela est possible grâce à l’ouverture de canaux qui vont permettre les échanges d’ions\nentre les deux côtés de la membrane, c’est la dépolarisation.\nPour mieux comprendre : ces cellules répondent à la loi du tout ou rien, tant que le\nseuil d’excitabilité n’est pas atteint il n’y a pas de potentiel d’action. Mais peu importe\nl’intensité du stimulus, l’amplitude du potentiel d’action restera la même.\nCe potentiel d’action va jusqu’à une zone de",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 160
+        }
+      ]
+    },
+    {
+      "section_id": "section_83",
+      "title": "LA BARRIÈRE HÉMATOENCÉPHALIQUE (BHE)",
+      "pages": [
+        36
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_83_c01",
+          "text": "C’est un système biologique qui permet d’isoler le système nerveux du reste de l’organisme,\nelle est composée de cellules endothéliales, de péricytes et d’astrocytes. Elle a un rôle\nprimordial dans l’isolation du parenchyme cérébral.\nLa BHE assure le contrôle de l’homéostasie tissulaire grâce à une perméabilité sélective\naux nutriments et aux autres molécules apportés par le flux sanguin.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 36,
+          "page_end": 36,
+          "token_count": 97
+        }
+      ]
+    },
+    {
+      "section_id": "section_84",
+      "title": "SYSTÈME NERVEUX VÉGÉTATIF",
+      "pages": [
+        37
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_84_c01",
+          "text": "Le système nerveux végétatif (ou autonome) assure l’innervation de nombreux organes :\n- Du cœur (et autres muscles lisses comme l’appareil broncho-pulmonaire)\n- De certains éléments de la peau (comme les glandes sudoripares ou les muscles\nIl joue un rôle dans le maintien de l’homéostasie et est indépendant de la volonté. Il est\nconstitué de deux systèmes aux actions opposées :\n- Le Système (ortho)sympathique (réponse de stress)\n- Le Système parasympathique (conversation d’énergie et maintien des fonctions\nÀ l’état physiologique, le système parasympathique prédomine.\nL’effet du système sympathique et parasympathique sur l’organisme",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 37,
+          "page_end": 37,
+          "token_count": 159
+        }
+      ]
+    },
+    {
+      "section_id": "section_93",
+      "title": "droit externe au niveau oculaire",
+      "pages": [
+        39
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_93_c01",
+          "text": "● Nerf VII (mixte) : nerf facial, moteur pour les muscles de la face et sensitif pour les\n2/3 de la langue\n● Nerf VIII (sensoriel) : nerf auditif, il assure l’audition et intervient dans l’équilibre\n● Nerf IX (mixte) : nerf glossopharyngien, sensibilité du pharynx et de la langue et\nmotricité d’un muscle du pharynx\n● Nerf X (mixte) : nerf vague ou nerf pneumogastrique, moteur pour les muscles\ndu pharynx, du larynx et du voile du palais, parasympathique et sensitif pour les",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 39,
+          "page_end": 39,
+          "token_count": 119
+        }
+      ]
+    },
+    {
+      "section_id": "section_103",
+      "title": "FONCTION ENDOCRINE",
+      "pages": [
+        42
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_103_c01",
+          "text": "La thyroïde est une glande endocrine située dans la région du cou. Elle est richement\nvascularisée par les artères thyroïdiennes.\nElle sécrète la TSH, la triiodothyronine (T3), la thyroxine (T4) et la calcitonine.\nLes hormones T3 et T4 stimulent le fonctionnement des cellules en participant au métabolisme\ndes glucides et des lipides. L’hormone T4 doit se transformer en T3 pour être active.\nElles ont notamment un impact sur :\n- L’augmentation de la conduction cardiaque\n- Le système nerveux (accélération de la conduction nerveuse, diminution des temps\n- Le tube digestif (accélération du transit)\nLeur régulation est sous la dépendance de la TSH (hormone thyroïdienne), toute baisse de\nT3 et T4 entraîne la sécrétion de TSH et inversement (on nomme cela le feed-back). Elle est\nelle-même sous la dépendance de l’hypothalamus.\nLa calcitonine a pour rôle d’augmenter l’absorption du calcium par l’os et augmente\nl’élimination urinaire du calcium. Elle est régulée par la calcémie.\nLes parathyroïdes (PTH) sont aux nombres de 4 et sécrètent la parathormone, qui a différents\n- Elle est hypercalcémiante et hypophosphorémiante\n- Elle augmente la formation active de la vitamine D\n- Elle augmente l’absorption du calcium en potentialisant l’action de la vitamine D\nLa PTH est régulée par la calcémie.\nIl est le cerveau endocrinien de l’organisme, il commande la sécrétion de toutes les glandes\nendocrines du corps. Il sécrète comme vu précédemment deux hormones qui sont l’ocytocine",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 42,
+          "page_end": 42,
+          "token_count": 370
+        }
+      ]
+    },
+    {
+      "section_id": "section_105",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 42",
+      "pages": [
+        42,
+        43
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_105_c01",
+          "text": "L’hypophyse est une glande située à la base du cerveau, elle est constituée de deux lobes,\nl’antéhypophyse (lobe antérieur) et la posthypophyse (lobe postérieur).\nElle est reliée à l’hypothalamus par la tige pituitaire et est sous sa dépendance.\nElle sécrète des stimulines qui ont pour rôle de réguler d’autres glandes et des hormones\nqui ont une action sur des tissus.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 42,
+          "page_end": 43,
+          "token_count": 92
+        }
+      ]
+    },
+    {
+      "section_id": "section_107",
+      "title": "Surrénale les sécrétions de cortisol et",
+      "pages": [
+        43
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_107_c01",
+          "text": "adrénocorticotrophine) le plasma (rétrocontrôle)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 43,
+          "page_end": 43,
+          "token_count": 12
+        }
+      ]
+    },
+    {
+      "section_id": "section_115",
+      "title": "LA POSTHYPOPHYSE",
+      "pages": [
+        44
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_115_c01",
+          "text": "La posthypophyse relais des hormones sécrétées par l’hypothalamus, ces deux hormones\nsont stockées puis libérées.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 44,
+          "page_end": 44,
+          "token_count": 28
+        }
+      ]
+    },
+    {
+      "section_id": "section_118",
+      "title": "Utérus et du muscle utérin et stimule la",
+      "pages": [
+        44
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_118_c01",
+          "text": "l’hypothalamus en réponse à\nL’ocytocine les glandes contraction des cellules des\nla distension de l’utérus et à",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 44,
+          "page_end": 44,
+          "token_count": 27
+        }
+      ]
+    },
+    {
+      "section_id": "section_129",
+      "title": "On observe une hémodilution chez la femme enceinte due à la faible augmentation du",
+      "pages": [
+        47
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_129_c01",
+          "text": "volume érythrocytaire comparé à l’augmentation importante du volume sanguin.\nOn observe également une hypercoagulabilité physiologique, afin de prévenir les risques de\nla parturiente à l’accouchement. Les risques de maladie thromboembolique veineuse sont\ngrandement augmentés jusqu’à 6 semaines en Post partum.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 47,
+          "page_end": 47,
+          "token_count": 77
+        }
+      ]
+    },
+    {
+      "section_id": "section_141",
+      "title": "La codéine est un agoniste partiel",
+      "pages": [
+        50
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_141_c01",
+          "text": "Les agonistes-antagonistes : Ils peuvent se lier à un sous-type de récepteur et antagoniser\nla fixation à un autre sous-type. Il est donc moins puissant qu’un agoniste.\nLa nalbuphine est un agoniste-antagoniste.\nLes antagonistes : Substance qui se lie à un récepteur spécifique sans provoquer d’effet,\nmais qui peut ainsi bloquer l’action d’un médiateur endogène voulant s’y fixer.\nIl y en a deux types, les compétitifs (bloque l’action d’un médiateur endogène en ce liant au\nmême site que celui-ci) et les non compétitifs (bloque l’action d’un médiateur endogène en\nse liant à un autre site).\nLa naloxone est un antagoniste.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 50",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 50,
+          "page_end": 50,
+          "token_count": 182
+        }
+      ]
+    },
+    {
+      "section_id": "section_142",
+      "title": "PHARMACOCINÉTIQUE",
+      "pages": [
+        51
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_142_c01",
+          "text": "La pharmacocinétique c’est le devenir des médicaments dans l’organisme.\nElle se fait en 4 étapes :\n- La distribution\n- La métabolisation\nLe moyen mnémotechnique permettant de les retenir est ADME.\nC’est l’étape durant laquelle le médicament se retrouve dans la circulation générale. Elle peut\nse faire de différentes façons, per os, intraveineuse, sublinguale ou encore intramusculaire,\nEn fonction de la voie d’administration, la totalité du médicament ne passe pas dans le\nsang, on parle alors de biodisponibilité. Elle est modifiée selon plusieurs critères et surtout\nle premier passage hépatique.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 51,
+          "page_end": 51,
+          "token_count": 150
+        }
+      ]
+    },
+    {
+      "section_id": "section_145",
+      "title": "LES ANTIHYPERTENSEURS",
+      "pages": [
+        52
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_145_c01",
+          "text": "Les antihypertenseurs se regroupent en plusieurs familles :\n- Les diurétiques\n- Les bêtabloquants\n- Les inhibiteurs calciques\n- Les inhibiteurs de l’enzyme de conversion (IEC)\n- Les antihypertenseurs centraux\n- Les antagonistes des récepteurs de l’angiotensine II (ARA II ou sartans)\nIl existe différents types de diurétique qui ont chacun leur action propre, les diurétiques de\nl’anse, les thiazidiques et les épargneurs de potassium.\nLes diurétiques de l’anse agissent sur la branche ascendante de l’anse de Henlé en bloquant\nla réabsorption du Na+, du K+ et du chlore.\nLes risques les plus importants sont l’hypokaliémie et l’hyponatrémie.\nExemple de diurétique de l’anse :\n- Furosémide (lasilix®)\nLes thiazidiques ont deux actions, premièrement ils empêchent la réabsorption du Na+\net du Cl- du compartiment urinaire vers le compartiment vasculaire. Deuxièmement, ils\naugmentent l’élimination du K+ du compartiment vasculaire vers les urines.\nLes risques les plus importants sont l’hypokaliémie et l’hyponatrémie.\nExemple de thiazidiques :\n- Hydrochlorothiazide (Esidrex®), Indapamide (Fludex®)\nLes diurétiques épargneurs de potassium, agissent au niveau du tube contourné distal et\ndu tube collecteur en bloquant les récepteurs où agit l’aldostérone, qui a pour action de\npermettre la réabsorption de Na+ des urines vers le sang et l’élimination de K+ du sang vers\nLe risque principal est donc l’hyperkaliémie.\nExemple de diurétiques épargneurs de potassium :\n- Spironolactone (Aldactone®), L’éplérénone (Inspra®)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 52,
+          "page_end": 52,
+          "token_count": 379
+        }
+      ]
+    },
+    {
+      "section_id": "section_157",
+      "title": "Les catécholamines sont des médicaments ayant différents effets variant selon les récepteurs",
+      "pages": [
+        57
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_157_c01",
+          "text": "sur lesquels ils se fixent.\nRécepteurs alpha :\n- α 1 : ils prédominent sur les muscles lisses, les vaisseaux, l’iris, le tube digestif, les\n- α 2 : ils prédominent sur les muscles lisses, les vaisseaux et le pancréas\n- β 1 : Localisation surtout au niveau cardiaque et rénal\n- β 2 : Localisation cardiaque, mais surtout vasculaire et bronchique\nEffet de la stimulation principale des récepteurs sur chaque organe :\nRécepteurs α 1 :\nVaisseaux Vasoconstriction +++",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 57,
+          "page_end": 57,
+          "token_count": 115
+        }
+      ]
+    },
+    {
+      "section_id": "section_162",
+      "title": "Il est bon de savoir que son utilisation est limitée par les réserves en catécholamine de",
+      "pages": [
+        58
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_162_c01",
+          "text": "chacun, une fois épuisée l’éphédrine n’a plus d’effets.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 58,
+          "page_end": 58,
+          "token_count": 13
+        }
+      ]
+    },
+    {
+      "section_id": "section_163",
+      "title": "La phényléphrine est un sympathomimétique de synthèse qui a une action exclusive sur",
+      "pages": [
+        58
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_163_c01",
+          "text": "les récepteurs alpha.\nIl entraîne une vasoconstriction et une bradycardie par mise en jeu du baroréflexe.\nSon indication est l’hypotension chez un patient coronarien ou sur une baisse des résistances",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 58,
+          "page_end": 58,
+          "token_count": 49
+        }
+      ]
+    },
+    {
+      "section_id": "section_167",
+      "title": "Le volume persistant dans le secteur vasculaire après perfusion intraveineuse est",
+      "pages": [
+        59
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_167_c01",
+          "text": "insignifiant, car sa diffusion se fait rapidement dans tous les compartiments de\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 59",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 59,
+          "page_end": 59,
+          "token_count": 46
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "title": "15 Vrai ou Faux (thème pharmacologie) :",
+      "pages": [
+        5
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_10_c01",
+          "text": "- L’atropine est un parasympathique\n- La phényléphrine est un sympathomimétique\n- La néostigmine est un parasympathomimétique\n- L’éphédrine est un parasympatholytique",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 5,
+          "page_end": 5,
+          "token_count": 41
+        }
+      ]
+    },
+    {
+      "section_id": "section_19",
+      "title": "5 Nerf I : nerf olfactif",
+      "pages": [
+        8
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_19_c01",
+          "text": "Nerf II : nerf optique\nNerf III : nerf oculomoteur, ou moteur oculaire commun\nNerf IV : nerf trochléaire ou pathétique\nNerf V : nerf trijumeau\nNerf VI : nerf abducens ou moteur oculaire externe,\nNerf VII : nerf facial\nNerf VIII : nerf auditif\nNerf IX : nerf glossopharyngien\nNerf X : nerf vague ou nerf pneumogastrique\nNerf XI : nerf accessoire ou nerf spinal\nNerf XII : nerf hypoglosse ou nerf grand hypoglosse",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 102
+        }
+      ]
+    },
+    {
+      "section_id": "section_29",
+      "title": "12 Cristalloïde : solutés micromoléculaires qui agissent essentiellement par le biais de",
+      "pages": [
+        11
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_29_c01",
+          "text": "Il existe des solutés :\n- Isotonique : soluté dont l’osmolarité est proche de celle du sang comme le nacl 0,9%\n- Hypotonique : soluté dont l’osmolarité est plus basse que celle du sang comme le\n- Hypertonique : soluté dont l’osmolarité est plus haute que celle du sang comme le",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 11,
+          "page_end": 11,
+          "token_count": 69
+        }
+      ]
+    },
+    {
+      "section_id": "section_32",
+      "title": "15 Vrai ou faux (thème pharmacologie) :",
+      "pages": [
+        12
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_32_c01",
+          "text": "- L’atropine est un parasympathique FAUX\n- La phényléphrine est un sympathomimétique VRAI\n- La néostigmine est un parasympathomimétique VRAI\n- L’éphédrine est un parasympatholytique FAUX",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 46
+        }
+      ]
+    },
+    {
+      "section_id": "section_81",
+      "title": "48 Vous travaillez en service de soins intensifs quand un patient scopé, se met à fibriller.",
+      "pages": [
+        26
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_81_c01",
+          "text": "Vous n’avez qu’un défibrillateur manuel monophasique avec des palettes.\nOù positionnez-vous les palettes ?\nÀ combien de joule doit-il être réglé pour le premier choc ?\nQuel est le risque principal d’un défibrillateur monophasique ?",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 57
+        }
+      ]
+    },
+    {
+      "section_id": "section_97",
+      "title": "58 Citez 4 signes cliniques d’acidocétose diabétique. Expliquez brièvement sa",
+      "pages": [
+        29
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_97_c01",
+          "text": "physiopathologie.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 4
+        }
+      ]
+    },
+    {
+      "section_id": "section_107",
+      "title": "48 Il faut positionner les palettes à droite du sternum sous la clavicule et à gauche à",
+      "pages": [
+        32,
+        33
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_107_c01",
+          "text": "l’apex du coeur.\nPour le premier choc, avec un défibrillateur monophasique, il faut régler la puissance\nLe risque majeur du défibrillateur monophasique est le risque de lésion myocardique.\n\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3322\n\nRÉPONSES DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 32,
+          "page_end": 33,
+          "token_count": 86
+        }
+      ]
+    },
+    {
+      "section_id": "section_120",
+      "title": "58 Voici 4 signes cliniques d’acidocétose diabétique :",
+      "pages": [
+        35
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_120_c01",
+          "text": "- La polypnée est un signe fondamental (on note l’odeur caractéristique d’acétones\nexhalées ou l’odeur de pomme)\n- La déshydratation globale avec ses signes\n- Les signes digestifs sont fréquents (nausées et/ou vomissements)\nChez le patient diabétique, l’absence d’insuline entraîne la mise en route de la voie\nde secours pour procurer aux organes l’énergie nécessaire à son fonctionnement\n(s’il n’y a pas d’insuline, on retrouve une hyperglycémie, mais le transport jusqu’aux\ncellules ne se fait pas).\nPour trouver de l’énergie, après avoir épuisé les voies de secours (les réserves\nhépatiques), le corps va débuter la lipolyse. Ce qui va libérer des corps cétogénique.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 35,
+          "page_end": 35,
+          "token_count": 167
+        }
+      ]
+    },
+    {
+      "section_id": "section_122",
+      "title": "59 Voici 3 manifestations cliniques d’une hypertension portale :",
+      "pages": [
+        35
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_122_c01",
+          "text": "- Circulation veineuse collatérale abdominale\n- Splénomégalie : elle est présente dans 30 à 50% des cirrhoses\n- Les varices oesophagiennes\nC’est la cirrhose qui est le plus fréquemment à l’origine d’une hypertension portale.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 35,
+          "page_end": 35,
+          "token_count": 56
+        }
+      ]
+    },
+    {
+      "section_id": "section_20",
+      "title": "11 Nous avons 24 000 UI à passer en 24h et nous devons préparer une seringue sur 6h.",
+      "pages": [
+        8
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_20_c01",
+          "text": "Passer 24 000 UI par 24h revient à passer 1000 UI par heure, donc 6000 UI sur 6h.\nSachant que 1 ml d’héparine = 5000 UI, on a donc 25 000 UI dans notre flacon de 5 ml.\n5 ml 25 000 UI 5 x 6000\nX = = 1,2 ml de solution d’héparine\nNous mettons donc 1,2 ml d’héparine dans nos seringues de 50ml que nous complétons\navec 46,8 ml de sérum physiologique pour avoir 48ml.\n\nNous passons 48 ml en 6h soit = 8 ml/h",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 100
+        }
+      ]
+    },
+    {
+      "section_id": "section_35",
+      "title": "27 Vrai ou faux (thème respiratoire)",
+      "pages": [
+        12
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_35_c01",
+          "text": "- Le shunt vrai se corrige grâce à l’oxygène\n- L’aspiration trachéale d’un patient intubé fait partie du rôle propre\n- La courbe de barcroft se décale à droite pour une augmentation du PH de la\ntempérature et de la PCO2\n- Coefficient de Tiffeneau : C’est le rapport entre la VEMS et la CRF",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 72
+        }
+      ]
+    },
+    {
+      "section_id": "section_36",
+      "title": "28 Vrai ou faux (thème urologie)",
+      "pages": [
+        12
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_36_c01",
+          "text": "- La rénine est sécrétée par les surrénales\n- Un DFG compris entre 29 et 15 ml/min traduit une insuffisance rénale chronique\n- L’acidose est une diminution du PH et l’alcalose une augmentation du PH\n- La vasopressine agit au niveau de l’anse de Henlé",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 62
+        }
+      ]
+    },
+    {
+      "section_id": "section_41",
+      "title": "31 Vrai ou faux (thème digestif)",
+      "pages": [
+        13
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_41_c01",
+          "text": "- Le pancréas est la seule glande mixte du corps\n- L’insuline est sécrétée par les cellules alpha du pancréas\n- Les globules rouges sont éliminés par la rate après une durée de vie de 80 jours\n- Le foie n’a aucun impacte sur la régulation de la glycémie",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 13,
+          "page_end": 13,
+          "token_count": 63
+        }
+      ]
+    },
+    {
+      "section_id": "section_43",
+      "title": "35 Chez un adulte, quelle est la quantité d’eau totale par rapport à sa masse corporelle",
+      "pages": [
+        13
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_43_c01",
+          "text": "et dans quelle proportion est-elle répartie dans les différents compartiments ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 13,
+          "page_end": 13,
+          "token_count": 19
+        }
+      ]
+    },
+    {
+      "section_id": "section_50",
+      "title": "25 Les bonnes réponses sont :",
+      "pages": [
+        15
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_50_c01",
+          "text": "- L’adrénaline est une hormone hyperglycémiante\n- Le glucagon est une hormone hyperglycémiante\n- Les hormones T3 et T4 sont hypoglycémiantes\n\n- Le shunt vrai se corrige grâce à l’oxygène FAUX\n- L’aspiration trachéale d’un patient intubé fait partie du rôle propre VRAI\n- La courbe de barcroft se décale à droite pour une augmentation du PH de la\ntempérature et de la PCO2 FAUX\n- Coefficient de Tiffeneau : C’est le rapport entre la VEMS et la CRF FAUX\n- La rénine est sécrétés par les surrénales FAUX\n- Un DFG compris entre 29 et 15 ml/min traduit une insuffisance rénale chronique\n- L’acidose est une diminution du PH et l’alcalose une augmentation du PH VRAI\n- La vasopressine agit au niveau de l’anse de Henlé FAUX",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 15,
+          "page_end": 15,
+          "token_count": 179
+        }
+      ]
+    },
+    {
+      "section_id": "section_53",
+      "title": "ANNALES CORRIGÉS DE L’ÉPREUVE ÉCRITE - PREPACONCOURSIADE.COM 15",
+      "pages": [
+        15,
+        16
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_53_c01",
+          "text": "RÉPONSES DE 21 À 40\n- Le pancréas est la seule glande mixte du corps VRAI\n- L’insuline est sécrétée par les cellules alpha du pancréas FAUX\n- Les globules rouges sont éliminés par la rate après une durée de vie de 80 jours\n- Le foie n’a aucun impacte sur la régulation de la glycémie FAUX",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 15,
+          "page_end": 16,
+          "token_count": 72
+        }
+      ]
+    },
+    {
+      "section_id": "section_59",
+      "title": "37 Diabète de type 1 : Maladie auto-immune provoquant une destruction des cellules",
+      "pages": [
+        17
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_59_c01",
+          "text": "β des îlots de langerhans. Il est insulinodépendant.\nDiabète de type 2 : Diabète acquis dont le processus se fait en plusieurs\nétapes. D’abord une insulinorésistance due à une hyperglycémie qui s’installe\nprogressivement au fil des années, puis pour compenser l’organisme va sécréter\ndes quantités importantes d’insuline pour y pallier. Pour finir, les réserves d’insulines\nvont s’épuiser, c’est l’insulino déficience.\nL’insuline est sécrétée par les cellules β des îlots de langerhans.\nLe glucagon est sécrété par les cellules α des îlots de langerhans.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 138
+        }
+      ]
+    },
+    {
+      "section_id": "section_81",
+      "title": "42 Signes de luttes :",
+      "pages": [
+        23
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_81_c01",
+          "text": "- Contraction des muscles respiratoires accessoires\n- Creux sus-sternal et sus-claviculaire\n- Entonoir xiphoïdien\n- Tirage intercostal\nSignes d’épuisements respiratoires :\n- Bradypnée < 10 par minute ou apnée\n- Respiration superficielle\n- Impossibilité de parler\n- Balancement thoraco-abdominale\nSignes d’hypoxémies Signes d’hypercapnie\n- Cyanose des extrémités - Signes neurologiques (somnolence,\n- Signes neurologiques (agitation, confusion, sueur, céphalées)\nangoisse) - Signes cardio (hypertension)\n- Signes cardio (tachycardie)\n- Baisse de la saturation",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 23,
+          "page_end": 23,
+          "token_count": 139
+        }
+      ]
+    },
+    {
+      "section_id": "section_92",
+      "title": "ANNALES CORRIGÉS DE L’ÉPREUVE ÉCRITE - PREPACONCOURSIADE.COM 26",
+      "pages": [
+        26,
+        27
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_92_c01",
+          "text": "RÉPONSES DE 41 À 60\n52 a. J’ai des ampoules de 5 mg/5 ml d’adrénaline.\nLa concentration de cette ampoule est donc de 1 mg/ml.\nIl me suffit donc simplement de mettre 1 mg d’adrénaline dans un flacon de\n100ml de sérum physiologique pour obtenir une concentration à 10μg/ml.\nb. J’ai des ampoules de noradrénaline à 8 mg/4 ml, soit 8000µg/4 ml\nJe souhaite obtenir du 16 µg/ml.\nLa question est, combien de fois je dois diviser 8000 pour obtenir 16 ?\nJe pose donc le calcule suivant :\nSi je veux obtenir une dilution à 16 µg/ml, je dois donc mettre une ampoule de 8\nmg dans 500 ml de sérum physiologique.\n(SI vous souhaitez vérifier qu’il n’y a pas d’erreurs, faites le calcul inverse. Ici\non propose de diluer les 8 mg dans 500 ml de sérum physiologique si je pose\n\n= 0,016 mg soit 16 µg)\n\nc. J’ai des ampoules de noradrénaline à 8 mg/4 ml, soit 2 mg/ml.\nJe souhaite obtenir une concentration à 0,5 mg/ml.\nPour cela je prends 3 ampoules de noradrénaline que je mets dans ma seringue\nde 50 ml. J’ai donc 24 mg de noradrénaline dans 12 ml.\nIl ne me reste qu’à ajouter du sérum physiologique jusqu’à 48 ml pour avoir 24\nmg dans 48 ml, soit 0,5 mg/ml.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 26,
+          "page_end": 27,
+          "token_count": 285
+        }
+      ]
+    },
+    {
+      "section_id": "section_94",
+      "title": "54 Le foie synthétise les facteurs de coagulation suivant :",
+      "pages": [
+        28
+      ],
+      "module_id": "bases_physio",
+      "chunks": [
+        {
+          "chunk_id": "section_94_c01",
+          "text": "- Le facteurs II = Prothrombine\n- Le facteur V = Proaccélérine\n- Le facteurs VII = Proconvertine\n- Le facteurs IX = Facteur anti-hémophile B\n- Le facteurs X = Facteur Stuart prower\n- Le facteurs XI = Facteur rosenthal\nLes facteurs vitamine K dépendants sont les facteurs II, VII, IX et X",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 71
+        }
+      ]
+    }
+  ]
+}

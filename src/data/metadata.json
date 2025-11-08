@@ -1,0 +1,130 @@
+{
+  "generated_at": "2025-11-05T15:46:19.262643",
+  "sources": [
+    {
+      "file": "Prepaconcoursiade-Complet.pdf",
+      "type": "cours",
+      "sections_count": 196,
+      "pages": 74,
+      "extracted_pages": 74
+    },
+    {
+      "file": "annalescorrigées-Volume-2.pdf",
+      "type": "annales",
+      "sections_count": 123,
+      "pages": 36,
+      "extracted_pages": 36
+    },
+    {
+      "file": "annalescorrigées-Volume-1.pdf",
+      "type": "annales",
+      "sections_count": 105,
+      "pages": 31,
+      "extracted_pages": 31
+    }
+  ],
+  "modules": {
+    "transfusion": {
+      "title": "Transfusion & Hémostase",
+      "sections_count": 27,
+      "chunks_count": 27
+    },
+    "unknown": {
+      "title": "Non classifié (à valider manuellement)",
+      "sections_count": 170,
+      "chunks_count": 168
+    },
+    "bases_physio": {
+      "title": "Bases Physiologie & Homéostasie",
+      "sections_count": 63,
+      "chunks_count": 63
+    },
+    "neuro": {
+      "title": "Neurologie & Anesthésie",
+      "sections_count": 16,
+      "chunks_count": 16
+    },
+    "infectio": {
+      "title": "Infectiologie, Asepsie, SSI",
+      "sections_count": 54,
+      "chunks_count": 54
+    },
+    "cardio": {
+      "title": "Cardio & Hémodynamique",
+      "sections_count": 34,
+      "chunks_count": 34
+    },
+    "ventilation": {
+      "title": "Ventilation & Voies Aériennes",
+      "sections_count": 6,
+      "chunks_count": 6
+    },
+    "respiratoire": {
+      "title": "Physiologie Respiratoire",
+      "sections_count": 13,
+      "chunks_count": 13
+    },
+    "douleur": {
+      "title": "Douleur Aiguë & Chronique",
+      "sections_count": 9,
+      "chunks_count": 9
+    },
+    "pediatrie": {
+      "title": "Pédiatrie & Populations Particulières",
+      "sections_count": 8,
+      "chunks_count": 8
+    },
+    "pharma_opioides": {
+      "title": "Pharmacologie - Opioïdes/Analgésie",
+      "sections_count": 7,
+      "chunks_count": 7
+    },
+    "reanimation": {
+      "title": "Réanimation & Urgences",
+      "sections_count": 4,
+      "chunks_count": 4
+    },
+    "legislation": {
+      "title": "Législation, Éthique, Gestion Risques",
+      "sections_count": 6,
+      "chunks_count": 6
+    },
+    "monitorage": {
+      "title": "Monitorage & Surveillance",
+      "sections_count": 7,
+      "chunks_count": 7
+    }
+  },
+  "extraction_date": "2025-11-05T15:46:19.262643",
+  "total_pages": 141,
+  "total_sections": 424,
+  "total_chunks": 422,
+  "biomedical_thresholds": {
+    "bases_physio": 0.05,
+    "respiratoire": 0.05,
+    "cardio": 0.06,
+    "neuro": 0.06,
+    "pharma_generaux": 0.10,
+    "pharma_locaux": 0.08,
+    "pharma_opioides": 0.10,
+    "pharma_curares": 0.08,
+    "alr": 0.07,
+    "ventilation": 0.06,
+    "transfusion": 0.09,
+    "reanimation": 0.06,
+    "douleur": 0.07,
+    "infectio": 0.07,
+    "monitorage": 0.05,
+    "pediatrie": 0.06,
+    "legislation": 0.05,
+    "unknown": 0.05
+  },
+  "module_map_overrides": {
+    "Transfusion sanguine": "transfusion",
+    "Douleur post-opératoire": "douleur",
+    "Anesthésie générale": "pharma_generaux",
+    "Pharmacologie": "pharma_generaux"
+  },
+  "coverage_map": {},
+  "notes": "Extraction initiale - 40% sections en 'unknown' nécessitent validation manuelle ou amélioration mots-clés"
+}

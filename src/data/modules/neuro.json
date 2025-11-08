@@ -1,0 +1,294 @@
+{
+  "module_id": "neuro",
+  "title": "Module Neuro",
+  "sections": [
+    {
+      "section_id": "section_07",
+      "title": "ANATOMIE ET PHYSIOLOGIE CARDIAQUE",
+      "pages": [
+        7
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_07_c01",
+          "text": "Avant même de comprendre le fonctionnement du cœur, il faut en comprendre l’anatomie.\nLe schéma du cœur en est la base.\nLa structure cardiaque est simple, elle comporte trois tuniques. Du plus externe au plus\ninterne, on retrouve le péricarde (composé de deux feuillets l’épicarde puis le péricarde\npariétal), le myocarde et l’endocarde.\nIls ont pour fonction de faciliter les mouvements cardiaques et de le protéger.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 7,
+          "page_end": 7,
+          "token_count": 104
+        }
+      ]
+    },
+    {
+      "section_id": "section_78",
+      "title": "DÉTERMINANT DU DÉBIT SANGUIN CÉRÉBRAL",
+      "pages": [
+        34
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_78_c01",
+          "text": "Il représente 15 % à 20 % du débit cardiaque. Il s’autorégule pour une pression de perfusion\ncérébrale (PPC) comprise entre 70 mmHg et 150 mmHg et a une capacité d’adaptation\nimportante. Il est exclusivement alimenté grâce à l’apport d’ATP et il n’existe quasiment\naucun stockage au niveau cérébral, ce qui explique qu’en cas d’anoxie ou d’hypoglycémie\nles conséquences peuvent être graves.\nPression de perfusion cérébrale [PPC)\nLe DSC est égal à :\nRésistances vasculaires (RV)\nLa PPC = PAM - pression veineuse (PV), la pression veineuse cérébrale est quasi négligeable\npuisqu’elle est de l’ordre de 5 mmHg. On comprend donc que la PPC et donc le DSC\ndépendent fortement de la PAM.\nLes RV sont l’ensemble des forces qui s’opposent au passage du flux sanguin dans les\nvaisseaux : il s’agit de la pression intracrânienne (qui est normals de 10 mmHg à 15 mmHg),\nde la viscosité du sang et du tonus vasculaire cérébral.\nDans des conditions physiologiques, les trois premiers facteurs ne varient pas ou de\nfaçon négligeable. La RV dépend donc essentiellement du calibre des artères et artérioles\nLa PaCO2 est un puissant vasodilatateur et dans une moindre mesure, la PaO2 a un rôle\nrégulateur plus limité.\nPour mieux comprendre : les déterminants du DSC sont :\n● Métaboliques : ● Neurogéniques :\n- CO2 et O2 - Innervation sympathique\n- ATP - Innervation parasympathique\nEn pratique très peu sont pertinents, il y a le CO2 et la PPC qui le déterminant majeur",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 34,
+          "page_end": 34,
+          "token_count": 363
+        }
+      ]
+    },
+    {
+      "section_id": "section_79",
+      "title": "POLYGONE DE WILLIS",
+      "pages": [
+        35
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_79_c01",
+          "text": "La vascularisation de l’encéphale est sous la dépendance de deux systèmes.\nLes carotides (droite et gauche) qui donnent les artères cérébrales et le système vertébral\nqui se compose deux artères vertébrales se rejoignant pour former le tronc basilaire.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 35,
+          "page_end": 35,
+          "token_count": 63
+        }
+      ]
+    },
+    {
+      "section_id": "section_82",
+      "title": "via la substance blanche et elle donne naissance à chaque étage vertébral à une paire de",
+      "pages": [
+        36
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_82_c01",
+          "text": "nerfs rachidien.\nOn peut y définir 3 espaces distincts :\n- L’espace péridural (entre le canal rachidien et la dure-mère)\n- L’espace sous-dural (entre la dure-mère et l’arachnoïde, c’est un espace virtuel)\n- L’espace sous-arachnoïdien (entre la pie-mère et l’arachnoïde, il contient le liquide\ncéphalo-rachidien)\nLe liquide céphalo-rachidien (LCR) assure différents rôles :\n- Protection mécanique du cerveau (amortissement des chocs)\n- Neuro-immunologie\n- Neuroendocrinologie (transport des hormones et nutriments)\n- Épuration (évacuation grâce à un renouvellement rapide)\nLe LCR et la circulation sanguine sont déterminants de la pression intracrânienne (PIC) qui\nest comprise en 5 mmHg et 10 mmHg chez un adulte sain.\nSon augmentation au-dessus de 15 mmHg définit l’hypertension intracrânienne.\nPour mieux comprendre : l’hypertension intracrânienne est la conséquence de\nl’augmentation non compensée du volume d’un des 3 secteurs du contenu intracrânien :\n- Le parenchyme cérébral\n- Le volume sanguin cérébral\nToute augmentation de volume d’un des compartiments intracrâniens doit obligatoirement\nêtre accompagnée d’une diminution de volume d’un ou des deux autres compartiments\npour maintenir une PIC constante. Le risque majeur étant l’engagement cérébral.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 36,
+          "page_end": 36,
+          "token_count": 314
+        }
+      ]
+    },
+    {
+      "section_id": "section_101",
+      "title": "Réponse stéréotypée",
+      "pages": [
+        41
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_101_c01",
+          "text": "en extension à la douleur : 2\nLe score de Glasgow est coté de 3 à 15, selon le score on peut déterminer l’état neurologique\n- 8 à 15 : Conscience normale, Somnolence ou coma léger\n- < 8 : Coma profond, seuil d’intubation\n- 7 à 3 : coma profond\nOu Agressions cérébrales secondaires d’origine systémique.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 41,
+          "page_end": 41,
+          "token_count": 75
+        }
+      ]
+    },
+    {
+      "section_id": "section_110",
+      "title": "sécrétion de testostérone",
+      "pages": [
+        43
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_110_c01",
+          "text": "Chez la femme, le pic permet\nl’ovulation et la synthèse\nLH (hormone Elle est régulée par\nGonades et de progestérone.\nlutéotrophique) rétrocontrôle négatif\nChez l’homme permet",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 43,
+          "page_end": 43,
+          "token_count": 43
+        }
+      ]
+    },
+    {
+      "section_id": "section_123",
+      "title": "DÉSHYDRATATION DU NOURRISSON",
+      "pages": [
+        45
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_123_c01",
+          "text": "Chez le nourrisson, l’eau totale représente 75 % du poids du corps\n● Signes de déshydratation intracellulaire\n- Sécheresse des muqueuses (langue, bouche)\n- Hypotonie des globes oculaires\n- Troubles de la conscience et du tonus\n● Signes de déshydratation extracellulaire\n- Dépression de la fontanelle",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 45,
+          "page_end": 45,
+          "token_count": 74
+        }
+      ]
+    },
+    {
+      "section_id": "section_86",
+      "title": "preuve du contraire",
+      "pages": [
+        27
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_86_c01",
+          "text": "- En cas de suspicion de fracture du bassin, le sondage urinaire est contre-indiqué\n- En cas de suspicion de traumatisme du rachis le respect de l’axe tête-cou-tronc",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 27,
+          "page_end": 27,
+          "token_count": 41
+        }
+      ]
+    },
+    {
+      "section_id": "section_91",
+      "title": "53 Vrai ou Faux (thème neuro) :",
+      "pages": [
+        28
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_91_c01",
+          "text": "- La PPC (pression de perfusion cérébrale) dépend de la PAM (pression artérielle\nmoyenne) et de la PIC (pression intracrânienne)\n- Pour certaines valeurs de PIC, la PPC s’autorégule malgré des variations de PAM\n- L’hypercapnie a un effet vasoconstricteur cérébral\n- La capnie n’a aucun rôle dans la variation du débit sanguin cérébral",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 83
+        }
+      ]
+    },
+    {
+      "section_id": "section_103",
+      "title": "44 Les signes cliniques d’un sepsis sont :",
+      "pages": [
+        31
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_103_c01",
+          "text": "- Hyperthermie ou hypothermie avec frissons\n- Tachycardie et hypotension\n- Dyspnée à type de tachypnée\n- Altération de l’état de conscience\nSurveillances cliniques à mettre en place :\n- Surveillance de la température\n- Prise du pouls et prise de la pression artérielle\n- Prise de la saturation en O2\n- Évaluer l’état de conscience du patient\n- Évaluer sa fréquence respiratoire\n- Évaluer l’état de conscience\nIl faut rechercher la bactérie à l’origine de ce sepsis. Pour cela on prélève des\nhémocultures, on effectue un ECBU et on met en culture tout site pouvant être\ninfectieux (cathéter central ou plaie chirurgicale par exemple).\nLe traitement de première intention est la mise en route précoce d’une antibiothérapie.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 31,
+          "page_end": 31,
+          "token_count": 180
+        }
+      ]
+    },
+    {
+      "section_id": "section_106",
+      "title": "47 Le patient semble faire un AVC au vu des quelques signes évoqués.",
+      "pages": [
+        32
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_106_c01",
+          "text": "AVC : Présence de sang au niveau du parenchyme cérébral avec ou sans irruption\ndans l’espace méningé. Un AVC peut être hémorragique ou ischémique.\nPrise en charge immédiate :\n- Prévenir le médecin\n- Placer le patient dans une position adaptée (PLS si inconscient, ici le patient sera\n- Évaluer s’il y a présence de signes neurologiques (troubles de la conscience,\nrecherche d’une hémiplégie, bouche déviée)\n- Si trouble de la conscience il faut effectuer une glycémie capillaire\n- Mettre le patient sous oxygène\n- Évaluer sa conscience et vigilance à l’aide d’une échelle adaptée (Glasgow/NIHSS)\n- Effectuer une surveillance rapprochée des paramètres vitaux (pouls, pression\nartérielle, saturation, fréquence respiratoire)\n- Pose de voie veineuse périphérique\n- Rapprocher le matériel d’urgence\n- Surélever le membre supérieur concerné par une hémiplégie à l’aide d’un coussin.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 32,
+          "page_end": 32,
+          "token_count": 219
+        }
+      ]
+    },
+    {
+      "section_id": "section_111",
+      "title": "preuve du contraire VRAI",
+      "pages": [
+        33
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_111_c01",
+          "text": "- En cas de suspicion de fracture du bassin, le sondage urinaire est contre indiqué VRAI\n- En cas de suspicion de traumatisme du rachis le respect de l’axe tête-cou-tronc",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 42
+        }
+      ]
+    },
+    {
+      "section_id": "section_115",
+      "title": "53 Vrai ou faux (thème neuro) :",
+      "pages": [
+        33
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_115_c01",
+          "text": "- La PPC (pression de perfusion cérébrale) dépend de la PAM (pression artérielle\nmoyenne) et de la PIC (pression intracrânienne) VRAI\n- Pour certaines valeurs de PIC la PPC s’autorégule malgré des variations de PAM VRAI\n- L’hypercapnie a un effet vasoconstricteur cérébral FAUX\n- La capnie n’a aucun rôle dans la variation du débit sanguin cérébral FAUX",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 88
+        }
+      ]
+    },
+    {
+      "section_id": "section_13",
+      "title": "1 Le score de Glasgow est un score universel qui permet d’évaluer la gravité d’un",
+      "pages": [
+        6
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_13_c01",
+          "text": "traumatisme crânien,il permet de suivre l’évolution de l’état de conscience du patient.\nIl consiste à tester trois paramètres : l’ouverture des yeux, la réponse verbale et la\nréponse motrice.\nLe score va de 3 (coma profond) à 15 (conscience normale) avec une possibilité\nd’intubation si le score est inférieur à 8, car il n’y a plus de protection des voies\naériennes supérieures..",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 6,
+          "page_end": 6,
+          "token_count": 95
+        }
+      ]
+    },
+    {
+      "section_id": "section_40",
+      "title": "30 Vrai ou faux (thème neurologie)",
+      "pages": [
+        13
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_40_c01",
+          "text": "- La pression de perfusion cérébrale dépend majoritairement des résistances\n- Une pression intracrânienne à 5mmHg est normale\n- L’acétylcholine est le neuromédiateur principal du système parasympathique\n- La myéline permet d’accélérer la vitesse de conduction nerveuse",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 13,
+          "page_end": 13,
+          "token_count": 67
+        }
+      ]
+    },
+    {
+      "section_id": "section_51",
+      "title": "29 La ou les bonnes réponses sont : Une PAM à 80mmHg est normale",
+      "pages": [
+        15
+      ],
+      "module_id": "neuro",
+      "chunks": [
+        {
+          "chunk_id": "section_51_c01",
+          "text": "- La pression de perfusion cérébrale dépend majoritairement des résistances",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 15,
+          "page_end": 15,
+          "token_count": 18
+        }
+      ]
+    }
+  ]
+}

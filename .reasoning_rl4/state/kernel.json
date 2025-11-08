@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "uptime": 0,
+  "totalEvents": 0,
+  "health": {
+    "memoryMB": 0,
+    "activeTimers": 0,
+    "queueSize": 0
+  },
+  "lastSnapshot": "2025-11-05T13:37:11.641Z"
+}

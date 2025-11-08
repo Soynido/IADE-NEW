@@ -1,0 +1,1207 @@
+{
+  "exam_id": "exam_3",
+  "name": "Examen Blanc 3",
+  "duration": 120,
+  "questions": [
+    {
+      "text": "Quels sont les paramètres cliniques à surveiller pour un patient ayant des tachycardie et hypotension?",
+      "options": [
+        "A. Prise de la saturation en O2",
+        "B. Surveillance de la température",
+        "C. Évaluer l’état de conscience du patient",
+        "D. Évaluer sa fréquence respiratoire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pour un patient ayant des tachycardie et hypotension, il faut surveiller la température, prendre le pouls et la pression artérielle.",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_103_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 31,
+      "difficulty": "easy",
+      "biomedical_score": 0.9323,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le plage normal des plaquettes en mm3 ?",
+      "options": [
+        "4000 à 10000/mm3",
+        "150000 à 400000/mm3",
+        "12 à 16 g/dl",
+        "80 à 100 mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cette question est basée sur la description des valeurs normales données pour les plaquettes.",
+      "source_context": "Plaquettes 150000 à 400000/mm3",
+      "module_id": "transfusion",
+      "chunk_id": "section_174_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 62,
+      "difficulty": "easy",
+      "biomedical_score": 0.94,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Un shunt vrai est une zone correctement perfusée mais non ventilée. Quelle est la conséquence de l'hypoxémie créée par un shunt vrai ?",
+      "options": [
+        "A. Corrigée sous O2",
+        "B. Non corrigée sous O2",
+        "C. Indépendante de l'oxygène",
+        "D. Inconnue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypoxémie créée par un shunt vrai ne se corrige pas sous O2.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_30_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9343,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Dans quelle discipline scientifique le phénomène de la dépolarisation et la création du potentiel d'action sont décrits?",
+      "options": [
+        "Thermique",
+        "Chimique",
+        "Électrique",
+        "Mécanique"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ce phénomène est décrit dans la discipline scientifique de l'électricité.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_76_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 33,
+      "difficulty": "easy",
+      "biomedical_score": 0.9597,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le terme utilisé dans la citation pour désigner quelque chose qui n'est pas physiologiquement normal?",
+      "options": [
+        "Anormal",
+        "Physiologique",
+        "Didactique",
+        "Ventilé"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dans la citation, le terme utilisé pour désigner quelque chose qui n'est pas physiologiquement normal est 'anormal'.",
+      "source_context": "'n’a rien de physiologique, c’est une notion avant tout didactique. Chez un sujet sain, les poumons sont autant perfusés que ventilés.'",
+      "module_id": "bases_physio",
+      "chunk_id": "section_32_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.8888,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les signes d'hyponatrémie dans le cas d'hypotension artérielle orthostatique et tachycardie en décubitus?",
+      "options": [
+        "A) Hypotension artérielle orthostatique et tachycardie en décubitus",
+        "B) Pli cutané turgide et rapide",
+        "C) Pli cutané s'effondrant lentement",
+        "D) Signes normaux"
+      ],
+      "correctAnswer": 2,
+      "explanation": "L'hypotension artérielle orthostatique et la tachycardie en décubitus sont des signes d'hyponatrémie.",
+      "source_context": "Perte d’eau dans le secteur extracellulaire pour conserver l’osmolarité plasmatique, une hyponatrémie est observée, ce qui entraîne une fuite de l’eau.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_49_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9064,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le pourcentage d'eau du corps contenu dans le secteur plasmatique ?",
+      "options": [
+        "A. 20%",
+        "B. 40%",
+        "C. 60%",
+        "D. 80%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le secteur plasmatique contient 12 % de l’eau totale du corps, donc la réponse correcte est A.",
+      "source_context": "Le compartiment extracellulaire qui contient 40 % de l’eau du corps réparti entre le secteur plasmatique (12 % de l’eau totale) et le secteur interstitiel (20 % de l’eau",
+      "module_id": "bases_physio",
+      "chunk_id": "section_47_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9444,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien prenez-vous de ml de xylocaïne pour 400 mg ?",
+      "options": [
+        "5 ml",
+        "10 ml",
+        "20 ml",
+        "40 ml"
+      ],
+      "correctAnswer": 2,
+      "explanation": "On a des ampoules de 20 ml et le xylo représente 2 g pour 100 ml. Dans ce cas présent, c’est simple pour 400 mg de xylo il faut l'ampoule de 20 ml.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_175_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 63,
+      "difficulty": "easy",
+      "biomedical_score": 0.9237,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel nerf est responsable du mouvement des yeux vers l'extérieur ?",
+      "options": [
+        "Nerf trijumeau",
+        "Nerf abducens",
+        "Nerf VI moteur",
+        "Nerf V mixte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le nerf abducens (nerf VI moteur) est responsable du mouvement des yeux vers l'extérieur.",
+      "source_context": "Le nerf trijumeau est le nerf sensoriel pour la bouche, la face et la moitié antérieure du scalp. Le nerf abducens ou moteur oculaire externe innerve le muscle.",
+      "module_id": "unknown",
+      "chunk_id": "section_92_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 39,
+      "difficulty": "easy",
+      "biomedical_score": 0.9192,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle catécholamine présente un effet majeur sur la bronchodilatation des bronches ?",
+      "options": [
+        "Adrénaline",
+        "Noradrénaline",
+        "Dopamine",
+        "Dobutamine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L’adrénaline présente un effet majeur sur la bronchodilatation des bronches.",
+      "source_context": "Citation : l’adrénaline, la noradrénaline et la dopamine sont des catécholamines naturelles, a contrario la dobutamine est une catécholamine de",
+      "module_id": "cardio",
+      "chunk_id": "section_160_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 58,
+      "difficulty": "easy",
+      "biomedical_score": 0.9432,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle vitamine est impliquée dans l'assimilation et la fixation du calcium sur le squelette?",
+      "options": [
+        "Vitamine D",
+        "Vitamine E",
+        "Vitamine K",
+        "Non de ces réponses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Vitamine D est impliquée dans l'assimilation et la fixation du calcium sur le squelette.",
+      "source_context": "Vitamine D : assimilation et fixation sur le squelette du calcium",
+      "module_id": "infectio",
+      "chunk_id": "section_66_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 29,
+      "difficulty": "easy",
+      "biomedical_score": 0.8996,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Contre-indications pour les antagonistes des récepteurs AT1 de l’angiotensine II :",
+      "options": [
+        "A. L'insuffisance hépatique sévère et la femme enceinte",
+        "B. La sténose bilatérale des artères rénales et l'insuffisance hépatique sévère",
+        "C. Le diabète sucré et la femme enceinte",
+        "D. L'asthme et la sténose bilatérale des artères rénales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La femme enceinte (passage placentaire) et l’insuffisance hépatique sévère sont les contre-indications pour les antagonistes des récepteurs AT1 de l’angiotensine II.",
+      "source_context": "Contre-indications : - La femme enceinte (passage placentaire) - Sténose bilatérale des artères rénales - L’insuffisance hépatique sévère",
+      "module_id": "unknown",
+      "chunk_id": "section_149_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 53,
+      "difficulty": "easy",
+      "biomedical_score": 0.8778,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle étape du diabète de type 2 correspond à l'épuisement des réserves d'insulines?",
+      "options": [
+        "Insulinorésistance",
+        "Hyperglycémie progressive",
+        "Processus en plusieurs étapes",
+        "Insulino déficience"
+      ],
+      "correctAnswer": 3,
+      "explanation": "L'épuisement des réserves d'insulines correspond à l'insulino déficience.",
+      "source_context": "D’abord une insulinorésistance due à une hyperglycémie qui s’installe progressivement au fil des années, puis pour compenser l’organisme va sécréter des quantités importantes d’insuline pour y pallier. Pour finir, les réserves d’insulines vont s’épuiser, c’est l'insulino déficience.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_59_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9386,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels signes sont associés à une dyspnée à type de tachypnée ?",
+      "options": [
+        "A. Turgescence jugulaire",
+        "B. Dyspnée à type de tachypnée",
+        "C. Signes de thrombose veineuse profonde",
+        "D. Augmentation des BNP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dyspnée à type de tachypnée est un signe associé à une difficulté respiratoire, donc la réponse correcte est B.",
+      "source_context": "Citation : La dyspnée à type de tachypnée est une difficulté respiratoire caractérisée par un rythme cardiaque accéléré.",
+      "module_id": "douleur",
+      "chunk_id": "section_27_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 10,
+      "difficulty": "easy",
+      "biomedical_score": 0.9312,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nom du type de choc qui se manifeste par des signes et symptômes systémiques, sévères, d’une réponse de l’hôte à?",
+      "options": [
+        "Choc anaphylactique",
+        "Chok septique",
+        "Choc hémorragique",
+        "Choc cardiogénique"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le choc septique est une réaction systémique sévère d’une réponse de l’hôte à.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_95_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 28,
+      "difficulty": "easy",
+      "biomedical_score": 0.929,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle substance toxique est dégradée en urée puis éliminée par les urines par le foie?",
+      "options": [
+        "L'ammoniaque",
+        "La bilirubine libre",
+        "L'alcool",
+        "Les traitements pris par voie orale"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'ammoniaque est dégradée en urée puis éliminée par les urines par le foie.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_67_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 30,
+      "difficulty": "easy",
+      "biomedical_score": 0.9225,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Combien de solution d'héparine est-il nécessaire pour traiter les patients pendant 6 heures en utilisant la dose de 8 ml/h?",
+      "options": [
+        "A. 48 000 UI",
+        "B. 96 000 UI",
+        "C. 120 000 UI",
+        "D. 144 000 UI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pour traiter les patients pendant 6 heures en utilisant la dose de 8 ml/h, il faut 120 000 UI d'héparine.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_20_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 8,
+      "difficulty": "easy",
+      "biomedical_score": 0.9354,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce qui se produit chez le patient diabétique s'il n'y a pas d'insuline?",
+      "options": [
+        "A. L'hyperglycémie est évitée par le transport jusqu’aux cellules",
+        "B. Le corps ne commence pas la lipolyse",
+        "C. Les signes digestifs (nausées et/ou vomissements) sont rares",
+        "D. Il n’y a pas d'énergie nécessaire à son fonctionnement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "S'il n'y a pas d'insuline, le corps va débuter la lipolyse pour trouver de l'énergie.",
+      "source_context": "Citation: 'Pour trouver de l’énergie, après avoir épuisé les voies de secours (les réserves hépatiques), le corps va débuter la lipolyse.'",
+      "module_id": "bases_physio",
+      "chunk_id": "section_120_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 35,
+      "difficulty": "easy",
+      "biomedical_score": 0.9551,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nom de la loi décrite ci-dessus?",
+      "options": [
+        "a) Loi de Boyle Mariotte",
+        "b) Loi de Charles",
+        "c) Loi de Gay-Lussac",
+        "d) Loi d'Avogadro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La loi décrite ci-dessus se nomme la loi de Boyle Mariotte.",
+      "source_context": "Cette loi se nomme la loi de Boyle Mariotte.",
+      "module_id": "unknown",
+      "chunk_id": "section_60_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9392,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le volume d'air restant dans les poumons à la fin d'une expiration normale ?",
+      "options": [
+        "1000 ml",
+        "2000 ml",
+        "3000 ml",
+        "4000 ml"
+      ],
+      "correctAnswer": 1,
+      "explanation": "C'est la Capacité résiduelle fonctionnelle (CRF) qui est le VR + le VRE et elle est d’environ 2000 ml.",
+      "source_context": "Capacité résiduelle fonctionnelle (CRF) : C’est le VR + le VRE. C’est le volume d’air restant dans les poumons à la fin d’une expiration normale. Elle est d’environ 2000 ml.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_40_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 20,
+      "difficulty": "easy",
+      "biomedical_score": 0.933,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Le patient se plaint de douleurs abdominales et de nausées. Vous voyez une tachycardie. Quelle est votre réponse ?",
+      "options": [
+        "Il faut donner du métoclopramide pour les douleurs abdominales.",
+        "Il faut donner des antalgiques pour les douleurs abdominales.",
+        "Il faudrait mesurer le taux de CO2 du patient.",
+        "Il faut arrêter la prise en charge et consulter l'équipe médicale."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La tachycardie indique une hypoxie et un trouble métabolique. Il est nécessaire de mesurer le taux de CO2 pour confirmer la suspicion.",
+      "source_context": "Le patient se plaint de douleurs abdominales, de nausées et a une tachycardie.",
+      "module_id": "unknown",
+      "chunk_id": "section_08_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 4,
+      "difficulty": "easy",
+      "biomedical_score": 0.9262,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Comment sont éliminées les héparines de bas poids moléculaire (HBPM)?",
+      "options": [
+        "Par voie rénale",
+        "Par voie respiratoire",
+        "Par voie digestive",
+        "Par voie cutanée"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les héparines de bas poids moléculaire (HBPM) sont éliminées par voie rénale.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_152_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 55,
+      "difficulty": "easy",
+      "biomedical_score": 0.938,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel laboratoire peut être demandé pour évaluer la fonction rénale lors de la surveillance du lasilix?",
+      "options": [
+        "A - Ionogramme urinaire",
+        "B - Ionogramme sanguin",
+        "C - Taux de glucose sanguin",
+        "D - Dosage des enzymes hépatiques"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un ionogramme sanguin peut être demandé pour évaluer la fonction rénale lors de la surveillance du lasilix.",
+      "source_context": "Surveillance paraclinique du lasilix",
+      "module_id": "monitorage",
+      "chunk_id": "section_56_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 20,
+      "difficulty": "easy",
+      "biomedical_score": 0.9175,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est un exemple de trouble de pression artérielle?",
+      "options": [
+        "Hypotension artérielle",
+        "Hypertension artérielle",
+        "Hypoxémie",
+        "Hypercapnie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hypertension artérielle est une hausse de la pression artérielle systolique supérieure à 160mmHg.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_102_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 41,
+      "difficulty": "easy",
+      "biomedical_score": 0.9379,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce qui est physiologiquement anormal chez un sujet sain selon la citation?",
+      "options": [
+        "Les poumons sont moins perfusés que ventilés.",
+        "Les poumons sont autant perfusés que ventilés.",
+        "Les poumons sont plus perfusés que ventilés.",
+        "Les poumons ne sont pas perfusés."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dans la citation, il est indiqué que chez un sujet sain les poumons sont autant perfusés que ventilés, ce qui implique donc qu'ils ne sont pas moins perfusés.",
+      "source_context": "'n’a rien de physiologique, c’est une notion avant tout didactique. Chez un sujet sain, les poumons sont autant perfusés que ventilés.'",
+      "module_id": "bases_physio",
+      "chunk_id": "section_32_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9198,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Où est la majorité de l'eau filtrée réabsorbée de manière passive?",
+      "options": [
+        "Tube contourné distal",
+        "Branche descendante de l'anse de Henlé",
+        "Branche ascendante de l'anse de Henlé",
+        "Aucun de ces lieux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La majorité de l'eau filtrée est réabsorbée de manière passive au niveau de la branche descendante de l'anse de Henlé.",
+      "source_context": "C’est au niveau du tube contourné proximal que la majorité de l’eau filtrée est réabsorbée de manière passive, par réabsorption active du sodium.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_43_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 21,
+      "difficulty": "easy",
+      "biomedical_score": 0.9468,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'organe responsable de la régulation du PH via les bicarbonates?",
+      "options": [
+        "Le système tampon intra-cellulaire",
+        "Le système tampon extracellulaire",
+        "Les poumons",
+        "Le cerveau"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Les reins ont une action lente via les bicarbonates.",
+      "source_context": "Citation.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_59_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 27,
+      "difficulty": "easy",
+      "biomedical_score": 0.9456,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le traitement couramment utilisé pour anticoaguler un patient en cas de thrombose ?",
+      "options": [
+        "A. Protamine",
+        "B. Héparine",
+        "C. Warfarine",
+        "D. Aspirine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le traitement couramment utilisé pour anticoaguler un patient en cas de thrombose est la héparine.",
+      "source_context": "Ses indications principales sont l’anticoagulation à titre curatif (en cas de thrombose par exemple) et l’anticoagulation à titre prévention (en cas d’alitement prolongé par exemple).",
+      "module_id": "monitorage",
+      "chunk_id": "section_70_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 24,
+      "difficulty": "easy",
+      "biomedical_score": 0.9068,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le taux normal de Sodium dans le plasma sanguin?",
+      "options": [
+        "135 à 145 mmol/l",
+        "3,5 à 5 mmol",
+        "95 à 105 mmol/l",
+        "22 à 30 mmol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le taux normal de Sodium dans le plasma sanguin est de 135 à 145 mmol/l.",
+      "source_context": "Liste des valeurs normales de différents paramètres biologiques.",
+      "module_id": "infectio",
+      "chunk_id": "section_172_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 61,
+      "difficulty": "easy",
+      "biomedical_score": 0.9123,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la conséquence vasculaire de l'éphédrine?",
+      "options": [
+        "Vasoconstriction artérielle et veineuse",
+        "Vasodilatation artérielle et veineuse",
+        "Vasoconstriction artérielle seule",
+        "Aucune des réponses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'éphédrine entraîne une vasoconstriction artérielle et veineuse.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_161_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 58,
+      "difficulty": "easy",
+      "biomedical_score": 0.9775,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Le test de Mini-Mental est souvent utilisé pour évaluer le niveau cognitif d'une personne en cas de:",
+      "options": [
+        "A) Douleurs au dos",
+        "B) Accidents vasculaires cérébraux",
+        "C) Troubles gastro-intestinaux",
+        "D) Douleurs articulaires"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le test de Mini-Mental est souvent utilisé pour évaluer le niveau cognitif d'une personne en cas d'accidents vasculaires cérébraux.",
+      "source_context": "Citation.",
+      "module_id": "unknown",
+      "chunk_id": "section_97_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 41,
+      "difficulty": "easy",
+      "biomedical_score": 0.8723,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le volume en ml du sang contenant 15 gouttes ?",
+      "options": [
+        "1ml",
+        "1.2ml",
+        "1.5ml",
+        "2ml"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Il y a 60 gouttes par millilitre, donc pour 15 gouttes le sang doit avoir un volume de 1.5 ml.",
+      "source_context": "Sang 1 ml 15 gouttes",
+      "module_id": "infectio",
+      "chunk_id": "section_178_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 66,
+      "difficulty": "easy",
+      "biomedical_score": 0.9293,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'effet sur le volume érythrocytaire?",
+      "options": [
+        "Il a augmenté d’environ 15 %",
+        "Il a diminué d’environ 15 %",
+        "Il est resté constant",
+        "Il n'est pas possible de déterminer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le volume érythrocytaire est augmenté d’environ 15 %.",
+      "source_context": "Volume érythrocytaire Augmentée d’environ 15 %",
+      "module_id": "unknown",
+      "chunk_id": "section_128_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 47,
+      "difficulty": "easy",
+      "biomedical_score": 0.9467,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel type d'examen permet de déterminer le groupe sanguin du patient?",
+      "options": [
+        "Le test de sérotonine",
+        "Le test d'agglutination",
+        "Le test de glucose",
+        "Le test d'insuline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le test d'agglutination est utilisé pour déterminer le groupe sanguin du patient.",
+      "source_context": "Sur le test ultime on teste la présence d’Antigène, ainsi l’agglutination nous révèle ou confirme le groupe sanguin du patient.",
+      "module_id": "infectio",
+      "chunk_id": "section_181_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 67,
+      "difficulty": "easy",
+      "biomedical_score": 0.9419,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nombre de temps dans la phase systolique ventriculaire?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Un",
+        "Quatre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La phase systolique ventriculaire se déroule en deux temps : la contraction isovolumétrique et l’éjection.",
+      "source_context": "La systole ventriculaire se déroule en 2 temps : la contraction isovolumétrique et l’éjection",
+      "module_id": "infectio",
+      "chunk_id": "section_08_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.9388,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fréquence cardiaque normale pour un nouveau-né?",
+      "options": [
+        "Fréquence cardiaque < 80/min",
+        "80 à 100/min",
+        ">100/min",
+        "Apnée Lents, irréguliers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fréquence cardiaque normale pour un nouveau-né est entre 80 et 100 battements par minute.",
+      "source_context": "Citation.",
+      "module_id": "pediatrie",
+      "chunk_id": "section_120_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 45,
+      "difficulty": "easy",
+      "biomedical_score": 0.9342,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont les deux faits importants à savoir concernant les RAI?",
+      "options": [
+        "Les RAI ne nécessitent pas l'approbation médicale avant toute transfusion.",
+        "Les RAI sont valides seulement durant 21 jours sans transfusion.",
+        "Un médecin doit signer et demander l'accord à l'EFS avant toute transfusion.",
+        "Il est possible de transfuser un patient lorsque les RAI sont négatifs."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les RAI sont valides seulement durant 21 jours sans transfusion.",
+      "source_context": "Citation.",
+      "module_id": "transfusion",
+      "chunk_id": "section_184_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 69,
+      "difficulty": "easy",
+      "biomedical_score": 0.956,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "L'étudiante infirmière qui n’a jamais fait ce soin demande une explication. Qu’y a-t-il à faire ?",
+      "options": [
+        "Elle doit effectuer un bilan complet.",
+        "Il faut lui expliquer le procédé de l'intervention.",
+        "Il faut lui donner des instructions détaillées avant de commencer.",
+        "Il n'est pas nécessaire d'expliquer car c'est une connaissance acquis."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Il est nécessaire de lui donner des instructions détaillées avant de commencer l'intervention pour qu'elle puisse bien comprendre le processus.",
+      "source_context": "Principe de la pédagogie : expliquer les actions aux apprenants.",
+      "module_id": "unknown",
+      "chunk_id": "section_04_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 3,
+      "difficulty": "easy",
+      "biomedical_score": 0.9254,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le score Glasgow correspondant au coma profond ?",
+      "options": [
+        "A) 8 à 15",
+        "B) < 8",
+        "C) 7 à 3",
+        "D) Pas de correspondance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le score de Glasgow inférieur à 8 indique un coma profond.",
+      "source_context": "< 8 : Coma profond, seuil d’intubation - 7 à 3 : coma profond",
+      "module_id": "neuro",
+      "chunk_id": "section_101_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 41,
+      "difficulty": "easy",
+      "biomedical_score": 0.9545,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels médicaments font freiner l’entrée du calcium dans les muscles responsables de la contraction des artères, et entraînent ainsi la baisse de la tension artérielle par relâchement des artères ?",
+      "options": [
+        "A. Aspirine et Paracétamol",
+        "B. Nicardipine (Loxen®), Amlodipine (Amlor®), Vérapamil (Isoptine®), Lercanidipine (Lercan®)",
+        "C. Diurétiques et Beta-bloquants",
+        "D. Antihistaminiques et Antitussifs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ces médicaments sont connus sous le nom d’inhibiteurs calciques, ils freinent l’entrée du calcium dans les muscles responsables de la contraction des artères et entraînent ainsi la baisse de la tension artérielle par relâchement des artères.",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_147_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 53,
+      "difficulty": "easy",
+      "biomedical_score": 0.8678,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la première chose à comprendre concernant les zones de West ?",
+      "options": [
+        "A. Elles sont des zones mortes dans le corps",
+        "B. Elles sont des zones où il y a une adéquation ventilation-perfusion",
+        "C. Elles sont des zones d'effet shunt",
+        "D. Elles sont des zones d'effet espace mort"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il faut avant tout comprendre que les zones de West définissent les zones où il y a un effet shunt ou un effet espace mort.",
+      "source_context": "Citation : Il faut avant tout comprendre une chose, la",
+      "module_id": "respiratoire",
+      "chunk_id": "section_31_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9065,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nombre de feuillets composant le péricarde du cœur humain?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Quatre",
+        "Cinq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le péricarde du cœur humain est composé de deux feuillets.",
+      "source_context": "Avant même de comprendre le fonctionnement du cœur, il faut en comprendre l’anatomie. Le schéma du cœur en est la base.",
+      "module_id": "neuro",
+      "chunk_id": "section_07_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.9395,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fonction principale de l'hypophyse?",
+      "options": [
+        "Elle régule les mouvements du cerveau.",
+        "Elle sécrète des stimulines pour réguler d'autres glandes et des hormones.",
+        "Elle sert à filtrer le sang.",
+        "Elle est responsable de la production de la mémoire."
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'hypophyse sécrète des stimulines qui ont pour rôle de réguler d'autres glandes et des hormones.",
+      "source_context": "Citation.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_105_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 42,
+      "difficulty": "easy",
+      "biomedical_score": 0.9589,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel type de muscle ne dépend pas de la volonté, échappent à la commande du système nerveux cérébro-spinal et sont soumis qu’aux indications du système nerveux végétatif?",
+      "options": [
+        "A - Muscles lisses",
+        "B - Myocarde",
+        "C - Muscles cardiaques",
+        "D - Muscles squelettiques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les muscles lisses ne dépendent pas de la volonté et sont soumis qu’aux indications du système nerveux végétatif.",
+      "source_context": "Citation : Les muscles lisses : Leur contraction ne dépend pas de la volonté, ils échappent à la commande du système nerveux cérébro-spinal et ne sont soumis qu’aux indications du système nerveux végétatif.",
+      "module_id": "transfusion",
+      "chunk_id": "section_16_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.8774,
+      "biomedical_threshold": 0.09,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nom du processus par lequel l'appareil respiratoire élimine le CO2 et réoxygène le sang en O2 ?",
+      "options": [
+        "Exhalation",
+        "Inhalation",
+        "Hématose",
+        "Transpiration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le processus par lequel l'appareil respiratoire élimine le CO2 et réoxygène le sang en O2 est appelé hématose.",
+      "source_context": "Le rôle de l’appareil respiratoire est d’éliminer le CO2 et de réoxygéner le sang en O2. On appelle cela l’hématose.",
+      "module_id": "unknown",
+      "chunk_id": "section_23_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 14,
+      "difficulty": "easy",
+      "biomedical_score": 0.9011,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel facteur majeur détermine la précharge des fibres cardiaques lors de la diastole?",
+      "options": [
+        "Le volume d’éjection systolique",
+        "La fréquence cardiaque",
+        "Le retour veineux",
+        "Aucun des précédents"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le degré d'étirement des fibres cardiaques à la fin de la diastole est appelée précharge et il dépend majoritairement du retour veineux (du volume sanguin ramené au cœur).",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_10_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 9,
+      "difficulty": "easy",
+      "biomedical_score": 0.9592,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est l'un des rôles du liquide céphalo-rachidien?",
+      "options": [
+        "Transport des hormones et nutriments",
+        "Épuration",
+        "Neuro-immunologie",
+        "Neuroendocrinologie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le liquide céphalo-rachidien assure le transport des hormones et nutriments.",
+      "source_context": "Citation.",
+      "module_id": "neuro",
+      "chunk_id": "section_82_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 36,
+      "difficulty": "easy",
+      "biomedical_score": 0.9521,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nombre minimal de compressions thoraciques à effectuer par minute?",
+      "options": [
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Le nombre minimal de compressions thoraciques à effectuer par minute est de 30 si seul un secouriste est présent.",
+      "source_context": "L’algorithme est le suivant : - 5 insufflations initiale - Déterminer la cause de l’arrêt cardio-respiratoire (au cas où c’est une cause réversible) - Débuter les compressions thoraciques avec la ventilation en respectant l’algorithme suivant : 30 / 2 s’il n’y a qu’un secouriste, ou 15 / 5 s’il y a deux secouristes",
+      "module_id": "infectio",
+      "chunk_id": "section_105_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 31,
+      "difficulty": "easy",
+      "biomedical_score": 0.8967,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est la plage normale de sodium en mmol/24 h?",
+      "options": [
+        "100 à 300 mmol/24 h",
+        "50 à 100 mmol/24 h",
+        "80 à 270 mmol/24 h",
+        "335 à 500 mmol/24 h"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La plage normale de sodium en mmol/24 h est entre 100 et 300.",
+      "source_context": "Créé à partir du contexte fourni.",
+      "module_id": "infectio",
+      "chunk_id": "section_173_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 61,
+      "difficulty": "easy",
+      "biomedical_score": 0.887,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle situation est associée à une hypercapnie?",
+      "options": [
+        "Insuffisance respiratoire",
+        "Alcalose",
+        "Acidose métabolique",
+        "Hypocapnie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'hypercapnie révèle une hypoventilation alvéolaire et donc l'insuffisance respiratoire.",
+      "source_context": "Citation.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_56_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 26,
+      "difficulty": "easy",
+      "biomedical_score": 0.9603,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelles étapes devraient-vous suivre jusqu'à l'arrivée du SAMU en cas d'arrêt cardio-respiratoire?",
+      "options": [
+        "A. Immergere les doigts dans la bouche de la victime et faire des compressions thoraciques rapidement.",
+        "B. Appeler immédiatement le SAMU, puis commencer à donner un massage cardiaque.",
+        "C. Rechercher une source d'oxygène avant de commencer le massage cardiaque.",
+        "D. Placer la victime sur son dos et mettre en place un dispositif d'oxygène."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il est primordial d'appeler immédiatement le SAMU avant de commencer le massage cardiaque.",
+      "source_context": "d’années s’écrouler au sol. Après une brève analyse de la situation, vous concluez que l’homme est en arrêt cardio-respiratoire.",
+      "module_id": "unknown",
+      "chunk_id": "section_05_c01",
+      "source_pdf": "annalescorrigées-Volume-2.pdf",
+      "page": 4,
+      "difficulty": "easy",
+      "biomedical_score": 0.9397,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le capillaire qui entoure l’alvéole pour se charger correctement en O2?",
+      "options": [
+        "Arterie pulmonaire",
+        "Vaisseau veineux pulmonaire",
+        "Artère pulmonaire interne",
+        "Artère pulmonaire externe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le vaisseau veineux pulmonaire entoure l’alvéole et sert à collecter l'oxygène. ",
+      "source_context": "Citation not provided",
+      "module_id": "respiratoire",
+      "chunk_id": "section_34_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 17,
+      "difficulty": "easy",
+      "biomedical_score": 0.9416,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel est le nom de la couche externe et la plus extérieure du cœur humain?",
+      "options": [
+        "Myocarde",
+        "Endocarde",
+        "Épicarde",
+        "Péricarde pariétal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "L'épicarde est la couche externe et la plus extérieure du cœur humain.",
+      "source_context": "La structure cardiaque est simple, elle comporte trois tuniques. Du plus externe au plus interne, on retrouve le péricarde (composé de deux feuillets l’épicarde puis le péricarde pariétal), le myocarde et l’endocarde.",
+      "module_id": "neuro",
+      "chunk_id": "section_07_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 7,
+      "difficulty": "easy",
+      "biomedical_score": 0.9275,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle hormone est responsable de stimuler la sécrétion d’aldostérone par les surrénales?",
+      "options": [
+        "Angiotensine II",
+        "Vasopressine",
+        "Adrénaline",
+        "Thyroxine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Angiotensin II stimulates aldosterone secretion by the adrenals.",
+      "source_context": "Citation.",
+      "module_id": "infectio",
+      "chunk_id": "section_45_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 22,
+      "difficulty": "easy",
+      "biomedical_score": 0.9111,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle hormone régule la production de globules rouges ?",
+      "options": [
+        "Rénine",
+        "EPO",
+        "Vitamine D",
+        "Insuline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'EPO (Erythropoïétine) régule la production de globules rouges.",
+      "source_context": "Fonctions endocrines",
+      "module_id": "infectio",
+      "chunk_id": "section_14_c01",
+      "source_pdf": "annalescorrigées-Volume-1.pdf",
+      "page": 6,
+      "difficulty": "easy",
+      "biomedical_score": 0.9315,
+      "biomedical_threshold": 0.07,
+      "mode": "concours"
+    },
+    {
+      "text": "Quels sont deux types d'anticoagulants mentionnés?",
+      "options": [
+        "HNF et HBPM",
+        "Previscan® et TP",
+        "AVK et HNF",
+        "TP et TCA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les deux types d'anticoagulants mentionnés sont HNF (héparines non fractionnées) et HBPM (héparines de bas poids moléculaire).",
+      "source_context": "Citation.",
+      "module_id": "cardio",
+      "chunk_id": "section_152_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 55,
+      "difficulty": "easy",
+      "biomedical_score": 0.922,
+      "biomedical_threshold": 0.06,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel effet a une acidose métabolique sur les bicarbonates?",
+      "options": [
+        "Ils sont consommés.",
+        "Ils sont perdus.",
+        "Ils augmentent.",
+        "Ils diminuent."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bicarbonates diminuent lors d'une acidose métabolique en raison de la production excessive d'acides.",
+      "source_context": "Citation.",
+      "module_id": "respiratoire",
+      "chunk_id": "section_58_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 26,
+      "difficulty": "easy",
+      "biomedical_score": 0.9325,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quel mnémotechnique permettant de retenir les 4 étapes de la pharmacocinétique est cité?",
+      "options": [
+        "ABCD",
+        "ADME",
+        "MNEMON",
+        "PHARMA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le mnémotechnique permettant de retenir les 4 étapes de la pharmacocinétique est cité.",
+      "source_context": "Elle se fait en 4 étapes : - La distribution, La métabolisation, Le moyen mnémotechnique permettant de les retenir est ADME.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_142_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 51,
+      "difficulty": "easy",
+      "biomedical_score": 0.9156,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Qu'est-ce que la biovigilance ?",
+      "options": [
+        "La surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
+        "L'ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales.",
+        "Le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients.",
+        "Le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La biovigilance est basée sur le signalement et la déclaration des incidents et des effets indésirables liés, ou susceptibles d’être liés, aux produits ou aux activités associées.",
+      "source_context": "Citation.",
+      "module_id": "legislation",
+      "chunk_id": "section_191_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 71,
+      "difficulty": "easy",
+      "biomedical_score": 0.9551,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    },
+    {
+      "text": "Quelle est la fonction de l'étape décrite ci-dessus dans le transfert d'oxygène et de dioxyde de carbone entre les cellules et le sang ?",
+      "options": [
+        "A. Prélèvement du CO2 par les cellules",
+        "B. Prélèvement de l'O2 par les capillaires tissulaires",
+        "C. Rejet de l'O2 par les cellules",
+        "D. Rejet du CO2 dans le sang des capillaires tissulaires"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cette étape est la phase d'échange entre les cellules et le sang, où les cellules prélèvent de l'oxygène (O2) et rejettent du dioxyde de carbone (CO2).",
+      "source_context": "C'est l’étape durant laquelle les échanges d’O2 et de CO2 se font entre les cellules et le sang des capillaires tissulaires. Les cellules prélèvent de l’O2 et rejettent du CO2 dans le sanguin.",
+      "module_id": "bases_physio",
+      "chunk_id": "section_29_c01",
+      "source_pdf": "Prepaconcoursiade-Complet.pdf",
+      "page": 16,
+      "difficulty": "easy",
+      "biomedical_score": 0.9169,
+      "biomedical_threshold": 0.05,
+      "mode": "concours"
+    }
+  ]
+}

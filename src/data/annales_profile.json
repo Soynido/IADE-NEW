@@ -1,0 +1,30 @@
+{
+  "total_questions_analyzed": 6,
+  "avg_question_length": 60,
+  "avg_question_words": 10,
+  "length_range": {
+    "min": 43,
+    "max": 82,
+    "median": 61
+  },
+  "common_starters": [
+    "Quelle est"
+  ],
+  "starter_distribution": {
+    "Quelle est": 1
+  },
+  "question_types": {
+    "qcm_simple": {
+      "count": 6,
+      "percent": 100.0
+    }
+  },
+  "module_weights": {
+    "cardio": 1.0
+  },
+  "difficulty_distribution": {
+    "easy": 0.3,
+    "medium": 0.5,
+    "hard": 0.2
+  }
+}

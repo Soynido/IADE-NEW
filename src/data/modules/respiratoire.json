@@ -1,0 +1,241 @@
+{
+  "module_id": "respiratoire",
+  "title": "Module Respiratoire",
+  "sections": [
+    {
+      "section_id": "section_31",
+      "title": "LES ZONES DE WEST",
+      "pages": [
+        17
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_31_c01",
+          "text": "Pour que l’hématose se fasse correctement, il faut une adéquation entre ventilation et\nperfusion. S’il y a un effet shunt ou un effet espace mort, les échanges ne se font pas\nC ’est ce que définissent les zones de West.\nIl faut avant tout comprendre une chose, la",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 65
+        }
+      ]
+    },
+    {
+      "section_id": "section_34",
+      "title": "séjourne pas assez de temps dans le",
+      "pages": [
+        17
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_34_c01",
+          "text": "capillaire qui entoure l’alvéole pour se charger\ncorrectement en O2.\nLes zones de West sont aux nombres de trois :\n• La zone 1 définit l’effet espace mort, c’est une zone bien ventilée, mais mal perfusée, car\nla pression alvéolaire est plus importante que la pression des capillaires.\nCette zone n’existe pas chez un sujet sain, mais peut apparaître en situation pathologique\n• La zone 2 possède le rapport ventilation/perfusion le plus favorable, c’est la zone qui\nphysiologiquement, couvre l’ensemble de nos poumons.\n• La zone 3 définit l’effet shunt, c’est une zone bien perfusée, mais mal ventilée du fait de la\ngravité, le débit sanguin se concentre dans les bases.\nPour mieux comprendre : on ventile mieux en haut, on perfuse mieux en bas, les",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 187
+        }
+      ]
+    },
+    {
+      "section_id": "section_35",
+      "title": "LA COURBE DE BARCROFT",
+      "pages": [
+        17
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_35_c01",
+          "text": "échanges sont donc meilleurs… au milieu ! Pour que les échanges se fassent\ncorrectement, il faut un rapport favorable entre perfusion et ventilation.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 37
+        }
+      ]
+    },
+    {
+      "section_id": "section_40",
+      "title": "LES VOLUMES NON MOBILISABLES",
+      "pages": [
+        20
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_40_c01",
+          "text": "Capacité résiduelle fonctionnelle (CRF) : C’est le VR + le VRE. C’est le volume d’air restant\ndans les poumons à la fin d’une expiration normale. Elle est d’environ 2000 ml.\nVolume résiduel (VR) : C’est le volume d’air restant dans les poumons après une expiration\nforcée. Il est d’environ 1000 ml.\nCapacité pulmonaire totale (CPT) : VR + VRE + VRI + VT Totalité des volumes mobilisables\net non mobilisables. Elle est d’environ 5000 ml.\nLa ventilation maximale (Vmax) : C’est le plus grand volume mobilisable en une minute.\nLe volume expiré maximal par seconde (VEMS) : Volume maximal d’air expiré en une\nseconde succédant à une inspiration forcée. Il est d’environ 4000 ml.\nCoefficient de Tiffeneau : C’est le rapport entre la VEMS et la CV (VEMS/CV), il est compris\nentre 70 % et 75 %. Il permet d’apprécier la gravité des syndromes obstructifs (asthme,BPCO).",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 20,
+          "page_end": 20,
+          "token_count": 215
+        }
+      ]
+    },
+    {
+      "section_id": "section_56",
+      "title": "L’ACIDOSE RESPIRATOIRE",
+      "pages": [
+        26
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_56_c01",
+          "text": "L’acidose respiratoire est traduite par une baisse du PH liée à une hypercapnie. Les\nbicarbonates peuvent être normaux ou augmentés. L’hypercapnie révèle une hypoventilation\nalvéolaire et donc l’insuffisance respiratoire.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 55
+        }
+      ]
+    },
+    {
+      "section_id": "section_57",
+      "title": "L’ALCALOSE RESPIRATOIRE",
+      "pages": [
+        26
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_57_c01",
+          "text": "L’alcalose respiratoire est traduite par une élévation du PH liée à une hypocapnie.\nL’hypocapnie révèle une hyperventilation alvéolaire.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 34
+        }
+      ]
+    },
+    {
+      "section_id": "section_58",
+      "title": "L’ACIDOSE MÉTABOLIQUE",
+      "pages": [
+        26
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_58_c01",
+          "text": "L’acidose métabolique est traduite par une diminution du PH liée à une baisse des bicarbonates\nqui sont soit consommés, soit perdus. L’acidose métabolique est associée à une hypocapnie\net surtout par une hyperventilation alvéolaire compensatrice. Si l’hyperventilation alvéolaire\nest majeure, elle peut conduire à un épuisement des muscles respiratoires.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 88
+        }
+      ]
+    },
+    {
+      "section_id": "section_59",
+      "title": "L’ALCALOSE MÉTABOLIQUE",
+      "pages": [
+        27
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_59_c01",
+          "text": "L’alcalose métabolique est traduite par une augmentation du PH liée à une augmentation des\nbicarbonates. L’acidose métabolique est associée à une hypercapnie ou une normocapnie\net à une hypoventilation alvéolaire compensatrice modérée et peu efficace. Le risque majeur\nest l’hypokaliémie. Elle peut être révélée par un syndrome confusionnel ou par un syndrome\nd’hyperexcitabilité neuromusculaire (crise de tétanie) en rapport avec une chute du calcium\nionisé et/ou une hypokaliémie.\nPour mieux comprendre : l’organisme a donc trois moyens de réguler le PH\n- Le système tampon qui a une action immédiate\n- Les poumons qui ont une action rapide via la ventilation\n- Les reins qui ont une action lente via les bicarbonates\nIl existe deux types de systèmes tampons, le système intra et extracellulaire. Lorsqu’il y a\najout d’un acide ou d’une base dans l’organisme, c’est le système tampon qui répond en\npremier pour maintenir le PH.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 27,
+          "page_end": 27,
+          "token_count": 232
+        }
+      ]
+    },
+    {
+      "section_id": "section_90",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 37",
+      "pages": [
+        37,
+        38
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_90_c01",
+          "text": "Pour mieux comprendre : un exemple parlant qui aide à retenir c’est l’exemple du\njoggeur, pour courir il a besoin d’augmenter son oxygénation.\nDonc son activité cardiaque va augmenter, il y aura une bronchodilatation lui permettant\nde mieux respirer et il va transpirer.\nA contrario il n’a pas besoin de digérer ou d’uriner, ces organes verront leur fonctionnement",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 37,
+          "page_end": 38,
+          "token_count": 91
+        }
+      ]
+    },
+    {
+      "section_id": "section_23",
+      "title": "arrière pour ouvrir les voies aériennes supérieures",
+      "pages": [
+        9
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_23_c01",
+          "text": "- La RCP doit se faire à un rythme de 30 compressions suivies de 2 insufflation\n- La prise du pouls sera faite toutes les deux minutes, ainsi qu’un changement de personne\npour la ventilation / MCE\n- Adapter sa prise en charge en fonction du DAE (rythme choquable ou rythme non\n- Si un proche du patient est présent, lui demander s’il connaît ses ATCD\n- Éliminer les causes réversibles (nourriture dans la bouche, choc anaphylactique à un\n- Continuer la RCP jusqu’à la reprise d’une ventilation spontanée efficace et une reprise\nd’un rythme cardiaque ou jusqu’au relais de l’équipe du SAMU.\n- Sur un plan dur\n- Talon de la main placé sur le centre du thorax de la victime\n- Les compressions sont effectuées à une fréquence de 100-120 par minute, avec une\ndépression de 4 à 5 cm du sternum (⅓ du sternum)\n- Les temps de compression et de décompression doivent être approximativement égaux\n- 30 compressions pour 2 insufflations en ne faisant que les compressions si personne ne",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 243
+        }
+      ]
+    },
+    {
+      "section_id": "section_90",
+      "title": "du glucagon pour les antagoniser",
+      "pages": [
+        28
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_90_c01",
+          "text": "- Lors de l’arrêt cardiaque chez l’enfant, la place de la ventilation est plus importante\nque chez l’adulte",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 26
+        }
+      ]
+    },
+    {
+      "section_id": "section_114",
+      "title": "du glucagon pour les antagoniser VRAI",
+      "pages": [
+        33
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_114_c01",
+          "text": "- Lors de l’arrêt cardiaque chez l’enfant, la place de la ventilation est plus importante\nque chez l’adulte VRAI",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 28
+        }
+      ]
+    },
+    {
+      "section_id": "section_54",
+      "title": "32 Définissez les termes suivant :",
+      "pages": [
+        16
+      ],
+      "module_id": "respiratoire",
+      "chunks": [
+        {
+          "chunk_id": "section_54_c01",
+          "text": "- Inotrope positif = augmentation de la contractilité cardiaque\n- Chronotrope positif = augmentation de la fréquence cardiaque\n- Bathmotrope négatif = diminution de l’excitabilité cardiaque\n- Dromotrope positif = augmentation de la conduction cardiaque\n- Lusitrope négatif = diminution de la compliance cardiaque",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 16,
+          "page_end": 16,
+          "token_count": 78
+        }
+      ]
+    }
+  ]
+}

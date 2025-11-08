@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Quel est le point de départ du rythme cardiaque au cœur humain?",
+    "options": [
+      "Nœud auriculo-ventriculaire (N.A.V)",
+      "Nœud sinusal",
+      "Faisceau de His",
+      "Pas d'une réponse correcte"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le nœud sinusal est le point de départ du rythme cardiaque au cœur humain.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_18_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 12,
+    "difficulty": "medium"
+  },
+  {
+    "text": "Où se trouve le faisceau de His?",
+    "options": [
+      "Nœud auriculo-ventriculaire (N.A.V)",
+      "Dans la paroi de l’oreillette droite",
+      "Le septum interventriculaire",
+      "Pas d'une réponse correcte"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le faisceau de His se trouve dans le septum interventriculaire.",
+    "source_context": "Citation.",
+    "module_id": "bases_physio",
+    "chunk_id": "section_18_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 12,
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quel gaz va du sang vers les poumons?",
+    "options": [
+      "Oxygène",
+      "Carbone Dioxide",
+      "Nitrogène",
+      "Hydrogène"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'oxygène est transporté du sang vers les poumons.",
+    "source_context": "C’est l’étape de transport des gaz par le sang, l’oxygène va des poumons vers les tissus et",
+    "module_id": "bases_physio",
+    "chunk_id": "section_28_c01",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 16,
+    "difficulty": "medium"
+  }
+]

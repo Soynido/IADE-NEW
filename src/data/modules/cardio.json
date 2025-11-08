@@ -1,0 +1,620 @@
+{
+  "module_id": "cardio",
+  "title": "Module Cardio",
+  "sections": [
+    {
+      "section_id": "section_10",
+      "title": "LE DÉBIT CARDIAQUE",
+      "pages": [
+        9
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_10_c01",
+          "text": "Le débit cardiaque c’est simplement le volume de sang éjecté par le cœur par unité de\nEn formule il est noté QC = VES x FC\n- QC = débit cardiaque\n- VES = Volume d’éjection systolique\n- FC = Fréquence cardiaque\nChez un jeune homme il est d’environ 6L/min.\nLe débit cardiaque est donc déterminé par le volume d’éjection systolique et la fréquence.\nLe volume d’éjection systolique lui, est déterminé par trois choses :\n- La précharge qui est le degré d’étirement des fibres cardiaques à la fin de la diastole,\nil dépend majoritairement du retour veineux (du volume sanguin ramené au cœur)\n- La post charge qui est l’ensemble des forces qui s’opposent à l’éjection ventriculaire,",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 168
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "title": "pour les ventricules droits",
+      "pages": [
+        9
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_11_c01",
+          "text": "- La contractilité du cœur (ou l’inotropisme)\nPour mieux comprendre : pour augmenter la précharge d’un patient on effectue un\nremplissage vasculaire, ainsi le retour veineux est meilleur.\nOn peut augmenter la post charge en utilisant des vasoconstricteurs, si on vasoconstricte\nles artères, l’éjection est plus difficile.\nPour réguler ce débit cardiaque, l’organisme a deux mécanismes, un rapide et un lent.\nLe rapide c’est le système nerveux autonome qui via les stimulations du système sympathique\n- Une augmentation de la fréquence cardiaque,\n- Une accélération de la conduction auriculo-ventriculaire\n- Une augmentation de la force de contraction\nLe système parasympathique qui lui aura l’action exactement inverse.\nLe mécanisme lent c’est la régulation humorale à savoir les catécholamines endogènes, le\nsystème rénine angiotensine aldostérone, les facteurs natriurétiques auriculaires.\nPour mieux comprendre : vous faites du sport, votre corps a besoin d’oxygène donc\nle système sympathique prend le dessus, votre cœur bat plus vite et se contracte plus\nfort, le débit cardiaque augmente.\nVous dormez c’est l’inverse, le système parasympathique prend le dessus votre cœur\nralentit, votre débit cardiaque diminue.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 304
+        }
+      ]
+    },
+    {
+      "section_id": "section_12",
+      "title": "LA PRESSION ARTÉRIELLE",
+      "pages": [
+        10
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_12_c01",
+          "text": "La norme pour la systolique est : 100 mmHg à 140 mmHg\nEn formule elle est notée : PA = QC x RVS\n- PA : Pression artérielle\n- QC : Débit cardiaque (vu juste au-dessus)\n- RVS : Résistance vasculaire systémique\nPour mieux comprendre : pour augmenter la pression artérielle, on peut augmenter\nsoit le débit cardiaque (en remplissant un patient) soit les résistances en utilisant des",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 10,
+          "page_end": 10,
+          "token_count": 94
+        }
+      ]
+    },
+    {
+      "section_id": "section_15",
+      "title": "La petite circulation qui a pour but de réapprovisionner le sang en oxygène grâce aux",
+      "pages": [
+        11
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_15_c01",
+          "text": "échanges aux niveaux pulmonaires. C’est un système à basse pression, environ 15 mmHg.\nLa grande circulation qui a pour but d’approvisionner le corps et les organes en sang\noxygéné. C’est un régime à haute pression, environ 100 mmHg.\nLa vascularisation du cœur se fait grâce aux coronaires.\n- La coronaire droite qui vascularise l’oreillette droite, le ventricule droit, la partie\ninférieure du ventricule gauche, le nœud sinusal, le nœud auriculo-ventriculaire.\n- La coronaire gauche est plus complexe. Elle part d’un tronc commun qui se divise\nen deux artères, l’artère interventriculaire et l’artère circonflexe. L’artère\ninterventriculaire vascularise une partie du ventricule gauche, le septum\ninterventriculaire et une branche du faisceau de His. L’artère circonflexe vascularise\nl’oreillette gauche, la partie inférieure du ventricule gauche et du nœud sinusal.\nLa vascularisation des coronaires représente 5 % du débit cardiaque.\nCette vascularisation s’autorégule entre certaines valeurs (PAM entre 60 et 130 mmHg), en\ndehors de ces valeurs la régulation de l’organisme est bien moins efficace.\nLa perfusion des coronaires se fait essentiellement pendant la diastole.\nPour mieux comprendre : si un patient devient tachycarde la perfusion des coronaires\npeut être altérée, chez un patient jeune et sain qui fait du sport par exemple cela n’aura\npas d’incidence.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 11,
+          "page_end": 11,
+          "token_count": 342
+        }
+      ]
+    },
+    {
+      "section_id": "section_33",
+      "title": "Cette notion permet de comprendre que",
+      "pages": [
+        17
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_33_c01",
+          "text": "lorsque le débit cardiaque est très augmenté,\nle sang (et donc les globules rouges) ne",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 17,
+          "page_end": 17,
+          "token_count": 21
+        }
+      ]
+    },
+    {
+      "section_id": "section_41",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 20",
+      "pages": [
+        20,
+        21
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_41_c01",
+          "text": "Au repos, le débit sanguin rénal\nest de 1200ml/min soit environ\n20% du débit cardiaque. Chaque\nrein contient environ 1 million de",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 20,
+          "page_end": 21,
+          "token_count": 32
+        }
+      ]
+    },
+    {
+      "section_id": "section_50",
+      "title": "compensatrice réflexe",
+      "pages": [
+        24
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_50_c01",
+          "text": "- Aplatissement des veines superficielles, dont la jugulaire externe en position\n- Augmentation de l’urée\nOn parle de choc hypovolémique lorsque les pertes liquidiennes sont supérieures à 30 %.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 48
+        }
+      ]
+    },
+    {
+      "section_id": "section_61",
+      "title": "SYSTÈME DIGESTIF",
+      "pages": [
+        28
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_61_c01",
+          "text": "Le foie est un des organes les plus densément vascularisés du corps humain.\nIl est traversé par 1,4 litre de sang en moyenne par minute ce qui représente 25 % du débit\ncardiaque (2/3 veine porte, 1/3 artère hépatique).\nIl a plusieurs rôles :\n- Fonction exocrine : sécrétion biliaire\n- Fonction métabolique : glucides, lipides et protides\n- Fonction de détoxification\n- Fonction de stockage : vitamines et fer",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 102
+        }
+      ]
+    },
+    {
+      "section_id": "section_65",
+      "title": "STOCKAGE DES VITAMINES ET FER",
+      "pages": [
+        29
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_65_c01",
+          "text": "Le foie est un lieu de stockage de certaines vitamines assimilées via les sels biliaires (elles\nsont dites liposolubles) :\n- Vitamine A stockée à 90 % dans le foie, intervient dans les mécanismes de la vision",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 52
+        }
+      ]
+    },
+    {
+      "section_id": "section_77",
+      "title": "transmission appelée synapse et va permettre",
+      "pages": [
+        33
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_77_c01",
+          "text": "la libération d’un neurotransmetteur (le principal\nétant l’acétylcholine).\nIl va se fixer sur le neurone post-synaptique,\nprovoquant la création d’un signal électrique en\ndéclenchant l’ouverture de canaux et donc la\ndépolarisation membranaire.\nLes deux neurones ne se touchent pas, on\nappelle cette zone la fente synaptique.\nPour mieux comprendre : il existe\nd’autres neurotransmetteurs comme\nles catécholamines (l’adrénaline, la\nnoradrénaline et la dopamine) ou encore la",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 118
+        }
+      ]
+    },
+    {
+      "section_id": "section_127",
+      "title": "Paramètres Variations",
+      "pages": [
+        46
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_127_c01",
+          "text": "Débit cardiaque Augmentée de 30 % à 50 %\nFréquence cardiaque Augmentée d’environ 30 %\nVolume d’éjection systolique Augmentée d’environ 20 %\nRésistances vasculaires systémiques Diminuées d’environ 15 %\nIl faut être vigilant lors de la mise en décubitus de la femme enceinte, le décubitus latéral\ndroit est à fort risque. Il y a un risque de compression de la veine cave par l’utérus ce qui\npeut entraîner une chute du débit cardiaque.\nLa mise en décubitus latéral chez la femme enceinte se fait TOUJOURS à gauche.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 46,
+          "page_end": 46,
+          "token_count": 128
+        }
+      ]
+    },
+    {
+      "section_id": "section_137",
+      "title": "Catécholamines et Médicaments en",
+      "pages": [
+        49
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_137_c01",
+          "text": "Catécholamines 57\nMédicaments en cardiologie 58\nLes cristalloïdes 59\nLes colloïdes 60",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 49,
+          "page_end": 49,
+          "token_count": 21
+        }
+      ]
+    },
+    {
+      "section_id": "section_147",
+      "title": "LES INHIBITEURS CALCIQUES",
+      "pages": [
+        53
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_147_c01",
+          "text": "Ces médicaments freinent l’entrée du calcium dans les muscles responsables de la\ncontraction des artères. Ils entraînent la baisse de la tension artérielle par relâchement des\nartères. Ils sont également utilisés dans l’angor et certaines arythmies.\nContre-indications :\n- Hypotension grave ou état de choc\n- Rétrécissement aortique\n- Insuffisance cardiaque suite à un infarctus du myocarde\nExemple d’inhibiteurs calciques :\n- Nicardipine (Loxen®), Amlodipine (Amlor®), Vérapamil (Isoptine®),\nLercanidipine (Lercan®)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 53,
+          "page_end": 53,
+          "token_count": 129
+        }
+      ]
+    },
+    {
+      "section_id": "section_150",
+      "title": "LES ANTIHYPERTENSEURS CENTRAUX",
+      "pages": [
+        53
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_150_c01",
+          "text": "Action agoniste présynaptique de type alpha-2 diminuant le maintien de la tension artérielle\ndu patient en inhibant la libération des neurotransmetteurs catécholaminergiques.\nIls réduisent la libération des catécholamines.\nContre-indications :\n- Les bradyarythmie types BAV 2 et 3\n- Insuffisance coronaire ou d’angor\n- Femme enceinte (passage placentaire)\nExemple d’antihypertenseurs centraux\n- Clonidine (Catapressan®), Méthyldopa (Aldomet®)\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 53",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 53,
+          "page_end": 53,
+          "token_count": 136
+        }
+      ]
+    },
+    {
+      "section_id": "section_152",
+      "title": "LES ANTICOAGULANTS",
+      "pages": [
+        55
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_152_c01",
+          "text": "Ils ont deux indications principales :\n- La prévention des thromboses veineuses\n- La limitation du risque embolique et lyse du caillot s’il est formé\nIl existe deux grandes classes d’anticoagulant :\n- Les AVK (anti-vitamines K)\nParmi les héparines les plus connues, il existe les héparines non fractionnées (HNF) comme\nla calciparine®, et les héparines de bas poids moléculaire (HBPM) comme le lovenox®.\nUne des différences est leurs éliminations, contrairement aux HNF les HBPM sont éliminés\npar voie rénale. Les HBPM ont cependant des critères d’utilisation plus large.\nIls sont surveillés grâce au TP et au TCA.\nContrairement aux héparines, les AVK ont une action indirecte puisqu’ils agissent sur\ncertains facteurs de coagulation via la vitamine K.\nParmi les plus connus il y a le previscan®, sintron®, le minisintron® et la coumadine®.\nIls sont surveillés grâce à l’INR.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 55,
+          "page_end": 55,
+          "token_count": 218
+        }
+      ]
+    },
+    {
+      "section_id": "section_160",
+      "title": "Rénales Augmentation de la rénine",
+      "pages": [
+        58
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_160_c01",
+          "text": "Récepteurs β 2 :\nVaisseaux +++ Vasodilatation\nBronches +++ Bronchodilatation\nMécanisme d’action des différentes catécholamines :\nAdrénaline ++ ++ +++ +++\nNoradrénaline +++ +++ + -\nDopamine + - +++ -\nDobutamine - - +++ ++\n+ : Effet mineur ; ++ : Effet modéré ; +++ : Effet majeur ; - Absence d’effet\nPour mieux comprendre : l’adrénaline, la noradrénaline et la dopamine sont des\ncatécholamines naturelles, a contrario la dobutamine est une catécholamine de",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 58,
+          "page_end": 58,
+          "token_count": 113
+        }
+      ]
+    },
+    {
+      "section_id": "section_161",
+      "title": "MÉDICAMENTS EN CARDIOLOGIE",
+      "pages": [
+        58
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_161_c01",
+          "text": "L’éphédrine libère les catécholamines endogènes entraînant une vasoconstriction artérielle\net veineuse, un effet inotrope positif et légèrement chronotrope positif.\nSon indication principale est l’hypotension passagère.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 58,
+          "page_end": 58,
+          "token_count": 54
+        }
+      ]
+    },
+    {
+      "section_id": "section_164",
+      "title": "Il est bon de savoir que son utilisation entraîne une augmentation de la poste charge et de",
+      "pages": [
+        58,
+        59
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_164_c01",
+          "text": "par son absence d’effet Beta, provoque une chute du débit cardiaque.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 58\n\nL’atropine est un parasympatholytique qui a une action tachycardisante et améliore la\nconduction auriculo-ventriculaire.\nSon indication est la bradycardie mal tolérée ou le bloc sino auriculaire (BAV).\nIl est bon de savoir que l’augmentation de la fréquence cardiaque augmente également la\nconsommation d’O2.\nIl est formellement contre-indiqué en cas de glaucome à angle fermé et a une contre-\nindication relative à l’hypertrophie bénigne de la prostate.\nIls se divisent en deux grandes familles, les cristalloïdes et les colloïdes.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 58,
+          "page_end": 59,
+          "token_count": 176
+        }
+      ]
+    },
+    {
+      "section_id": "section_12",
+      "title": "17 Vrai ou Faux (thème choc) :",
+      "pages": [
+        5
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_12_c01",
+          "text": "- Le choc septique est un choc distributif\n- Il y a une vasoplégie importante dans le choc septique\n- Une tachycardie importante chez un patient faisant un choc anaphylactique contre-\nindique l’utilisation d’adrénaline\n- Le choc anaphylactique est un choc quantitatif",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 5,
+          "page_end": 5,
+          "token_count": 66
+        }
+      ]
+    },
+    {
+      "section_id": "section_25",
+      "title": "8 Mr A est victime d’une AVP avec fracture fermée.",
+      "pages": [
+        9
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_25_c01",
+          "text": "On sait que la fréquence cardiaque augmente progressivement dès 10 % de perte de\nvolume sanguin ce qui en fait le premier signe d’alerte d’une hypovolémie.\nL’hypotension est plus tardive. On suppose donc que la perte sanguine commence à être\nL’hypovolémie ici pourrait se traduire par une perte de sang importante au niveau de la\nfracture de Mr A.\nOn considère également la douleur du patient qui a certainement un impact sur l’augmentation\nde sa fréquence cardiaque.\nLa fracture étant située au niveau d’un os long, il faut envisager que le patient puisse\nfaire une embolie graisseuse qui se traduit en partie par l’augmentation de la fréquence\nLe Ringer est un cristalloïde alors que le Voluven est un colloïde.\nDans la prise en charge d’une hypovolémie majeure et à fortiori d’un choc hypovolémique\n(ou choc hémorragique) il est recommandé d’effectuer un remplissage au cristalloïde dans\nun premier temps, puis une utilisation de colloïdes pour favoriser l’expansion volémique.\nTout cela en maintenant un objectif de tension.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 99",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 290
+        }
+      ]
+    },
+    {
+      "section_id": "section_34",
+      "title": "17 Vrai ou faux (thème chocs) :",
+      "pages": [
+        12
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_34_c01",
+          "text": "- Le choc septique est un choc distributif VRAI\n- Il y a une vasoplégie importante dans le choc septique VRAI\n- Une tachycardie importante chez un patient faisant un choc anaphylactique contre-\nindique l’utilisation d’adrénaline FAUX\n- Le choc anaphylactique est un choc quantitatif FAUX",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 71
+        }
+      ]
+    },
+    {
+      "section_id": "section_71",
+      "title": "38 Le foie à cinq fonctions majeures",
+      "pages": [
+        24
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_71_c01",
+          "text": "- Fonction exocrine : sécrétion biliaire\n- Fonction métabolique : glucides, lipides et protides\n- Fonction de détoxification\n- Fonction de stockage : vitamines et fer\n- Fonction de synthèse : albumine, toutes les globines, facteurs de coagulation.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 61
+        }
+      ]
+    },
+    {
+      "section_id": "section_89",
+      "title": "52 Vrai ou Faux (thème situation d’urgence) :",
+      "pages": [
+        28
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_89_c01",
+          "text": "- En cas d’asystolie, le défibrillateur est l’indication principale\n- Dans le choc anaphylactique, si la pression artérielle ne remonte pas après\nplusieurs injections d’adrénaline, le traitement de choix devient la noradrénaline\n- Dans le choc anaphylactique, en cas de traitement par bêtabloquant on peut utiliser",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 78
+        }
+      ]
+    },
+    {
+      "section_id": "section_92",
+      "title": "54 Vrai ou Faux (thème cardio) :",
+      "pages": [
+        28
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_92_c01",
+          "text": "- Le syndrome coronarien aigu (SCA) est une ischémie aiguë myocardique\n- L’ECG n’est pas l’examen diagnostique de première intention\n- En cas de SCA, le traitement de choix est la fibrinolyse\n- Le SCA entraîne quasi systématiquement un choc cardiogénique",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 63
+        }
+      ]
+    },
+    {
+      "section_id": "section_113",
+      "title": "52 Vrai ou faux (thème situation d’urgence) :",
+      "pages": [
+        33
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_113_c01",
+          "text": "- En cas d’asystolie, le défibrillateur est l’indication principale FAUX\n- Dans le choc anaphylactique, si la pression artérielle ne remonte pas après plusieurs\ninjections d’adrénaline, le traitement de choix devient la noradrénaline VRAI\n- Dans le choc anaphylactique, en cas de traitement pas B-bloquant on peut utiliser",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 80
+        }
+      ]
+    },
+    {
+      "section_id": "section_116",
+      "title": "54 Vrai ou faux (thème cardio) :",
+      "pages": [
+        33
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_116_c01",
+          "text": "- Le syndrome coronarien aigu (SCA) est une ischémie aiguë myocardique VRAI\n- L’ECG n’est pas l’examen diagnostique de première intention FAUX\n- En cas de SCA, le traitement de choix est toujours la fibrinolyse FAUX\n- Le SCA entraîne systématiquement un choc cardiogénique FAUX",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 69
+        }
+      ]
+    },
+    {
+      "section_id": "section_22",
+      "title": "13 Les déterminants du débit cardiaque sont :",
+      "pages": [
+        9
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_22_c01",
+          "text": "- Le volume d’éjection systolique est lui-même déterminé par la précharge, la post",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 20
+        }
+      ]
+    },
+    {
+      "section_id": "section_38",
+      "title": "déterminant du débit cardiaque",
+      "pages": [
+        12
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_38_c01",
+          "text": "- Une PAM à 80mmHg est normale",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 7
+        }
+      ]
+    },
+    {
+      "section_id": "section_55",
+      "title": "33 Liquide céphalo-rachidien : liquide clair et incolore présent autour du cerveau",
+      "pages": [
+        16
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_55_c01",
+          "text": "dans les espaces méningés, et à l’intérieur du cerveau dans des cavités appelées\nventricules cérébraux.\n- Protection mécanique du cerveau (amortissement des chocs)\n- Neuro-immunologie\n- Neuroendocrinologie (transport des hormones et nutriments)\n- Épuration (évacuation grâce à un renouvellement rapide)\n34 5 complications du diabète :\n- Hyperglycémie ou hypoglycémie\n- Pied diabétique\n- Insuffisance coronarienne",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 16,
+          "page_end": 16,
+          "token_count": 103
+        }
+      ]
+    },
+    {
+      "section_id": "section_71",
+      "title": "54 Quels facteurs de coagulation sont synthétisés par le foie ? Nommez-les.",
+      "pages": [
+        20
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_71_c01",
+          "text": "Lesquels sont vitamines K dépendant ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 20,
+          "page_end": 20,
+          "token_count": 9
+        }
+      ]
+    },
+    {
+      "section_id": "section_72",
+      "title": "55 Qu’est-ce qu’un état de choc ? Donnez une définition générale.",
+      "pages": [
+        20
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_72_c01",
+          "text": "Quels sont les différents états de choc ? Définissez-les brièvement.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 20,
+          "page_end": 20,
+          "token_count": 17
+        }
+      ]
+    },
+    {
+      "section_id": "section_85",
+      "title": "45 Les vérifications à effectuer sont :",
+      "pages": [
+        24
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_85_c01",
+          "text": "Au niveau du drainage :\n- L’étanchéité du dispositif\n- Que la traite des drains soit effectuée\n- Vérifier la dépression du dispositif\n- S’assurer du bullage\n- Relever régulièrement la quantité et la qualité des pertes\n- Vérifier la perméabilité du pansement\nAu niveau du patient :\n- La ventilation\n- L’état hémodynamique\n- Évaluer la douleur\n- Vérifier le point de ponction\n- Présence de radio pulmonaire de contrôle",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 104
+        }
+      ]
+    },
+    {
+      "section_id": "section_90",
+      "title": "50 Les signes cliniques de la déshydratation chez l’enfant sont :",
+      "pages": [
+        26
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_90_c01",
+          "text": "- Présence du pli cutané\n- Dépression de la fontanelle\n- Sécheresse des muqueuses\n- Baisse de la diurèse\n- Perte de poids\n- Perte de tonus ou altération de la conscience\n- Altération de l’état hémodynamique\n- Sensation de soif",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 56
+        }
+      ]
+    },
+    {
+      "section_id": "section_95",
+      "title": "55 Un état de choc est un état de déséquilibre entre les apports et les besoins en",
+      "pages": [
+        28
+      ],
+      "module_id": "cardio",
+      "chunks": [
+        {
+          "chunk_id": "section_95_c01",
+          "text": "oxygène de l’organisme.\nLes différents états de choc sont :\n- Choc anaphylactique : réaction d’hypersensibilité (ou allergique) systémique,\nsévère, pouvant engager le pronostic vital. Elle survient après l’exposition à un\nfacteur déclenchant.\n- Choc septique : manifestations systémiques, sévères, d’une réponse de l’hôte à\n- Choc hémorragique : diminution brutale et importante de la masse sanguine\n- Choc cardiogénique : défaillance aigue ou sévère de la pompe cardiaque.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 118
+        }
+      ]
+    }
+  ]
+}

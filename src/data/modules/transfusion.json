@@ -1,0 +1,495 @@
+{
+  "module_id": "transfusion",
+  "title": "Module Transfusion",
+  "sections": [
+    {
+      "section_id": "section_01",
+      "title": "L’ÉPREUVE ÉCRITE",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_01_c01",
+          "text": "Rejoignez-nous sur le groupe Facebook si vous avez des\nquestions, des éléments que vous n’avez pas compris ou des\npoints que vous souhaitez approfondir.\nSi vous avez l’envie d’échanger et partager vos connaissances,\nvous êtes les bienvenues !\nwww.facebook.com/La-Prépa-Concours-IADE\nVous vous posez des questions sur le concours ?\nLe financement ? Les livres à avoir ?\nJ'ai pris le temps de tout détailler et expliquer sur mon site pour\nvous guider au mieux dans cette épreuve, n'hésitez donc pas à\nvenir le parcourir.\nwww.prepaconcoursiade.com\nCe livre est protégé par un copyright, toute reproduction ou revente est absolument interdite\nsous peine de poursuite judiciaire.\n\nSi vous lisez ces lignes… c’est que les choses sérieuses commencent !\nL’épreuve écrite du concours IADE n’est pas simple, mais loin d’être infaisable.\nJ’ai passé beaucoup de temps à réviser cette épreuve sans trop savoir si je\nciblais ce qu’il fallait.\nPas d’inquiétude je vais vous éviter ça ! Comment ?\nGrâce à ce livre. J’ai compilé dans cet ouvrage les axes majeurs à connaître.\nÉvidemment, c’est un concours, plus on multiplie les connaissances plus on\naugmente nos chances de réussite, il va donc de soi que c’est un support à\nutiliser parmi d’autres.\nDans cet ouvrage, vous trouverez de la physiologie, de la pharmacologie, des\nnormes de bilan à connaître, des calculs de doses, de la transfusion et de la\nParfois, j’évoque un sujet que je ne développe pas tout de suite volontairement.\nLe but étant de rester le plus cohérent possible. Si une notion semble demander\nplus de précision, pas d’inquiétude elle est très probablement traitée dans un\nchapitre ultérieur.\nJ’ai fait mon maximum pour couvrir les notions les plus importantes à connaître\net à comprendre. Tout ce que vous trouverez ici est déjà tombé à un concours et\nest donc susceptible de tomber à nouveau.\nAllez, respirez, concentrez-vous… c’est parti !\nRappelez-vous c’est un marathon pas un sprint.\nBon courage à toutes et à tous !",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 1,
+          "page_end": 3,
+          "token_count": 494
+        }
+      ]
+    },
+    {
+      "section_id": "section_03",
+      "title": "les écoles et les années",
+      "pages": [
+        4
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_03_c01",
+          "text": "• Des questions à réponse ouvertes\n• Des schémas à annoter\n• Il y a TOUJOURS un calcul de dose et un exercice de transfusion\n• Une question de rédaction variable selon les écoles\nC’est stressant, beaucoup de questions, pleins de thèmes abordés et en plus il\nfaut adapter nos réponses aux types de questions.\nGénéralement, il y a une vingtaine de questions pour 2 h d’épreuve. Ça fait… qu’il\nfaut globalement aller vite. Mais attention, vitesse ne veut pas dire précipitation,\nIl y a un conseil qui convient à tout le monde, ne perdez pas votre temps !\nVous ne savez pas répondre à cette question ?\nPas de soucis passez votre chemin, elle ne va pas disparaître, vous y reviendrez\nAprès à vous de gérer votre temps. On parle souvent de quelques minutes par\nquestions, bof, je n’ai personnellement pas passé mon temps à me chronométrer,\nmais si ça vous rassure faites-le !\nSi vous avez de bonnes connaissances, ne vous inquiétez pas l’épreuve passera\nrapidement, mais vous ne ramerez pas, vous rendrez un bon travail qui vous\nouvrira les portes de l’oral.\nEn parlant de connaissances, il est temps d’y aller.\nCommençons les choses sérieuses.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 4,
+          "page_end": 4,
+          "token_count": 284
+        }
+      ]
+    },
+    {
+      "section_id": "section_134",
+      "title": "Pharmacodynamie et Pharmacocinétique Le sang et la transfusion",
+      "pages": [
+        49
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_134_c01",
+          "text": "Pharmacodynamie 51 Les éléments du sang 67\nPharmacocinétique 51 Groupes sanguins et compatibilités 67\nL’absorption 51 L’acte transfusionnel 69\nLa distribution 51 Avant de transfuser 69\nLa métabolisation 51 Pendant la transfusion 69\nL’élimination 51 Après la transfusion 70\nGénéralités sur les médicaments Les incidents transfusionnels 70\nLes antihypertenseurs 52 Cas particulier de la femme enceinte 70\nLes diurétiques 52 La législation\nLes bêtabloquants 52 La gestion des risques 71\nLes inhibiteurs calciques 53 Abréviations 72\nLes inhibiteurs de l’enzyme de conversion 53 Actes du rôle propre 73",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 49,
+          "page_end": 49,
+          "token_count": 149
+        }
+      ]
+    },
+    {
+      "section_id": "section_151",
+      "title": "LES ANTIAGRÉGANTS PLAQUETTAIRES ET ANTICOAGULANTS",
+      "pages": [
+        54
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_151_c01",
+          "text": "Pour comprendre le fonctionnement de ces traitements, il faut d’abord comprendre comment\nfonctionne l’hémostase.\nC’est l’ensemble des mécanismes qui assurent la prévention des saignements spontanés\net l’arrêt des hémorragies.\nElle se fait en 3 étapes :\n- L’hémostase primaire (3 à 5 min), c’est la formation du clou plaquettaire.\n- La coagulation plasmatique (5 à 10 min), c’est la formation du caillot\nfibrinoplaquettaire insoluble.\n- La fibrinolyse (48h-72h) qui est la dégradation du caillot.\nCe mécanisme permet de reperméabiliser un vaisseau lésé. Simultanément, il y a activation\nde la coagulation qui a pour but de générer de la fibrine pour stabiliser le caillot.\nPour se faire, il y a activation de la cascade de coagulation.\nLe « a » accolé à un facteur de coagulation comme Xa signifie « activé ».\nCe schéma explique dans quel ordre les facteurs s’activent pour générer de la fibrine.\nPour mieux comprendre : dans le schéma de la cascade de coagulation, on remarque\nque le facteur X est « centrale » ce qui explique le fonctionnement des traitements\nanticoagulant anti-Xa.\nDe même, certains facteurs sont vitamine K dépendant, le II, le VII, le IX et le X, ce qui\nexplique l’action des AVK, qui empêche à terme l’activation de ces facteurs et donc la\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 54",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 54,
+          "page_end": 54,
+          "token_count": 341
+        }
+      ]
+    },
+    {
+      "section_id": "section_153",
+      "title": "LES ANTIAGRÉGANTS PLAQUETTAIRES",
+      "pages": [
+        55
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_153_c01",
+          "text": "Ils inhibent la fixation, l’activation et l’agrégation des plaquettes sur les lésions endothéliales\nou sur un thrombus déjà formé.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 55,
+          "page_end": 55,
+          "token_count": 32
+        }
+      ]
+    },
+    {
+      "section_id": "section_170",
+      "title": "Les colloïdes de synthèse",
+      "pages": [
+        60
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_170_c01",
+          "text": "Les gélatines ont une durée d’action de 4 à 5 heures et présentent certains effets secondaires\nIls présentent un risque important d’allergie contre-indiquant leur utilisation en obstétrique et\nun risque hyperkaliémie pour le plasmion.\nLes hydroxyéthylamidons (HEA) sont cristalloïdes auxquelles ont été rajouté des\nmacromolécules. Leur pouvoir d’expansion vasculaire est important et leur efficacité est de\nIls présentent un risque d’allergie et sont contre-indiqués aux patients insuffisants rénaux\nchroniques en cours de dialyse et aux patients présentant des troubles de l’hémostase.\nHeafusine® 6 % et 10 %\nDextran Rescueflow®\nAlbumine Albumine 4 % et 20 %\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 60",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 60,
+          "page_end": 60,
+          "token_count": 191
+        }
+      ]
+    },
+    {
+      "section_id": "section_174",
+      "title": "NUMÉRATION FORMULE SANGUINE",
+      "pages": [
+        62
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_174_c01",
+          "text": "Hématies 4.0 à 5,5 millions/mm3\nHémoglobine 12 à 16 g/dl\nHématocrite 35 % à 50 %\nLeucocytes 4000 à 10000/mm3\nPlaquettes 150000 à 400000/mm3\nPCO2 38 à 42 mmHg\nPO2 80 à 100 mmHg\nBicarbonates 22 à 26 mmol/l\nCO2 25 à 27 mmol/l\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 62",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 62,
+          "page_end": 62,
+          "token_count": 81
+        }
+      ]
+    },
+    {
+      "section_id": "section_179",
+      "title": "LES ÉLÉMENTS DU SANG",
+      "pages": [
+        67
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_179_c01",
+          "text": "Le sang est composé de différents éléments.\nLes globules rouges, ou érythrocytes ont pour rôle principal d’apporter de l’oxygène aux\ncellules. Ils ont une durée de vie d’environ 120 jours et sont détruits en majorité dans la rate.\nLes globules blancs ou leucocytes sont divisés en trois grandes familles :\n- Les lymphocytes qui ont pour rôle de produire des anticorps\n- Les monocytes qui ont une fonction de nettoyage en devenant des macrophages\n- Les polynucléaires neutrophiles ou éosinophiles\nLes plaquettes ou thrombocytes qui interviennent dans l’hémostase.\nTous ces éléments baignent dans le plasma qui a pour rôle leur transport, il contient\négalement certains facteurs de coagulation.\nLes anticorps sont dans le plasma.\nLes antigènes sont sur les globules rouges.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 67,
+          "page_end": 67,
+          "token_count": 192
+        }
+      ]
+    },
+    {
+      "section_id": "section_182",
+      "title": "Anti A Anti B Anti AB Groupe",
+      "pages": [
+        68
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_182_c01",
+          "text": "Agglutination, présence d’anticorps Pas d’agglutination, absence d’anticorps\nPour la transfusion de culot globulaire, il est donc facile de comprendre les compatibilités.\nUne dernière règle, on transfuse un rhésus - vers un rhésus +, mais pas l’inverse !\nPour le plasma, il n’y a pas de test de compatibilité, car vous l’avez compris, il n’y a pas\nd’antigène dans le plasma.\nCependant, il a quand même une règle de transfusion à respecter qui est l’inverse des\nculots globulaire.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 68",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 68,
+          "page_end": 68,
+          "token_count": 146
+        }
+      ]
+    },
+    {
+      "section_id": "section_183",
+      "title": "AVANT DE TRANSFUSER",
+      "pages": [
+        69
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_183_c01",
+          "text": "Avant chaque transfusion il y a des impératifs à réaliser.\nPour la commande :\n- La prescription médicale de produit sanguin labile (PSL) datée et signée\n- La fiche de délivrance\n- Le dossier transfusionnel du patient comprenant une carte de groupe et une\nrecherche d’agglutinines irrégulières (RAI) négatives de moins de 72 h\nÀ la réception, le contrôle ultime prétransfusionnel doit être réalisé. Il comprend deux\ngrandes étapes :\nLe contrôle ultime de concordance qui doit être réalisé pour chaque PSL au lit du patient :\n- Identité du patient et date de naissance\n- Concordance de l’identité du patient avec celle mentionnée sur :\n- Prescription de PSL\n- Fiche de délivrance\n- Documents de groupes sanguins et résultat de RAI\n- Concordance des résultats de groupes sanguins\n- Dans les documents de groupes sanguins et résultats de RAI du patient\n- Sur l’étiquette du concentré globulaire à transfuser\n- Sur la fiche de délivrance\n- Concordances des données d’identification du concentré globulaire\n- Indiquées sur le PSL\n- Inscrites sur la fiche de délivrance\n- Vérification de la date de péremption du PSL",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 69,
+          "page_end": 69,
+          "token_count": 277
+        }
+      ]
+    },
+    {
+      "section_id": "section_184",
+      "title": "Le contrôle ultime de compatibilité ABO qui permet de confirmer le groupe sanguin du patient",
+      "pages": [
+        69
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_184_c01",
+          "text": "et du culot globulaire. C’est l’ultime étape avant la transfusion.\nPour mieux comprendre : il y a deux choses importantes à savoir concernant les RAI.\nPremièrement, les RAI sont valables jusqu’à 21 jours s’il n’y a pas eu de transfusion\ndurant cette période, MAIS avant toute transfusion un médecin devra signer et demander\nl’accord à l’EFS.\nDeuxièmement, il est possible de transfuser un patient lorsque les RAI sont positifs,",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 69,
+          "page_end": 69,
+          "token_count": 106
+        }
+      ]
+    },
+    {
+      "section_id": "section_185",
+      "title": "PENDANT LA TRANSFUSION",
+      "pages": [
+        69
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_185_c01",
+          "text": "Pour commencer à transfuser, le contrôle ultime prétransfusionnel doit être réalisé et\nIl est important de relever les paramètres vitaux du patient avant de démarrer l’acte, il faut\n- La pression artérielle\n- La fréquence cardiaque\n- La saturation en oxygène\n- La température\nIl faut également s’assurer qu’un médecin puisse intervenir à tout moment.\nLe PSL doit être mis sur une voie qui lui est dédiée. Lorsque l’acte transfusionnel a démarré,\nles paramètres vitaux doivent être surveillés de manière régulière :\n- Toutes les 5 minutes pendant 15 minutes\n- Puis toutes les 30 minutes\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 69",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 69,
+          "page_end": 69,
+          "token_count": 172
+        }
+      ]
+    },
+    {
+      "section_id": "section_186",
+      "title": "APRÈS LA TRANSFUSION",
+      "pages": [
+        70
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_186_c01",
+          "text": "Les paramètres vitaux sont à surveiller dans les 2 heures qui suivent la transfusion.\nIl sera également important de conserver pendant 2 heures :\n- Les poches vides de PSL\n- Le transfuseur clampé\n- La carte de contrôle ultime\nAprès ces 2 heures, si aucun événement indésirable n’est survenu, le tout pourra être jeté.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 70,
+          "page_end": 70,
+          "token_count": 79
+        }
+      ]
+    },
+    {
+      "section_id": "section_187",
+      "title": "LES INCIDENTS TRANSFUSIONNELS",
+      "pages": [
+        70
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_187_c01",
+          "text": "Il y a différents incidents possibles à connaître lors d’une transfusion :\n- L’hémolyse par incompatibilité ABO\n- Infection bactérienne\n- Réaction allergique\n- OAP de surcharge (TACO)\n- OAP lésionnel (TRALI)\nLes signes peuvent être variés :\n- Fièvre +/- frissons\n- Signes hémodynamiques\n- Signes respiratoires\n- Signes cutanés\nEn cas d’accidents transfusionnels, il sera primordial de réagir rapidement en arrêtant\nd’emblée la transfusion (tout en conservant la poche) et en appelant immédiatement le",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 70,
+          "page_end": 70,
+          "token_count": 125
+        }
+      ]
+    },
+    {
+      "section_id": "section_195",
+      "title": "Je vous encourage fortement à compléter les connaissances que vous avez",
+      "pages": [
+        74
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_195_c01",
+          "text": "maintenant avec d’autres livres et profitez en pour revoir les pathologies de base.\nN’oubliez pas, soyez au clair avec les calculs de doses et la transfusion, une\nerreure sur ces exercices peut-être éliminatoire et apprenez bien les schémas ce\nsont des points gagnés facilement.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 74,
+          "page_end": 74,
+          "token_count": 69
+        }
+      ]
+    },
+    {
+      "section_id": "section_09",
+      "title": "13 Complétez le texte suivant par un ou plusieurs mots.",
+      "pages": [
+        5
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_09_c01",
+          "text": "Les plaquettes sont produites dans …. par les …..\nUn tiers des plaquettes sont stockés dans ….., les deux tiers restants sont ... et\nrenouvelées de 10% à 15% par …. .\nLes plaquettes jouent un rôle majeur dans ….. et représentent 30% à 40% de la …..\nLa norme est de ….. .",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 5,
+          "page_end": 5,
+          "token_count": 67
+        }
+      ]
+    },
+    {
+      "section_id": "section_28",
+      "title": "11 Les 3 temps de l’hémostase sont :",
+      "pages": [
+        11
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_28_c01",
+          "text": "L’hémostase primaire : c’est l’ensemble des mécanismes qui vont permettre la\nformation du clou plaquettaire (3 à 5 min).\nLa coagulation plasmatique : c’est la formation d’un caillot fibrino-plaquettaire\ninsoluble (5 à 12 min).\nLa fibrinolyse : c’est la dégradation du caillot (45 à 72h).\nC’est l’adjonction au facteur Xa du facteur Va qui va permettre, par l’intermédiaire de\nla prothrombinase, de transformer la prothrombine en thrombine.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 11,
+          "page_end": 11,
+          "token_count": 109
+        }
+      ]
+    },
+    {
+      "section_id": "section_30",
+      "title": "13 Les plaquettes sont produites dans la moelle osseuse par les mégacaryocytes.",
+      "pages": [
+        11
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_30_c01",
+          "text": "Un tiers des plaquettes sont stockés dans la rate, les deux tiers restants sont libres\net renouvelées de 10% à 15% par jour.\nLes plaquettes jouent un rôle majeur dans l’hémostase et représentent 30% à 40%\nde la coagulation normale.\nLa norme est de 150 000 à 400 000 / mm3.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 11,
+          "page_end": 11,
+          "token_count": 68
+        }
+      ]
+    },
+    {
+      "section_id": "section_43",
+      "title": "27 Vous devez réaliser une transfusion chez Mr X ce matin. Vous débutez cette",
+      "pages": [
+        14
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_43_c01",
+          "text": "transfusion et au bout de 10 minutes Mr X se plaint de douleurs lombaires soudaines.\nÀ quoi pensez-vous ?\nCherchez-vous d’autres signes ? Si oui lesquels ?\nQue faites-vous ?",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 14,
+          "page_end": 14,
+          "token_count": 43
+        }
+      ]
+    },
+    {
+      "section_id": "section_53",
+      "title": "23 Contrôle de concordance d’identité du patient entre :",
+      "pages": [
+        18,
+        19
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_53_c01",
+          "text": "- Le patient (nom, prénom, date de naissance)\n- La carte de groupe sanguin\n- Vérification de la présence de RAI négatif de moins de 72h (le cas échéant,\nen référer au médecin)\n- La prescription médicale\n- La fiche de délivrance nominative du produit à transfuser\nContrôle de concordance de groupe sanguin entre :\n- La carte de groupe sanguin\n- La fiche de délivrance nominative du produit à transfuser\n- L’étiquette du produit sanguin labile.\nContrôle de concordance de l’identification du PSL entre :\n- Le numéro d’identification du produit sanguin labile\n- La fiche de délivrance nominative du produit à transfuser.\nContrôle du produit :\n- Nombre de produit reçu\n- Contrôle de la nature du produit et de sa conformité à la prescription\n- Aspect et intégralité\n- Date de péremption\nContrôle du patient :\n- Voie veineuse dédiée à la transfusion et fonctionnelle\n- Prise des paramètres vitaux du patient de référence (fréquence cardiaque, tension\nartérielle, fréquence respiratoire, température), relever diurèse ainsi que la coloration\n- Noter l’état clinique du patient avant transfusion (couleur de peau, conscience,\n- Matériel présent et disponible pour toute la durée de la transfusion (transfuseur\nspécifique, tensiomètre, thermomètre, feuille de traçabilité et de surveillance avec\nle dossier de transfusion)\nContrôle ultime au lit du patient :\n- Effectué le contrôle ultime au lit du patient juste avant de transfuser le culot\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 1188\n\nRÉPONSES DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 18,
+          "page_end": 19,
+          "token_count": 397
+        }
+      ]
+    },
+    {
+      "section_id": "section_57",
+      "title": "27 Les douleurs lombaires dans le cas d’une transfusion sanguine peuvent être signe",
+      "pages": [
+        21
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_57_c01",
+          "text": "d’une hémolyse sanguine. Dans tous les cas, c’est un signe de mauvaise tolérance\nà la transfusion.\nJe recherche pour confirmer ou pas cette idée :\n- Frissons, hyperthermie\n- Chute de pression artérielle\n- Angoisse / altération de la conscience\n- Signes respiratoires\n- Signes digestifs\nLes actions à réaliser sont :\n- Arrêter la transfusion et conserver le culot\n- Alerter le médecin\n- Maintenir l’abord veineux grâce un cristalloïde\n- Vérifier le groupe du produit sanguin, la carte de groupe du patient et son identité\n- Effectuer une surveillance rapprochée des paramètres vitaux\n- Traiter les symptômes\n- Signaler l’incident à l’EFS et à l’hémovigilance et revérifier les concordances\npatient/documents/PSL.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 21,
+          "page_end": 21,
+          "token_count": 177
+        }
+      ]
+    },
+    {
+      "section_id": "section_83",
+      "title": "50 Vrai ou faux (thème transfusion) :",
+      "pages": [
+        27
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_83_c01",
+          "text": "- Des RAI supérieurs à 72h peuvent être valables sous certaines conditions\n- Des RAI positifs contre-indiquent toutes transfusions\n- L’injection de gammaglobulines anti-D est proposée systématiquement aux",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 27,
+          "page_end": 27,
+          "token_count": 51
+        }
+      ]
+    },
+    {
+      "section_id": "section_108",
+      "title": "50 Vrai ou faux (thème transfusion) :",
+      "pages": [
+        33
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_108_c01",
+          "text": "- Des RAI supérieurs à 72h peuvent être valables sous certaines conditions VRAI\n- Des RAI positifs contre-indiquent toutes transfusions FAUX\n- L’injection de gammaglobulines anti-D est proposée systématiquement aux",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 53
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "title": "12 Donnez la définition des termes suivants :",
+      "pages": [
+        4
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_10_c01",
+          "text": "- transfusion homologue\n- transfusion autologue\nOù se trouvent les anticorps et les antigènes ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 4,
+          "page_end": 4,
+          "token_count": 23
+        }
+      ]
+    },
+    {
+      "section_id": "section_16",
+      "title": "5 Les muscles striés :",
+      "pages": [
+        7
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_16_c01",
+          "text": "Ils sont innervés par le système nerveux cérébro-spinal et leur contraction est\nsoumise à la volonté.\nLe myocarde est un muscle strié.\nLes muscles lisses :\nLeur contraction ne dépend pas de la volonté, ils échappent à la commande du\nsystème nerveux cérébro-spinal et ne sont soumis qu’aux indications du système\nnerveux végétatif qui gère tous les viscères de l’organisme. On les rencontre dans\nles viscères creux du tube digestif, les voies biliaires ou encore les voies urinaires.\n6 - Il est prélevé de 420 à 480 ml de sang, en fonction du poids du donneur.\n- Il faut respecter un délai d’au moins 8 semaines entre 2 dons de sang total.\n- Une femme peut donner son sang maximum 4 fois par an, un homme 6 fois par an.\n- Le délai de validité des RAI est de 3 jours sauf en l’absence de transfusion ou\nd’événement immunisant dans les 6 mois sur attestation médicale signée : 21j\n- On peut transfuser des globules rouges, des plaquettes ou du plasma\n- Les médicaments dérivés du sang sont des médicaments à base de sang ou de\ncomposants de sang préparés industriellement. Il s’agit notamment de l’albumine,\ndes facteurs de coagulation ou encore des immunoglobulines d’origine humaine.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 7,
+          "page_end": 7,
+          "token_count": 295
+        }
+      ]
+    },
+    {
+      "section_id": "section_18",
+      "title": "9 Le volume sanguin moyen d’un adulte est d’environ 5L à 6L.",
+      "pages": [
+        8
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_18_c01",
+          "text": "Hématies 4.0 à 5.5 millions /mm3\nLeucocytes 4000 à 10000 /mm3\nPlaquettes 150000 à 400000 /mm3",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 23
+        }
+      ]
+    },
+    {
+      "section_id": "section_21",
+      "title": "12 Transfusion homologue = transfusion d’un donneur à un receveur autre",
+      "pages": [
+        9
+      ],
+      "module_id": "transfusion",
+      "chunks": [
+        {
+          "chunk_id": "section_21_c01",
+          "text": "Transfusion autologue = transfusion du patient avec son propre sang prélevé en amont.\nLes anticorps sont dans le plasma et les antigènes dans les globules rouges.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 40
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "module_id": "pharma_opioides",
+  "title": "Module Pharma Opioides",
+  "sections": [
+    {
+      "section_id": "section_140",
+      "title": "PHARMACODYNAMIE ET PHARMACOCINÉTIQUE",
+      "pages": [
+        50
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_140_c01",
+          "text": "Étude des effets et des actions des médicaments sur le site d’action. Elle étudie la relation\nPour agir dans l’organisme, les médicaments doivent se fixer de différente façon à un\nLes agonistes : Un médicament qui, après sa liaison à un récepteur spécifique, provoque\nun effet comparable à celui du médiateur naturel est un agoniste. Il peut produire un effet\nLa morphine est un agoniste.\nLes agonistes partiels : Bloque le récepteur en s’y fixant, empêchant ainsi les substances\nnaturelles stimulatrices de se fixer. Il ne peut atteindre l’effet maximum atteignable par un",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 50,
+          "page_end": 50,
+          "token_count": 143
+        }
+      ]
+    },
+    {
+      "section_id": "section_144",
+      "title": "LA MÉTABOLISATION",
+      "pages": [
+        51
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_144_c01",
+          "text": "Cette étape correspond à la transformation du médicament dans l’organisme. Elle se fait\nprincipalement au niveau du foie, mais aussi au niveau d’autres organes comme les reins\nCette transformation peut engendrer la formation de métabolites, celles-ci sont parfois\nactives et ont donc une action sur l’organisme.\nElle se fait principalement par voie rénale. Il y a d’autres voies d’élimination comme les\npoumons ou la bile par exemple.\nCertains concepts sont importants à connaître :\n- La clairance qui est le volume sanguin totalement épuré d’un médicament par unité\n- La demi-vie d’élimination qui est le temps nécessaire pour que la quantité de\nmédicaments présente dans l’organisme soit divisée par deux.\nPour mieux comprendre : un exemple intéressant de transformation est celui de la\ncodéine. Son utilisation n’est pas indiquée chez l’enfant, car un de ces métabolites\nactifs est la morphine. Chez certaines personnes qui ont un métabolisme rapide et à\nfortiori les enfants, cette transformation peut causer un surdosage en morphine.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 51",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 51,
+          "page_end": 51,
+          "token_count": 285
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "title": "16 Vrai ou Faux (thème pharmacologie) :",
+      "pages": [
+        5
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_11_c01",
+          "text": "- Le nubain est un agoniste pur\n- La codéine est un agoniste partiel\n- Le valsartan est un antagoniste\n- La morphine est un agoniste pur",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 5,
+          "page_end": 5,
+          "token_count": 34
+        }
+      ]
+    },
+    {
+      "section_id": "section_33",
+      "title": "16 Vrai ou faux (thème pharmacologie) :",
+      "pages": [
+        12
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_33_c01",
+          "text": "- Le nubain est un agoniste pur FAUX\n- La codéine est un agoniste partiel VRAI\n- Le valsartan est un antagoniste VRAI\n- La morphine est un agoniste pur VRAI",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 39
+        }
+      ]
+    },
+    {
+      "section_id": "section_41",
+      "title": "24 Mr R. est hospitalisé dans votre service en réanimation. Le médecin vous prescrit",
+      "pages": [
+        14
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_41_c01",
+          "text": "des médicaments à passer en pousse seringue électrique.\n- Midazolam à 15mg/h. Vous avez des ampoules de 50mg dans 10ml.\n- Sufentanil à 10µg/h. Vous avez des ampoules de 50µg dans 5ml.\n- Lasilix à 20 mg/h. Vous avez des ampoules de 250 mg dans 25 ml.\nVous ne disposez que de seringues de 50ml et de flacons de 20 ml de NACL.\nExpliquez comment vous préparer ces différentes seringues, donnez le débit au-\nquel vous les mettez. Vos seringues doivent passer en 10h.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 14,
+          "page_end": 14,
+          "token_count": 115
+        }
+      ]
+    },
+    {
+      "section_id": "section_54",
+      "title": "24 J’ai trois médicaments à passer en pousse-seringue électrique, dans des seringues",
+      "pages": [
+        19,
+        20
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_54_c01",
+          "text": "- Midazolam à 15 mg/h. Vous avez des ampoules de 50 mg dans 10 ml.\n- Sufentanil à 10µg/h. Vous avez des ampoules de 50µg dans 5 ml.\n- Lasilix à 20 mg/h. Vous avez des ampoules de 250 mg dans 25 ml.\nPour le midazolam :\nJ’ai des ampoules de 50 mg dans 10 ml.\nSi je prends 3 ampoules, j’ai donc 150 mg dans 30 ml, que je ramène à 50ml avec\ndu sérum physiologique.\nJ’obtiens donc une seringue de 150 mg dans 50 ml soit 3 mg/ml.\nEn mettant cette seringue à vitesse 5 ml/h on obtient donc la concentration voulue\n\nPour déterminer l’heure de fin de la seringue on pose = 10h.\n\nÀ cette vitesse, la seringue se terminera bien dans 10h.\nPour le sufentanil :\nJ’ai des ampoules de 50 µg dans 5 ml.\nSi je prends 2 ampoules, j’ai donc 100µg dans 10 ml, que je ramène à 50 ml avec\ndu sérum physiologique.\nJ’obtiens donc une seringue de 100 µg dans 50 ml soit 2 µg/ml.\nEn mettant cette seringue à vitesse 5 ml/h on obtient donc la concentration voulue\n\nPour déterminer l’heure de fin de la seringue on pose = 10h.\n\nÀ cette vitesse, la seringue se terminera bien dans 10h.\nPour le lasilix :\nJ’ai des ampoules de 250 mg dans 25 ml. Soit 10 mg par ml.\nSi je prélève 20 ml de cette ampoule, j’ai 200 mg que je ramène à 50ml avec du\nsérum physiologique.\nJ’obtiens donc une seringue de 200 mg dans 50 ml soit 4 mg/ml.\nEn mettant cette seringue à vitesse 5 ml/h on obtient donc la concentration voulue\n\nPour déterminer l’heure de fin de la seringue on pose = 10h.\n\nÀ cette vitesse, la seringue se terminera dans 10h\nPour mieux comprendre : Si on vous demande de passer des seringues en un temps\ndéterminé, vous devez en premier lieu savoir à combien vous allez remplir votre\nseringue pour ensuite connaître la vitesse. Vous adaptez enfin votre concentration\nen fonction. L’idée est de faire l’exercice “à l’envers”.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 1199\n\nRÉPONSES DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 19,
+          "page_end": 20,
+          "token_count": 487
+        }
+      ]
+    },
+    {
+      "section_id": "section_44",
+      "title": "36 Définissez les différents paliers de l’OMS des antalgiques, donnez l’EVA de chaque",
+      "pages": [
+        13
+      ],
+      "module_id": "pharma_opioides",
+      "chunks": [
+        {
+          "chunk_id": "section_44_c01",
+          "text": "palier et donnez un traitement antalgique parentérale pour chacun d’eux.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 13,
+          "page_end": 13,
+          "token_count": 18
+        }
+      ]
+    }
+  ]
+}

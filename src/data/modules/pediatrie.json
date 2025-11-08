@@ -1,0 +1,151 @@
+{
+  "module_id": "pediatrie",
+  "title": "Module Pediatrie",
+  "sections": [
+    {
+      "section_id": "section_120",
+      "title": "LE SCORE D’APGAR",
+      "pages": [
+        45
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_120_c01",
+          "text": "Chaque naissance nécessite la présence d’au moins une personne formée (sage-femme ou\npédiatre) aux premiers gestes de prise en charge, et s’occupant uniquement de ce nouveau-\nné (une personne par enfant en cas de naissances multiples).\nLe score d’Apgar est établi à 1, 5 et 10 minutes de vie.\nLe nouveau-né normal a un score d’Apgar ≥ 7.\nFréquence cardiaque < 80/min 80 à 100/min >100/min\nMouvements Vigoureux, avec\nApnée Lents, irréguliers",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 45,
+          "page_end": 45,
+          "token_count": 110
+        }
+      ]
+    },
+    {
+      "section_id": "section_132",
+      "title": "TRAITEMENTS CONTRE-INDIQUÉS PENDANT LA GROSSESSE",
+      "pages": [
+        47
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_132_c01",
+          "text": "- AINS : Qu’ils soient par prise oral, intraveineuse ou application locale\n- Les antihistaminiques sédatifs B : sont déconseillés au cours de premier trimestre\nde la grossesse. Ils ne doivent être prescrits après cette période qu’en cas de\nnécessité absolue.\n- Les vaccins : Celui contre la rubéole est contre-indiqué et celui contre la fièvre jaune\nn’est pas recommandé.\n- Les IEC et les ARA II : Ils sont formellement contre-indiqués à partir du quatrième\nmois de la grossesse : ils sont toxic pour les reins du fœtus.\n- L’amiodarone : Il est contre-indiqué à partir du quatrième mois de la grossesse\n- Les AVK : Ils sont contre-indiqués, l’héparine est à préférer\n- La dépakine : Risque tératogène (malformation) pour le fœtus très important\n- D’autres antiépileptiques : Le carbamazépine ou le phénobarbital sont également à\nrisque tératogène.\n- Les antitumoraux",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 47,
+          "page_end": 47,
+          "token_count": 216
+        }
+      ]
+    },
+    {
+      "section_id": "section_148",
+      "title": "LES INHIBITEURS DE L’ENZYME DE CONVERSION",
+      "pages": [
+        53
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_148_c01",
+          "text": "Comme leur nom l’indique, ils inhibent l’enzyme de conversion, ce qui empêche\nl’angiotensine I de se transformer en angiotensine II.\nIls sont indiqués dans l’hypertension artérielle, l’insuffisance cardiaque et les infarctus du\nContre-indications :\n- Sténose bilatérale des artères rénales\n- Œdème angioneurotique sous IEC\n- Grossesse (passage placentaire)\n- Allaitement (passage)\nExemple d’inhibiteurs de l’enzyme de conversion :\n- Ramipril (Triatec®)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 53,
+          "page_end": 53,
+          "token_count": 113
+        }
+      ]
+    },
+    {
+      "section_id": "section_189",
+      "title": "CAS PARTICULIER DE LA FEMME ENCEINTE",
+      "pages": [
+        70
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_189_c01",
+          "text": "Chez la femme enceinte, il y a un risque singulier, le risque d’allo-immunisation.\nSi la mère est rhésus - et l’enfant rhésus + il pourrait y avoir formation d’anticorps mettant\nen danger la vie de l’enfant.\nIl est important de noter que lors de la première grossesse, les anticorps n’étant pas encore\nfabriqué le risque est moindre ce qui ne dispense pas une prise en charge.\nL’allo-immunisation anti-D peut être prévenue par l’injection de gammaglobulines anti-D\n(Rophylac®) proposée systématiquement aux femmes enceintes rhésus -.\nEn cas d’allo-immunisation au cours de la grossesse, il convient de surveiller l’évolution du\ntaux d’anticorps dans le sang maternel et de surveiller l’évolution du fœtus par échographie\net dans certains cas de transfuser le fœtus in utero.\nPour mieux comprendre : Il est possible que cette allo-immunisation soit le résultat d’une\nerreur transfusionnelle, en effet transfuser un Rh+ à un Rh- peut modifier le rhésus.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 70",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 70,
+          "page_end": 70,
+          "token_count": 264
+        }
+      ]
+    },
+    {
+      "section_id": "section_79",
+      "title": "46 Quel est l’algorithme de prise en charge de l’arrêt cardiaque chez un enfant de 7 ans ?",
+      "pages": [
+        26
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_79_c01",
+          "text": "(commencez à expliquer à partir du moment ou vous avez déterminé que l’enfant\nétait en arrêt et arrêtez-vous à la pose du défibrillateur).",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 34
+        }
+      ]
+    },
+    {
+      "section_id": "section_93",
+      "title": "55 Vrai ou Faux (thème score) :",
+      "pages": [
+        28
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_93_c01",
+          "text": "- Le score de Glasgow n’est utilisé que dans les traumatismes crâniens\n- Le score de silverman est un score qui permet d’estimer la douleur chez l’enfant\n- Le score de NIHSS possède 7 items\n- On peut utiliser l’EVA chez l’enfant",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 28,
+          "page_end": 28,
+          "token_count": 57
+        }
+      ]
+    },
+    {
+      "section_id": "section_104",
+      "title": "45 Pathologie entraînant une douleur au niveau :",
+      "pages": [
+        31
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_104_c01",
+          "text": "- De l’hypocondre droit : Colique hépatique, cholécystite, hépatite\n- De l’hypocondre gauche : Rupture de la rate, infarctus splénique, pancréatite\n- De l’épigastre : Ulcère gastrique, pancréatite, infarctus du myocarde\n- Des fosses iliaques : Occlusion, appendicite, grossesse extra-utérine, torsion",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 31,
+          "page_end": 31,
+          "token_count": 75
+        }
+      ]
+    },
+    {
+      "section_id": "section_117",
+      "title": "55 Vrai ou faux (thème score) :",
+      "pages": [
+        33,
+        34
+      ],
+      "module_id": "pediatrie",
+      "chunks": [
+        {
+          "chunk_id": "section_117_c01",
+          "text": "- Le score de Glasgow n’est utilisé que dans les traumatismes crâniens FAUX\n- Le score de silverman est un score qui permet d’estimer la douleur chez l’enfant FAUX\n- Le score de NIHSS possède 7 items FAUX\n- On peut utiliser l’EVA chez l’enfant VRAI\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3333\n\nRÉPONSES DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 34,
+          "token_count": 101
+        }
+      ]
+    }
+  ]
+}

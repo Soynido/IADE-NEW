@@ -1,0 +1,78 @@
+{
+  "module_id": "reanimation",
+  "title": "Module Reanimation",
+  "sections": [
+    {
+      "section_id": "section_169",
+      "title": "Les colloïdes naturels",
+      "pages": [
+        60
+      ],
+      "module_id": "reanimation",
+      "chunks": [
+        {
+          "chunk_id": "section_169_c01",
+          "text": "Le seul colloïde naturel d’origine humaine est l’albumine. Les indications sont limitées aux\npatients brûlés (hypovolémie avec hypoprotéinémie) et aux patients cirrhotiques avec ascite.\nLeur coût est assez élevé.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 60,
+          "page_end": 60,
+          "token_count": 53
+        }
+      ]
+    },
+    {
+      "section_id": "section_77",
+      "title": "44 Un patient est hospitalisé dans votre service de réanimation depuis 3 semaines.",
+      "pages": [
+        26
+      ],
+      "module_id": "reanimation",
+      "chunks": [
+        {
+          "chunk_id": "section_77_c01",
+          "text": "Le médecin évoque que ce patient souffre d’un sepsis.\n- Quels signes peuvent évoquer un sepsis ?\n- Quelles sont les surveillances cliniques à mettre en place ?\n- Que faut-il rechercher et par quel moyen ?\n- Quel est le traitement de première intention ?",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 63
+        }
+      ]
+    },
+    {
+      "section_id": "section_85",
+      "title": "51 Vrai ou faux (thème traumatisme) :",
+      "pages": [
+        27
+      ],
+      "module_id": "reanimation",
+      "chunks": [
+        {
+          "chunk_id": "section_85_c01",
+          "text": "- Un polytraumatisé est considéré comme ayant un traumatisme du rachis jusqu’à",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 27,
+          "page_end": 27,
+          "token_count": 19
+        }
+      ]
+    },
+    {
+      "section_id": "section_110",
+      "title": "51 Vrai ou faux (thème traumatisme) :",
+      "pages": [
+        33
+      ],
+      "module_id": "reanimation",
+      "chunks": [
+        {
+          "chunk_id": "section_110_c01",
+          "text": "- Un polytraumatisé est considéré comme ayant un traumatisme du rachis jusqu’à",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 33,
+          "page_end": 33,
+          "token_count": 19
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "module_id": "infectio",
+  "title": "Module Infectio",
+  "sections": [
+    {
+      "section_id": "section_08",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 7",
+      "pages": [
+        7,
+        8
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_08_c01",
+          "text": "Le cœur peut ainsi se contracter afin de faire circuler le sang.\nOn notera deux phases dans le cycle cardiaque la systole et la diastole.\nLa systole ventriculaire se déroule en 2 temps : la contraction isovolumétrique et l’éjection\nLa diastole se déroule aussi en 2 temps : la phase de relaxation isométrique et la phase de",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 7,
+          "page_end": 8,
+          "token_count": 80
+        }
+      ]
+    },
+    {
+      "section_id": "section_09",
+      "title": "remplissage ventriculaire",
+      "pages": [
+        8
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_09_c01",
+          "text": "Pour être plus précis, le sang arrive dans les oreillettes gauche et droite respectivement par\nles veines pulmonaires et la veine cave. Il y a un remplissage passif des ventricules puis\nactif par contraction des oreillettes.\nLes valves mitrale (cœur gauche) et tricuspide (cœur droit) se ferment et les ventricules se\ncontractent pour éjecter le sang respectivement dans l’aorte et l’artère pulmonaire.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 8,
+          "page_end": 8,
+          "token_count": 100
+        }
+      ]
+    },
+    {
+      "section_id": "section_13",
+      "title": "vasoconstricteurs",
+      "pages": [
+        10
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_13_c01",
+          "text": "L’organisme peut à lui seul réguler la PA grâce à différentes mécaniques.\nRégulation de pression artérielle à court terme :\n- Par les barorécepteurs situés au niveau du sinus carotidien, de la crosse aortique\net de l’oreillette droite du cœur.\n- Par les chémorécepteurs centraux situés sur la face antérieure du bulbe cérébral\n(sensible au changement de PH) et les chémorécepteurs périphériques situés au\nniveau du sinus carotidien, de la crosse aortique.\nRégulation de la pression artérielle à moyen terme :\n- La régulation de catécholamine endogène par les surrénales\n- Le facteur natrial natriurétique\nRégulation de la pression artérielle à long terme :\n- Par le système-rénine angiotensine aldostérone\n- Par l’hormone antidiurétique (ADH)\nPlus spécifiquement, on retrouve également au niveau de l’oreillette droite les volorécepteurs\nqui sont sensibles à la volémie.\nLa notion de PAM (pression artérielle moyenne) est à connaître. C’est la pression qui\ns’exerce en permanence sur les parois vasculaires, sa norme est de 75 mmHg à 95 mmHg.\nPour mieux comprendre : en dessous de 60 de PAM, il y a un fort risque d’avoir des\nrépercussions sur les reins et le cerveau, ce sont les premiers organes touchés.\nGrâce à tout cela, l’organisme est alimenté en sang et donc en oxygène.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 10,
+          "page_end": 10,
+          "token_count": 319
+        }
+      ]
+    },
+    {
+      "section_id": "section_24",
+      "title": "La respiration permet la transformation du sang pauvre en dioxygène et riche en dioxyde de",
+      "pages": [
+        14
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_24_c01",
+          "text": "carbone en sang réoxygéné. Elle permet aussi l’oxygénation des organes.\nElle se fait au niveau des poumons et plus précisément des bronches en 4 étapes :\n- La ventilation\n- La diffusion alvéolo-capillaire\n- La convection sanguine\n- La diffusion tissulaire\nElle se fait en deux temps l’inspiration et l’expiration :\n- À l’inspiration, l’air entre dans les poumons grâce aux différences de pressions entre\nl’atmosphère qui est de 0 cm H2O et la pression transpulmonaire qui est d’environ - 5 cm\nH2O. L’air va de la pression la plus haute à la plus basse.\n- L’expiration est passive en respiration normale. Elle est possible grâce aux propriétés\nélastiques des poumons et de la cage thoracique.\nPour résumer, on inspire, l’air se déplace selon les gradients de pression et va donc de la\npression la plus haute à la plus basse. La cage thoracique et les poumons se déploient.\nL’expiration qui est passive au repos, elle se fait par le retour à la normale des poumons et\nde la cage thoracique.\nCertains muscles sont mis en jeu lors de l’inspiration et expiration.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 14,
+          "page_end": 14,
+          "token_count": 264
+        }
+      ]
+    },
+    {
+      "section_id": "section_36",
+      "title": "LA COURBE DE BARCROFT",
+      "pages": [
+        18
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_36_c01",
+          "text": "La courbe de Barcroft ou courbe de dissociation de l’oxyhémoglobine représente la libération\nde l’oxygène par l’hémoglobine en fonction de la pression partielle de l’oxygène dans le\nUn point important de cette courbe est la P50. C’est la pression partielle en oxygène\nnécessaire pour avoir une hémoglobine saturée à 50 %.\nLa valeur de la P50 à l’état physiologique est de 27 mmHg, cette valeur peut changer en\nfonction de certains paramètres.\nLa courbe (et donc la P50) se déplace vers la droite quand il y a :\nElle démontre également qu’à une certaine PpO2 la saturation en oxygène ne monte plus.\nLa courbe forme un plateau.\nPour mieux comprendre : il y a 21 % de fiO2 dans l’air que nous respirons tous les\njours, cet apport pour un individu sain en situation normale suffit à avoir une saturation\nen oxygène à 100 %.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 18,
+          "page_end": 18,
+          "token_count": 204
+        }
+      ]
+    },
+    {
+      "section_id": "section_44",
+      "title": "Le rein a un rôle fondamental dans la régulation de la pression artérielle via son système",
+      "pages": [
+        22
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_44_c01",
+          "text": "rénine angiotensine aldostérone.\nLa rénine est une enzyme qui est synthétisée dans l’appareil juxtaglomérulaire en réponse\n- Baisse de la pression de perfusion au niveau de l’artère rénale\nElle a un rôle de catalyseur puisqu’elle va permettre la transformation de l’angiotensinogène\n(qui est synthétisée dans le foie) en angiotensine I. Grâce à l’enzyme de conversion,\nl’angiotensine I va se transformer en angiotensine II.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 22,
+          "page_end": 22,
+          "token_count": 105
+        }
+      ]
+    },
+    {
+      "section_id": "section_45",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 22",
+      "pages": [
+        22,
+        23
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_45_c01",
+          "text": "C’est l’angiotensine II qui a le rôle majeur de la régulation de la pression artérielle puisqu’il\n- Une stimulation de la sécrétion d’aldostérone par les surrénales\n- La stimulation de la sécrétion de vasopressine\n- Une vasoconstriction des artérioles\n- Stimulation de la sensation de soif\nL’angiotensine II stimule également son autorégulation. La sécrétion d’angiotensine émet\nun rétrocontrôle sur la sécrétion de rénine, ce qui revient à s’autoréguler.\nL’aldostérone agit au niveau du tube contourné distal et du tube collecteur en permettant la\nréabsorption de sodium et donc indirectement d’eau contre la sécrétion de potassium.\nL’aldostérone réagit également en cas de baisse de concentration osmolaire de sodium\net d’augmentation de potassium. Elle réabsorbe le sodium en laissant fuir le potassium ou\nPour mieux comprendre : concrètement, vous êtes en hyponatrémie, de l’aldostérone\nva être sécrétée pour en réabsorber en échange de potassium.\nLa vasopressine, qui est une hormone antidiurétique (ADH) va agir au niveau du tube\ncontourné distal et collecteur en les rendant perméables, l’eau va donc être retenue. Ce qui\na pour conséquence une baisse de la diurèse.\nPour mieux comprendre : pour briller en société sachez que la bière inhibe la sécrétion\nd’ADH, c’est la raison pour laquelle la bière donne tant envie d’uriner !",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 22,
+          "page_end": 23,
+          "token_count": 333
+        }
+      ]
+    },
+    {
+      "section_id": "section_46",
+      "title": "RÔLE DES SURRÉNALES",
+      "pages": [
+        23
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_46_c01",
+          "text": "Chaque surrénale est constituée de deux parties, la corticosurrénale et la médullosurrénale.\nLa corticosurrénale produit :\n- Les glucocorticoïdes (le cortisol) qui ont une action hyperglycémiante grâce à\nla néoglucogenèse, réduisent certaines réponses du système immunitaire et régulent\nle métabolisme des lipides, protéines et glucides.\n- Les minéralocorticoïdes (l’aldostérone)\nLa médullosurrénale synthétise l’adrénaline et la noradrénaline.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 23,
+          "page_end": 23,
+          "token_count": 111
+        }
+      ]
+    },
+    {
+      "section_id": "section_52",
+      "title": "HYPERHYDRATATION EXTRACELLULAIRE",
+      "pages": [
+        25
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_52_c01",
+          "text": "Augmentation du volume d’eau dans le secteur extracellulaire qui se traduit par une rétention\nLes causes les plus fréquentes sont :\n- L’insuffisance cardiaque\n- La cirrhose ascitique\n- Le syndrome néphrotique (affection rénale)\nLes signes sont :\n- Œdèmes généralisés\n- Épanchement des séreuses : péricardique, pleural, péritonéal (ascite)\n- Œdèmes aigus du poumon\n- Élévation de la pression artérielle\n- Prise de poids",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 25,
+          "page_end": 25,
+          "token_count": 104
+        }
+      ]
+    },
+    {
+      "section_id": "section_66",
+      "title": "et au niveau des épithéliums",
+      "pages": [
+        29
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_66_c01",
+          "text": "- Vitamine D : assimilation et fixation sur le squelette du calcium\n- Vitamine E : stockée au niveau hépatique, rôle antioxydant\n- Vitamine K : synthèse de prothrombine et de facteurs de coagulation\nLe foie participe également à la fabrication de l’hémoglobine grâce à ses réserves en fer\n(stocké sous forme de ferritine) et en vitamine B12.\nIl est donc évident qu’une insuffisance hépatique a de multiples répercussions et\nprincipalement sur la coagulation.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 29,
+          "page_end": 29,
+          "token_count": 114
+        }
+      ]
+    },
+    {
+      "section_id": "section_81",
+      "title": "L’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 1 : LES NOTIONS ESSENTIELLES EN PHYSIOLOGIE 35",
+      "pages": [
+        35,
+        36
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_81_c01",
+          "text": "Chez l’adulte elle se termine en L1-L2. Elle un rôle majeur dans la transmission des messages",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 35,
+          "page_end": 36,
+          "token_count": 23
+        }
+      ]
+    },
+    {
+      "section_id": "section_102",
+      "title": "Ils correspondent aux biologiques dont le déséquilibre aggrave le pronostic du traumatisé",
+      "pages": [
+        41
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_102_c01",
+          "text": "crânien. Il est donc nécessaire de les repérer et de les réguler.\nIls sont au nombre de 9 :\n- Hypotension artérielle (pression artérielle systolique < 90mmHg)\n- Hypertension artérielle (pression artérielle systolique > 160mmHg)\n- Hypoxémie (SaO2 < 90 %)\n- Hypercapnie (PaCO2 > 45 mmHg)\n- Hypocapnie (PaCO2 < 26 mmHg)\n- Anémie (Hématocrite < 26 %)\n- Hyperthermie (Température > 38°)\n- Hyperglycémie (Glycémie > 8mmol)\n- Hypoglycémie (Glycémie < 4mmol)",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 41,
+          "page_end": 41,
+          "token_count": 112
+        }
+      ]
+    },
+    {
+      "section_id": "section_106",
+      "title": "Agit sur la corticosurrénale et",
+      "pages": [
+        43
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_106_c01",
+          "text": "ACTH (hormone concentration de cortisol dans",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 43,
+          "page_end": 43,
+          "token_count": 11
+        }
+      ]
+    },
+    {
+      "section_id": "section_116",
+      "title": "Elle est régulée par",
+      "pages": [
+        44
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_116_c01",
+          "text": "l’hypothalamus en réponse\nRéabsorbe l’eau au niveau\nADH (l’hormone à l’élévation de la pression",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 44,
+          "page_end": 44,
+          "token_count": 23
+        }
+      ]
+    },
+    {
+      "section_id": "section_131",
+      "title": "Pression intragastrique Augmentée",
+      "pages": [
+        47
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_131_c01",
+          "text": "L’augmentation de la pression intra gastrique augmente le risque de reflux gastro-\nLe ralentissement du transit entraîne un risque de constipation accru chez la femme enceinte.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 47,
+          "page_end": 47,
+          "token_count": 44
+        }
+      ]
+    },
+    {
+      "section_id": "section_146",
+      "title": "LES BÊTABLOQUANTS",
+      "pages": [
+        52
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_146_c01",
+          "text": "Ils ont un effet chronotrope, dromotrope et inotrope négatif.\nIls ont plusieurs indications comme l’HTA, les pathologies coronariennes ou l’insuffisance\nContre-indications :\n- Hypersensibilité aux produits\n- Asthme ou état de mal asthmatique\n- BPCO sévère ou déséquilibrée\n- Insuffisance cardiaque non contrôlée\n- Choc cardiogénique\n- Précautions chez le diabétique : risque d’hyperglycémie\nExemples que de bêtabloquants :\n- Atenolol, Acébutolol, Bisoprolol\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 52",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 52,
+          "page_end": 52,
+          "token_count": 140
+        }
+      ]
+    },
+    {
+      "section_id": "section_154",
+      "title": "Ils sont indiqués dans la prévention et le traitement des accidents ischémiques artériel",
+      "pages": [
+        55,
+        56
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_154_c01",
+          "text": "comme les infarctus ou les AVC.\nParmi les plus connus, il y a le kardegic® et le plavix®. Il n’existe pas de surveillance\nspécifique pour ces médicaments, il faudra éventuellement surveiller l’apparition d’une\nthrombopénie ou d’une neutropénie, ainsi que l’apparition de saignements.\nLes antalgiques sont divisés en 3 paliers de puissances et en deux grands groupes, les\nantalgiques non opiacés et les antalgiques opiacés.\n• Le paracétamol\nIl est métabolisé par le foie en métabolites inactifs.\nIl a une indication très large et possède une action centrale. Il peut être couplé au profenid\net à l’acupan pour potentialiser ses effets.\nLes AINS ont une action majoritairement périphérique.\nIls ont différents effets :\n- Effet antalgique\n- Effet anti-inflammatoire\n- Effet antipyrétique\n- L’effet antiagrégant plaquettaire\nIls ont également beaucoup de contre-indications majeures :\n- L’allergie aux AINS\n- L’insuffisance rénale\n- Toutes infections générales ou locales\n- Troubles de la coagulation ou saignement important\n- Ulcère gastrique évolutif\n- Chez la femme enceinte\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 55\n\nIl a une action centrale et il est éliminé par les reins sous forme de métabolites actifs.\nContre-indications :\n- Contre-indiqué chez l’enfant\n- Réduction de doses chez l’insuffisant hépatique\n- Glaucome à angle fermé\n- Trouble urétéro-prostatique",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 55,
+          "page_end": 56,
+          "token_count": 356
+        }
+      ]
+    },
+    {
+      "section_id": "section_155",
+      "title": "Effets indésirables",
+      "pages": [
+        56
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_155_c01",
+          "text": "- Nausées, vomissements\nLa métabolisation du tramadol est hépatique et l’élimination rénale.\nContre-indications :\n- Intoxication aux dépresseurs du SNC\n- Insuffisance respiratoire sévère\n- Insuffisance hépatique sévère\n- Épilepsie non contrôlée par le traitement\nEffets indésirables :\n- Dépression respiratoire possible\n- Convulsions (surtout chez sujet prédisposé)\n- Dépendance, toxicomanie\n- Vertige, nausée, vomissements, prurit céphalée, constipation\nLa métabolisation de la codéine est hépatique (transformation partielle en morphine) et\nl’élimination rénale.\nContre-indications :\n- Insuffisance hépatique\n- Asthme, insuffisance respiratoire\n- Personne connue comme étant métaboliseur ultrarapide\n- Enfant de moins de 12 ans\nEffets indésirables :\n- Risque de dépendance et de syndrome de sevrage\nIls se fixent sur les récepteurs mu (en majorité), delta et kappa. Ils ont une action antalgique\nContre-indications :\n- Insuffisance respiratoire\n- Insuffisance hépatique\n- Épilepsie non contrôlée\n- En cas d’allaitement\nEffets secondaires :\n- Les nausées et les vomissements\n- Dépression respiratoire, bradypnée\n- Rétention urinaire\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 56",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 56,
+          "page_end": 56,
+          "token_count": 309
+        }
+      ]
+    },
+    {
+      "section_id": "section_159",
+      "title": "Vaisseaux Vasoconstriction",
+      "pages": [
+        57,
+        58
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_159_c01",
+          "text": "Pancréas Baisse de sécrétion de l’insuline\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 57\n\nRécepteurs β 1 :",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 57,
+          "page_end": 58,
+          "token_count": 41
+        }
+      ]
+    },
+    {
+      "section_id": "section_165",
+      "title": "LES CRISTALLOÏDES",
+      "pages": [
+        59
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_165_c01",
+          "text": "Les cristalloïdes sont des solutions à particules ioniques, sans macromolécules. Ils ont un\npouvoir d’expansion volémique faible.\nLe plasma étant la référence il est dit isotonique. Sachant cela, on peut classer les solutés\nen différentes catégories :\n- Solutés hypotoniques (plus dilué que le plasma)\n- Solutés isotoniques (même tonicité que le plasma)\n- Solutés hypertoniques (plus concentré que le plasma)\nPour simplifier, la tonicité d’un soluté dépend de sa concentration en sel par rapport au",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 59,
+          "page_end": 59,
+          "token_count": 124
+        }
+      ]
+    },
+    {
+      "section_id": "section_172",
+      "title": "IONOGRAMME SANGUIN",
+      "pages": [
+        61
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_172_c01",
+          "text": "Sodium 135 à 145 mmol/l\nPotassium 3,5 à 5 mmol\nChlore 95 à 105 mmol/l\nBicarbonates 22 à 30 mmol\nCalcium 2,25 à 2,5 mmol\nGlucose 3,6 à 5,5 mmol/l ou 0,8 à 1 g/l\nUrée 2,5 à 7,5 mmol/l\nCréatinine 50 à 115 µmol/l\nFer 10 à 30 µmol\nProtéines totales 65 à 75 g/l\nMagnésium 0,75 à 1 mmol/l",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 61,
+          "page_end": 61,
+          "token_count": 70
+        }
+      ]
+    },
+    {
+      "section_id": "section_173",
+      "title": "IONOGRAMME URINAIRE",
+      "pages": [
+        61,
+        62
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_173_c01",
+          "text": "Sodium 100 à 300 mmol/24 h\nPotassium 50 à 100 mmol/24 h\nChlore 80 à 270 mmol/24 h\nUrée 335 à 500 mmol/24 h\nCréatinine 10 à 22 mmol/24 h\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 61\n\nHDL 0,85 à 2,15 mmol/l\nBilirubine libre < 2 µmol/l\nBilirubine conjuguée < 5 µmol/l\nBilirubine totale < 17 µmol/l\nGamma GT 21 à 58 U/l",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 61,
+          "page_end": 62,
+          "token_count": 93
+        }
+      ]
+    },
+    {
+      "section_id": "section_175",
+      "title": "CALCULS DE DOSES",
+      "pages": [
+        63,
+        64
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_175_c01",
+          "text": "Comme dit en introduction, il y a TOUJOURS un calcul de dose à faire. Néanmoins en\nconnaissant les exercices types, il est facile de gagner ces points.\nNous allons donc énoncer et corriger ces fameux calculs.\nCalcul de xylocaïne : on dispose d’ampoules de 20 ml à 2 %. Combien prenez-vous de ml\nde xylocaïne pour 400 mg ?\nVous passez en seringue électrique, 400 mg sur 10 H. Calculez le débit par heure ?\nUne ampoule à 2 % signifie qu’on a 2 g pour 100 ml.\nDans le cas présent, on a des ampoules de 20 ml, pour passer de 100 à 20 on divise par\n5, il en va de même pour la concentration en xylo, 2 divisé par 5 donne 0,4 g soit 400 mg.\nDans le cas présent, c’est simple pour 400 mg de xylo il faut l’ampoule de 20 ml.\nPour la deuxième question on doit passer 400 mg, soit 20 ml sur 10 h.\nDans le cas présent c’est très simple, puisque la vitesse des pousses seringues est en ml/h\net qu’on 20 ml sur 10 h, cela revient à dire qu’on veut 2 ml par heure.\nOn a juste divisé la concentration et vitesse pas 10.\nPour mieux comprendre : lorsque l’on parle d’un médicament à 10 %, 20 % ou même\n500 %, on traduit toujours cela en gramme par 100 ml.\nUne solution à 10 % de magnésium contient 10 g de magnésium dans 100 ml.\nUn NaCl à 0,9 % contient 0,9 g de NaCl dans 100 ml.\nUn Glucose à 2,5 % contient 2,5 g de glucose dans 100 ml.\nUn patient reçoit par 24 h : 1L de lipides à 20 % + 1L de protides à 5 % + 1L de glucose à\n10 % + 500 mL de glucose à 30 %.\nQuelle est la quantité en grammes de lipides, protides et de glucides reçus ?\nCalculez l’apport calorique total pour 24 h.\nAvant de poser le calcul, il faut comprendre ce qu’on cherche étape par étape.\nTout d’abord, il faut traduire les pourcentages en gramme puis en milligramme.\n- 20 % de lipides signifie qu’il y a 20 g dans 100 ml. Pour 1L, on a donc 200 g.\n- 5 % de protides signifie qu’il y a 5 g dans 100 ml. Pour 1L, on a donc 50 g.\n- 10 % de glucose signifie qu’il y a 10 g dans 100 ml. Pour 1L, on a 100 g.\n- 30% de glucose signifie qu’il y a 30 g dans 100 ml. Pour 500 ml on a 150g.\nNous avons donc répondu à la première partie de la question.\nPour répondre à la seconde, il nous faut connaître une information qui n’est pas dans\nl’énoncé. Il faut savoir combien de calories font 1 g de lipide, 1 g de protide et 1 g de glucose.\n- 1 g de glucides apporte 4 kcal\n- 1 g de protides apporte 4 kcal\n- 1 g de lipides apporte 9 kcal\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 63\n\nSachant cela il ne reste plus qu’à calculer.\nPour les 1 L de glucides : 1g = 4 kcal 100g = ? = 400 kcal\n\nPour les 500 ml de glucides : 1g = 4 kcal 150g= ? = 600 kcal\n\nPour les protides : 1g = 4 kcal 50g = ? = 200 kcal\n\nPour les lipides : 1g = 9 kcal 200g = ? = 1800 kcal\n\nAu total 1800 + 200 + 400 + 600 = 3000 kcal. Notre patient aura donc eu 3000 kcal sur 24 h.\nPour mieux comprendre : lorsque ce calcul est présent au concours, on a rarement la\nconversion des protides, lipides et glucides des grammes en kcal. Il est donc impératif\nde les connaître.\n- 1 g de glucides apporte 4 kcal\n- 1 g de protides apporte 4 kcal\n- 1 g de lipides apporte 9 kcal",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 63,
+          "page_end": 64,
+          "token_count": 785
+        }
+      ]
+    },
+    {
+      "section_id": "section_176",
+      "title": "LA BOUTEILLE D’OXYGÈNE",
+      "pages": [
+        64,
+        65
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_176_c01",
+          "text": "Vous devez transférer pour un autre secteur un patient sous O2 à un débit de 4 l/min. L’obus\nde transport d’un volume de 5L indique une pression de 130 bars.\nDe quel temps théorique en minutes disposez-vous pour permettre le transport ?\nÀ quelle loi fait appel ce calcul ?\nPour calculer le volume disponible dans une bouteille d’O2, on multiplie le volume de la\nbouteille par la pression. Ici on a 5 x 130 = 650L d’O2.\nDe manière générale on considère qu’on prend une sécurité de 10 %, ici on enlève donc\n10 % à notre total pour avoir notre volume « sur ».\n10 % de 650 donne : = 65L\n\nOn enlève donc ces 10 % au total. 650 - 65 = 585L\nIci le patient a un débit de 4L/min donc on se demande donc combien de fois il y a 4L dans 585 L.\n\nsoit = 146,25 qu’on arrondit à 146 min.\n\nCette loi se nomme la loi de Boyle Mariotte.\nPour mieux comprendre : faire un pourcentage d’un nombre revient à faire le fameux\nproduit en croix.\nIci on voulait savoir ce que faisait 10 % de 650, on peut donc poser :\nCe qui donne x =\n\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 64\n\nVous disposez d’ampoule de 250 mg/20 ml de dobutamine à diluer dans du sérum\nphysiologique dans une seringue de 50 ml. La dose prescrite est de 10 gamma/kg/min pour\nun patient de 80 kg. Quel est le débit en ml/h du PSE ?\nTout d’abord, il ne faut pas oublier que nous allons utiliser une seringue de 50 et non de 20,\non se retrouve donc avec la même quantité de dobutamine (puisqu’on ne rajoute que du\nsérum physiologique) soit 250 mg/50 ml.\n\nSoit = 5, on a donc 5 mg/ml.\n\nEnsuite, on doit calculer la dose que doit recevoir le patient selon son poids, on veut du\n10gamma/kg/min pour un patient de 80 kg. On fait donc 10×80 = 800gamma.\n800gamma fait 0,8 mg.\nOn veut 0,8 mg/min, soit pour une heure 0,8×60 = 48 mg/h.\nNous avons calculé précédemment que nous avons 5 mg/ml, nous voulons savoir combien\nde fois 5 font 48.\n\n(mathématiquement cela s’écrit x ×5 = 48 soit x = = 9,6)\n\nLa vitesse sera donc de 9,6 ml/h\nPour mieux comprendre : pour ne pas se tromper dans ces calculs :\n- Il faut bien résoudre les demandes de l’énoncé dans l’ordre\n- Il ne faut surtout pas se tromper d’unité, que ce soit pendant les produits en\ncroix ou autre. C’est l’erreur bête qui peut facilement être évitée, notez tout !\n- Prendre son temps, se relire et voir si le résultat est cohérent\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 65",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 64,
+          "page_end": 65,
+          "token_count": 621
+        }
+      ]
+    },
+    {
+      "section_id": "section_178",
+      "title": "Volume Nombre de gouttes",
+      "pages": [
+        66
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_178_c01",
+          "text": "Solution aqueuse 1 ml 20 gouttes\nSang 1 ml 15 gouttes\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 66",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 66,
+          "page_end": 66,
+          "token_count": 39
+        }
+      ]
+    },
+    {
+      "section_id": "section_181",
+      "title": "Groupes Antigène Anticorps",
+      "pages": [
+        67
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_181_c01",
+          "text": "O / Anti A et Anti B\nSur le test ultime on teste la présence d’Antigène, ainsi l’agglutination nous révèle ou\nconfirme le groupe sanguin du patient.\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 67",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 67,
+          "page_end": 67,
+          "token_count": 63
+        }
+      ]
+    },
+    {
+      "section_id": "section_194",
+      "title": "médicaux réutilisables",
+      "pages": [
+        73,
+        74
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_194_c01",
+          "text": "- Entretien d’accueil\nL’ESSENTIEL POUR RÉUSSIR L’ÉPREUVE ÉCRITE - PARTIE 2 : PHARMACOLOGIE : DES GÉNÉRALITÉS AUX PRÉCISIONS 73\n\nVous êtes arrivé au bout de cet ouvrage.\nSachez que vous venez d’apprendre une très grosse partie de ce qui est\nnécessaire de savoir pour réussir l’épreuve écrite.",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 73,
+          "page_end": 74,
+          "token_count": 72
+        }
+      ]
+    },
+    {
+      "section_id": "section_02",
+      "title": "ANNALES CORRIGÉS DE L’ÉPREUVE ÉCRITE VOLUME 2 - PREPACONCOURSIADE.COM 1",
+      "pages": [
+        1,
+        2
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_02_c01",
+          "text": "Pour réussir n’importe quel examen, il faut de l’entraînement et pour s’entraîner\nil faut des supports !\nLes annales corrigés sont rares et difficiles à trouver, j’ai donc décidé de créer un\nouvrage qui vous sera de la plus grande aide pour passer cette épreuve écrite.\nVous aurez ici 60 questions d’annales entièrement corrigées afin que vous\npuissiez faire le point et savoir où vous en êtes.\nJ’ai sélectionné les questions sur les thèmes qui sont les plus récurrents.\nJ’y également ajouté des questions plus rares et difficiles afin de vous entraîner\nPour progresser, je vous conseille non seulement de traiter toutes les questions\nmais aussi de faire des recherches personnelles lorsque vous bloquez sur l’une\nL’idée c’est de traiter le plus grand nombre de questions avant de passer l’examen\net évidemment d’espérer tomber dessus le jour J.\nAlors n’hésitez pas à bien en faire le tour afin d’avoir bien toutes les réponses en\nÀ vous de jouer maintenant !",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 1,
+          "page_end": 2,
+          "token_count": 239
+        }
+      ]
+    },
+    {
+      "section_id": "section_06",
+      "title": "8 Vous accueillez Mr A victime d’un AVP, il présente une fracture du fémur fermée,",
+      "pages": [
+        4
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_06_c01",
+          "text": "sa pression artérielle est de 87/43 et son pouls de 130. Selon vous, qu’est-ce qui\npourrait expliquer cette tachycardie ?\nDonnez 2 hypothèses possibles et argumentez-les.\nLe médecin vous propose de remplacer son Ringer par un Voluven.\nExpliquer sa demande.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 4,
+          "page_end": 4,
+          "token_count": 64
+        }
+      ]
+    },
+    {
+      "section_id": "section_17",
+      "title": "3 Réalisation d’un gaz du sang :",
+      "pages": [
+        7
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_17_c01",
+          "text": "- Vérifier l’identité du patient et la prescription médicale\n- Vérifier l’absence de contre-indication\n- Vérifier le consentement du patient\n- Relever et noter la température et l’apport en oxygène du patient\n- Utilisation d’un patch d’emla (1h30 avant le geste) si possible\n- Se laver les mains à l’eau et au savon ou avec un gel hydro-alcoolique antiseptique\n- Le prélèvement se fait avec des gants non stériles\n- Repérer l’artère\n- Rechercher les contre-indications locales (lésion cutanée, infection, atteinte\nartérielle, fistule)\n- Réalisation du test d’allen\n- Détersion du point de ponction avec un antiseptique (en 4 temps)\n- Piquer avec un angle de 30° à 45°\n- Prélever de 1.5 à 3 ml de sang avec la seringue à gaz du sang\n- Retirer l’aiguille puis effectuer une compression pendant 5 min (et jusqu’à l’arrêt\ndu saignement) ou comprimer 10 min si traitement antiagrégant ou anticoagulant.\nFaire un pansement compressif.\n- Si le patient le peut, lui expliquer de signaler l’apparition de signes anormaux à\ntype de douleur, d’hématome, de saignements ou de fourmillements dans la main.\nPCO2 38 à 42 mmHg\nPO2 80 à 100 mmHg\nBicarbonates 22 à 26 mmol/l\nCO2 25 à 27 mmol/l",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 7,
+          "page_end": 7,
+          "token_count": 293
+        }
+      ]
+    },
+    {
+      "section_id": "section_24",
+      "title": "sait réaliser les insufflations ou si on est seul",
+      "pages": [
+        9
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_24_c01",
+          "text": "- Ne pas arrêter les compressions et se remplacer toutes les 2 min si possible pour garder\nl’efficacité des compressions",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 9,
+          "page_end": 9,
+          "token_count": 30
+        }
+      ]
+    },
+    {
+      "section_id": "section_37",
+      "title": "Hypothermie Tamponnade",
+      "pages": [
+        12,
+        13
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_37_c01",
+          "text": "Hypo-hyperkaliémie Toxique\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 1122\n\nQUESTIONS DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 12,
+          "page_end": 13,
+          "token_count": 46
+        }
+      ]
+    },
+    {
+      "section_id": "section_52",
+      "title": "21 Voici 4 familles d’antihypertenseurs et un exemple pour chacun d’eux :",
+      "pages": [
+        17,
+        18
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_52_c01",
+          "text": "- Les diurétiques : Aldactone\n- Les bêtabloquants : Aténolol\n- Les inhibiteurs calciques : Amlor\n- Les inhibiteurs de l’enzyme de conversions : Coversyl\n\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 1177\n\nRÉPONSES DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 17,
+          "page_end": 18,
+          "token_count": 77
+        }
+      ]
+    },
+    {
+      "section_id": "section_61",
+      "title": "Nicardipine Inhibiteur des canaux calciques",
+      "pages": [
+        22
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_61_c01",
+          "text": "Céfazoline Antibiotique (beta lactamine)",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 22,
+          "page_end": 22,
+          "token_count": 10
+        }
+      ]
+    },
+    {
+      "section_id": "section_67",
+      "title": "artère interventriculaire",
+      "pages": [
+        22,
+        23
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_67_c01",
+          "text": "Elles perfusent le coeur au moment de la diastole.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 2222\n\nRÉPONSES DE 21 À 40",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 22,
+          "page_end": 23,
+          "token_count": 51
+        }
+      ]
+    },
+    {
+      "section_id": "section_73",
+      "title": "40 Mesures à mettre en place pour un isolement gouttelettes",
+      "pages": [
+        24,
+        25
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_73_c01",
+          "text": "- Friction avec la solution hydroalcoolique des mains\n- Port du masque chirurgical\n- Port d’un tablier\n- Chambre en isolement\n- Limiter les déplacements du patient\n- Faire porter un masque chirurgical au patient.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 2244\n\nQUESTIONS DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 24,
+          "page_end": 25,
+          "token_count": 92
+        }
+      ]
+    },
+    {
+      "section_id": "section_74",
+      "title": "42 Madame B. rentre pour pneumopathie dans votre service. Aujourd’hui vous débutez",
+      "pages": [
+        25
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_74_c01",
+          "text": "les antibiotiques. Quinze minutes après Mme B. se plaint de sensation de chaleur,\nde dysphonie et vous dit qu’elle n’arrête pas de se gratter au niveau du torse. Elle\nvous montre en effet un rash cutané.\nÀ quoi pensez-vous ?\nQue faites-vous ? Détaillez votre prise en charge.\nQue redoutez-vous ?\nLa patiente se stabilise et évolue favorablement, que lui conseillez-vous par la suite?",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 25,
+          "page_end": 25,
+          "token_count": 95
+        }
+      ]
+    },
+    {
+      "section_id": "section_76",
+      "title": "43 Donnez en mililitre la quantité approximative que peut saigner :",
+      "pages": [
+        26
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_76_c01",
+          "text": "- Une fracture de l’avant-bras\n- Une fracture du fémur\n- Une fracture du bassin\n- Une rupture de la rate\n- Une lésion du foie",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 31
+        }
+      ]
+    },
+    {
+      "section_id": "section_80",
+      "title": "47 Vous vous occupez d’un patient sortant de votre service de chirurgie dans la journée.",
+      "pages": [
+        26
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_80_c01",
+          "text": "Au moment vous allez le voir en chambre pour lui remettre ses papiers de sortie, le\npatient est assis et a des difficultés à articuler. Il ne semble pas pouvoir bouger son\nbras droit. Que suspectez-vous ?\nDonnez-en une définition.\nLe médecin vous dit n’être disponible que dans 10 minutes, expliquez votre prise en\ncharge immédiate par votre rôle propre ou sur protocole.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 26,
+          "page_end": 26,
+          "token_count": 92
+        }
+      ]
+    },
+    {
+      "section_id": "section_101",
+      "title": "42 Au vu des signes présents et du faible temps qui s’est écoulé depuis la pose de",
+      "pages": [
+        30,
+        31
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_101_c01",
+          "text": "l’antibiotique on pourrait en premier lieu penser à une réaction allergique.\nPrise en charge :\n- Il faut immédiatement alerter le médecin et prévenir une collègue de rapprocher de\nquoi prendre les paramètres vitaux ainsi que le chariot d’urgence.\n- Prise rapprocher de la pression artérielle, le pouls et la saturation en O2\n- Mettre la patiente sous O2 6L\n- Pose d’une voie veineuse (deux si aggravation) efficace avec remplissage vasculaire\n- Rechercher d’éventuels signes d’aggravations (instabilité hémodynamique,\nbronchospasmes, oedèmes au niveau de la sphère ORL, troubles respiratoires,\napparition d’une cyanose et de marbrures)\n- Doser les tryptases entre 30 minutes et 2 heures après l’apparition des premiers\nsymptômes puis un deuxième dosage 24 heures après\nDans la situation actuelle, nous redoutons une aggravation vers un choc anaphylactique.\nIl serait important pour la patiente d’effectuer un test cutané 4 à 6 semaines après la\nréaction, afin de déterminer l’origine de cette probable anaphylaxie.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3300\n\nRÉPONSES DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 30,
+          "page_end": 31,
+          "token_count": 292
+        }
+      ]
+    },
+    {
+      "section_id": "section_102",
+      "title": "43 Les fractures suivantes peuvent saigner environ :",
+      "pages": [
+        31
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_102_c01",
+          "text": "- une fracture de l’avant-bras : 50 ml à 400 ml\n- une fracture du fémur : 300 ml à 2000 ml\n- une fracture du bassin : 500 ml à 5000 ml\n- une rupture de la rate : 1500 ml à 2000 ml\n- une lésion du foie : 1500 ml à 2000 ml",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 31,
+          "page_end": 31,
+          "token_count": 55
+        }
+      ]
+    },
+    {
+      "section_id": "section_105",
+      "title": "46 À partir du moment où j’ai déterminé que l’enfant était en arrêt cardio-respiratoire",
+      "pages": [
+        31,
+        32
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_105_c01",
+          "text": "l’algorithme est le suivant :\n- 5 insufflations initiale\n- Si possible, déterminer la cause de l’arrêt cardio-respiratoire\n(au cas où c’est une cause réversible)\n- Débuter les compressions thoraciques avec la ventilation en respectant l’algorithme\nsuivant : 30 / 2 s’il n’y a qu’un secouriste, ou 15 / 5 s’il y a deux secouristes\n- Le rythme doit être de 100 à 120/min (en effectuant les pressions à une ou deux\nmains sur la partie inférieure du sternum)\n- Minimiser au maximum toute interruption\n- Pose du défibrillateur\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3311\n\nRÉPONSES DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 31,
+          "page_end": 32,
+          "token_count": 169
+        }
+      ]
+    },
+    {
+      "section_id": "section_119",
+      "title": "57 Globule blanc 15 000 / mm3 augmenté",
+      "pages": [
+        34,
+        35
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_119_c01",
+          "text": "Lymphocyte 38% normal\nMonocyte 15% augmenté\nPlaquette 178 gigas/L normal\nD-dimères 1,2 mg/ml augmenté\nPo2 (artériel) 60 mmHg diminué\nLactate 5 mmol/L augmenté\nConcernant l’augmentation des globules blancs et des monocytes, une infection\npeut expliquer ces augmentations.\nLa diminution de la Po2 et l’augmentation des lactates, suggère respectivement,\nune hypoxie et une souffrance tissulaire.\nL’augmentation des D-dimères est le résultat de la dégradation de la fibrine. Cela\npourrait évoquer une thrombose veineuse comme une embolie pulmonaire.\nL’augmentation des lactates signe une souffrance tissulaire souvent en corrélation\navec une baisse d’oxygène.\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3344\n\nRÉPONSES DE 41 À 60",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 34,
+          "page_end": 35,
+          "token_count": 203
+        }
+      ]
+    },
+    {
+      "section_id": "section_123",
+      "title": "Pose de dispositifs",
+      "pages": [
+        35,
+        36
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_123_c01",
+          "text": "d’immobilisation\nAANNNNAALLEESS CCOORRRRIIGGÉÉSS DDEE LL’’ÉÉPPRREEUUVVEE ÉÉCCRRIITTEE VVOOLLUUMMEE 22 -- PPRREEPPAACCOONNCCOOUURRSSIIAADDEE..CCOOMM 3355\n\nVous avez une question ou un retour à faire sur cet ebook ?\nN’hésitez pas a me contacter via cet email :\nlaprepaiade@gmail.com\nRejoignez-nous sur le groupe Facebook si vous avez des\nquestions, des éléments que vous n’avez pas compris ou des\npoints que vous souhaitez approfondir.\nSi vous avez l’envie d’échanger et partager vos connaissances,\nvous êtes les bienvenues !\nwww.facebook.com/La-Prépa-Concours-IADE\nVous vous posez des questions sur le concours ?\nLe financement ? Les livres à avoir ?\nJ'ai pris le temps de tout détailler et expliquer sur mon site pour\nvous guider au mieux dans cette épreuve, n'hésitez donc pas à\nvenir le parcourir.\nwww.prepaconcoursiade.com\nCe livre est protégé par un copyright, toute reproduction ou revente est absolument interdite\nsous peine de poursuite judiciaire.",
+          "source_pdf": "annalescorrigées-Volume-2.pdf",
+          "page_start": 35,
+          "page_end": 36,
+          "token_count": 238
+        }
+      ]
+    },
+    {
+      "section_id": "section_02",
+      "title": "ANNALES CORRIGÉS DE L’ÉPREUVE ÉCRITE - PREPACONCOURSIADE.COM 1",
+      "pages": [
+        1,
+        2
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_02_c01",
+          "text": "Pour réussir n’importe quel examen, il faut de l’entraînement et pour s’entraîner\nil faut des supports !\nLes annales corrigés sont rares et difficiles à trouver, j’ai donc décidé de créer un\nouvrage qui vous sera de la plus grande aide pour passer cette épreuve écrite.\nVous aurez ici 60 questions d’annales entièrement corrigées afin que vous\npuissiez faire le point et savoir où vous en êtes.\nJ’ai sélectionné les questions sur les thèmes qui sont les plus récurrents.\nJ’y également ajouté des questions plus rares et difficiles afin de vous entraîner\nPour progresser, je vous conseille non seulement de traiter toutes les questions\nmais aussi de faire des recherches personnelles lorsque vous bloquez sur l’une\nL’idée c’est de traiter le plus grand nombre de questions avant de passer l’examen\net évidemment d’espérer tomber dessus le jour J.\nAlors n’hésitez pas à bien en faire le tour afin d’avoir bien toutes les réponses en\nÀ vous de jouer maintenant !",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 1,
+          "page_end": 2,
+          "token_count": 239
+        }
+      ]
+    },
+    {
+      "section_id": "section_14",
+      "title": "2 Fonctions exocrines :",
+      "pages": [
+        6
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_14_c01",
+          "text": "- Maintien de la volémie\n- Élimination des déchets du métabolisme\n- Maintien de l’équilibre acido-basique\n- Maintien de l’équilibre électrolytique\nFonctions endocrines :\n- Régulation de la pression artérielle par la sécrétion de la rénine\n- Sécrétion d’EPO qui régule la production de globules rouges\n- Transforme la vitamine D en sa forme active",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 6,
+          "page_end": 6,
+          "token_count": 86
+        }
+      ]
+    },
+    {
+      "section_id": "section_27",
+      "title": "17 Régulation de la pression artérielle à court terme : régulation par les barorécepteurs",
+      "pages": [
+        10
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_27_c01",
+          "text": "situés au niveau du sinus carotidien, de la crosse aortique et de l’oreillette droite du\nRégulation de la pression artérielle à moyen terme : Le facteur natrial natriurétique.\nRégulation de la pression artérielle à court terme : Par le système-rénine angiotensine\n\n19 4 actions des AINS 4 contre-indications\n- Action antalgique - Allergie aux AINS\n- Action anti-inflammatoire - Ulcère gastrique\n- Antiagrégant plaquettaire - Insuffisance rénale\n- Action antipyrétique - Infection non traitée",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 10,
+          "page_end": 10,
+          "token_count": 122
+        }
+      ]
+    },
+    {
+      "section_id": "section_28",
+      "title": "20 SAMU = Service d’Aide Médicale Urgente",
+      "pages": [
+        10
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_28_c01",
+          "text": "SMUR = Service Mobile d’Urgence et de Réanimation\nCCLIN = Comité de lutte contre les infections nosocomiales\nCLUD = Comité de lutte contre la douleur\nHAS = Haute autorité de santé\nCHSCT = Comité d’hygiène, de sécurité et des conditions de travail\nANSM = Agence nationale de sécurité du médicament et des produits de santé\nDASRI = Déchets d’activités de soins à risque infectieux\nEHPAD = Etablissement d’hébergement pour personnes âgées dépendantes",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 10,
+          "page_end": 10,
+          "token_count": 111
+        }
+      ]
+    },
+    {
+      "section_id": "section_34",
+      "title": "25 Choisissez la ou les bonnes réponses :",
+      "pages": [
+        12
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_34_c01",
+          "text": "- L’adrénaline est une hormone hyperglycémiante\n- Le cortisol est une hormone hypoglycémiante\n- L’insuline est une hormone hyperglycémiante\n- Le glucagon est une hormone hyperglycémiante\n- Les hormones T3 et T4 sont hypoglycémiantes",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 12,
+          "page_end": 12,
+          "token_count": 58
+        }
+      ]
+    },
+    {
+      "section_id": "section_45",
+      "title": "38 Vous devez transférer pour un autre secteur, un patient sous O2 à un débit de 5L/",
+      "pages": [
+        13
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_45_c01",
+          "text": "min. L’obus de transport dispose d’un volume de 5L indique une pression de 150\nDe quel temps théorique en minutes disposez-vous pour permettre le transport ?\nA quelle loi fait appel ce calcul ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 13,
+          "page_end": 13,
+          "token_count": 48
+        }
+      ]
+    },
+    {
+      "section_id": "section_52",
+      "title": "vasculaires FAUX",
+      "pages": [
+        15
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_52_c01",
+          "text": "- Une pression intracrânienne à 5mmHg est normale VRAI\n- L’acétylcholine est le neuromédiateur principal du système parasympathique VRAI\n- La myéline permet d’accélérer la vitesse de conduction nerveuse VRAI",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 15,
+          "page_end": 15,
+          "token_count": 51
+        }
+      ]
+    },
+    {
+      "section_id": "section_80",
+      "title": "41 Le système rénine-angiotensine-aldostérone est une cascade de régulation qui",
+      "pages": [
+        23
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_80_c01",
+          "text": "s’active en cas d’hypotension ou d’hyponatrémie.\nIl y a d’abord une sécrétion de rénine par l’appareil juxtaglomérulaire qui va agir sur\nl’angiotensinogène (produite par le foie) pour produire l’angiotensine.\nCette angiotensine I va être convertie en angiotensine II par l’enzyme de conversion\n(sécrétée par au niveau pulmonaire).\nL’angiotensine II a différents effets :\n- La vasoconstriction\n- La sécrétion d’aldostérone\n- La sécrétion de vasopressine\n- La réabsorption de sodium\n- L’excrétion de potassium",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 23,
+          "page_end": 23,
+          "token_count": 126
+        }
+      ]
+    },
+    {
+      "section_id": "section_82",
+      "title": "43 La pharmacocinétique c’est l’action de l’organisme sur le médicament.",
+      "pages": [
+        23
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_82_c01",
+          "text": "Les quatre phases sont :\n- L’absorption => c’est le passage du médicament dans la circulation générale\n- La distribution => c’est la répartition du médicament dans les différents tissus et\norganes sous forme libre.\n- La métabolisation => transformation du médicament en molécule, en autres\ncomposés actifs ou inactifs. Elle se fait principalement au niveau du foie, mais aussi\nau niveau des reins, des poumons ou des intestins.\n- L’élimination => c’est l’élimination de la molécule de l’organisme. Elle se fait\nprincipalement au niveau hépatique (par les voies biliaires) et rénal, mais aussi par\nvoie pulmonaire.",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 23,
+          "page_end": 23,
+          "token_count": 153
+        }
+      ]
+    },
+    {
+      "section_id": "section_86",
+      "title": "46 Je dis à Mr M. les choses suivantes :",
+      "pages": [
+        24
+      ],
+      "module_id": "infectio",
+      "chunks": [
+        {
+          "chunk_id": "section_86_c01",
+          "text": "- Il ne doit pas prendre de pression artérielle au bras droit\n- Aucun garrot ne doit être posé au bras droit\n- Les ponctions et perfusions ne doivent pas être effectuées au bras droit\n- M. M doit éviter de porter des vêtements trop serrés au niveau des bras\n- Il ne doit pas porter de charges lourde avec son bras droit\n- Il ne doit pas mettre de glace sur la FAV\n- Dans la mesure du possible il doit éviter de dormir du côté droit\nAu niveau des surveillances :\n- Il doit surveiller l’état cutané au niveau de la FAV, l’aspect de la fistule.\n- Lui expliquer l’écoute du thrill\n- Il doit signaler toutes les crampes, paresthésies ou cyanoses au niveau du bras\n- Il doit avoir une hygiène irréprochable au niveau de la FAV",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 24,
+          "page_end": 24,
+          "token_count": 180
+        }
+      ]
+    }
+  ]
+}

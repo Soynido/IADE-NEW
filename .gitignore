@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/*.log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+.temp/
+
+# Large models (téléchargés localement)
+models/
+
+# Données temporaires génération
+logs/generation_*.log
+logs/incremental*.log
+logs/sequential*.log
+logs/phase*.log
+logs/test*.log
+logs/*.json
+
+# Fichiers de test
+scripts/test_*.py
+scripts/generate_incremental.py
+scripts/generate_sequential.py
+
+# Fichiers temporaires documentation
+STATUS_*.md
+MONITORING_*.md
+LAUNCH_*.md
+TEST_*.md
+NEXT_STEPS.md
+BUGS_FIXED.md
+VALIDATION_COHERENCE.md

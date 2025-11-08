@@ -1,0 +1,42 @@
+{
+  "module_id": "pharma_generaux",
+  "title": "Module Pharma Generaux",
+  "sections": [
+    {
+      "section_id": "section_126",
+      "title": "Il y a une augmentation générale de la ventilation maternelle au détriment des réserves",
+      "pages": [
+        46
+      ],
+      "module_id": "pharma_generaux",
+      "chunks": [
+        {
+          "chunk_id": "pharma_generaux_section_126_c01",
+          "text": "respiratoires qui sont dues aux besoins du fœtus.\nAu niveau cardio-vasculaire",
+          "source_pdf": "Prepaconcoursiade-Complet.pdf",
+          "page_start": 46,
+          "page_end": 46,
+          "token_count": 19
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "title": "16 Vous êtes infirmier en salle de réveil et recevez M. M opéré d’une thyroïdectomie.",
+      "pages": [
+        4
+      ],
+      "module_id": "pharma_generaux",
+      "chunks": [
+        {
+          "chunk_id": "pharma_generaux_section_11_c01",
+          "text": "Quels sont les principaux risques encourus ?",
+          "source_pdf": "annalescorrigées-Volume-1.pdf",
+          "page_start": 4,
+          "page_end": 4,
+          "token_count": 11
+        }
+      ]
+    }
+  ]
+}
