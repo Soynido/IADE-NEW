@@ -219,6 +219,12 @@ https://iade-kzl7d9sxw-valentin-galudec-s-projects.vercel.app
 
 ### Production (Vercel)
 
+**v1.2 (Latest)** :
+```
+https://iade-onaukog0x-valentin-galudec-s-projects.vercel.app
+```
+
+**v1.1 (Stable)** :
 ```
 https://iade-kzl7d9sxw-valentin-galudec-s-projects.vercel.app
 ```
