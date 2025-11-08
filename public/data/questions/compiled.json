@@ -27,9 +27,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 7,
+      "page_number": 12,
       "alignment_score": 0.461,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.375,
+      "corrected_automatically": true
     },
     {
       "text": "En quelle durée est-il possible que le processus de dégradation d'un caillot se produise?",
@@ -53,7 +56,9 @@
       "refined": true,
       "page_number": 11,
       "alignment_score": 0.505,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quel est un exemple d'isotonique ?",
@@ -74,9 +79,12 @@
       "biomedical_score": 0.9566,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 24,
+      "page_number": 51,
       "alignment_score": 0.434,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.111,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le pourcentage de renouvellement des plaquettes au sein du sang humain ?",
@@ -98,9 +106,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 74,
+      "page_number": 67,
       "alignment_score": 0.44,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9,
+      "corrected_automatically": true
     },
     {
       "text": "Qu'est-ce qui est physiologiquement anormal chez un sujet sain selon la citation?",
@@ -121,9 +132,12 @@
       "biomedical_score": 0.9198,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 46,
+      "page_number": 17,
       "alignment_score": 0.464,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle est la localisation des récepteurs chimiques centraux?",
@@ -145,9 +159,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 37,
+      "page_number": 19,
       "alignment_score": 0.49,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont les deux rôles du rein?",
@@ -170,7 +187,9 @@
       "mode": "concours",
       "page_number": 21,
       "alignment_score": 0.612,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Où est la majorité de l'eau filtrée réabsorbée de manière passive?",
@@ -193,7 +212,9 @@
       "mode": "concours",
       "page_number": 22,
       "alignment_score": 0.454,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Quel est le pourcentage d'eau du corps contenu dans le secteur plasmatique ?",
@@ -216,7 +237,9 @@
       "mode": "concours",
       "page_number": 24,
       "alignment_score": 0.534,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quel est le signe du pli cutané observé dans une hyponatrémie?",
@@ -237,9 +260,12 @@
       "biomedical_score": 0.9405,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 34,
+      "page_number": 11,
       "alignment_score": 0.432,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.889,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont les signes cliniques possibles d'une hyponatrémie due à une hypo-osmolarité plasmatique et un volume accru de liquide dans le compartiment intracellulaire?",
@@ -263,7 +289,9 @@
       "refined": true,
       "page_number": 25,
       "alignment_score": 0.702,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quelle est la plage normale du pH d'un individu en bon état de santé ?",
@@ -285,9 +313,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 21,
+      "page_number": 9,
       "alignment_score": 0.454,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6,
+      "corrected_automatically": true
     },
     {
       "text": "Combien de temps est nécessaire pour terminer une seringue contenant 50µg/ml de sufentanil et dont le volume total est de 50 ml à une vitesse de 5 ml/h ?",
@@ -311,7 +342,9 @@
       "refined": true,
       "page_number": 19,
       "alignment_score": 0.653,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Quel est le volume d'espace mort physiologique pour un adulte ayant un poids de 70 kg ?",
@@ -335,7 +368,9 @@
       "refined": true,
       "page_number": 20,
       "alignment_score": 0.523,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": false,
+      "needs_manual_review": true
     },
     {
       "text": "Quel est le rôle principal du foie en ce qui concerne le cholestérol?",
@@ -358,7 +393,9 @@
       "mode": "concours",
       "page_number": 29,
       "alignment_score": 0.588,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quel processus permet au foie d'utiliser le glycogène lorsque les besoins en énergie sont plus importants que les apports alimentaires ?",
@@ -382,7 +419,9 @@
       "refined": true,
       "page_number": 29,
       "alignment_score": 0.598,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quels types de protéines sont synthétisés par les cellules du foie à partir des acides aminés issus de la digestion ?",
@@ -405,7 +444,9 @@
       "mode": "concours",
       "page_number": 30,
       "alignment_score": 0.503,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quels vaisseaux sont remplies du sang lors de la diastole du cœur ?",
@@ -429,7 +470,9 @@
       "refined": true,
       "page_number": 8,
       "alignment_score": 0.526,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quelle est l'étape pour vérifier l’identité du patient?",
@@ -452,7 +495,9 @@
       "mode": "concours",
       "page_number": 73,
       "alignment_score": 0.551,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel type de diabète est qualifié d'insulinodépendant?",
@@ -476,7 +521,9 @@
       "refined": true,
       "page_number": 17,
       "alignment_score": 0.681,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Dans le système nerveux central, quel élément ne figure pas dans la liste suivante ?",
@@ -500,7 +547,9 @@
       "refined": true,
       "page_number": 32,
       "alignment_score": 0.759,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Qu'est-ce que la myéline?",
@@ -523,7 +572,9 @@
       "mode": "concours",
       "page_number": 33,
       "alignment_score": 0.631,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Combien il y a-t-il de types de cellules gliales dans le cerveau?",
@@ -546,7 +597,9 @@
       "mode": "concours",
       "page_number": 32,
       "alignment_score": 0.485,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Comment la cellule nerveuse est-elle en mesure de transmettre un impulsions électriques?",
@@ -570,7 +623,9 @@
       "refined": true,
       "page_number": 33,
       "alignment_score": 0.555,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quel phénomène permet les échanges d'ions entre les deux côtés de la membrane lorsque le potentiel d'action est créé?",
@@ -594,7 +649,9 @@
       "refined": true,
       "page_number": 19,
       "alignment_score": 0.463,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Parmi les transfusions, quelles sont-elles contraindiques par des RAI positifs?",
@@ -619,9 +676,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 70,
+      "page_number": 69,
       "alignment_score": 0.706,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Que fait le système parasympathique à l'état physiologique?",
@@ -644,7 +704,9 @@
       "mode": "concours",
       "page_number": 37,
       "alignment_score": 0.652,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Où se trouvent des informations détaillées sur le financement et les livres nécessaires pour le concours IADE ?",
@@ -668,7 +730,9 @@
       "refined": true,
       "page_number": 36,
       "alignment_score": 0.559,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quelle est la fonction de l'hormone antidiurétique (ADH) sécrétée par la posthypophyse?",
@@ -691,7 +755,9 @@
       "mode": "concours",
       "page_number": 43,
       "alignment_score": 0.654,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.444
     },
     {
       "text": "Quel signe clinique peut indiquer un pneumothorax ?",
@@ -715,7 +781,9 @@
       "refined": true,
       "page_number": 34,
       "alignment_score": 0.583,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quelle conséquence est prévenue par l'hypercoagulabilité physiologique observée chez la mère en couches?",
@@ -739,7 +807,9 @@
       "refined": true,
       "page_number": 47,
       "alignment_score": 0.621,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est le type d'antagoniste que la naloxone peut être ?",
@@ -763,7 +833,9 @@
       "refined": true,
       "page_number": 50,
       "alignment_score": 0.61,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.667
     },
     {
       "text": "Quelle étape de la pharmacocinétique permet au médicament de se retrouver dans la circulation générale?",
@@ -786,7 +858,9 @@
       "mode": "concours",
       "page_number": 51,
       "alignment_score": 0.724,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Sur quel type de tissus prédominent les récepteurs alpha-1?",
@@ -807,9 +881,12 @@
       "biomedical_score": 0.9441,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 7,
+      "page_number": 13,
       "alignment_score": 0.481,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est l'indication principale du baroréflexe stimulé par les récepteurs alpha?",
@@ -832,7 +909,9 @@
       "mode": "concours",
       "page_number": 57,
       "alignment_score": 0.553,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quel est le but principal d'une preuve écrite ?",
@@ -855,7 +934,9 @@
       "mode": "concours",
       "page_number": 1,
       "alignment_score": 0.576,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.444
     },
     {
       "text": "Quel est le nerf oculomoteur, ou moteur oculaire commun?",
@@ -878,7 +959,9 @@
       "mode": "concours",
       "page_number": 39,
       "alignment_score": 0.626,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Quel est le risque principal d'un défibrillateur monophasique ?",
@@ -899,9 +982,12 @@
       "biomedical_score": 0.9613,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 4,
+      "page_number": 26,
       "alignment_score": 0.481,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.3,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le risque majeur du défibrillateur monophasique?",
@@ -922,9 +1008,12 @@
       "biomedical_score": 0.9335,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 4,
+      "page_number": 32,
       "alignment_score": 0.438,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.7,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle est la fréquence cardiaque normale pour un nouveau-né?",
@@ -948,7 +1037,9 @@
       "refined": true,
       "page_number": 6,
       "alignment_score": 0.547,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Comment éviter l'hypothermie chez un bébé ?",
@@ -970,9 +1061,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 38,
+      "page_number": 43,
       "alignment_score": 0.432,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est l'outil utilisé pour que le patient puisse quantifier sa douleur entre 0 et 10 ?",
@@ -994,9 +1088,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 65,
+      "page_number": 69,
       "alignment_score": 0.467,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.7,
+      "corrected_automatically": true
     },
     {
       "text": "Quel organe régule le pH du corps grâce aux bicarbonates ?",
@@ -1019,9 +1116,12 @@
       "mode": "concours",
       "source_context_short": "Les poumons, les reins et le système tampon intra-cellulaire et extracellulaire sont impliqués dans la régulation du pH. Les reins ont également un rôle dans la régulation du pH en utilisant les bicarbonates.",
       "refined": true,
-      "page_number": 26,
+      "page_number": 14,
       "alignment_score": 0.486,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le traitement prioritaire pour un patient atteint d'un syndrome coronarien aigu (SCA) ?",
@@ -1048,7 +1148,9 @@
       "refined": true,
       "page_number": 8,
       "alignment_score": 0.558,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quels facteurs de la coagulation sanguine dépendent de la vitamine K?",
@@ -1071,7 +1173,9 @@
       "mode": "concours",
       "page_number": 28,
       "alignment_score": 0.627,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quelle force est définie par l'ensemble des forces qui s'opposent à la phase d'expulsion ventriculaire ?",
@@ -1093,9 +1197,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 8,
+      "page_number": 9,
       "alignment_score": 0.448,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.1,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le moyen utilisé pour améliorer la précharge d'un patient?",
@@ -1116,9 +1223,12 @@
       "biomedical_score": 0.9481,
       "biomedical_threshold": 0.06,
       "mode": "concours",
-      "page_number": 32,
+      "page_number": 18,
       "alignment_score": 0.527,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7,
+      "corrected_automatically": true
     },
     {
       "text": "Quel facteur permet d'augmenter la pression artérielle d'un patient ?",
@@ -1142,7 +1252,9 @@
       "refined": true,
       "page_number": 10,
       "alignment_score": 0.537,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "La coronaire droite vascularise laquelle des parties du cœur?",
@@ -1165,7 +1277,9 @@
       "mode": "concours",
       "page_number": 11,
       "alignment_score": 0.72,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quel est le nombre approximatif de reins que chaque individu possède ?",
@@ -1187,9 +1301,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 2,
+      "page_number": 5,
       "alignment_score": 0.334,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.2,
+      "corrected_automatically": true
     },
     {
       "text": "Quel médicament est administré pour contrer les effets d'une intoxication à cette substance ?",
@@ -1213,7 +1330,9 @@
       "refined": true,
       "page_number": 50,
       "alignment_score": 0.526,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quelle est la part de chaque main dans le corps humain ?",
@@ -1235,9 +1354,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 2,
+      "page_number": 9,
       "alignment_score": 0.372,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle vitamine participe aux mécanismes de la vision ?",
@@ -1259,9 +1381,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 38,
+      "page_number": 29,
       "alignment_score": 0.482,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.5,
+      "corrected_automatically": true
     },
     {
       "text": "Les catécholamines sont des neurotransmetteurs dont l'exemple est l'adrénaline. Quels sont les autres types de neurotransmetteurs qui peuvent être cités ?",
@@ -1283,9 +1408,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 58,
+      "page_number": 33,
       "alignment_score": 0.62,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle est la diminution du risque de compression de la veine cave lorsqu'une femme enceinte adopte la position décubitus latéral à gauche?",
@@ -1309,7 +1437,9 @@
       "refined": true,
       "page_number": 46,
       "alignment_score": 0.696,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Contre-indications aux inhibiteurs des canaux de calcium sont :",
@@ -1333,7 +1463,9 @@
       "refined": true,
       "page_number": 53,
       "alignment_score": 0.588,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quels sont les contre-indications pour l'utilisation des antihypertenseurs agonistes présynaptiques de type alpha-2?",
@@ -1357,7 +1489,9 @@
       "refined": true,
       "page_number": 52,
       "alignment_score": 0.597,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Comment sont éliminées les héparines de bas poids moléculaire (HBPM) ?",
@@ -1381,7 +1515,9 @@
       "refined": true,
       "page_number": 55,
       "alignment_score": 0.573,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quelle catécholamine présente un effet mineur sur la vasodilatation des vaisseaux ?",
@@ -1404,7 +1540,9 @@
       "mode": "concours",
       "page_number": 58,
       "alignment_score": 0.664,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quel est l'effet sur la contractilité myocardique de l'éphédrine ?",
@@ -1428,7 +1566,9 @@
       "refined": true,
       "page_number": 58,
       "alignment_score": 0.653,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quelle est l'indication d'utilisation de l'atropine ?",
@@ -1452,7 +1592,9 @@
       "refined": true,
       "page_number": 12,
       "alignment_score": 0.538,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quelle est la quantité d'air inspiré au-delà d'une inspiration normale (inspiration forcée) ?",
@@ -1476,7 +1618,9 @@
       "refined": true,
       "page_number": 20,
       "alignment_score": 0.429,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "En cas d’asystolie, quelle est l'indication principale pour la réanimation ?",
@@ -1497,9 +1641,12 @@
       "biomedical_score": 0.9686,
       "biomedical_threshold": 0.06,
       "mode": "concours",
-      "page_number": 30,
+      "page_number": 8,
       "alignment_score": 0.579,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.444,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le débit (en gouttes/min) que doit recevoir Mme P en 1h?",
@@ -1522,7 +1669,9 @@
       "mode": "concours",
       "page_number": 20,
       "alignment_score": 0.723,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Quelle fonction corporelle n'est pas nécessaire pour le joggeur ?",
@@ -1544,9 +1693,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 74,
+      "page_number": 6,
       "alignment_score": 0.462,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.556,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le nom du type de choc qui se manifeste par des signes et symptômes systémiques graves, en réponse à une infection?",
@@ -1570,7 +1722,9 @@
       "refined": true,
       "page_number": 28,
       "alignment_score": 0.459,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Qu'est-ce qui se produit à la demande ou au bruit ?",
@@ -1591,9 +1745,12 @@
       "biomedical_score": 0.963,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 1,
+      "page_number": 41,
       "alignment_score": 0.493,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le nombre de catégories sur l'échelle visuelle simple (EVS) pour la qualification de la douleur d'un patient ?",
@@ -1615,9 +1772,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 30,
+      "page_number": 8,
       "alignment_score": 0.44,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5,
+      "corrected_automatically": true
     },
     {
       "text": "Dans les globules rouges (hématies), quelle est la forme du dioxyde de carbone (CO2) présente?",
@@ -1641,7 +1801,9 @@
       "refined": true,
       "page_number": 18,
       "alignment_score": 0.545,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quels sont les symptômes possibles lorsqu'un plâtre est trop serré ou causant des douleurs ?",
@@ -1663,9 +1825,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 25,
+      "page_number": 16,
       "alignment_score": 0.443,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.3,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle anomalie respiratoire peut être détectée par une hypocapnie ?",
@@ -1687,9 +1852,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 16,
+      "page_number": 21,
       "alignment_score": 0.533,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.667,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le nombre de temps dans la phase systolique ventriculaire?",
@@ -1712,7 +1880,9 @@
       "mode": "concours",
       "page_number": 8,
       "alignment_score": 0.676,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Où sont produites les plaquettes par les entreprises?",
@@ -1734,9 +1904,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 74,
+      "page_number": 55,
       "alignment_score": 0.43,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.286,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le score minimal pour lequel il y a une possibilité d'intubation du patient souffrant de traumatisme crânien ?",
@@ -1759,7 +1932,9 @@
       "mode": "concours",
       "page_number": 6,
       "alignment_score": 0.665,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Comment éviter l'effet de premier passage hépatique des médicaments?",
@@ -1786,7 +1961,9 @@
       "refined": true,
       "page_number": 51,
       "alignment_score": 0.606,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Un nouveau-né est-il considéré en arrêt cardiaque s’il a une fréquence cardiaque inférieure à quelle valeur?",
@@ -1809,7 +1986,9 @@
       "mode": "concours",
       "page_number": 6,
       "alignment_score": 0.591,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quelle est la fonction de la rénine dans le corps humain ?",
@@ -1833,7 +2012,9 @@
       "refined": true,
       "page_number": 23,
       "alignment_score": 0.709,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.556
     },
     {
       "text": "Quelle hormone provoque la contraction des artères ?",
@@ -1855,9 +2036,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 23,
+      "page_number": 53,
       "alignment_score": 0.634,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quelles hormones sont produites par la corticosurrénale ?",
@@ -1880,7 +2064,9 @@
       "mode": "concours",
       "page_number": 43,
       "alignment_score": 0.545,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.429
     },
     {
       "text": "Quel médicament appartient à la classe des inhibiteurs de l'enzyme convertissant l'angiotensin (CEI) ?",
@@ -1904,7 +2090,9 @@
       "refined": true,
       "page_number": 53,
       "alignment_score": 0.561,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Où est stockée la vitamine E au niveau hépatique et quelle est son rôle antioxydant?",
@@ -1927,7 +2115,9 @@
       "mode": "concours",
       "page_number": 28,
       "alignment_score": 0.591,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quel trouble est caractérisé par une saturation d'oxygène (SaO2) inférieure à 90 % ?",
@@ -1951,7 +2141,9 @@
       "refined": true,
       "page_number": 14,
       "alignment_score": 0.567,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quels sont les effets chronotropes, dromotropes et inotropes que peuvent produire les bêtabloquants?",
@@ -1975,7 +2167,9 @@
       "refined": true,
       "page_number": 58,
       "alignment_score": 0.481,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Les effets des AINS sont : antialgique, anti-inflammatoire, antipyrétique, antia?",
@@ -1996,9 +2190,12 @@
       "biomedical_score": 0.9122,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 26,
+      "page_number": 10,
       "alignment_score": 0.457,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont certains effets indésirables possibles de la codéine ?",
@@ -2020,9 +2217,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 30,
+      "page_number": 9,
       "alignment_score": 0.473,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.1,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont les principaux récepteurs au niveau du pancréas pour la sécrétion de l'insuline ?",
@@ -2043,9 +2243,12 @@
       "biomedical_score": 0.9078,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 17,
+      "page_number": 24,
       "alignment_score": 0.672,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.4,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le taux normal de Sodium dans le plasma sanguin?",
@@ -2066,9 +2269,12 @@
       "biomedical_score": 0.9123,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 20,
+      "page_number": 9,
       "alignment_score": 0.436,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est la plage normale pour la gamma GT en U/l?",
@@ -2089,9 +2295,12 @@
       "biomedical_score": 0.9115,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 21,
+      "page_number": 9,
       "alignment_score": 0.459,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.857,
+      "corrected_automatically": true
     },
     {
       "text": "Pour administrer 400 mg d'un médicament sur une période de 10 heures, quel est le débit horaire en millilitres ?",
@@ -2115,7 +2324,9 @@
       "refined": true,
       "page_number": 14,
       "alignment_score": 0.676,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est le temps théorique en minutes pour transférer un patient sous O2 à un débit de 4 l/min avec un obus de transport d'un volume de 5L indiquant une pression de 130 bars?",
@@ -2138,7 +2349,9 @@
       "mode": "concours",
       "page_number": 20,
       "alignment_score": 0.567,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est le volume en ml du sang contenant 15 gouttes ?",
@@ -2161,7 +2374,9 @@
       "mode": "concours",
       "page_number": 20,
       "alignment_score": 0.574,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quel type d'examen permet de déterminer le groupe sanguin du patient?",
@@ -2184,7 +2399,9 @@
       "mode": "concours",
       "page_number": 18,
       "alignment_score": 0.533,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Qu'est-ce que l'objectif principal de ce livre est de vous enseigner ?",
@@ -2208,7 +2425,9 @@
       "refined": true,
       "page_number": 74,
       "alignment_score": 0.426,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quel support informatique est utilisé pour rediger et corriger les annales ?",
@@ -2230,9 +2449,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 1,
+      "page_number": 2,
       "alignment_score": 0.412,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3,
+      "corrected_automatically": true
     },
     {
       "text": "Avant de réaliser un prélèvement sanguin, quel est le premier étape à suivre ?",
@@ -2254,9 +2476,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 18,
+      "page_number": 9,
       "alignment_score": 0.532,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7,
+      "corrected_automatically": true
     },
     {
       "text": "Quel effet principal provoque l'angiotensine II sur le corps humain ?",
@@ -2283,7 +2508,9 @@
       "refined": true,
       "page_number": 23,
       "alignment_score": 0.667,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quel est le score Glasgow pour un coma profond ou nécessitant intubation ?",
@@ -2307,7 +2534,9 @@
       "refined": true,
       "page_number": 41,
       "alignment_score": 0.667,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Quel indice plasmatique est le plus probablement diminué dans un contexte de hypoxie?",
@@ -2329,9 +2558,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 14,
+      "page_number": 10,
       "alignment_score": 0.555,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7,
+      "corrected_automatically": true
     },
     {
       "text": "Pour poser des questions ou renvoyer des commentaires sur cet ebook, quel est l'email le plus approprié ?",
@@ -2355,7 +2587,9 @@
       "refined": true,
       "page_number": 36,
       "alignment_score": 0.634,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quelle hormone régule la production de globules rouges ?",
@@ -2376,9 +2610,12 @@
       "biomedical_score": 0.9315,
       "biomedical_threshold": 0.07,
       "mode": "concours",
-      "page_number": 44,
+      "page_number": 43,
       "alignment_score": 0.447,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.5,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est l'un des fonctions principales du liquide céphalo-rachidien?",
@@ -2402,7 +2639,9 @@
       "refined": true,
       "page_number": 36,
       "alignment_score": 0.533,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Quels symptômes doivent être signalés au niveau du bras chez un patient atteint d'une Fistule Aorto-Valvulaire (FAV)?",
@@ -2424,9 +2663,12 @@
       "biomedical_threshold": 0.07,
       "mode": "concours",
       "refined": true,
-      "page_number": 25,
+      "page_number": 24,
       "alignment_score": 0.606,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.8,
+      "corrected_automatically": true
     },
     {
       "text": "Quels éléments doivent être signalés à l'EFS et à l'hémovigilance ?",
@@ -2450,7 +2692,9 @@
       "refined": true,
       "page_number": 71,
       "alignment_score": 0.454,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.375
     },
     {
       "text": "Quelle est la finalité de l'hémovigilance?",
@@ -2474,7 +2718,9 @@
       "refined": true,
       "page_number": 71,
       "alignment_score": 0.519,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Qu'est-ce que le système de surveillance et de prévention des erreurs et risques liés à l'identification des patients ?",
@@ -2498,7 +2744,9 @@
       "refined": true,
       "page_number": 71,
       "alignment_score": 0.587,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Quel type d'évaluation cognitive est souvent utilisé lorsqu'on suspecte des troubles cérébraux ?",
@@ -2520,9 +2768,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 2,
+      "page_number": 34,
       "alignment_score": 0.412,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4,
+      "corrected_automatically": true
     },
     {
       "text": "Quel domaine concerne la pharmacovigilance ?",
@@ -2546,7 +2797,9 @@
       "refined": true,
       "page_number": 71,
       "alignment_score": 0.647,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quels sont les principaux paramètres vitaux que l'on peut recueillir ?",
@@ -2569,7 +2822,9 @@
       "mode": "concours",
       "page_number": 30,
       "alignment_score": 0.591,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quel est le débit expiratoire de pointe normal?",
@@ -2590,9 +2845,12 @@
       "biomedical_score": 0.9391,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 21,
+      "page_number": 9,
       "alignment_score": 0.438,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.111,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le pourcentage total du liquide extracellulaire dans l'eau du corps humain?",
@@ -2616,7 +2874,9 @@
       "refined": true,
       "page_number": 24,
       "alignment_score": 0.49,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quelle quantité devriez-vous prendre pour préparer 0,5mg/ml dans une seringue?",
@@ -2639,7 +2899,9 @@
       "mode": "concours",
       "page_number": 14,
       "alignment_score": 0.564,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Combien de plaques composent le péricarde autour du cœur humain?",
@@ -2663,7 +2925,9 @@
       "refined": true,
       "page_number": 7,
       "alignment_score": 0.516,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quels éléments interviennent pour empêcher le débit du sang dans les vaisseaux cérébraux?",
@@ -2687,7 +2951,9 @@
       "refined": true,
       "page_number": 7,
       "alignment_score": 0.473,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": false,
+      "needs_manual_review": true
     },
     {
       "text": "Quel est le nombre de carotides présentes dans le corps humain ?",
@@ -2711,7 +2977,9 @@
       "refined": true,
       "page_number": 35,
       "alignment_score": 0.535,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quel hormone chez l'homme permet ?",
@@ -2732,9 +3000,12 @@
       "biomedical_score": 0.9205,
       "biomedical_threshold": 0.06,
       "mode": "concours",
-      "page_number": 44,
+      "page_number": 43,
       "alignment_score": 0.445,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 3.2,
+      "corrected_automatically": true
     },
     {
       "text": "Quel nerf est responsable de la perception de la vue?",
@@ -2758,7 +3029,9 @@
       "refined": true,
       "page_number": 8,
       "alignment_score": 0.543,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Pour un patient présentant tachycardie et hypotension, quels sont les paramètres cliniques à surveiller ?",
@@ -2780,9 +3053,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 4,
+      "page_number": 18,
       "alignment_score": 0.602,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.5,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle action doit être prise immédiatement en cas d'AVC?",
@@ -2805,7 +3081,9 @@
       "mode": "concours",
       "page_number": 32,
       "alignment_score": 0.569,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quels médicaments sont contre-indiqués à partir du quatrième mois de la grossesse ?",
@@ -2826,9 +3104,12 @@
       "biomedical_score": 0.9207,
       "biomedical_threshold": 0.06,
       "mode": "concours",
-      "page_number": 28,
+      "page_number": 47,
       "alignment_score": 0.478,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 3.1,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont les facteurs de risque contraindiquant l'utilisation des inhibiteurs de la converting enzyme (CEI) ?",
@@ -2852,7 +3133,9 @@
       "refined": true,
       "page_number": 29,
       "alignment_score": 0.444,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est le risque pour un enfant rhésus + lorsqu'une femme enceinte rhésus - est allo-immunisée anti-D ?",
@@ -2879,7 +3162,9 @@
       "refined": true,
       "page_number": 68,
       "alignment_score": 0.402,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Des fosses iliaques, quel est l’événement médical possible?",
@@ -2900,9 +3185,12 @@
       "biomedical_score": 0.926,
       "biomedical_threshold": 0.06,
       "mode": "concours",
-      "page_number": 47,
+      "page_number": 70,
       "alignment_score": 0.408,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est l'effet d'un agoniste partiel sur un récepteur spécifique dans le contexte des médicaments ?",
@@ -2926,7 +3214,9 @@
       "refined": true,
       "page_number": 50,
       "alignment_score": 0.739,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Comment le corps élimine-t-il un médicament ?",
@@ -2948,9 +3238,12 @@
       "biomedical_threshold": 0.1,
       "mode": "concours",
       "refined": true,
-      "page_number": 74,
+      "page_number": 51,
       "alignment_score": 0.464,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.2,
+      "corrected_automatically": true
     },
     {
       "text": "Vers quels patients les indications pour l'albumine sont limitées ?",
@@ -2973,7 +3266,9 @@
       "mode": "concours",
       "page_number": 60,
       "alignment_score": 0.539,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Quel est le capillaire qui entoure l’alvéole pour se charger correctement en O2?",
@@ -2994,9 +3289,12 @@
       "biomedical_score": 0.9416,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 11,
+      "page_number": 17,
       "alignment_score": 0.464,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.7,
+      "corrected_automatically": true
     },
     {
       "text": "Pour quelle raison doivent-ils avoir un rapport favorable entre perfusion et ventilation ?",
@@ -3017,9 +3315,12 @@
       "biomedical_score": 0.9271,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 46,
+      "page_number": 17,
       "alignment_score": 0.601,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.8,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le volume maximal d'air expiré en une seconde succédant à une inspiration forcée ?",
@@ -3042,7 +3343,9 @@
       "mode": "concours",
       "page_number": 20,
       "alignment_score": 0.695,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0
     },
     {
       "text": "Quels sont les deux composés cristallisés ?",
@@ -3064,9 +3367,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 61,
+      "page_number": 63,
       "alignment_score": 0.533,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le rythme de compression et d'insufflation recommandés pour la RCP ?",
@@ -3089,7 +3395,9 @@
       "mode": "concours",
       "page_number": 9,
       "alignment_score": 0.581,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Pourquoi les femmes ont-elles un risque plus élevé d'atteindre des taux sanguins élevés de potassium?",
@@ -3110,9 +3418,12 @@
       "biomedical_score": 0.9068,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 30,
+      "page_number": 71,
       "alignment_score": 0.51,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle est la plateforme sociale recommandée pour poster des questions relatives au concours IADE?",
@@ -3136,7 +3447,9 @@
       "refined": true,
       "page_number": 2,
       "alignment_score": 0.493,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quels sont les domaines réglementés par la législation concernant les diurétiques?",
@@ -3158,9 +3471,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 30,
+      "page_number": 23,
       "alignment_score": 0.554,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.444,
+      "corrected_automatically": true
     },
     {
       "text": "Quand le facteur de coagulation Xa est noté avec un 'aa' (Xa:aa), cela signifie qu'il est actif ou activé.",
@@ -3184,7 +3500,9 @@
       "refined": true,
       "page_number": 28,
       "alignment_score": 0.38,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quels médicaments peuvent être prescrits pour réduire le risque de coagulation plaquettaire pendant une intervention chirurgicale?",
@@ -3208,7 +3526,9 @@
       "refined": true,
       "page_number": 54,
       "alignment_score": 0.616,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quels effets secondaires peuvent être associés aux hydroxyéthylamidons?",
@@ -3230,9 +3550,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 18,
+      "page_number": 29,
       "alignment_score": 0.474,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le plage normal des plaquettes en mm3 ?",
@@ -3253,9 +3576,12 @@
       "biomedical_score": 0.94,
       "biomedical_threshold": 0.09,
       "mode": "concours",
-      "page_number": 34,
+      "page_number": 4,
       "alignment_score": 0.452,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.0,
+      "corrected_automatically": true
     },
     {
       "text": "Où se trouvent les antigènes dans le sang ?",
@@ -3277,9 +3603,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 68,
+      "page_number": 67,
       "alignment_score": 0.52,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.0,
+      "corrected_automatically": true
     },
     {
       "text": "Est-il nécessaire de réaliser des tests de compatibilité avant la transfusion du plasma ?",
@@ -3303,7 +3632,9 @@
       "refined": true,
       "page_number": 68,
       "alignment_score": 0.7,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Pour vérifier l'identité du patient et la concordance de son nom et date de naissance avec celui mentionné sur les documents de transfusion, quel document doit être examiné ?",
@@ -3327,7 +3658,9 @@
       "refined": true,
       "page_number": 70,
       "alignment_score": 0.582,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quel est le processus requis avant toute transfusion selon les règles d'approbation des administrations de sang ?",
@@ -3349,9 +3682,12 @@
       "biomedical_threshold": 0.09,
       "mode": "concours",
       "refined": true,
-      "page_number": 70,
+      "page_number": 69,
       "alignment_score": 0.607,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.4,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle fréquence de surveillance des paramètres vitaux est recommandée lors d'une transfusion sanguine ?",
@@ -3375,7 +3711,9 @@
       "refined": true,
       "page_number": 70,
       "alignment_score": 0.504,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "Quel dispositif doivent être conservé pendant 2 heures ?",
@@ -3398,7 +3736,9 @@
       "mode": "concours",
       "page_number": 70,
       "alignment_score": 0.62,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.4
     },
     {
       "text": "En cas d'accidents transfusionnels, quelle action doit être prise immédiatement ?",
@@ -3421,7 +3761,9 @@
       "mode": "concours",
       "page_number": 70,
       "alignment_score": 0.659,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Qu'est-ce que l'erreur sur les calculs de doses et la transfusion peut causer?",
@@ -3444,7 +3786,9 @@
       "mode": "concours",
       "page_number": 70,
       "alignment_score": 0.654,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.5
     },
     {
       "text": "Quels muscles ne dépendent pas de la volonté et sont sous le contrôle du système nerveux végétatif ?",
@@ -3468,7 +3812,9 @@
       "refined": true,
       "page_number": 37,
       "alignment_score": 0.636,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Quel est le risque d'atteinte bilatérale des nerfs récurrents et la conséquence possible en termes de difficulté respiratoire?",
@@ -3490,9 +3836,12 @@
       "biomedical_threshold": 0.06,
       "mode": "concours",
       "refined": true,
-      "page_number": 39,
+      "page_number": 26,
       "alignment_score": 0.605,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.2,
+      "corrected_automatically": true
     },
     {
       "text": "Quel volume d'air supplémentaire est inspiré lors d'une inspiration forcée ?",
@@ -3516,7 +3865,9 @@
       "refined": true,
       "page_number": 20,
       "alignment_score": 0.65,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quel effet a le dromotrope lorsqu'il agit en synergie avec un autre dromotrope?",
@@ -3537,9 +3888,12 @@
       "biomedical_score": 0.923,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 19,
+      "page_number": 13,
       "alignment_score": 0.404,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.4,
+      "corrected_automatically": true
     },
     {
       "text": "Où sont synthétisées les hormones T3 et T4?",
@@ -3563,7 +3917,9 @@
       "refined": true,
       "page_number": 42,
       "alignment_score": 0.669,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6
     },
     {
       "text": "Quel organe ou facteur activateur est anabolisant pour le foie ?",
@@ -3586,7 +3942,9 @@
       "mode": "concours",
       "page_number": 28,
       "alignment_score": 0.53,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est l'effet sur le taux d'hématocrite?",
@@ -3608,9 +3966,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 60,
+      "page_number": 17,
       "alignment_score": 0.444,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 1.571,
+      "corrected_automatically": true
     },
     {
       "text": "Quels sont les anticoagulants?",
@@ -3631,9 +3992,12 @@
       "biomedical_score": 0.9238,
       "biomedical_threshold": 0.05,
       "mode": "concours",
-      "page_number": 24,
+      "page_number": 18,
       "alignment_score": 0.588,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.833,
+      "corrected_automatically": true
     },
     {
       "text": "Quelle est la voie d'administration qui permet à une dose de médicaments d'atteindre le sang en moitié environ ?",
@@ -3657,7 +4021,9 @@
       "refined": true,
       "page_number": 51,
       "alignment_score": 0.492,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.8
     },
     {
       "text": "Quelles sont les contre-indications pour les antagonistes des récepteurs AT1 de l'angiotensine II ?",
@@ -3679,9 +4045,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 18,
+      "page_number": 10,
       "alignment_score": 0.587,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.6,
+      "corrected_automatically": true
     },
     {
       "text": "Quel solution de bicarbonate a une concentration plus élevée que le plasma sanguin (8,4 %) ?",
@@ -3704,7 +4073,9 @@
       "mode": "concours",
       "page_number": 21,
       "alignment_score": 0.415,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel nombre correspond à 1 décagramme ?",
@@ -3726,9 +4097,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 40,
+      "page_number": 66,
       "alignment_score": 0.427,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.429,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le principal risque de transfusion sanguine pour un donneur RhD positif et un récipient RhD négatif?",
@@ -3752,7 +4126,9 @@
       "refined": true,
       "page_number": 70,
       "alignment_score": 0.613,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "Quel est le message qui encourage à rester attentif aux connaissances contenu dans l'ebook ?",
@@ -3776,7 +4152,9 @@
       "refined": true,
       "page_number": 31,
       "alignment_score": 0.467,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     },
     {
       "text": "L'étudiante infirmière qui n’a jamais fait ce soin demande une explication. Qu’y a-t-il à faire ?",
@@ -3799,7 +4177,9 @@
       "mode": "concours",
       "page_number": 3,
       "alignment_score": 0.481,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Pour combien de temps sont valides les RAD en France?",
@@ -3823,7 +4203,9 @@
       "refined": true,
       "page_number": 4,
       "alignment_score": 0.465,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": false,
+      "needs_manual_review": true
     },
     {
       "text": "Quoi pouvez-vous vous attendre?",
@@ -3846,7 +4228,9 @@
       "mode": "concours",
       "page_number": 4,
       "alignment_score": 0.585,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.7
     },
     {
       "text": "Quel est le volume total en millilitres de solution de glucose contenue dans 4 ampoules?",
@@ -3868,9 +4252,12 @@
       "biomedical_threshold": 0.05,
       "mode": "concours",
       "refined": true,
-      "page_number": 64,
+      "page_number": 20,
       "alignment_score": 0.588,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 2.2,
+      "corrected_automatically": true
     },
     {
       "text": "Quel est le but de libérer les voies aériennes?",
@@ -3893,7 +4280,9 @@
       "mode": "concours",
       "page_number": 9,
       "alignment_score": 0.498,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.9
     },
     {
       "text": "Combien de réponses verbales inappropriées peut-on observer chez un patient ?",
@@ -3917,12 +4306,15 @@
       "refined": true,
       "page_number": 25,
       "alignment_score": 0.571,
-      "alignment_method": "semantic_v1.2"
+      "alignment_method": "semantic_v1.2",
+      "page_verified": true,
+      "page_verification_score": 0.3
     }
   ],
   "refined_count": 102,
   "added_count": 0,
-  "version": "v1.2_semantic_aligned",
+  "version": "v1.1",
   "metadata_version": "v1.1_enriched",
-  "alignment_version": "v1.2_semantic"
+  "alignment_version": "v1.2_semantic",
+  "verification_version": "v1.2.1_verified"
 }

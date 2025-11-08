@@ -1,0 +1,305 @@
+{
+  "summary": {
+    "total": 165,
+    "valid": 101,
+    "corrected": 61,
+    "missing_pdf": 0,
+    "no_match": 3
+  },
+  "success_rate": 61.21,
+  "correction_rate": 36.97,
+  "corrections": [
+    {
+      "chunk_id": "section_18_c01",
+      "question": "Où se situe le faisceau de His ?",
+      "old_page": 7,
+      "new_page": 12,
+      "old_score": 0.25,
+      "new_score": 19,
+      "keywords": [
+        "situe",
+        "faisceau",
+        "faisceau"
+      ]
+    },
+    {
+      "chunk_id": "section_29_c01",
+      "question": "Quel est un exemple d'isotonique ?",
+      "old_page": 24,
+      "new_page": 51,
+      "old_score": 0.111,
+      "new_score": 10,
+      "keywords": [
+        "exemple",
+        "isotonique",
+        "nacl"
+      ]
+    },
+    {
+      "chunk_id": "section_30_c01",
+      "question": "Quel est le pourcentage de renouvellement des plaquettes au sein du sang humain ?",
+      "old_page": 74,
+      "new_page": 67,
+      "old_score": 0.0,
+      "new_score": 9,
+      "keywords": [
+        "pourcentage",
+        "renouvellement",
+        "plaquettes"
+      ]
+    },
+    {
+      "chunk_id": "section_32_c01",
+      "question": "Qu'est-ce qui est physiologiquement anormal chez un sujet sain selon la citation?",
+      "old_page": 46,
+      "new_page": 17,
+      "old_score": 0.2,
+      "new_score": 10,
+      "keywords": [
+        "physiologiquement",
+        "anormal",
+        "chez"
+      ]
+    },
+    {
+      "chunk_id": "section_37_c01",
+      "question": "Quelle est la localisation des récepteurs chimiques centraux?",
+      "old_page": 37,
+      "new_page": 19,
+      "old_score": 0.2,
+      "new_score": 20,
+      "keywords": [
+        "localisation",
+        "récepteurs",
+        "chimiques"
+      ]
+    },
+    {
+      "chunk_id": "section_49_c01",
+      "question": "Quel est le signe du pli cutané observé dans une hyponatrémie?",
+      "old_page": 34,
+      "new_page": 11,
+      "old_score": 0.222,
+      "new_score": 8,
+      "keywords": [
+        "signe",
+        "cutané",
+        "observé"
+      ]
+    },
+    {
+      "chunk_id": "section_53_c01",
+      "question": "Quelle est la plage normale du pH d'un individu en bon état de santé ?",
+      "old_page": 21,
+      "new_page": 9,
+      "old_score": 0.0,
+      "new_score": 6,
+      "keywords": [
+        "plage",
+        "normale",
+        "individu"
+      ]
+    },
+    {
+      "chunk_id": "section_83_c01",
+      "question": "Parmi les transfusions, quelles sont-elles contraindiques par des RAI positifs?",
+      "old_page": 70,
+      "new_page": 69,
+      "old_score": 0.1,
+      "new_score": 10,
+      "keywords": [
+        "parmi",
+        "transfusions",
+        "elles"
+      ]
+    },
+    {
+      "chunk_id": "section_157_c01",
+      "question": "Sur quel type de tissus prédominent les récepteurs alpha-1?",
+      "old_page": 7,
+      "new_page": 13,
+      "old_score": 0.2,
+      "new_score": 4,
+      "keywords": [
+        "type",
+        "tissus",
+        "prédominent"
+      ]
+    },
+    {
+      "chunk_id": "section_81_c01",
+      "question": "Quel est le risque principal d'un défibrillateur monophasique ?",
+      "old_page": 4,
+      "new_page": 26,
+      "old_score": 0.0,
+      "new_score": 13,
+      "keywords": [
+        "risque",
+        "principal",
+        "défibrillateur"
+      ]
+    },
+    {
+      "chunk_id": "section_107_c01",
+      "question": "Quel est le risque majeur du défibrillateur monophasique?",
+      "old_page": 4,
+      "new_page": 32,
+      "old_score": 0.0,
+      "new_score": 17,
+      "keywords": [
+        "risque",
+        "majeur",
+        "défibrillateur"
+      ]
+    },
+    {
+      "chunk_id": "section_122_c01",
+      "question": "Comment éviter l'hypothermie chez un bébé ?",
+      "old_page": 38,
+      "new_page": 43,
+      "old_score": 0.0,
+      "new_score": 8,
+      "keywords": [
+        "comment",
+        "éviter",
+        "hypothermie"
+      ]
+    },
+    {
+      "chunk_id": "section_20_c01",
+      "question": "Quel est l'outil utilisé pour que le patient puisse quantifier sa douleur entre 0 et 10 ?",
+      "old_page": 65,
+      "new_page": 69,
+      "old_score": 0.2,
+      "new_score": 17,
+      "keywords": [
+        "outil",
+        "utilisé",
+        "patient"
+      ]
+    },
+    {
+      "chunk_id": "section_59_c01",
+      "question": "Quel organe régule le pH du corps grâce aux bicarbonates ?",
+      "old_page": 26,
+      "new_page": 14,
+      "old_score": 0.2,
+      "new_score": 8,
+      "keywords": [
+        "organe",
+        "régule",
+        "corps"
+      ]
+    },
+    {
+      "chunk_id": "section_10_c01",
+      "question": "Quelle force est définie par l'ensemble des forces qui s'opposent à la phase d'expulsion ventriculai",
+      "old_page": 8,
+      "new_page": 9,
+      "old_score": 0.2,
+      "new_score": 11,
+      "keywords": [
+        "force",
+        "définie",
+        "ensemble"
+      ]
+    },
+    {
+      "chunk_id": "section_11_c01",
+      "question": "Quel est le moyen utilisé pour améliorer la précharge d'un patient?",
+      "old_page": 32,
+      "new_page": 18,
+      "old_score": 0.1,
+      "new_score": 7,
+      "keywords": [
+        "moyen",
+        "utilisé",
+        "améliorer"
+      ]
+    },
+    {
+      "chunk_id": "section_41_c01",
+      "question": "Quel est le nombre approximatif de reins que chaque individu possède ?",
+      "old_page": 2,
+      "new_page": 5,
+      "old_score": 0.1,
+      "new_score": 2,
+      "keywords": [
+        "nombre",
+        "approximatif",
+        "reins"
+      ]
+    },
+    {
+      "chunk_id": "section_61_c01",
+      "question": "Quelle est la part de chaque main dans le corps humain ?",
+      "old_page": 2,
+      "new_page": 9,
+      "old_score": 0.2,
+      "new_score": 6,
+      "keywords": [
+        "part",
+        "chaque",
+        "main"
+      ]
+    },
+    {
+      "chunk_id": "section_65_c01",
+      "question": "Quelle vitamine participe aux mécanismes de la vision ?",
+      "old_page": 38,
+      "new_page": 29,
+      "old_score": 0.125,
+      "new_score": 20,
+      "keywords": [
+        "vitamine",
+        "participe",
+        "mécanismes"
+      ]
+    },
+    {
+      "chunk_id": "section_77_c01",
+      "question": "Les catécholamines sont des neurotransmetteurs dont l'exemple est l'adrénaline. Quels sont les autre",
+      "old_page": 58,
+      "new_page": 33,
+      "old_score": 0.2,
+      "new_score": 10,
+      "keywords": [
+        "catécholamines",
+        "neurotransmetteurs",
+        "dont"
+      ]
+    }
+  ],
+  "no_match": [
+    {
+      "chunk_id": "section_60_c01",
+      "question": "Quel est le volume d'espace mort physiologique pour un adulte ayant un poids de 70 kg ?",
+      "page": 20,
+      "keywords": [
+        "volume",
+        "espace",
+        "mort"
+      ]
+    },
+    {
+      "chunk_id": "section_78_c01",
+      "question": "Quels éléments interviennent pour empêcher le débit du sang dans les vaisseaux cérébraux?",
+      "page": 7,
+      "keywords": [
+        "éléments",
+        "interviennent",
+        "empêcher"
+      ]
+    },
+    {
+      "chunk_id": "section_05_c01",
+      "question": "Pour combien de temps sont valides les RAD en France?",
+      "page": 4,
+      "keywords": [
+        "combien",
+        "temps",
+        "valides"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "total_low_alignment": 60,
+  "corrections_suggested": [
+    {
+      "chunk_id": "section_18_c01",
+      "question": "Où se situe le faisceau de His ?",
+      "current_page": 7,
+      "suggested_page": 12,
+      "keywords": [
+        "situe",
+        "faisceau"
+      ],
+      "confidence": 7
+    },
+    {
+      "chunk_id": "section_29_c01",
+      "question": "Quel est un exemple d'isotonique ?",
+      "current_page": 24,
+      "suggested_page": 52,
+      "keywords": [
+        "exemple"
+      ],
+      "confidence": 4
+    },
+    {
+      "chunk_id": "section_49_c01",
+      "question": "Quel est le signe du pli cutané observé dans une hyponatrémie?",
+      "current_page": 34,
+      "suggested_page": 24,
+      "keywords": [
+        "signe",
+        "cutané",
+        "observé"
+      ],
+      "confidence": 5
+    }
+  ]
+}
