@@ -4,9 +4,11 @@
  */
 
 import { Link, useLocation } from 'react-router-dom';
+import { useState } from 'react';
 
 export function Navigation() {
   const location = useLocation();
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const isActive = (path: string) => location.pathname === path;
 
