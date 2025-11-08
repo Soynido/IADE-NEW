@@ -4,8 +4,8 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
 
-// Configure PDF.js worker
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
+// Configure PDF.js worker (production-ready)
+pdfjs.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 export function PDFViewer() {
   const [searchParams] = useSearchParams();
@@ -178,6 +178,8 @@ export function PDFViewer() {
             onLoadSuccess={onDocumentLoadSuccess}
             onLoadError={(error) => {
               console.error('Erreur chargement PDF:', error);
+              console.error('Path:', pdfPath);
+              console.error('File:', pdfFile);
               setLoading(false);
             }}
             loading={<div className="p-8 text-center">Chargement...</div>}
@@ -185,6 +187,11 @@ export function PDFViewer() {
               <div className="p-8 text-center">
                 <p className="text-red-600 font-semibold">Erreur de chargement du PDF</p>
                 <p className="text-gray-600 mt-2">{pdfFile}</p>
+                <p className="text-xs text-gray-500 mt-1">Path: {pdfPath}</p>
+                <p className="text-xs text-gray-400 mt-2">
+                  Les PDFs volumineux peuvent prendre du temps à charger.
+                  Vérifiez votre connexion internet.
+                </p>
                 <button
                   onClick={() => navigate(-1)}
                   className="mt-4 px-4 py-2 bg-primary-600 text-white rounded hover:bg-primary-700"
@@ -193,6 +200,11 @@ export function PDFViewer() {
                 </button>
               </div>
             }
+            options={{
+              cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/cmaps/',
+              cMapPacked: true,
+              standardFontDataUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/standard_fonts/',
+            }}
           >
             {Array.from(new Array(numPages), (_, index) => (
               <div

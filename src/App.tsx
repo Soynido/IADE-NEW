@@ -9,6 +9,7 @@ import { RevisionMode } from './components/RevisionMode';
 import { TrainingMode } from './components/TrainingMode';
 import { ExamMode } from './components/ExamMode';
 import { Dashboard as DashboardComponent } from './components/Dashboard';
+import { PDFViewerSimple } from './components/PDFViewerSimple';
 
 // Page d'accueil
 function HomePage() {
@@ -126,6 +127,7 @@ function App() {
           <Route path="/concours" element={<ExamsList />} />
           <Route path="/concours/:examId" element={<ExamMode />} />
           <Route path="/dashboard" element={<DashboardComponent />} />
+          <Route path="/pdf-viewer" element={<PDFViewerSimple />} />
         </Routes>
       </div>
     </BrowserRouter>
