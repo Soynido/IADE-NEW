@@ -12,6 +12,7 @@
 
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
+import { sendFeedbackToRedis } from '@/utils/feedbackApi';
 
 // =============================================================================
 // TYPES
@@ -204,6 +205,13 @@ export const useUserStore = create<UserStore>()(
           });
           
           return { stats: newStats };
+        });
+        
+        // Envoi vers Redis Upstash en arrière-plan (non bloquant)
+        // Conforme spec.md Section X : Redis optionnel
+        sendFeedbackToRedis(questionId, score).catch((error) => {
+          // Erreur silencieuse, ne bloque pas l'application
+          console.debug('[Feedback] Redis push échoué (ignoré):', error);
         });
       },
       
