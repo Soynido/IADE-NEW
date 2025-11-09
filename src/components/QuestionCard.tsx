@@ -11,7 +11,7 @@
  * - Système de notation Bad/Good/Very Good
  */
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Question } from '@/types';
 
 interface QuestionCardProps {
@@ -33,6 +33,12 @@ export function QuestionCard({
 }: QuestionCardProps) {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [hasAnswered, setHasAnswered] = useState(false);
+
+  // Reset l'état quand la question change
+  useEffect(() => {
+    setSelectedAnswer(null);
+    setHasAnswered(false);
+  }, [question.id, question.chunk_id, question.text]);
 
   const handleSelectOption = (optionIndex: number) => {
     if (hasAnswered && !showExplanation) return; // Bloqué après réponse en mode examen
@@ -97,10 +103,10 @@ export function QuestionCard({
         
         {question.source_pdf && (
           <button
-            onClick={() => onViewCourse?.(question.source_pdf, question.page)}
+            onClick={() => onViewCourse?.(question.source_pdf, question.page_number || question.page || 1)}
             className="text-sm text-primary-600 hover:text-primary-800 flex items-center gap-1"
           >
-            📖 Voir le cours (p. {question.page})
+            📖 Voir le cours (p. {question.page_number || question.page || 1})
           </button>
         )}
       </div>
