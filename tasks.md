@@ -1698,25 +1698,41 @@ gh release create v1.1 \
 
 ---
 
-## [114] TODO Génération corpus v2 (expansion)
+## [114] TODO Génération corpus v2 (expansion massive)
 
-**Description** : générer 300+ QCM supplémentaires par diversification des chunks existants
+**Description** : générer 3000-4000 QCM par extraction page-par-page et génération automatique (3 QCM/page)
 
-**Dépendances** : [113] Préparation v2
+**Dépendances** : v1.2.2 stable
 
 **Fichiers concernés** :
-- `scripts/generation_v2/generate_variants.py`
-- `src/data/questions/compiled_v2.json`
+- `scripts/expansion/extract_pages.py`
+- `scripts/expansion/generate_massive.py`
+- `scripts/expansion/validate_massive.py`
+- `scripts/expansion/merge_with_existing.py`
+- `scripts/expansion/run_expansion.sh`
+- `src/data/questions/compiled_expanded.json`
+
+**Pipeline** :
+1. Extraction : 141 pages → fichiers txt individuels
+2. Génération : 3 QCM/page avec Ollama Mistral (parallèle)
+3. Validation : BioBERT seuil 0.4 (adapté pour volume)
+4. Fusion : Déduplication + merge avec corpus v1.2.1
 
 **Critères de validation** :
-- ≥ 300 nouveaux QCM générés
-- Validation BioBERT ≥ 0.88
-- Pas de doublons avec v1.1
-- Distribution équilibrée par module
+- ≥ 300 nouveaux QCM générés (objectif : 400+)
+- Validation BioBERT ≥ 0.4 (seuil adapté)
+- Déduplication automatique (fuzzy matching 85%)
+- Corpus final : 165 → 500+ QCM
 
-**Estimation** : 2-3h (temps machine)
+**Estimation** : 1-2h (temps machine Ollama en parallèle)
 
-**Statut** : TODO
+**Avantages** :
+- Ratio contenu/QCM optimal (3-5/page)
+- Pipeline 100% automatisé
+- Reproductible à volonté
+- Qualité garantie (BioBERT)
+
+**Statut** : TODO (scripts prêts)
 
 ---
 
