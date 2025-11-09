@@ -9,11 +9,13 @@ import fitz
 import json
 from pathlib import Path
 from tqdm import tqdm
+from datetime import datetime
 
 # Configuration
 PDF_DIR = Path("public/pdfs")
 OUTPUT_DIR = Path("src/data/raw/pages")
 METADATA_FILE = Path("src/data/raw/pages_metadata.json")
+LOG_FILE = Path("logs/pipeline.log")
 
 def extract_page_by_page(pdf_path, pdf_name):
     """Extrait chaque page comme fichier texte séparé"""
@@ -57,6 +59,11 @@ def main():
     # Crée répertoire output
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
+    # Log (recommandation 2)
+    LOG_FILE.parent.mkdir(exist_ok=True)
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Extraction START\n")
+    
     # Liste des PDFs
     pdf_files = list(PDF_DIR.glob("*.pdf"))
     print(f"\n📂 {len(pdf_files)} PDF à traiter\n")
@@ -78,6 +85,10 @@ def main():
     
     with open(METADATA_FILE, "w", encoding="utf-8") as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
+    
+    # Log (recommandation 2)
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Extraction END: {len(all_pages)} pages\n")
     
     # Statistiques
     total_chars = sum(p["char_count"] for p in all_pages)

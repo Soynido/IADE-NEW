@@ -84,6 +84,46 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
+    # Résumé automatique (recommandation 1)
+    summary_file = Path("src/data/questions/expansion_summary.txt")
+    from datetime import datetime
+    
+    with open(summary_file, "w", encoding="utf-8") as s:
+        s.write(f"""📊 IADE Massive Generation Report
+═══════════════════════════════════════════════════════════
+
+Date              : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+Version           : v2.0 Expansion
+
+CORPUS
+───────────────────────────────────────────────────────────
+Existing corpus   : {len(existing_qcms)} QCM
+New generated     : {len(new_qcms)} QCM
+Added             : {len(added)} QCM
+Duplicates        : {duplicates} ({duplicates/len(new_qcms)*100:.1f}%)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total final       : {len(final_corpus)} QCM
+
+GAIN
+───────────────────────────────────────────────────────────
+Expansion factor  : ×{len(final_corpus)/len(existing_qcms):.2f}
+New QCM added     : +{len(added)} ({len(added)/len(existing_qcms)*100:.1f}%)
+
+QUALITY
+───────────────────────────────────────────────────────────
+Deduplication     : {SIMILARITY_THRESHOLD}% threshold
+Source verified   : v1.2.1 (98.2% validated)
+BioBERT validated : All new QCM >= 0.4
+
+═══════════════════════════════════════════════════════════
+""")
+    
+    # Log pipeline (recommandation 2)
+    log_file = Path("logs/pipeline.log")
+    log_file.parent.mkdir(exist_ok=True)
+    with open(log_file, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Fusion ✓ {len(added)} added, {len(final_corpus)} total\n")
+    
     # Statistiques
     print(f"\n{'='*60}")
     print(f"✅ FUSION TERMINÉE")
@@ -96,6 +136,8 @@ def main():
     print(f"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print(f"   CORPUS FINAL : {len(final_corpus)} QCM")
     print(f"\n💾 Corpus expansé : {OUTPUT_FILE}")
+    print(f"📄 Résumé : {summary_file}")
+    print(f"📝 Log : {log_file}")
     print(f"\n🎯 GAIN : +{len(added)} QCM (×{len(final_corpus)/len(existing_qcms):.1f})")
     print("="*60)
 

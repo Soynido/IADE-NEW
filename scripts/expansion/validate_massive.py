@@ -8,6 +8,7 @@ Valide les QCM générés avec BioBERT (seuil 0.4)
 import json
 import sys
 from pathlib import Path
+from datetime import datetime
 
 # Ajoute le chemin pour importer biobert_client
 sys.path.append(str(Path(__file__).parent.parent))
@@ -19,6 +20,7 @@ INPUT_FILE = Path("src/data/questions/generated_massive.json")
 OUTPUT_FILE = Path("src/data/questions/validated_massive.json")
 REJECTED_FILE = Path("src/data/questions/rejected_massive.json")
 THRESHOLD = 0.4  # Seuil abaissé pour génération massive
+LOG_FILE = Path("logs/pipeline.log")
 
 def main():
     print("="*60)
@@ -31,6 +33,11 @@ def main():
     
     print(f"\n📘 {len(qcms)} QCM à valider")
     print(f"🎯 Seuil BioBERT : {THRESHOLD}\n")
+    
+    # Log (recommandation 2)
+    LOG_FILE.parent.mkdir(exist_ok=True)
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Validation START: {len(qcms)} QCM\n")
     
     # Init BioBERT
     print("🧠 Chargement BioBERT...")
@@ -66,6 +73,10 @@ def main():
     
     with open(REJECTED_FILE, "w", encoding="utf-8") as f:
         json.dump(rejected, f, ensure_ascii=False, indent=2)
+    
+    # Log (recommandation 2)
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Validation END: {len(validated)} validated, {len(rejected)} rejected\n")
     
     # Statistiques
     success_rate = len(validated) / len(qcms) * 100 if qcms else 0

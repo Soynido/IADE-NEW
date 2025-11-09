@@ -7,9 +7,12 @@ Génère 3 QCM par page avec Ollama Mistral
 
 import json
 import requests
+import sys
+import os
 from pathlib import Path
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
 
 # Configuration
 PAGES_DIR = Path("src/data/raw/pages")
@@ -19,6 +22,9 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "mistral:latest"
 QCM_PER_PAGE = 3
 MAX_WORKERS = 4  # Parallélisation
+
+# Option Redis/Upstash pour checkpoint (recommandation 5)
+USE_REDIS = os.getenv("UPSTASH_REDIS_REST_URL") is not None
 
 PROMPT_TEMPLATE = """Tu es un expert IADE. À partir de ce texte de cours, génère EXACTEMENT 3 QCM.
 
@@ -120,8 +126,24 @@ def main():
         metadata = json.load(f)
     
     pages = metadata["pages"]
-    print(f"\n📘 {len(pages)} pages à traiter")
+    
+    # Support --range pour génération par batch (recommandation 4)
+    if "--range" in sys.argv:
+        idx = sys.argv.index("--range")
+        start = int(sys.argv[idx + 1])
+        end = int(sys.argv[idx + 2])
+        pages = pages[start:end]
+        print(f"\n📘 Batch [{start}:{end}] = {len(pages)} pages")
+    else:
+        print(f"\n📘 {len(pages)} pages à traiter (TOUTES)")
+    
     print(f"🎯 Objectif : {len(pages) * QCM_PER_PAGE} QCM\n")
+    
+    # Log (recommandation 2)
+    log_file = Path("logs/pipeline.log")
+    log_file.parent.mkdir(exist_ok=True)
+    with open(log_file, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Génération START: {len(pages)} pages\n")
     
     all_qcms = []
     failed = 0
@@ -145,6 +167,10 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_qcms, f, ensure_ascii=False, indent=2)
     
+    # Log (recommandation 2)
+    with open(log_file, "a", encoding="utf-8") as log:
+        log.write(f"[{datetime.now()}] Phase 12 - Génération END: {len(all_qcms)} QCM, {failed} failed\n")
+    
     # Statistiques
     print(f"\n{'='*60}")
     print(f"✅ GÉNÉRATION TERMINÉE")
@@ -155,6 +181,7 @@ def main():
     print(f"   Pages échouées : {failed}")
     print(f"   Moyenne QCM/page : {len(all_qcms)/len(pages):.2f}")
     print(f"\n💾 Corpus brut : {OUTPUT_FILE}")
+    print(f"📝 Log : {log_file}")
     print(f"\n🎯 PROCHAINE ÉTAPE : Validation BioBERT")
     print(f"   python scripts/expansion/validate_massive.py")
     print("="*60)
