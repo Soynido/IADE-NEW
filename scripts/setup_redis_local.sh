@@ -7,9 +7,26 @@
 echo "🔧 Configuration Redis Upstash pour IADE NEW"
 echo ""
 
-# Credentials Upstash
+# ⚠️ SÉCURITÉ : Ne jamais committer le token en clair !
+# Le token doit être passé en variable d'environnement
+
+if [ -z "$UPSTASH_REDIS_TOKEN" ]; then
+  echo "❌ Erreur : Variable UPSTASH_REDIS_TOKEN non définie"
+  echo ""
+  echo "📋 Pour récupérer le token :"
+  echo "   1. Aller sur : https://console.upstash.com/redis/full-crab-26762"
+  echo "   2. Section 'REST API' → Copier le token"
+  echo ""
+  echo "📋 Utilisation :"
+  echo "   export UPSTASH_REDIS_TOKEN='votre_token_ici'"
+  echo "   bash scripts/setup_redis_local.sh"
+  echo ""
+  exit 1
+fi
+
+# Credentials Upstash (URL publique, token depuis variable)
 REDIS_REST_URL="https://full-crab-26762.upstash.io"
-REDIS_TOKEN="AWiKAAIncDI0ZWFhNDNjYzA0N2I0NmI4YTQ0ZjU5OGJiNGY4OGY3YnAyMjY3NjI"
+REDIS_TOKEN="$UPSTASH_REDIS_TOKEN"
 REDIS_URL_FULL="rediss://default:${REDIS_TOKEN}@full-crab-26762.upstash.io:6379"
 
 # Créer .env.local
