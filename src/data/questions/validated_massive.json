@@ -1,0 +1,764 @@
+[
+  {
+    "text": "Quelle est la durée habituelle d'une épreuve IADE?",
+    "options": [
+      "2 heures et 10 minutes",
+      "3 heures",
+      "4 heures",
+      "5 heures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Une épreuve IADE typique dure généralement 2 heures.",
+    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 4,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.954
+  },
+  {
+    "text": "Combien de questions il y a-t-il habituellement dans une épreuve IADE?",
+    "options": [
+      "10 questions",
+      "15 questions",
+      "20 questions",
+      "25 questions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Il y a généralement vingt questions dans une épreuve IADE.",
+    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 4,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.921
+  },
+  {
+    "text": "Quel est le conseil qui convient à tout le monde pendant l'épreuve IADE?",
+    "options": [
+      "Ne pas perdu de temps sur les questions que vous ne savez pas répondre",
+      "Travailler rapidement et précipitamment",
+      "Ne pas chronométrer votre temps",
+      "Répondre à toutes les questions avant d'aller à l'oral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le conseil qui convient à tout le monde pendant l'épreuve IADE est de ne pas perdre de temps sur les questions que vous ne savez pas répondre.",
+    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 4,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.877
+  },
+  {
+    "text": "Quel est le site internet où l'on peut trouver des informations détaillées sur le concours IADE ?",
+    "options": [
+      "Facebook.com",
+      "Google.com",
+      "prepaconcoursiade.com",
+      "Amazon.com"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le site web www.prepaconcoursiade.com est le lieu où l'on peut trouver des informations détaillées sur le concours IADE pour vous guider au mieux dans cette épreuve.",
+    "page_id": "Prepaconcoursiade-Complet__page_002",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 2,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.853
+  },
+  {
+    "text": "Quelle action est interdite sur le livre protégé par copyright ?",
+    "options": [
+      "Vente",
+      "Reproduction",
+      "Échange",
+      "Lecture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Toute reproduction du livre protégé par copyright est absolument interdite sous peine de poursuite judiciaire.",
+    "page_id": "Prepaconcoursiade-Complet__page_002",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 2,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.93
+  },
+  {
+    "text": "Quel site internet vous permettrait d'avoir des éléments que vous n’avez pas compris ou des points que vous souhaitez approfondir sur le concours IADE ?",
+    "options": [
+      "Facebook.com",
+      "Google.com",
+      "prepaconcoursiade.com",
+      "Amazon.com"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Si vous avez des questions sur le concours IADE ou si vous n'avez pas compris certains points, vous pouvez rejoindre le groupe Facebook www.facebook.com/La-Prépa-Concours-IADE pour échanger et partager vos connaissances.",
+    "page_id": "Prepaconcoursiade-Complet__page_002",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 2,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.897
+  },
+  {
+    "text": "Quelle est la première tunique du cœur, en commençant par l'extérieur ?",
+    "options": [
+      "Myocarde",
+      "Endocarde",
+      "Epicarde",
+      "Pericarde"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'épicarde est la première tunique du cœur, en commençant par l'extérieur. Elle constitue le péricarde externe.",
+    "page_id": "Prepaconcoursiade-Complet__page_007",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 7,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.897
+  },
+  {
+    "text": "Le péricarde comprend combien de feuillets ?",
+    "options": [
+      "Un seul",
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le péricarde est constitué d'un seul feuillet externe appelé l'épicarde. Il n'y a pas de deuxième feuillet.",
+    "page_id": "Prepaconcoursiade-Complet__page_007",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 7,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.933
+  },
+  {
+    "text": "Quelle est la fonction principale des tuniques cardiaques ?",
+    "options": [
+      "Aider les mouvements cardiaques",
+      "Réguler la température du cœur",
+      "Transporter l'oxygène au cœur",
+      "Protéger le cerveau"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les tuniques cardiaques ont pour principale fonction d'aider les mouvements cardiaques et de protéger le cœur.",
+    "page_id": "Prepaconcoursiade-Complet__page_007",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 7,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.924
+  },
+  {
+    "text": "Quelle est la principale fonction du système respiratoire humain ?",
+    "options": [
+      "A. Eliminer l'hydrogène H2 et réoxygéner le sang en CO2.",
+      "B. Filtrer les liquides du corps.",
+      "C. Produire de la chaleur dans le corps.",
+      "D. Éliminer le dioxyde de carbone CO2 et réoxygéner le sang en oxygène O2."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Le rôle principal du système respiratoire humain est d'éliminer le dioxyde de carbone (CO2) et de réoxygénérer le sang en oxygène (O2). Cela est appelé l'hématose.",
+    "page_id": "Prepaconcoursiade-Complet__page_014",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 14,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.928
+  },
+  {
+    "text": "Quel phénomène permet la déplacement de l'air vers les poumons lors de l'inspiration ?",
+    "options": [
+      "A. La diffusion tissulaire.",
+      "B. La convection sanguine.",
+      "C. Les différences de pressions entre l'atmosphère et la pression transpulmonaire.",
+      "D. La contraction des muscles respiratoires."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lors de l'inspiration, l'air entre dans les poumons grâce aux différences de pressions entre l'atmosphère (0 cm H2O) et la pression transpulmonaire (environ -5 cm H2O). L'air se déplace selon les gradients de pression et va donc de la pression la plus haute à la plus basse.",
+    "page_id": "Prepaconcoursiade-Complet__page_014",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 14,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.914
+  },
+  {
+    "text": "Quelle est la différence entre l'inspiration et l'expiration ?",
+    "options": [
+      "A. L'inspiration se fait activement, tandis que l'expiration est passive.",
+      "B. L'inspiration se fait passivement, tandis que l'expiration est active.",
+      "C. L'inspiration et l'expiration sont deux étapes de la respiration qui sont toujours actives.",
+      "D. Il n'y a pas de différence entre l'inspiration et l'expiration dans le processus de respiration."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lors de l'inspiration, les poumons se dilatent et l'air entre passivement. Lors de l'expiration, les poumons se rétractent et l'air sort passivement grâce aux propriétés élastiques des poumons et de la cage thoracique.",
+    "page_id": "Prepaconcoursiade-Complet__page_014",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 14,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.901
+  },
+  {
+    "text": "Quelle pression partielle d'oxygène dans le sang permet d'avoir une hémoglobine saturée à 50 % ?",
+    "options": [
+      "13 mmHg",
+      "27 mmHg",
+      "41 mmHg",
+      "65 mmHg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La valeur de la P50 à l'état physiologique est de 27 mmHg.",
+    "page_id": "Prepaconcoursiade-Complet__page_018",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 18,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.941
+  },
+  {
+    "text": "Quel paramètre augmente la valeur de la P50 ?",
+    "options": [
+      "pH",
+      "Température",
+      "PCO2",
+      "DPG"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La courbe de Barcroft se déplace vers la droite quand il y a un changement du pH. Un changement de pH entraîne donc une augmentation de la valeur de la P50.",
+    "page_id": "Prepaconcoursiade-Complet__page_018",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 18,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.912
+  },
+  {
+    "text": "Quel paramètre permet d'atteindre une saturation en oxygène à 100 % pour un individu sain en situation normale ?",
+    "options": [
+      "FiO2",
+      "PpO2",
+      "Saturation en oxygène",
+      "Réserve respiratoire"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Il y a 21 % de fiO2 dans l'air que nous respirons tous les jours. Cette valeur suffit à avoir une saturation en oxygène à 100 %. La courbe de Barcroft forme un plateau à une certaine PpO2, indiquant que la saturation en oxygène ne monte plus au-delà.",
+    "page_id": "Prepaconcoursiade-Complet__page_018",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 18,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.915
+  },
+  {
+    "text": "Dans quelle région se trouvent les chémorécepteurs centraux qui répondent majoritairement à l'hypercapnie?",
+    "options": [
+      "Bulbe rachidien",
+      "Glomus carotidien",
+      "Pharynx",
+      "Trachée"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Les chémorécepteurs centraux se trouvent au niveau du bulbe rachidien.",
+    "page_id": "Prepaconcoursiade-Complet__page_019",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 19,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.933
+  },
+  {
+    "text": "Qu'est-ce qu'une hypoxémie?",
+    "options": [
+      "La diminution de la pression partielle en O2 dans le sang artériel (PaO2)",
+      "Le défaut d'apport d'O2 aux cellules",
+      "L'augmentation de la pression partielle en CO2 dans le sang artériel (PaCO2)",
+      "La diminution de la pression partielle en CO2 dans le sang artériel (PaCO2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hypoxémie est la diminution de la pression partielle en O2 dans le sang artériel (PaO2).",
+    "page_id": "Prepaconcoursiade-Complet__page_019",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 19,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.958
+  },
+  {
+    "text": "Quels sont les récepteurs qui reagissent majoritairement à l'hypoxémie?",
+    "options": [
+      "Chémorécepteurs centraux",
+      "Chémorécepteurs périphériques",
+      "Mécanorécepteurs",
+      "Thermorécepteurs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les chémorécepteurs périphériques situés au niveau du glomus carotidien réagissent majoritairement à l'hypoxémie.",
+    "page_id": "Prepaconcoursiade-Complet__page_019",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 19,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.92
+  },
+  {
+    "text": "Quel est l'effet du déséquilibre métabolique sur le PH?",
+    "options": [
+      "Il augmente",
+      "Il diminue",
+      "Il se maintient constant",
+      "Il est impossible à déterminer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le déséquilibre métabolique entraîne une diminution du PH car la baisse des bicarbonates se traduit par une acideurie.",
+    "page_id": "Prepaconcoursiade-Complet__page_026",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 26,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.934
+  },
+  {
+    "text": "Quel est l'effet de l'hypercapnie sur le PH?",
+    "options": [
+      "Il augmente",
+      "Il diminue",
+      "Il se maintient constant",
+      "Il est impossible à déterminer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'hypercapnie, qui est une élévation de la PCO2, entraîne une baisse du PH car elle traduit une acidose respiratoire.",
+    "page_id": "Prepaconcoursiade-Complet__page_026",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 26,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.936
+  },
+  {
+    "text": "Quel est l'effet d'une hyperventilation alvéolaire sur le PH?",
+    "options": [
+      "Il augmente",
+      "Il diminue",
+      "Il se maintient constant",
+      "Il est impossible à déterminer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Une hyperventilation alvéolaire entraîne une élévation du PH car elle traduit une alcalose respiratoire.",
+    "page_id": "Prepaconcoursiade-Complet__page_026",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 26,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.941
+  },
+  {
+    "text": "Quel est l'effet principal de l'alcalose métabolique sur le pH du corps humain ?",
+    "options": [
+      "A. Augmentation du pH",
+      "B. Réduction du pH",
+      "C. Aucun effet sur le pH",
+      "D. Augmentation des bicarbonates"
+    ],
+    "correctAnswer": 4,
+    "explanation": "L'alcalose métabolique est traduite par une augmentation du pH liée à une augmentation des bicarbonates.",
+    "page_id": "Prepaconcoursiade-Complet__page_027",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 27,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.934
+  },
+  {
+    "text": "Quel est le meilleur indicateur du fonctionnement rénal pour déterminer l'avancée d'une insuffisance rénale ?",
+    "options": [
+      "A. Débit de filtration glomérulaire (DFG)",
+      "B. Albuminurie",
+      "C. Hématurie",
+      "D. Leucocyturie"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le débit de filtration glomérulaire (DFG) est le meilleur indicateur du fonctionnement rénal pour déterminer l'avancée d'une insuffisance rénale.",
+    "page_id": "Prepaconcoursiade-Complet__page_027",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 27,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.88
+  },
+  {
+    "text": "Quel est le risque majeur associé à l'acidose métabolique ?",
+    "options": [
+      "A. Hypokalémie",
+      "B. Hyperkalémie",
+      "C. Hypocarbémie",
+      "D. Hypercarbémie"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le risque majeur associé à l'acidose métabolique est l'hypokaliémie.",
+    "page_id": "Prepaconcoursiade-Complet__page_027",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 27,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.93
+  },
+  {
+    "text": "Quelle hormone est sécrétée par les cellules alpha des îlots de Langerhans du pancréas?",
+    "options": [
+      "Insuline",
+      "Glucagon",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le glucagon est une hormone hyperglycémiante qui est sécrétée par les cellules alpha des îlots de Langerhans du pancréas.",
+    "page_id": "Prepaconcoursiade-Complet__page_031",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 31,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.908
+  },
+  {
+    "text": "Quel type de diabète se caractérise par l'inaction des cellules β des îlots de Langerhans?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le type I de diabète est auto-immun et dit insulinodépendant, il se caractérise par l'inaction des cellules β des îlots de Langerhans.",
+    "page_id": "Prepaconcoursiade-Complet__page_031",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 31,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.908
+  },
+  {
+    "text": "Quel composant des sucs pancréatiques aide à la digestion des lipides?",
+    "options": [
+      "Bicarbonates",
+      "Trypsine",
+      "Amylase",
+      "Lipase"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La lipase est une enzyme présente dans les sucs pancréatiques qui aide à la digestion des lipides.",
+    "page_id": "Prepaconcoursiade-Complet__page_031",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 31,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.902
+  },
+  {
+    "text": "Question 1: Pourquoi le joggeur a-t-il une bronchodilatation lorsqu'il court ?",
+    "options": [
+      "A. Parce qu'il urine plus",
+      "B. Parce qu'il digère plus vite",
+      "C. Parce qu'il augmente sa respiration",
+      "D. Parce qu'il arrête son cœur de battre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le joggeur a une bronchodilatation lorsqu'il court afin de mieux respirer en augmentant sa respiration.",
+    "page_id": "Prepaconcoursiade-Complet__page_038",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 38,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.937
+  },
+  {
+    "text": "Question 2: Quels sont les deux organes qui verront leur fonctionnement ralenti lorsque le joggeur courra ?",
+    "options": [
+      "A. Le cœur et les poumons",
+      "B. Les poumons et l'intestin",
+      "C. L'intestin et la rate",
+      "D. La rate et le rein"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lorsque le joggeur court, les organes qui verront leur fonctionnement ralenti sont l'intestin et les poumons.",
+    "page_id": "Prepaconcoursiade-Complet__page_038",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 38,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.921
+  },
+  {
+    "text": "Question 3: Quelle activité augmente la nécessité d'oxygène pour un individu ?",
+    "options": [
+      "A. De manger",
+      "B. De dormir",
+      "C. De courir",
+      "D. De regarder de la télévision"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'activité qui augmente la nécessité d'oxygène pour un individu est le court.",
+    "page_id": "Prepaconcoursiade-Complet__page_038",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 38,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.934
+  },
+  {
+    "text": "Quel nerf est responsable de la vision ?",
+    "options": [
+      "Nerf I",
+      "Nerf II",
+      "Nerf III",
+      "Nerf IV"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le nerf optique (nerf II) est responsable de la vision.",
+    "page_id": "Prepaconcoursiade-Complet__page_039",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 39,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.925
+  },
+  {
+    "text": "Quel nerf innerve le muscle droit externe au niveau oculaire ?",
+    "options": [
+      "Nerf III",
+      "Nerf VI",
+      "Nerf VII",
+      "Nerf VIII"
+    ],
+    "correctAnswer": 6,
+    "explanation": "Le nerf abducens (nerf VI) innerve le muscle droit externe au niveau oculaire.",
+    "page_id": "Prepaconcoursiade-Complet__page_039",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 39,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.907
+  },
+  {
+    "text": "Quel nerf est moteur pour les muscles de la face ?",
+    "options": [
+      "Nerf V",
+      "Nerf VII",
+      "Nerf IX",
+      "Nerf X"
+    ],
+    "correctAnswer": 7,
+    "explanation": "Le nerf facial (nerf VII) est moteur pour les muscles de la face.",
+    "page_id": "Prepaconcoursiade-Complet__page_039",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 39,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.904
+  },
+  {
+    "text": "Quel est le nombre total de paires de nerfs rachidiens ?",
+    "options": [
+      "a) 30",
+      "b) 28",
+      "c) 31",
+      "d) 29"
+    ],
+    "correctAnswer": 3,
+    "explanation": "There are a total of 31 pairs of spinal nerves. This includes 8 cervical (C1-C8), 12 thoracic (T1-T12), 5 lumbar (L1-L5), 5 sacral (S1-S5), and 1 coccygeal nerve.",
+    "page_id": "Prepaconcoursiade-Complet__page_040",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 40,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.907
+  },
+  {
+    "text": "Les 12 nerfs rachidiens au niveau thoracique sont quels ?",
+    "options": [
+      "a) C3-C12",
+      "b) T1-T12",
+      "c) L1-L12",
+      "d) S1-S12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The twelve thoracic spinal nerves are T1 to T12. They innervate the muscles of the chest wall and provide sensory input from the skin over the thorax and upper abdomen.",
+    "page_id": "Prepaconcoursiade-Complet__page_040",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 40,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.9
+  },
+  {
+    "text": "Quel est le nombre de paires de nerfs rachidiens au niveau lumbar ?",
+    "options": [
+      "a) 8",
+      "b) 7",
+      "c) 5",
+      "d) 6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are five lumbar (L1-L5) spinal nerves. They provide motor innervation to the muscles of the lower back and abdomen, and sensory input from the skin over the lower abdomen and upper legs.",
+    "page_id": "Prepaconcoursiade-Complet__page_040",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 40,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.895
+  },
+  {
+    "text": "Quel analgésique est contre-indiqué chez l'enfant ?",
+    "options": [
+      "Acuapan",
+      "Tramadol",
+      "Codéine",
+      "Morphine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Codéine est contre-indiquée chez l'enfant car elle peut provoquer des complications respiratoires chez les jeunes enfants et dans le cas de l'allaitement.",
+    "page_id": "Prepaconcoursiade-Complet__page_056",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 56,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.923
+  },
+  {
+    "text": "Quel analgésique peut provoquer une dépression respiratoire possible ?",
+    "options": [
+      "Acuapan",
+      "Tramadol",
+      "Codéine",
+      "Morphine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le tramadol peut provoquer une dépression respiratoire possible en cas d'intoxication ou chez des sujets prédisposés.",
+    "page_id": "Prepaconcoursiade-Complet__page_056",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 56,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.928
+  },
+  {
+    "text": "Quel analgésique est métabolisé par les reins ?",
+    "options": [
+      "Acuapan",
+      "Tramadol",
+      "Codéine",
+      "Morphine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contrairement aux autres analgésiques, l'Acuapan est éliminé par les reins sous forme de métabolites actifs.",
+    "page_id": "Prepaconcoursiade-Complet__page_056",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page_number": 56,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.931
+  },
+  {
+    "text": "Le médicament Morphine induit-il une myosis ou une mydriase ?",
+    "options": [
+      "Myosis",
+      "Mydriase",
+      "Aucun effet",
+      "Effets variés"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Morphine induit aucun effet de mydriase (médilatation pupillaire) ou myosis (rétraction pupillaire).",
+    "page_id": "annalescorrigées-Volume-1__page_005",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 5,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.945
+  },
+  {
+    "text": "Le médicament Nubain induit-il une myosis ou une mydriase ?",
+    "options": [
+      "Myosis",
+      "Mydriase",
+      "Aucun effet",
+      "Effets variés"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le Nubain induit une mydriase (médilatation pupillaire).",
+    "page_id": "annalescorrigées-Volume-1__page_005",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 5,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.951
+  },
+  {
+    "text": "Le médicament Atropine induit-il une myosis ou une mydriase ?",
+    "options": [
+      "Myosis",
+      "Mydriase",
+      "Aucun effet",
+      "Effets variés"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'Atropine induit une myosis (rétraction pupillaire).",
+    "page_id": "annalescorrigées-Volume-1__page_005",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 5,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.956
+  },
+  {
+    "text": "Le pancréas est-il la seule glande mixte du corps ?",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faux. Le testicule et l'ovaire sont également des glandes mixtes.",
+    "page_id": "annalescorrigées-Volume-1__page_016",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 16,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.948
+  },
+  {
+    "text": "Les globules rouges sont-ils éliminés par la rate après une durée de vie de 80 jours ?",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Faux. Les globules rouges sont détruits dans le spleen avant d'être éliminés par les reins.",
+    "page_id": "annalescorrigées-Volume-1__page_016",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 16,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.901
+  },
+  {
+    "text": "Le foie n’a-t-il aucun impact sur la régulation de la glycémie ?",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faux. Le foie joue un rôle important dans la régulation de la glycémie en convertissant les glucides en glycogène ou en glucose.",
+    "page_id": "annalescorrigées-Volume-1__page_016",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 16,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.92
+  },
+  {
+    "text": "Quel est le score de Glasgow du patient en question ?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 7,
+    "explanation": "Le score de Glasgow total du patient est de 7, déterminé par la somme de ses scores pour l'œil ouvert (4 points), la réponse verbale (5 points) et la réponse motrice (6 points).",
+    "page_id": "annalescorrigées-Volume-1__page_025",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 25,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.913
+  },
+  {
+    "text": "Quel signe clinique le patient présente en fonction des informations fournies ?",
+    "options": [
+      "Ouverture des yeux à la douleur",
+      "Réponse verbale inappropriée",
+      "Réponse motrice normale",
+      "Aucun signe"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le patient présente un signe clinique de réponse verbale inappropriée.",
+    "page_id": "annalescorrigées-Volume-1__page_025",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 25,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.944
+  },
+  {
+    "text": "En fonction des signes et du score de Glasgow du patient, quelle intervention pourrait être proposée ?",
+    "options": [
+      "Réanimation simple",
+      "Intubation",
+      "Réanimation en état critique",
+      "Anesthésie locale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En raison de l'état dégradé du patient (score de Glasgow de 7), il est recommandé d'effectuer l'intubation pour assurer une ventilation artificielle.",
+    "page_id": "annalescorrigées-Volume-1__page_025",
+    "source_pdf": "annalescorrigées-Volume-1.pdf",
+    "page_number": 25,
+    "generation_method": "massive_v1",
+    "biomedical_score": 0.936
+  }
+]

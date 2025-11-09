@@ -13,7 +13,7 @@ from datetime import datetime
 # Ajoute le chemin pour importer biobert_client
 sys.path.append(str(Path(__file__).parent.parent))
 
-from ai_generation.biobert_client import BioBERTClient
+from ai_generation.biobert_client import BioBERTScorer
 
 # Configuration
 INPUT_FILE = Path("src/data/questions/generated_massive.json")
@@ -41,7 +41,7 @@ def main():
     
     # Init BioBERT
     print("🧠 Chargement BioBERT...")
-    client = BioBERTClient()
+    scorer = BioBERTScorer()
     print("   ✓ Modèle chargé\n")
     
     validated = []
@@ -52,10 +52,11 @@ def main():
     for i, qcm in enumerate(qcms, 1):
         text = qcm.get("text", "")
         explanation = qcm.get("explanation", "")
+        module_id = qcm.get("module_id", "unknown")
         
-        # Calcule score
+        # Calcule score BioBERT
         full_text = f"{text} {explanation}"
-        score = client.score_question(full_text, qcm.get("source_pdf", ""))
+        score = scorer.compute_biomedical_score(full_text, module_id)
         
         qcm["biomedical_score"] = round(score, 3)
         
