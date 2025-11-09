@@ -712,5 +712,537 @@
     "source_pdf": "annalescorrigées-Volume-1.pdf",
     "page_number": 25,
     "generation_method": "massive_v1"
+  },
+  {
+    "text": "Quel signe physiologique indique une déshydratation intracellulaire ?",
+    "options": [
+      "Soif",
+      "Signe du pli cutané",
+      "Hypotension artérielle orthostatique",
+      "Aplatissement des veines superficielles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Soif est un signe de déshydratation intracellulaire",
+    "id": "Prepaconcoursiade-Complet__page_024_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 24,
+    "page_id": "Prepaconcoursiade-Complet__page_024",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel signe physiologique indique une déshydratation extracellulaire ?",
+    "options": [
+      "Soif",
+      "Signe du pli cutané",
+      "Hypotension artérielle orthostatique",
+      "Aplatissement des veines superficielles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Signe du pli cutané est un signe de déshydratation extracellulaire",
+    "id": "Prepaconcoursiade-Complet__page_024_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 24,
+    "page_id": "Prepaconcoursiade-Complet__page_024",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est le signe principal d'une hyperhydrodation intracellulaire ?",
+    "options": [
+      "Prise de poids modérée",
+      "Absence de soif voire dégoût de l’eau.",
+      "Des troubles neurologiques non spécifiques (céphalées, obnubilation, nausées, vomissements)",
+      "Tous les éléments ci-dessus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tous les éléments ci-dessus sont des signes principaux d'une hyperhydrodation intracellulaire.",
+    "id": "Prepaconcoursiade-Complet__page_025_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "page_id": "Prepaconcoursiade-Complet__page_025",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle est la cause principale d'une hyperhydrodation extracellulaire ?",
+    "options": [
+      "L’insuffisance cardiaque",
+      "La cirrhose ascitique",
+      "Le syndrome néphrotique (affection rénale)",
+      "Une infection respiratoire sévère"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La cirrhose ascitique est la cause principale d'une hyperhydrodation extracellulaire.",
+    "id": "Prepaconcoursiade-Complet__page_025_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 25,
+    "page_id": "Prepaconcoursiade-Complet__page_025",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est le pourcentage du débit cardiaque représenté par le sang qui passe à travers le foie ?",
+    "options": [
+      "A. 50%",
+      "B. 75%",
+      "C. 25%",
+      "D. 100%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le sang qui passe à travers le foie représente 25 % du débit cardiaque.",
+    "id": "Prepaconcoursiade-Complet__page_028_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 28,
+    "page_id": "Prepaconcoursiade-Complet__page_028",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelles sont les fonctions principales du foie ?",
+    "options": [
+      "A. Fonction exocrine uniquement",
+      "B. Fonction métabolique uniquement",
+      "C. Fonctions d'exocrine, de métabolisme et de détoxification",
+      "D. Aucune des précédentes"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le foie a plusieurs rôles : fonctions exocrine (sécrétion biliaire), métabolique (glucides, lipides et protides), de détoxification et de stockage (vitamines et fer).",
+    "id": "Prepaconcoursiade-Complet__page_028_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 28,
+    "page_id": "Prepaconcoursiade-Complet__page_028",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Le foie convertit les hydrates de carbone (ou glucides) et les protéines en graisse pour ensuite les transporter et les stocker dans le tissu adipeux. Quel processus est responsable de la conversion des glucides en graisse ?",
+    "options": [
+      "Glycogénolyse",
+      "Glycolyse",
+      "Néoglucogenèse",
+      "Glycogénogenèse"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le néoglucogenèse est le processus qui permet à la fois la fabrication de glucose à partir d'acides aminés et d'acides gras lorsque les réserves en glucose sont épuisées.",
+    "id": "Prepaconcoursiade-Complet__page_029_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "page_id": "Prepaconcoursiade-Complet__page_029",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Le foie peut utiliser le glycogène sous forme de source d’énergie lorsque les besoins sont plus importants que les apports. Quel est le processus qui permet cette utilisation du glycogène ?",
+    "options": [
+      "Glycolyse",
+      "Glycogenolyse",
+      "Néoglucogenèse",
+      "Glycogénogenèse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La glycogenolyse est le processus qui permet d’utiliser le glycogène sous forme de source d'énergie lorsque les besoins sont plus importants que les apports.",
+    "id": "Prepaconcoursiade-Complet__page_029_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 29,
+    "page_id": "Prepaconcoursiade-Complet__page_029",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle substance toxique est transformée par le foie en bilirubine conjuguée ?",
+    "options": [
+      "Ammoniaque",
+      "Bilirubine libre",
+      "Alcool",
+      "Traitements pris par voie orale"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La bilirubine libre est détruite dans la rate après 120 jours de vie et transformée par le foie en bilirubine conjuguée.",
+    "id": "Prepaconcoursiade-Complet__page_030_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 30,
+    "page_id": "Prepaconcoursiade-Complet__page_030",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Où se forme le cholédoque ?",
+    "options": [
+      "Voie biliaire principale",
+      "Canal hépatique droit",
+      "Canal cystique",
+      "Voies intrahépatiques"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le cholédoque se forme par l'union du canal hépatique droit et gauche avec le canal cystique.",
+    "id": "Prepaconcoursiade-Complet__page_030_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 30,
+    "page_id": "Prepaconcoursiade-Complet__page_030",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est le composant majeur du système nerveux central ?",
+    "options": [
+      "Le cervelet",
+      "La moelle épinière",
+      "Les cellules gliales",
+      "Le système nerveux périphérique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La moelle épinière est le composant majeur du système nerveux central.",
+    "id": "Prepaconcoursiade-Complet__page_032_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 32,
+    "page_id": "Prepaconcoursiade-Complet__page_032",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quels sont les principaux types de cellules dans le système nerveux central ?",
+    "options": [
+      "Neurones et muscles",
+      "Cellules gliales et neurones",
+      "Neurones, cellules gliales et cellules nerveuses",
+      "Cellules gliales et cellules épithéliales"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les principaux types de cellules dans le système nerveux central sont les neurones et les cellules gliales.",
+    "id": "Prepaconcoursiade-Complet__page_032_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 32,
+    "page_id": "Prepaconcoursiade-Complet__page_032",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel facteur majeur détermine le débit sanguin cérébral (DSC) ?",
+    "options": [
+      "Pression arterielle moyenne (PAM)",
+      "Pression veineuse cérébrale",
+      "Innervation parasympathique",
+      "CO2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'innervation sympathique est importante pour le DSC, mais l'innervation parasympathique n'est pas déterminante. Le CO2 est un puissant vasodilatateur et donc un facteur majeur du DSC.",
+    "id": "Prepaconcoursiade-Complet__page_034_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 34,
+    "page_id": "Prepaconcoursiade-Complet__page_034",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle est la pression veineuse cérébrale ?",
+    "options": [
+      "100 mmHg",
+      "5 mmHg",
+      "120 mmHg",
+      "200 mmHg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La pression veineuse cérébrale est quasi négligeable, de l'ordre de 5 mmHg. Cette valeur est donc la bonne.",
+    "id": "Prepaconcoursiade-Complet__page_034_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 34,
+    "page_id": "Prepaconcoursiade-Complet__page_034",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quels prolongements possède une cellule nerveuse ?",
+    "options": [
+      "A. Dendrite et axone",
+      "B. Axone et dendrite",
+      "C. Axone et noyau",
+      "D. Noyau et dendrite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La cellule nerveuse possède deux prolongements : dendrites et axone.",
+    "id": "Prepaconcoursiade-Complet__page_033_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "page_id": "Prepaconcoursiade-Complet__page_033",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel type de cellule gliale est responsable de la synthèse de la myéline ?",
+    "options": [
+      "A. Astrocyte",
+      "B. Oligodendrocyte",
+      "C. Cellule de Schwann",
+      "D. Microglie"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La synthèse de la myéline est assurée par les oligodendrocytes.",
+    "id": "Prepaconcoursiade-Complet__page_033_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "page_id": "Prepaconcoursiade-Complet__page_033",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quels systèmes vascularisent l'encéphale ?",
+    "options": [
+      "Les nerfs (droite et gauche)",
+      "Les carotides (droite et gauche)",
+      "Les artères cérébrales et le système vertébral",
+      "Les muscles (droite et gauche)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les carotides (droite et gauche) et le système vertébral vascularisent l'encéphale.",
+    "id": "Prepaconcoursiade-Complet__page_035_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 35,
+    "page_id": "Prepaconcoursiade-Complet__page_035",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est le réseau de remplacement dans le cas de problèmes vasculaires en cerveau ?",
+    "options": [
+      "Le polygone de Willis",
+      "Le système nerveux central",
+      "Le système immunitaire",
+      "La peau"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le polygone de Willis est le réseau de remplacement dans le cas de problèmes vasculaires en cerveau.",
+    "id": "Prepaconcoursiade-Complet__page_035_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 35,
+    "page_id": "Prepaconcoursiade-Complet__page_035",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est l'espace qui contient le liquide céphalo-rachidien ?",
+    "options": [
+      "Espace sous-dural",
+      "Espace sous-arachnoïdien",
+      "Espace péridural",
+      "Aucun des précédents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'espace sous-arachnoïdien contient le liquide céphalo-rachidien.",
+    "id": "Prepaconcoursiade-Complet__page_036_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 36,
+    "page_id": "Prepaconcoursiade-Complet__page_036",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle est la barrière biologique qui permet d'isoler le système nerveux du reste de l'organisme ?",
+    "options": [
+      "La barrière hémato-encéphalique",
+      "La barrière hémato-rachidienne",
+      "La barrière hémato-médullaire",
+      "Aucune des précédentes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La barrière hémato-encéphalique permet d'isoler le système nerveux du reste de l'organisme.",
+    "id": "Prepaconcoursiade-Complet__page_036_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 36,
+    "page_id": "Prepaconcoursiade-Complet__page_036",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel système nerveux joue un rôle dans le maintien de l'homéostasie et est indépendant de la volonté ?",
+    "options": [
+      "A. Système sympathique",
+      "B. Système parasympathique",
+      "C. Système nerveux central",
+      "D. Système périphérique"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le système parasympathique est responsable du maintien de l'homéostasie et est indépendant de la volonté.",
+    "id": "Prepaconcoursiade-Complet__page_037_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 37,
+    "page_id": "Prepaconcoursiade-Complet__page_037",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle action a le récepteur β en matière d'inotrope pour le cœur ?",
+    "options": [
+      "A. Contraction du muscle cardiaque",
+      "B. Relaxation du muscle cardiaque",
+      "C. Augmentation de la fréquence cardiaque",
+      "D. Dilatation des vaisseaux"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le récepteur β en matière d'inotrope pour le cœur provoque une relaxation du muscle cardiaque.",
+    "id": "Prepaconcoursiade-Complet__page_037_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 37,
+    "page_id": "Prepaconcoursiade-Complet__page_037",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quel est le score de Glasgow définissant un état neurologique de conscience normale, somnolence ou coma léger?",
+    "options": [
+      "8 à 15",
+      "3 à 7",
+      "4 à 6",
+      "1 à 2"
+    ],
+    "correctAnswer": 8,
+    "explanation": "Un score de Glasgow de 8 à 15 signifie un état neurologique de conscience normale, somnolence ou coma léger.",
+    "id": "Prepaconcoursiade-Complet__page_041_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 41,
+    "page_id": "Prepaconcoursiade-Complet__page_041",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle agression cérébrale secondaire est associée à une température corporelle supérieure à 38°?",
+    "options": [
+      "Hyperglycémie",
+      "Hyperthermie",
+      "Hypoglycémie",
+      "Anémie"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Une hyperthermie (température supérieure à 38°) est une agression cérébrale secondaire associée à un déséquilibre biologique qui aggrave le pronostic du traumatisé crânien.",
+    "id": "Prepaconcoursiade-Complet__page_041_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 41,
+    "page_id": "Prepaconcoursiade-Complet__page_041",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle hormone régule la sécrétion de TSH (thyrotropin) ?",
+    "options": [
+      "GHRH (Growth hormone releasing hormone)",
+      "PRH (Prolactin releasing hormone)",
+      "TRH (Thyrotropin releasing hormone)",
+      "GIH (Growth hormone release inhibiting)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The thyrotropin releasing hormone (TRH) is the one that stimulates the secretion of TSH.",
+    "id": "Prepaconcoursiade-Complet__page_042_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 42,
+    "page_id": "Prepaconcoursiade-Complet__page_042",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle hormone augmente l’absorption du calcium en potentialisant l'action de la vitamine D ?",
+    "options": [
+      "Parathormone (PTH)",
+      "Calcitonine",
+      "Growth hormone releasing hormone (GHRH)",
+      "Prolactin releasing hormone (PRH)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Parathormone (PTH) increases the absorption of calcium by enhancing the action of vitamin D.",
+    "id": "Prepaconcoursiade-Complet__page_042_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 42,
+    "page_id": "Prepaconcoursiade-Complet__page_042",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle hormone est régulée par rétrocontrôle négatif et agit sur la thyroïde ?",
+    "options": [
+      "ACTH",
+      "FSH",
+      "TSH",
+      "PRL"
+    ],
+    "correctAnswer": 2,
+    "explanation": "TSH (thyréostimuline) agit sur la thyroïde et est régulée par rétrocontrôle négatif.",
+    "id": "Prepaconcoursiade-Complet__page_043_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "page_id": "Prepaconcoursiade-Complet__page_043",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
+  },
+  {
+    "text": "Quelle hormone stimule la lactation ?",
+    "options": [
+      "ACTH",
+      "FSH",
+      "TSH",
+      "PRL"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Prolactine (PRL) permet la lactation.",
+    "id": "Prepaconcoursiade-Complet__page_043_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 43,
+    "page_id": "Prepaconcoursiade-Complet__page_043",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized"
   }
 ]

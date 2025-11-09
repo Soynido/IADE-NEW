@@ -1,0 +1,27 @@
+📊 IADE Massive Generation Report
+═══════════════════════════════════════════════════════════
+
+Date              : 2025-11-09 17:13:34
+Version           : v2.0 Expansion
+
+CORPUS
+───────────────────────────────────────────────────────────
+Existing corpus   : 165 QCM
+New generated     : 76 QCM
+Added             : 76 QCM
+Duplicates        : 0 (0.0%)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total final       : 241 QCM
+
+GAIN
+───────────────────────────────────────────────────────────
+Expansion factor  : ×1.46
+New QCM added     : +76 (46.1%)
+
+QUALITY
+───────────────────────────────────────────────────────────
+Deduplication     : 85% threshold
+Source verified   : v1.2.1 (98.2% validated)
+BioBERT validated : All new QCM >= 0.4
+
+═══════════════════════════════════════════════════════════

@@ -111,8 +111,8 @@ def generate_for_page(page_data: dict, retry=0) -> list:
         # Enrichit les QCM
         for i, qcm in enumerate(qcms):
             qcm["id"] = f"{page_id}_q{i+1}"
-            qcm["source_pdf"] = page_data["pdf_name"]
-            qcm["page"] = page_data["page_num"]
+            qcm["source_pdf"] = page_data["pdf"]
+            qcm["page"] = page_data["page_number"]
             qcm["page_id"] = page_id
             qcm["module_id"] = "unknown"  # À classifier plus tard
             qcm["difficulty"] = "medium"

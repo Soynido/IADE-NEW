@@ -9,6 +9,7 @@ Fusionne le nouveau corpus massif avec l'existant (v1.2.1)
 import json
 from pathlib import Path
 from rapidfuzz import fuzz
+from tqdm import tqdm
 
 # Configuration
 EXISTING_FILE = Path("src/data/questions/compiled_verified.json")
