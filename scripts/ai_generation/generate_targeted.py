@@ -52,6 +52,35 @@ CRITICAL_MODULES = {
     }
 }
 
+# Batch réduit pour tests rapides (basé sur priorités utilisateur)
+SMALL_MODULES = {
+    "ventilation": {
+        "count": 10,
+        "keywords": "intubation, extubation, ventilation mécanique, PEEP, volume courant, Vt, modes ventilatoires, VAC, VSAI, VACI, compliance, résistance respiratoire, auto-PEEP, pression plateau, courbes ventilatoires",
+        "context": "gestion des voies aériennes, ventilation artificielle, réglages du respirateur, surveillance des courbes"
+    },
+    "pediatrie": {
+        "count": 10,
+        "keywords": "enfant, nouveau-né, nourrisson, pédiatrique, néonatal, prématuré, score Apgar, réanimation néonatale, dosage pédiatrique, poids enfant, particularités pédiatriques",
+        "context": "anesthésie pédiatrique, réanimation néonatale, spécificités physiologiques de l'enfant"
+    },
+    "monitorage": {
+        "count": 8,
+        "keywords": "capnographie, EtCO2, oxymétrie, SpO2, ECG, monitoring, scope, cathéter artériel, pression invasive, PVC, Swan-Ganz, BIS, entropie, thermodilution",
+        "context": "surveillance anesthésique, paramètres vitaux, monitorage invasif et non-invasif, interprétation des courbes"
+    },
+    "pharma_opioides": {
+        "count": 6,
+        "keywords": "morphine, fentanyl, sufentanil, rémifentanil, alfentanil, naloxone, antagoniste morphinique, opioïde, opiacé, analgésie opioïde, palier 3 OMS",
+        "context": "pharmacologie des opioïdes, analgésie peropératoire, antagonisation, effets secondaires"
+    },
+    "legislation": {
+        "count": 6,
+        "keywords": "loi, décret, consentement éclairé, déontologie, responsabilité, secret professionnel, rôle propre, rôle sur prescription, IDE, IADE, obligations légales",
+        "context": "cadre légal de l'anesthésie, droits du patient, obligations de l'IADE, rôle IDE vs IADE"
+    }
+}
+
 TARGETED_PROMPT = """Tu es un expert IADE spécialisé en {module_name}.
 
 Génère 2 QCM de qualité sur le thème : {theme}
@@ -164,9 +193,17 @@ def main():
     print()
     
     # Détermine quels modules générer
-    if "--batch" in sys.argv and sys.argv[sys.argv.index("--batch") + 1] == "critical":
-        # Génère tous les modules critiques
-        modules_to_generate = CRITICAL_MODULES
+    if "--batch" in sys.argv:
+        batch_type = sys.argv[sys.argv.index("--batch") + 1]
+        if batch_type == "critical":
+            # Génère tous les modules critiques
+            modules_to_generate = CRITICAL_MODULES
+        elif batch_type == "small":
+            # Batch réduit pour tests rapides
+            modules_to_generate = SMALL_MODULES
+        else:
+            print(f"❌ Batch type '{batch_type}' inconnu. Utilisez 'critical' ou 'small'")
+            return
     elif "--module" in sys.argv:
         # Génère un seul module
         idx = sys.argv.index("--module")

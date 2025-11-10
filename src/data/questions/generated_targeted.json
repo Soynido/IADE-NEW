@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Quel mode ventilatoire est utilisé pour assurer une ventilation permissive bi-systolique à un patient en ventilation mécanique ?",
+    "options": [
+      "Assist-Control",
+      "Pressure Support",
+      "Synchronized Intermittent Mandatory Ventilation",
+      "Continuous Positive Airway Pressure"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le mode Synchronized Intermittent Mandatory Ventilation (SIMV) est utilisé pour assurer une ventilation permissive bi-systolique. Dans ce mode, le patient peut inspirer spontanément entre les cycles de ventilation mandatés.",
+    "id": "ventilation_targeted_0_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel type de courbe ventilatoire permettrait d'assurer une ventilation avec PEEP (Positive End-Expiratory Pressure) ?",
+    "options": [
+      "A-C",
+      "B-C",
+      "A-D",
+      "B-A"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La courbe ventilatoire avec PEEP est caractérisée par une plateau après l'expiration. Cette courbe peut être obtenue avec les types de courbes A-C ou B-C.",
+    "id": "ventilation_targeted_0_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel mode ventilatoire est utilisé lorsque l'objectif est d'obtenir une hyperventilation avec un rapport inspiratoire-expiratoire (I:E) élevé et de fournir du PEEP ?",
+    "options": [
+      "CPAP",
+      "IMV",
+      "SVM",
+      "Pressure Control"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le mode Synchronisé (SVM) permet d'obtenir un ratio inspiratoire-expiratoire élevé et de fournir du PEEP.",
+    "id": "ventilation_targeted_1_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est l'effet principal de la courbe en plateau lorsqu'elle est appliquée à une ventilation mécanique ?",
+    "options": [
+      "Permet d'obtenir un apnée artificiel",
+      "Profondément réduit le volume inspiré",
+      "Fournit des impulsions supplémentaires lors de la phase d'expiration",
+      "Assure une ventilation homogène au sein des alvéoles pulmonaires"
+    ],
+    "correctAnswer": 4,
+    "explanation": "La courbe en plateau assure une ventilation homogène au sein des alvéoles pulmonaires.",
+    "id": "ventilation_targeted_1_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel mode ventilatoire est utilisé pour maintenir une pression positive dans les voies aériennes au-delà de l'inspiration ?",
+    "options": [
+      "Assist Control",
+      "Pressure Support",
+      "Continuous Positive Airway Pressure (CPAP)",
+      "Synchronized Intermittent Mandatory Ventilation (SIMV)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La pression positive continue dans les voies aériennes est maintenue au-delà de l'inspiration par le mode Continuous Positive Airway Pressure (CPAP). Cela permet d'améliorer la ventilation et de réduire le risque d'effondrement alvéolaire.",
+    "id": "ventilation_targeted_2_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est l'objectif principal de l'utilisation de PEEP lors de l'intubation ?",
+    "options": [
+      "Ouvrir les voies aériennes",
+      "Améliorer la ventilation alvéolaire",
+      "Réduire la production de mucus",
+      "Prévenir les complications liées à l'immobilisation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'utilisation de PEEP (Pressure Expired Positive Airway Pressure) lors de l'intubation et de la ventilation mécanique a pour objectif d'améliorer la ventilation alvéolaire en évitant le collapsage des alvéoles pendant l'expiration. Ceci permet d'augmenter la délivrance d'oxygène et de réduire les complications respiratoires.",
+    "id": "ventilation_targeted_2_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est le mode ventilatoire utilisé pour assurer une ventilation protégée des voies aériennes basses en cas d'intubation?",
+    "options": [
+      "CPAP",
+      "IMV",
+      "SIMV",
+      " Pressure Control"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Le mode Pressure Control est utilisé pour assurer une ventilation protégée des voies aériennes basses en cas d'intubation.",
+    "id": "ventilation_targeted_3_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel paramètre de ventilation mécanique augmente le recrutement alvéolaire et peut être utile dans certaines conditions de détresse respiratoire?",
+    "options": [
+      "FiO2",
+      "PIP",
+      "PEEP",
+      "RR"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le Positive End-Expiratory Pressure (PEEP) augmente le recrutement alvéolaire et peut être utile dans certaines conditions de détresse respiratoire.",
+    "id": "ventilation_targeted_3_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel mode ventilatoire est utilisé pour procurer une ventilation avec une pression positive continue ?",
+    "options": [
+      "CPAP (Continuous Positive Airway Pressure)",
+      "IMV (Intermittent Mandatory Ventilation)",
+      "SIMV (Synchronized Intermittent Mandatory Ventilation)",
+      "Pressure Support Ventilation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPAP (Continuous Positive Airway Pressure) utilise une pression positive continue pour maintenir les voies aériennes patentes et améliorer l'oxygénation.",
+    "id": "ventilation_targeted_4_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel équipement est nécessaire lors d'une intubation pour la ventilation mécanique ?",
+    "options": [
+      "Laryngoscope, étrier de trachée, masque à oxygène, circuit respiratoire",
+      "Stethoscope, stylette nasotrachéal, masque à oxygène, circuit respiratoire",
+      "Laryngoscope, étrier de trachée, stylette nasotrachéal, circuit respiratoire",
+      "Stethoscope, étrier de trachée, masque à oxygène, styloscope"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lors d'une intubation pour la ventilation mécanique, un laryngoscope et un étrier de trachée sont nécessaires. Le masque à oxygène est également important mais n'est pas lié directement à l'intubation.",
+    "id": "ventilation_targeted_4_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Un nouveau-né a un score Apgar à 1 minute élevé (9 ou 10). Quelle est la probabilité qu'il nécessite une réanimation néonatale ?",
+    "options": [
+      "A) Très faible",
+      "B) Faible",
+      "C) Modérée",
+      "D) Élevée"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Un score Apgar élevé à 1 minute indique un nouveau-né en bonne santé et la probabilité de nécessiter une réanimation néonatale est très faible.",
+    "id": "pediatrie_targeted_0_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Pour doser l'intubation pédiatrique, quel est le débit minimal recommandé pour une enfant de 5 kg ?",
+    "options": [
+      "A) 2 L/min",
+      "B) 4 L/min",
+      "C) 6 L/min",
+      "D) 8 L/min"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pour un enfant de 5 kg, le débit minimal recommandé pour l'intubation pédiatrique est de 6 L/min.",
+    "id": "pediatrie_targeted_0_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Enquêtez-vous quels sont les facteurs considérés lors du dosage de médicaments pédiatriques ?",
+    "options": [
+      "A) Poids, âge et taille de l'enfant",
+      "B) Age et poids de l'enfant seulement",
+      "C) Taille, poids et sexe de l'enfant",
+      "D) Poids et sexe de l'enfant seulement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lors du dosage de médicaments pour un enfant, il est important d'avoir en compte le poids, l'âge et la taille de l'enfant. Cela sert à garantir une dose adéquate tout en minimisant les effets indésirables.",
+    "id": "pediatrie_targeted_1_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Que représente le score Apgar ?",
+    "options": [
+      "A) Score d'évaluation de la condition physique du nouveau-né dans ses premières minutes",
+      "B) Score de l'état de santé général de l'enfant à un âge plus avancé",
+      "C) Score de l'état de santé psychologique de l'enfant",
+      "D) Score de l'efficacité d'une anesthésie pédiatrique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le score Apgar est un test utilisé pour évaluer le nouvel-né immédiatement après la naissance. Il vise à déterminer si l'enfant nécessite de l'aide en raison d'un stress perinatal.",
+    "id": "pediatrie_targeted_1_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Dans quelle échelle de 0 à 10 est évalué le nouveau-né immédiatement après la naissance, en fonction de son aspect général, de sa coloration et de ses réflexes ?",
+    "options": [
+      "Score Apgar",
+      "Score Paediatric",
+      "Hospital Score",
+      "Newborn Assessment Score"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le score Apgar est utilisé pour évaluer le nouveau-né immédiatement après la naissance.",
+    "id": "pediatrie_targeted_2_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel dosage pédiatrique représente la moitié de celui pour les adultes ?",
+    "options": [
+      "Dosage pédiatrique standard",
+      "Dosage pédiatrique faible",
+      "Dosage pédiatrique élevé",
+      "Dosage pédiatrique adapté"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le dosage pédiatrique faible représente la moitié de celui pour les adultes.",
+    "id": "pediatrie_targeted_2_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Dans une anesthésie pédiatrique, quelle est l'échelle utilisée pour évaluer le score de l'état du nouveau-né immédiatement après la naissance ?",
+    "options": [
+      "Score Apgar 1",
+      "Score Apgar 2",
+      "Score Apgar 3",
+      "Score Apgar 4"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Le score Apgar est un système d'évaluation simple et rapide de l'état de santé d'un nouveau-né immédiatement après la naissance. Il comprend des critères sur le tonus musculaire, la respiration, la couleur de peau, les réflexes et la ponction péricentrale.",
+    "id": "pediatrie_targeted_3_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "En réanimation néonatale, quelle est la dose recommandée pour un dosage pédiatrique de suxamethonium ?",
+    "options": [
+      "0.5 mg/kg",
+      "1 mg/kg",
+      "2 mg/kg",
+      "4 mg/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En réanimation néonatale, le dosage recommandé pour un suxamethonium pédiatrique est de 1 mg/kg.",
+    "id": "pediatrie_targeted_3_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Dans la réanimation néonatale, quel est le score Apgar après une minute de vie ?",
+    "options": [
+      "0-1 points",
+      "2-3 points",
+      "4-5 points",
+      "6-10 points"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le score Apgar à 1 minute évalue la respiration, la couleur de la peau et la tonus musculaire. Il peut aller de 0 à 10 points, mais après une minute, un nouveau-né avec une respiration régulière, une couleur de peau pâle et un tonus musculaire normal obtient généralement entre 2 et 3 points.",
+    "id": "pediatrie_targeted_4_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "En cas d'anesthésie pédiatrique, quel dosage est le plus approprié pour un enfant de 5 ans ?",
+    "options": [
+      "La dose d'un adulte",
+      "Un quart de la dose d'un adulte",
+      "Une moitié de la dose d'un adulte",
+      "La dose de l'enfant est individualisée selon son poids"
+    ],
+    "correctAnswer": 3,
+    "explanation": "En anesthésie pédiatrique, les doses sont adaptées à l'âge et au poids de l'enfant. Une dose d'un adulte est généralement trop élevée pour un enfant de 5 ans. La dose de l'enfant doit être individualisée selon son poids.",
+    "id": "pediatrie_targeted_4_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Durant l'anesthésie, une cathéter artériel est utilisé pour effectuer le monitorage de la pression artérielle. Quel est son autre avantage important ?",
+    "options": [
+      "A) Il permet de mesurer la saturation en oxygène (SpO2)",
+      "B) Il peut être utilisé pour l'ECG",
+      "C) Il permet de mesurer le débit sanguin",
+      "D) Il peut être utilisé pour la capnographie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'ECG (Electrocardiogramme) peut être réalisé grâce à un cathéter artériel.",
+    "id": "monitorage_targeted_0_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quelle technique de monitorage est utilisée pour mesurer la concentration de dioxyde de carbone (CO2) dans les gaz échangés par les poumons ?",
+    "options": [
+      "A) ECG",
+      "B) Capnographie",
+      "C) SpO2",
+      "D) Cathéter artériel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La capnographie est utilisée pour mesurer la concentration de dioxyde de carbone dans les gaz échangés par les poumons.",
+    "id": "monitorage_targeted_0_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel instrument est utilisé pour la capnographie lors de l'anesthésie ?",
+    "options": [
+      "ECG",
+      "SpO2",
+      "Cathéter artériel",
+      "Un dispositif dédié à la capnographie"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Un dispositif dédié à la capnographie est utilisé pour mesurer les gaz éliminés par l'appareil respiratoire lors de l'anesthésie.",
+    "id": "monitorage_targeted_1_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel signal peut être obtenu via un cathéter artériel dans le contexte du monitorage anesthésique ?",
+    "options": [
+      "CO2",
+      "O2",
+      "ECG",
+      "Température"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un cathéter artériel peut être utilisé pour mesurer le niveau de dioxyde de carbone (CO2) dans l'organisme. Cela aide à surveiller la respiration et la ventilation lors de l'anesthésie.",
+    "id": "monitorage_targeted_1_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel dispositif est utilisé pour mesurer la saturation d'oxygène dans le sang de la peau ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "SpO2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'SpO2 (Saturation d'oxygène dans le sang) est mesurée par un dispositif appelé SpO2, qui utilise des lumières pour mesurer la quantité de oxygène dans le sang.",
+    "id": "monitorage_targeted_2_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel dispositif est utilisé pour mesurer la pression artérielle ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "SpO2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le cathéter artériel est utilisé pour mesurer la pression artérielle. Il est inséré dans une artère, généralement l'artère radiale ou la grosse artère fémorale.",
+    "id": "monitorage_targeted_2_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel appareil est utilisé pour mesurer la saturation d'oxygène dans le sang d'une personne sous anesthésie ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "Thermomètre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le SpO2 est mesuré par un capteur de saturation d'oxygène placé sur la peau d'une personne. Ce capteur ne peut pas être confondu avec le cathéter artériel ou l'ECG, qui ont des usages différents.",
+    "id": "monitorage_targeted_3_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "En surveillance anesthésique, quel type de cathéter est utilisé pour mesurer la pression artérielle ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "Thermomètre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le cathéter artériel est utilisé pour mesurer la pression artérielle directement dans l'artère. Les autres appareils ne sont pas destinés à cette fonction.",
+    "id": "monitorage_targeted_3_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel opioïde est utilisé pour traiter la douleur intense et la fiévre ?",
+    "options": [
+      "A) Morphine",
+      "B) Fentanyl",
+      "C) Naloxone",
+      "D) Dextropropoxyphene"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Morphine est utilisé pour traiter la douleur intense et la fiévre dans le contexte de l'anesthésie.",
+    "id": "pharma_opioides_targeted_0_0",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel opioïde est utilisé comme antidote en cas d'overdose d'opioïdes ?",
+    "options": [
+      "A) Morphine",
+      "B) Fentanyl",
+      "C) Naloxone",
+      "D) Dextropropoxyphene"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Naloxone est utilisé comme antidote en cas d'overdose d'opioïdes.",
+    "id": "pharma_opioides_targeted_0_1",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel opioïde est utilisé comme antagoniste pour bloquer les effets d'opioïdes sur le système nerveux central?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Dextropropoxyphene"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Naloxone est un antagoniste opioïde qui bloque les effets d'opioïdes sur le système nerveux central.",
+    "id": "pharma_opioides_targeted_1_0",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Fentanyl est...",
+    "options": [
+      "Un antidote pour la surdose d'opioïdes",
+      "Un opioïde de forte puissance",
+      "Un analgésique utilisé dans le traitement de l'asthme",
+      "Un antagoniste opioïde"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fentanyl est un opioïde de forte puissance utilisé pour soulager la douleur extrême.",
+    "id": "pharma_opioides_targeted_1_1",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est l'analgésique opioïde synthétique le plus puissant utilisé en anesthésie ?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Codeine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fentanyl est un analgésique opioïde synthétique plus puissant que la morphine.",
+    "id": "pharma_opioides_targeted_2_0",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel antagoniste des récepteurs opioïdes peut être utilisé pour traiter une surdose d'opioïdes ?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Codeine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Naloxone est un antagoniste des récepteurs opioïdes utilisé pour traiter une surdose d'opioïdes.",
+    "id": "pharma_opioides_targeted_2_1",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quelle est la loi qui régit l'activité de l'IADE en matière d'anesthésie ?",
+    "options": [
+      "Loi no 2016-1691 relative à la modernisation du système hospitalier, des recherches médicales et de la santé publique",
+      "Code de la santé publique",
+      "Code de la sécurité sociale",
+      "Aucun des précédents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La loi qui régit l'activité de l'IADE en matière d'anesthésie est le Code de la santé publique.",
+    "id": "legislation_targeted_0_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel rôle doit-il revenir au consentement éclairé du patient pour une intervention anesthésique ?",
+    "options": [
+      "Il n'y a pas de rôle pour le consentement éclairé",
+      "Le consentement éclairé est nécessaire mais non suffisant",
+      "Le consentement éclairé est nécessaire et suffisant",
+      "Le consentement éclairé n'est pas requis en anesthésie"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le rôle du consentement éclairé du patient pour une intervention anesthésique est de le rendre nécessaire et suffisant.",
+    "id": "legislation_targeted_0_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est le rôle de l'IADE en matière de consentement éclairé lors d'une anesthésie ?",
+    "options": [
+      "Il est responsable du consentement éclairé du patient",
+      "Il peut fournir des informations au médecin anesthésiste pour lui permettre de faire valider le consentement par l'IADE",
+      "Il ne joue aucun rôle dans le consentement éclairé",
+      "L'IADE est responsable du consentement éclairé du patient et peut également fournir des informations au médecin anesthésiste"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Contrairement à certaines idées reçues, l'IADE ne joue pas directement le rôle du consentement éclairé. Cependant, il peut fournir des informations au médecin anesthésiste pour lui permettre de faire valider le consentement par l'IADE.",
+    "id": "legislation_targeted_1_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quelle déontologie régit généralement les actions des IADE ?",
+    "options": [
+      "Déontologie Médicale",
+      "Déontologie Pharmaceutique",
+      "Déontologie Informatique",
+      "Déontologie de l'Éthique"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Les IADE sont régis par une déontologie qui s'apparente à celle de l'Éthique. Il s'agit d'une déontologie spécifique aux IADE et qui définit les devoirs moraux et éthiques des professionnels de la gestion des données personnelles.",
+    "id": "legislation_targeted_1_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quelle est la loi française régissant l'anesthésie en matière de consentement éclairé du patient ?",
+    "options": [
+      "Loi no 2004-800 relative à la qualité du système hospitalier, au renouvellement du régime des établissements publics d'hospitalisation et à la réforme des établissements de santé",
+      "Loi no 2009-1670 relative à la transparence, à l'égalité, au contrat et à la responsabilité des entreprises",
+      "Code de la santé publique",
+      "Article L.1234-1 du Code de la santé publique"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'anesthésie est régie par le Code de la santé publique en France. La loi sur le consentement éclairé est prévue à l'article L1205-1.",
+    "id": "legislation_targeted_2_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  },
+  {
+    "text": "Quel est le rôle de l'IADE (Infirmier anesthésiste réanimateur) dans le cadre légal de l'anesthésie en matière de déontologie ?",
+    "options": [
+      "Assurer le respect des droits et libertés du patient tout au long de la procédure",
+      "Veiller à la qualité technique des soins anesthésiques et réanimentaires",
+      "Réaliser les soins en collaboration avec le médecin anesthésiste",
+      "Assurer la conformité des soins aux normes éthiques définies par la déontologie professionnelle"
+    ],
+    "correctAnswer": 4,
+    "explanation": "L'IADE (Infirmier anesthésiste réanimateur) a pour rôle de veiller au respect des droits et libertés du patient tout au long de la procédure, mais également d'assurer la conformité des soins aux normes éthiques définies par la déontologie professionnelle.",
+    "id": "legislation_targeted_2_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1
+  }
+]

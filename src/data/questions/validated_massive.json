@@ -1,3313 +1,762 @@
 [
   {
-    "text": "Quelle est la durée habituelle d'une épreuve IADE?",
+    "text": "Quel mode ventilatoire est utilisé pour assurer une ventilation permissive bi-systolique à un patient en ventilation mécanique ?",
     "options": [
-      "2 heures et 10 minutes",
-      "3 heures",
-      "4 heures",
-      "5 heures"
+      "Assist-Control",
+      "Pressure Support",
+      "Synchronized Intermittent Mandatory Ventilation",
+      "Continuous Positive Airway Pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Une épreuve IADE typique dure généralement 2 heures.",
-    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "correctAnswer": 3,
+    "explanation": "Le mode Synchronized Intermittent Mandatory Ventilation (SIMV) est utilisé pour assurer une ventilation permissive bi-systolique. Dans ce mode, le patient peut inspirer spontanément entre les cycles de ventilation mandatés.",
+    "id": "ventilation_targeted_0_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
     "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 4,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.954
+    "page": 1,
+    "biomedical_score": 0.915
   },
   {
-    "text": "Combien de questions il y a-t-il habituellement dans une épreuve IADE?",
+    "text": "Quel type de courbe ventilatoire permettrait d'assurer une ventilation avec PEEP (Positive End-Expiratory Pressure) ?",
     "options": [
-      "10 questions",
-      "15 questions",
-      "20 questions",
-      "25 questions"
+      "A-C",
+      "B-C",
+      "A-D",
+      "B-A"
     ],
     "correctAnswer": 2,
-    "explanation": "Il y a généralement vingt questions dans une épreuve IADE.",
-    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "explanation": "La courbe ventilatoire avec PEEP est caractérisée par une plateau après l'expiration. Cette courbe peut être obtenue avec les types de courbes A-C ou B-C.",
+    "id": "ventilation_targeted_0_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
     "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 4,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.921
+    "page": 1,
+    "biomedical_score": 0.914
   },
   {
-    "text": "Quel est le conseil qui convient à tout le monde pendant l'épreuve IADE?",
+    "text": "Quel mode ventilatoire est utilisé lorsque l'objectif est d'obtenir une hyperventilation avec un rapport inspiratoire-expiratoire (I:E) élevé et de fournir du PEEP ?",
     "options": [
-      "Ne pas perdu de temps sur les questions que vous ne savez pas répondre",
-      "Travailler rapidement et précipitamment",
-      "Ne pas chronométrer votre temps",
-      "Répondre à toutes les questions avant d'aller à l'oral"
+      "CPAP",
+      "IMV",
+      "SVM",
+      "Pressure Control"
     ],
-    "correctAnswer": 0,
-    "explanation": "Le conseil qui convient à tout le monde pendant l'épreuve IADE est de ne pas perdre de temps sur les questions que vous ne savez pas répondre.",
-    "page_id": "Prepaconcoursiade-Complet__page_004",
+    "correctAnswer": 3,
+    "explanation": "Le mode Synchronisé (SVM) permet d'obtenir un ratio inspiratoire-expiratoire élevé et de fournir du PEEP.",
+    "id": "ventilation_targeted_1_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
     "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 4,
-    "generation_method": "massive_v1",
+    "page": 1,
+    "biomedical_score": 0.915
+  },
+  {
+    "text": "Quel est l'effet principal de la courbe en plateau lorsqu'elle est appliquée à une ventilation mécanique ?",
+    "options": [
+      "Permet d'obtenir un apnée artificiel",
+      "Profondément réduit le volume inspiré",
+      "Fournit des impulsions supplémentaires lors de la phase d'expiration",
+      "Assure une ventilation homogène au sein des alvéoles pulmonaires"
+    ],
+    "correctAnswer": 4,
+    "explanation": "La courbe en plateau assure une ventilation homogène au sein des alvéoles pulmonaires.",
+    "id": "ventilation_targeted_1_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.946
+  },
+  {
+    "text": "Quel mode ventilatoire est utilisé pour maintenir une pression positive dans les voies aériennes au-delà de l'inspiration ?",
+    "options": [
+      "Assist Control",
+      "Pressure Support",
+      "Continuous Positive Airway Pressure (CPAP)",
+      "Synchronized Intermittent Mandatory Ventilation (SIMV)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La pression positive continue dans les voies aériennes est maintenue au-delà de l'inspiration par le mode Continuous Positive Airway Pressure (CPAP). Cela permet d'améliorer la ventilation et de réduire le risque d'effondrement alvéolaire.",
+    "id": "ventilation_targeted_2_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.909
+  },
+  {
+    "text": "Quel est l'objectif principal de l'utilisation de PEEP lors de l'intubation ?",
+    "options": [
+      "Ouvrir les voies aériennes",
+      "Améliorer la ventilation alvéolaire",
+      "Réduire la production de mucus",
+      "Prévenir les complications liées à l'immobilisation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'utilisation de PEEP (Pressure Expired Positive Airway Pressure) lors de l'intubation et de la ventilation mécanique a pour objectif d'améliorer la ventilation alvéolaire en évitant le collapsage des alvéoles pendant l'expiration. Ceci permet d'augmenter la délivrance d'oxygène et de réduire les complications respiratoires.",
+    "id": "ventilation_targeted_2_1",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.93
+  },
+  {
+    "text": "Quel est le mode ventilatoire utilisé pour assurer une ventilation protégée des voies aériennes basses en cas d'intubation?",
+    "options": [
+      "CPAP",
+      "IMV",
+      "SIMV",
+      " Pressure Control"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Le mode Pressure Control est utilisé pour assurer une ventilation protégée des voies aériennes basses en cas d'intubation.",
+    "id": "ventilation_targeted_3_0",
+    "module_id": "ventilation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
     "biomedical_score": 0.877
   },
   {
-    "text": "Quel est le site internet où l'on peut trouver des informations détaillées sur le concours IADE ?",
-    "options": [
-      "Facebook.com",
-      "Google.com",
-      "prepaconcoursiade.com",
-      "Amazon.com"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le site web www.prepaconcoursiade.com est le lieu où l'on peut trouver des informations détaillées sur le concours IADE pour vous guider au mieux dans cette épreuve.",
-    "page_id": "Prepaconcoursiade-Complet__page_002",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 2,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.853
-  },
-  {
-    "text": "Quelle action est interdite sur le livre protégé par copyright ?",
-    "options": [
-      "Vente",
-      "Reproduction",
-      "Échange",
-      "Lecture"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Toute reproduction du livre protégé par copyright est absolument interdite sous peine de poursuite judiciaire.",
-    "page_id": "Prepaconcoursiade-Complet__page_002",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 2,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.93
-  },
-  {
-    "text": "Quel site internet vous permettrait d'avoir des éléments que vous n’avez pas compris ou des points que vous souhaitez approfondir sur le concours IADE ?",
-    "options": [
-      "Facebook.com",
-      "Google.com",
-      "prepaconcoursiade.com",
-      "Amazon.com"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Si vous avez des questions sur le concours IADE ou si vous n'avez pas compris certains points, vous pouvez rejoindre le groupe Facebook www.facebook.com/La-Prépa-Concours-IADE pour échanger et partager vos connaissances.",
-    "page_id": "Prepaconcoursiade-Complet__page_002",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 2,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.897
-  },
-  {
-    "text": "Quelle est la première tunique du cœur, en commençant par l'extérieur ?",
-    "options": [
-      "Myocarde",
-      "Endocarde",
-      "Epicarde",
-      "Pericarde"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'épicarde est la première tunique du cœur, en commençant par l'extérieur. Elle constitue le péricarde externe.",
-    "page_id": "Prepaconcoursiade-Complet__page_007",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 7,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.897
-  },
-  {
-    "text": "Le péricarde comprend combien de feuillets ?",
-    "options": [
-      "Un seul",
-      "Deux",
-      "Trois",
-      "Quatre"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le péricarde est constitué d'un seul feuillet externe appelé l'épicarde. Il n'y a pas de deuxième feuillet.",
-    "page_id": "Prepaconcoursiade-Complet__page_007",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 7,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Quelle est la fonction principale des tuniques cardiaques ?",
-    "options": [
-      "Aider les mouvements cardiaques",
-      "Réguler la température du cœur",
-      "Transporter l'oxygène au cœur",
-      "Protéger le cerveau"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Les tuniques cardiaques ont pour principale fonction d'aider les mouvements cardiaques et de protéger le cœur.",
-    "page_id": "Prepaconcoursiade-Complet__page_007",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 7,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.924
-  },
-  {
-    "text": "Quelle est la principale fonction du système respiratoire humain ?",
-    "options": [
-      "A. Eliminer l'hydrogène H2 et réoxygéner le sang en CO2.",
-      "B. Filtrer les liquides du corps.",
-      "C. Produire de la chaleur dans le corps.",
-      "D. Éliminer le dioxyde de carbone CO2 et réoxygéner le sang en oxygène O2."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Le rôle principal du système respiratoire humain est d'éliminer le dioxyde de carbone (CO2) et de réoxygénérer le sang en oxygène (O2). Cela est appelé l'hématose.",
-    "page_id": "Prepaconcoursiade-Complet__page_014",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 14,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.928
-  },
-  {
-    "text": "Quel phénomène permet la déplacement de l'air vers les poumons lors de l'inspiration ?",
-    "options": [
-      "A. La diffusion tissulaire.",
-      "B. La convection sanguine.",
-      "C. Les différences de pressions entre l'atmosphère et la pression transpulmonaire.",
-      "D. La contraction des muscles respiratoires."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Lors de l'inspiration, l'air entre dans les poumons grâce aux différences de pressions entre l'atmosphère (0 cm H2O) et la pression transpulmonaire (environ -5 cm H2O). L'air se déplace selon les gradients de pression et va donc de la pression la plus haute à la plus basse.",
-    "page_id": "Prepaconcoursiade-Complet__page_014",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 14,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.914
-  },
-  {
-    "text": "Quelle est la différence entre l'inspiration et l'expiration ?",
-    "options": [
-      "A. L'inspiration se fait activement, tandis que l'expiration est passive.",
-      "B. L'inspiration se fait passivement, tandis que l'expiration est active.",
-      "C. L'inspiration et l'expiration sont deux étapes de la respiration qui sont toujours actives.",
-      "D. Il n'y a pas de différence entre l'inspiration et l'expiration dans le processus de respiration."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Lors de l'inspiration, les poumons se dilatent et l'air entre passivement. Lors de l'expiration, les poumons se rétractent et l'air sort passivement grâce aux propriétés élastiques des poumons et de la cage thoracique.",
-    "page_id": "Prepaconcoursiade-Complet__page_014",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 14,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.901
-  },
-  {
-    "text": "Quelle pression partielle d'oxygène dans le sang permet d'avoir une hémoglobine saturée à 50 % ?",
-    "options": [
-      "13 mmHg",
-      "27 mmHg",
-      "41 mmHg",
-      "65 mmHg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La valeur de la P50 à l'état physiologique est de 27 mmHg.",
-    "page_id": "Prepaconcoursiade-Complet__page_018",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 18,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.941
-  },
-  {
-    "text": "Quel paramètre augmente la valeur de la P50 ?",
-    "options": [
-      "pH",
-      "Température",
-      "PCO2",
-      "DPG"
-    ],
-    "correctAnswer": 0,
-    "explanation": "La courbe de Barcroft se déplace vers la droite quand il y a un changement du pH. Un changement de pH entraîne donc une augmentation de la valeur de la P50.",
-    "page_id": "Prepaconcoursiade-Complet__page_018",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 18,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.912
-  },
-  {
-    "text": "Quel paramètre permet d'atteindre une saturation en oxygène à 100 % pour un individu sain en situation normale ?",
+    "text": "Quel paramètre de ventilation mécanique augmente le recrutement alvéolaire et peut être utile dans certaines conditions de détresse respiratoire?",
     "options": [
       "FiO2",
-      "PpO2",
-      "Saturation en oxygène",
-      "Réserve respiratoire"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Il y a 21 % de fiO2 dans l'air que nous respirons tous les jours. Cette valeur suffit à avoir une saturation en oxygène à 100 %. La courbe de Barcroft forme un plateau à une certaine PpO2, indiquant que la saturation en oxygène ne monte plus au-delà.",
-    "page_id": "Prepaconcoursiade-Complet__page_018",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 18,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.915
-  },
-  {
-    "text": "Dans quelle région se trouvent les chémorécepteurs centraux qui répondent majoritairement à l'hypercapnie?",
-    "options": [
-      "Bulbe rachidien",
-      "Glomus carotidien",
-      "Pharynx",
-      "Trachée"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Les chémorécepteurs centraux se trouvent au niveau du bulbe rachidien.",
-    "page_id": "Prepaconcoursiade-Complet__page_019",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 19,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Qu'est-ce qu'une hypoxémie?",
-    "options": [
-      "La diminution de la pression partielle en O2 dans le sang artériel (PaO2)",
-      "Le défaut d'apport d'O2 aux cellules",
-      "L'augmentation de la pression partielle en CO2 dans le sang artériel (PaCO2)",
-      "La diminution de la pression partielle en CO2 dans le sang artériel (PaCO2)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hypoxémie est la diminution de la pression partielle en O2 dans le sang artériel (PaO2).",
-    "page_id": "Prepaconcoursiade-Complet__page_019",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 19,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.958
-  },
-  {
-    "text": "Quels sont les récepteurs qui reagissent majoritairement à l'hypoxémie?",
-    "options": [
-      "Chémorécepteurs centraux",
-      "Chémorécepteurs périphériques",
-      "Mécanorécepteurs",
-      "Thermorécepteurs"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Les chémorécepteurs périphériques situés au niveau du glomus carotidien réagissent majoritairement à l'hypoxémie.",
-    "page_id": "Prepaconcoursiade-Complet__page_019",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 19,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.92
-  },
-  {
-    "text": "Quel est l'effet du déséquilibre métabolique sur le PH?",
-    "options": [
-      "Il augmente",
-      "Il diminue",
-      "Il se maintient constant",
-      "Il est impossible à déterminer"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le déséquilibre métabolique entraîne une diminution du PH car la baisse des bicarbonates se traduit par une acideurie.",
-    "page_id": "Prepaconcoursiade-Complet__page_026",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 26,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quel est l'effet de l'hypercapnie sur le PH?",
-    "options": [
-      "Il augmente",
-      "Il diminue",
-      "Il se maintient constant",
-      "Il est impossible à déterminer"
-    ],
-    "correctAnswer": 0,
-    "explanation": "L'hypercapnie, qui est une élévation de la PCO2, entraîne une baisse du PH car elle traduit une acidose respiratoire.",
-    "page_id": "Prepaconcoursiade-Complet__page_026",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 26,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quel est l'effet d'une hyperventilation alvéolaire sur le PH?",
-    "options": [
-      "Il augmente",
-      "Il diminue",
-      "Il se maintient constant",
-      "Il est impossible à déterminer"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Une hyperventilation alvéolaire entraîne une élévation du PH car elle traduit une alcalose respiratoire.",
-    "page_id": "Prepaconcoursiade-Complet__page_026",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 26,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.941
-  },
-  {
-    "text": "Quel est l'effet principal de l'alcalose métabolique sur le pH du corps humain ?",
-    "options": [
-      "A. Augmentation du pH",
-      "B. Réduction du pH",
-      "C. Aucun effet sur le pH",
-      "D. Augmentation des bicarbonates"
-    ],
-    "correctAnswer": 4,
-    "explanation": "L'alcalose métabolique est traduite par une augmentation du pH liée à une augmentation des bicarbonates.",
-    "page_id": "Prepaconcoursiade-Complet__page_027",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 27,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quel est le meilleur indicateur du fonctionnement rénal pour déterminer l'avancée d'une insuffisance rénale ?",
-    "options": [
-      "A. Débit de filtration glomérulaire (DFG)",
-      "B. Albuminurie",
-      "C. Hématurie",
-      "D. Leucocyturie"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le débit de filtration glomérulaire (DFG) est le meilleur indicateur du fonctionnement rénal pour déterminer l'avancée d'une insuffisance rénale.",
-    "page_id": "Prepaconcoursiade-Complet__page_027",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 27,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.88
-  },
-  {
-    "text": "Quel est le risque majeur associé à l'acidose métabolique ?",
-    "options": [
-      "A. Hypokalémie",
-      "B. Hyperkalémie",
-      "C. Hypocarbémie",
-      "D. Hypercarbémie"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le risque majeur associé à l'acidose métabolique est l'hypokaliémie.",
-    "page_id": "Prepaconcoursiade-Complet__page_027",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 27,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.93
-  },
-  {
-    "text": "Quelle hormone est sécrétée par les cellules alpha des îlots de Langerhans du pancréas?",
-    "options": [
-      "Insuline",
-      "Glucagon",
-      "Adrenaline",
-      "Thyroxine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le glucagon est une hormone hyperglycémiante qui est sécrétée par les cellules alpha des îlots de Langerhans du pancréas.",
-    "page_id": "Prepaconcoursiade-Complet__page_031",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 31,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "Quel type de diabète se caractérise par l'inaction des cellules β des îlots de Langerhans?",
-    "options": [
-      "Type I",
-      "Type II",
-      "Type III",
-      "Type IV"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le type I de diabète est auto-immun et dit insulinodépendant, il se caractérise par l'inaction des cellules β des îlots de Langerhans.",
-    "page_id": "Prepaconcoursiade-Complet__page_031",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 31,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "Quel composant des sucs pancréatiques aide à la digestion des lipides?",
-    "options": [
-      "Bicarbonates",
-      "Trypsine",
-      "Amylase",
-      "Lipase"
+      "PIP",
+      "PEEP",
+      "RR"
     ],
     "correctAnswer": 3,
-    "explanation": "La lipase est une enzyme présente dans les sucs pancréatiques qui aide à la digestion des lipides.",
-    "page_id": "Prepaconcoursiade-Complet__page_031",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 31,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.902
-  },
-  {
-    "text": "Question 1: Pourquoi le joggeur a-t-il une bronchodilatation lorsqu'il court ?",
-    "options": [
-      "A. Parce qu'il urine plus",
-      "B. Parce qu'il digère plus vite",
-      "C. Parce qu'il augmente sa respiration",
-      "D. Parce qu'il arrête son cœur de battre"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le joggeur a une bronchodilatation lorsqu'il court afin de mieux respirer en augmentant sa respiration.",
-    "page_id": "Prepaconcoursiade-Complet__page_038",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 38,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.937
-  },
-  {
-    "text": "Question 2: Quels sont les deux organes qui verront leur fonctionnement ralenti lorsque le joggeur courra ?",
-    "options": [
-      "A. Le cœur et les poumons",
-      "B. Les poumons et l'intestin",
-      "C. L'intestin et la rate",
-      "D. La rate et le rein"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Lorsque le joggeur court, les organes qui verront leur fonctionnement ralenti sont l'intestin et les poumons.",
-    "page_id": "Prepaconcoursiade-Complet__page_038",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 38,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.921
-  },
-  {
-    "text": "Question 3: Quelle activité augmente la nécessité d'oxygène pour un individu ?",
-    "options": [
-      "A. De manger",
-      "B. De dormir",
-      "C. De courir",
-      "D. De regarder de la télévision"
-    ],
-    "correctAnswer": 3,
-    "explanation": "L'activité qui augmente la nécessité d'oxygène pour un individu est le court.",
-    "page_id": "Prepaconcoursiade-Complet__page_038",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 38,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quel nerf est responsable de la vision ?",
-    "options": [
-      "Nerf I",
-      "Nerf II",
-      "Nerf III",
-      "Nerf IV"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le nerf optique (nerf II) est responsable de la vision.",
-    "page_id": "Prepaconcoursiade-Complet__page_039",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 39,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.925
-  },
-  {
-    "text": "Quel nerf innerve le muscle droit externe au niveau oculaire ?",
-    "options": [
-      "Nerf III",
-      "Nerf VI",
-      "Nerf VII",
-      "Nerf VIII"
-    ],
-    "correctAnswer": 6,
-    "explanation": "Le nerf abducens (nerf VI) innerve le muscle droit externe au niveau oculaire.",
-    "page_id": "Prepaconcoursiade-Complet__page_039",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 39,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.907
-  },
-  {
-    "text": "Quel nerf est moteur pour les muscles de la face ?",
-    "options": [
-      "Nerf V",
-      "Nerf VII",
-      "Nerf IX",
-      "Nerf X"
-    ],
-    "correctAnswer": 7,
-    "explanation": "Le nerf facial (nerf VII) est moteur pour les muscles de la face.",
-    "page_id": "Prepaconcoursiade-Complet__page_039",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 39,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.904
-  },
-  {
-    "text": "Quel est le nombre total de paires de nerfs rachidiens ?",
-    "options": [
-      "a) 30",
-      "b) 28",
-      "c) 31",
-      "d) 29"
-    ],
-    "correctAnswer": 3,
-    "explanation": "There are a total of 31 pairs of spinal nerves. This includes 8 cervical (C1-C8), 12 thoracic (T1-T12), 5 lumbar (L1-L5), 5 sacral (S1-S5), and 1 coccygeal nerve.",
-    "page_id": "Prepaconcoursiade-Complet__page_040",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 40,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.907
-  },
-  {
-    "text": "Les 12 nerfs rachidiens au niveau thoracique sont quels ?",
-    "options": [
-      "a) C3-C12",
-      "b) T1-T12",
-      "c) L1-L12",
-      "d) S1-S12"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The twelve thoracic spinal nerves are T1 to T12. They innervate the muscles of the chest wall and provide sensory input from the skin over the thorax and upper abdomen.",
-    "page_id": "Prepaconcoursiade-Complet__page_040",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 40,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.9
-  },
-  {
-    "text": "Quel est le nombre de paires de nerfs rachidiens au niveau lumbar ?",
-    "options": [
-      "a) 8",
-      "b) 7",
-      "c) 5",
-      "d) 6"
-    ],
-    "correctAnswer": 2,
-    "explanation": "There are five lumbar (L1-L5) spinal nerves. They provide motor innervation to the muscles of the lower back and abdomen, and sensory input from the skin over the lower abdomen and upper legs.",
-    "page_id": "Prepaconcoursiade-Complet__page_040",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 40,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.895
-  },
-  {
-    "text": "Quel analgésique est contre-indiqué chez l'enfant ?",
-    "options": [
-      "Acuapan",
-      "Tramadol",
-      "Codéine",
-      "Morphine"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Codéine est contre-indiquée chez l'enfant car elle peut provoquer des complications respiratoires chez les jeunes enfants et dans le cas de l'allaitement.",
-    "page_id": "Prepaconcoursiade-Complet__page_056",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 56,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.923
-  },
-  {
-    "text": "Quel analgésique peut provoquer une dépression respiratoire possible ?",
-    "options": [
-      "Acuapan",
-      "Tramadol",
-      "Codéine",
-      "Morphine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le tramadol peut provoquer une dépression respiratoire possible en cas d'intoxication ou chez des sujets prédisposés.",
-    "page_id": "Prepaconcoursiade-Complet__page_056",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 56,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.928
-  },
-  {
-    "text": "Quel analgésique est métabolisé par les reins ?",
-    "options": [
-      "Acuapan",
-      "Tramadol",
-      "Codéine",
-      "Morphine"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Contrairement aux autres analgésiques, l'Acuapan est éliminé par les reins sous forme de métabolites actifs.",
-    "page_id": "Prepaconcoursiade-Complet__page_056",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page_number": 56,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.931
-  },
-  {
-    "text": "Le médicament Morphine induit-il une myosis ou une mydriase ?",
-    "options": [
-      "Myosis",
-      "Mydriase",
-      "Aucun effet",
-      "Effets variés"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le Morphine induit aucun effet de mydriase (médilatation pupillaire) ou myosis (rétraction pupillaire).",
-    "page_id": "annalescorrigées-Volume-1__page_005",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 5,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.945
-  },
-  {
-    "text": "Le médicament Nubain induit-il une myosis ou une mydriase ?",
-    "options": [
-      "Myosis",
-      "Mydriase",
-      "Aucun effet",
-      "Effets variés"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le Nubain induit une mydriase (médilatation pupillaire).",
-    "page_id": "annalescorrigées-Volume-1__page_005",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 5,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.951
-  },
-  {
-    "text": "Le médicament Atropine induit-il une myosis ou une mydriase ?",
-    "options": [
-      "Myosis",
-      "Mydriase",
-      "Aucun effet",
-      "Effets variés"
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'Atropine induit une myosis (rétraction pupillaire).",
-    "page_id": "annalescorrigées-Volume-1__page_005",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 5,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.956
-  },
-  {
-    "text": "Le pancréas est-il la seule glande mixte du corps ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Faux. Le testicule et l'ovaire sont également des glandes mixtes.",
-    "page_id": "annalescorrigées-Volume-1__page_016",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 16,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.948
-  },
-  {
-    "text": "Les globules rouges sont-ils éliminés par la rate après une durée de vie de 80 jours ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Faux. Les globules rouges sont détruits dans le spleen avant d'être éliminés par les reins.",
-    "page_id": "annalescorrigées-Volume-1__page_016",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 16,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.901
-  },
-  {
-    "text": "Le foie n’a-t-il aucun impact sur la régulation de la glycémie ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Faux. Le foie joue un rôle important dans la régulation de la glycémie en convertissant les glucides en glycogène ou en glucose.",
-    "page_id": "annalescorrigées-Volume-1__page_016",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 16,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.92
-  },
-  {
-    "text": "Quel est le score de Glasgow du patient en question ?",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "correctAnswer": 7,
-    "explanation": "Le score de Glasgow total du patient est de 7, déterminé par la somme de ses scores pour l'œil ouvert (4 points), la réponse verbale (5 points) et la réponse motrice (6 points).",
-    "page_id": "annalescorrigées-Volume-1__page_025",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 25,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Quel signe clinique le patient présente en fonction des informations fournies ?",
-    "options": [
-      "Ouverture des yeux à la douleur",
-      "Réponse verbale inappropriée",
-      "Réponse motrice normale",
-      "Aucun signe"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le patient présente un signe clinique de réponse verbale inappropriée.",
-    "page_id": "annalescorrigées-Volume-1__page_025",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 25,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.944
-  },
-  {
-    "text": "En fonction des signes et du score de Glasgow du patient, quelle intervention pourrait être proposée ?",
-    "options": [
-      "Réanimation simple",
-      "Intubation",
-      "Réanimation en état critique",
-      "Anesthésie locale"
-    ],
-    "correctAnswer": 1,
-    "explanation": "En raison de l'état dégradé du patient (score de Glasgow de 7), il est recommandé d'effectuer l'intubation pour assurer une ventilation artificielle.",
-    "page_id": "annalescorrigées-Volume-1__page_025",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page_number": 25,
-    "generation_method": "massive_v1",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quel signe physiologique indique une déshydratation intracellulaire ?",
-    "options": [
-      "Soif",
-      "Signe du pli cutané",
-      "Hypotension artérielle orthostatique",
-      "Aplatissement des veines superficielles"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Soif est un signe de déshydratation intracellulaire",
-    "id": "Prepaconcoursiade-Complet__page_024_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 24,
-    "page_id": "Prepaconcoursiade-Complet__page_024",
-    "module_id": "unknown",
+    "explanation": "Le Positive End-Expiratory Pressure (PEEP) augmente le recrutement alvéolaire et peut être utile dans certaines conditions de détresse respiratoire.",
+    "id": "ventilation_targeted_3_1",
+    "module_id": "ventilation",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.941
-  },
-  {
-    "text": "Quel signe physiologique indique une déshydratation extracellulaire ?",
-    "options": [
-      "Soif",
-      "Signe du pli cutané",
-      "Hypotension artérielle orthostatique",
-      "Aplatissement des veines superficielles"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Signe du pli cutané est un signe de déshydratation extracellulaire",
-    "id": "Prepaconcoursiade-Complet__page_024_q2",
+    "generation_method": "targeted_simple",
     "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 24,
-    "page_id": "Prepaconcoursiade-Complet__page_024",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quel est le signe principal d'une hyperhydrodation intracellulaire ?",
-    "options": [
-      "Prise de poids modérée",
-      "Absence de soif voire dégoût de l’eau.",
-      "Des troubles neurologiques non spécifiques (céphalées, obnubilation, nausées, vomissements)",
-      "Tous les éléments ci-dessus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tous les éléments ci-dessus sont des signes principaux d'une hyperhydrodation intracellulaire.",
-    "id": "Prepaconcoursiade-Complet__page_025_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 25,
-    "page_id": "Prepaconcoursiade-Complet__page_025",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quelle est la cause principale d'une hyperhydrodation extracellulaire ?",
-    "options": [
-      "L’insuffisance cardiaque",
-      "La cirrhose ascitique",
-      "Le syndrome néphrotique (affection rénale)",
-      "Une infection respiratoire sévère"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La cirrhose ascitique est la cause principale d'une hyperhydrodation extracellulaire.",
-    "id": "Prepaconcoursiade-Complet__page_025_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 25,
-    "page_id": "Prepaconcoursiade-Complet__page_025",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quel est le pourcentage du débit cardiaque représenté par le sang qui passe à travers le foie ?",
-    "options": [
-      "A. 50%",
-      "B. 75%",
-      "C. 25%",
-      "D. 100%"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le sang qui passe à travers le foie représente 25 % du débit cardiaque.",
-    "id": "Prepaconcoursiade-Complet__page_028_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 28,
-    "page_id": "Prepaconcoursiade-Complet__page_028",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.93
-  },
-  {
-    "text": "Quelles sont les fonctions principales du foie ?",
-    "options": [
-      "A. Fonction exocrine uniquement",
-      "B. Fonction métabolique uniquement",
-      "C. Fonctions d'exocrine, de métabolisme et de détoxification",
-      "D. Aucune des précédentes"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le foie a plusieurs rôles : fonctions exocrine (sécrétion biliaire), métabolique (glucides, lipides et protides), de détoxification et de stockage (vitamines et fer).",
-    "id": "Prepaconcoursiade-Complet__page_028_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 28,
-    "page_id": "Prepaconcoursiade-Complet__page_028",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.924
-  },
-  {
-    "text": "Le foie convertit les hydrates de carbone (ou glucides) et les protéines en graisse pour ensuite les transporter et les stocker dans le tissu adipeux. Quel processus est responsable de la conversion des glucides en graisse ?",
-    "options": [
-      "Glycogénolyse",
-      "Glycolyse",
-      "Néoglucogenèse",
-      "Glycogénogenèse"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le néoglucogenèse est le processus qui permet à la fois la fabrication de glucose à partir d'acides aminés et d'acides gras lorsque les réserves en glucose sont épuisées.",
-    "id": "Prepaconcoursiade-Complet__page_029_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 29,
-    "page_id": "Prepaconcoursiade-Complet__page_029",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.906
-  },
-  {
-    "text": "Le foie peut utiliser le glycogène sous forme de source d’énergie lorsque les besoins sont plus importants que les apports. Quel est le processus qui permet cette utilisation du glycogène ?",
-    "options": [
-      "Glycolyse",
-      "Glycogenolyse",
-      "Néoglucogenèse",
-      "Glycogénogenèse"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La glycogenolyse est le processus qui permet d’utiliser le glycogène sous forme de source d'énergie lorsque les besoins sont plus importants que les apports.",
-    "id": "Prepaconcoursiade-Complet__page_029_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 29,
-    "page_id": "Prepaconcoursiade-Complet__page_029",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.839
-  },
-  {
-    "text": "Quelle substance toxique est transformée par le foie en bilirubine conjuguée ?",
-    "options": [
-      "Ammoniaque",
-      "Bilirubine libre",
-      "Alcool",
-      "Traitements pris par voie orale"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La bilirubine libre est détruite dans la rate après 120 jours de vie et transformée par le foie en bilirubine conjuguée.",
-    "id": "Prepaconcoursiade-Complet__page_030_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 30,
-    "page_id": "Prepaconcoursiade-Complet__page_030",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.927
-  },
-  {
-    "text": "Où se forme le cholédoque ?",
-    "options": [
-      "Voie biliaire principale",
-      "Canal hépatique droit",
-      "Canal cystique",
-      "Voies intrahépatiques"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le cholédoque se forme par l'union du canal hépatique droit et gauche avec le canal cystique.",
-    "id": "Prepaconcoursiade-Complet__page_030_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 30,
-    "page_id": "Prepaconcoursiade-Complet__page_030",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.952
-  },
-  {
-    "text": "Quel est le composant majeur du système nerveux central ?",
-    "options": [
-      "Le cervelet",
-      "La moelle épinière",
-      "Les cellules gliales",
-      "Le système nerveux périphérique"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La moelle épinière est le composant majeur du système nerveux central.",
-    "id": "Prepaconcoursiade-Complet__page_032_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 32,
-    "page_id": "Prepaconcoursiade-Complet__page_032",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.922
-  },
-  {
-    "text": "Quels sont les principaux types de cellules dans le système nerveux central ?",
-    "options": [
-      "Neurones et muscles",
-      "Cellules gliales et neurones",
-      "Neurones, cellules gliales et cellules nerveuses",
-      "Cellules gliales et cellules épithéliales"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les principaux types de cellules dans le système nerveux central sont les neurones et les cellules gliales.",
-    "id": "Prepaconcoursiade-Complet__page_032_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 32,
-    "page_id": "Prepaconcoursiade-Complet__page_032",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.887
-  },
-  {
-    "text": "Quel facteur majeur détermine le débit sanguin cérébral (DSC) ?",
-    "options": [
-      "Pression arterielle moyenne (PAM)",
-      "Pression veineuse cérébrale",
-      "Innervation parasympathique",
-      "CO2"
-    ],
-    "correctAnswer": 3,
-    "explanation": "L'innervation sympathique est importante pour le DSC, mais l'innervation parasympathique n'est pas déterminante. Le CO2 est un puissant vasodilatateur et donc un facteur majeur du DSC.",
-    "id": "Prepaconcoursiade-Complet__page_034_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 34,
-    "page_id": "Prepaconcoursiade-Complet__page_034",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.914
-  },
-  {
-    "text": "Quelle est la pression veineuse cérébrale ?",
-    "options": [
-      "100 mmHg",
-      "5 mmHg",
-      "120 mmHg",
-      "200 mmHg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La pression veineuse cérébrale est quasi négligeable, de l'ordre de 5 mmHg. Cette valeur est donc la bonne.",
-    "id": "Prepaconcoursiade-Complet__page_034_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 34,
-    "page_id": "Prepaconcoursiade-Complet__page_034",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.935
-  },
-  {
-    "text": "Quels prolongements possède une cellule nerveuse ?",
-    "options": [
-      "A. Dendrite et axone",
-      "B. Axone et dendrite",
-      "C. Axone et noyau",
-      "D. Noyau et dendrite"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La cellule nerveuse possède deux prolongements : dendrites et axone.",
-    "id": "Prepaconcoursiade-Complet__page_033_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 33,
-    "page_id": "Prepaconcoursiade-Complet__page_033",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.932
-  },
-  {
-    "text": "Quel type de cellule gliale est responsable de la synthèse de la myéline ?",
-    "options": [
-      "A. Astrocyte",
-      "B. Oligodendrocyte",
-      "C. Cellule de Schwann",
-      "D. Microglie"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La synthèse de la myéline est assurée par les oligodendrocytes.",
-    "id": "Prepaconcoursiade-Complet__page_033_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 33,
-    "page_id": "Prepaconcoursiade-Complet__page_033",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quels systèmes vascularisent l'encéphale ?",
-    "options": [
-      "Les nerfs (droite et gauche)",
-      "Les carotides (droite et gauche)",
-      "Les artères cérébrales et le système vertébral",
-      "Les muscles (droite et gauche)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les carotides (droite et gauche) et le système vertébral vascularisent l'encéphale.",
-    "id": "Prepaconcoursiade-Complet__page_035_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 35,
-    "page_id": "Prepaconcoursiade-Complet__page_035",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.938
-  },
-  {
-    "text": "Quel est le réseau de remplacement dans le cas de problèmes vasculaires en cerveau ?",
-    "options": [
-      "Le polygone de Willis",
-      "Le système nerveux central",
-      "Le système immunitaire",
-      "La peau"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le polygone de Willis est le réseau de remplacement dans le cas de problèmes vasculaires en cerveau.",
-    "id": "Prepaconcoursiade-Complet__page_035_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 35,
-    "page_id": "Prepaconcoursiade-Complet__page_035",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.903
-  },
-  {
-    "text": "Quel est l'espace qui contient le liquide céphalo-rachidien ?",
-    "options": [
-      "Espace sous-dural",
-      "Espace sous-arachnoïdien",
-      "Espace péridural",
-      "Aucun des précédents"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'espace sous-arachnoïdien contient le liquide céphalo-rachidien.",
-    "id": "Prepaconcoursiade-Complet__page_036_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 36,
-    "page_id": "Prepaconcoursiade-Complet__page_036",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Quelle est la barrière biologique qui permet d'isoler le système nerveux du reste de l'organisme ?",
-    "options": [
-      "La barrière hémato-encéphalique",
-      "La barrière hémato-rachidienne",
-      "La barrière hémato-médullaire",
-      "Aucune des précédentes"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La barrière hémato-encéphalique permet d'isoler le système nerveux du reste de l'organisme.",
-    "id": "Prepaconcoursiade-Complet__page_036_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 36,
-    "page_id": "Prepaconcoursiade-Complet__page_036",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.919
-  },
-  {
-    "text": "Quel système nerveux joue un rôle dans le maintien de l'homéostasie et est indépendant de la volonté ?",
-    "options": [
-      "A. Système sympathique",
-      "B. Système parasympathique",
-      "C. Système nerveux central",
-      "D. Système périphérique"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le système parasympathique est responsable du maintien de l'homéostasie et est indépendant de la volonté.",
-    "id": "Prepaconcoursiade-Complet__page_037_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 37,
-    "page_id": "Prepaconcoursiade-Complet__page_037",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "Quelle action a le récepteur β en matière d'inotrope pour le cœur ?",
-    "options": [
-      "A. Contraction du muscle cardiaque",
-      "B. Relaxation du muscle cardiaque",
-      "C. Augmentation de la fréquence cardiaque",
-      "D. Dilatation des vaisseaux"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le récepteur β en matière d'inotrope pour le cœur provoque une relaxation du muscle cardiaque.",
-    "id": "Prepaconcoursiade-Complet__page_037_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 37,
-    "page_id": "Prepaconcoursiade-Complet__page_037",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Quel est le score de Glasgow définissant un état neurologique de conscience normale, somnolence ou coma léger?",
-    "options": [
-      "8 à 15",
-      "3 à 7",
-      "4 à 6",
-      "1 à 2"
-    ],
-    "correctAnswer": 8,
-    "explanation": "Un score de Glasgow de 8 à 15 signifie un état neurologique de conscience normale, somnolence ou coma léger.",
-    "id": "Prepaconcoursiade-Complet__page_041_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 41,
-    "page_id": "Prepaconcoursiade-Complet__page_041",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.897
-  },
-  {
-    "text": "Quelle agression cérébrale secondaire est associée à une température corporelle supérieure à 38°?",
-    "options": [
-      "Hyperglycémie",
-      "Hyperthermie",
-      "Hypoglycémie",
-      "Anémie"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Une hyperthermie (température supérieure à 38°) est une agression cérébrale secondaire associée à un déséquilibre biologique qui aggrave le pronostic du traumatisé crânien.",
-    "id": "Prepaconcoursiade-Complet__page_041_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 41,
-    "page_id": "Prepaconcoursiade-Complet__page_041",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.931
-  },
-  {
-    "text": "Quelle hormone régule la sécrétion de TSH (thyrotropin) ?",
-    "options": [
-      "GHRH (Growth hormone releasing hormone)",
-      "PRH (Prolactin releasing hormone)",
-      "TRH (Thyrotropin releasing hormone)",
-      "GIH (Growth hormone release inhibiting)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The thyrotropin releasing hormone (TRH) is the one that stimulates the secretion of TSH.",
-    "id": "Prepaconcoursiade-Complet__page_042_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 42,
-    "page_id": "Prepaconcoursiade-Complet__page_042",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.861
-  },
-  {
-    "text": "Quelle hormone augmente l’absorption du calcium en potentialisant l'action de la vitamine D ?",
-    "options": [
-      "Parathormone (PTH)",
-      "Calcitonine",
-      "Growth hormone releasing hormone (GHRH)",
-      "Prolactin releasing hormone (PRH)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Parathormone (PTH) increases the absorption of calcium by enhancing the action of vitamin D.",
-    "id": "Prepaconcoursiade-Complet__page_042_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 42,
-    "page_id": "Prepaconcoursiade-Complet__page_042",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.903
-  },
-  {
-    "text": "Quelle hormone est régulée par rétrocontrôle négatif et agit sur la thyroïde ?",
-    "options": [
-      "ACTH",
-      "FSH",
-      "TSH",
-      "PRL"
-    ],
-    "correctAnswer": 2,
-    "explanation": "TSH (thyréostimuline) agit sur la thyroïde et est régulée par rétrocontrôle négatif.",
-    "id": "Prepaconcoursiade-Complet__page_043_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 43,
-    "page_id": "Prepaconcoursiade-Complet__page_043",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.92
-  },
-  {
-    "text": "Quelle hormone stimule la lactation ?",
-    "options": [
-      "ACTH",
-      "FSH",
-      "TSH",
-      "PRL"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Prolactine (PRL) permet la lactation.",
-    "id": "Prepaconcoursiade-Complet__page_043_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 43,
-    "page_id": "Prepaconcoursiade-Complet__page_043",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.867
-  },
-  {
-    "text": "Quel est le médicament utilisé pour traiter une bradycardie mal tolérée ou un bloc sino-auriculaire (BAV) ?",
-    "options": [
-      "Atropine",
-      "Digoxine",
-      "Héparine",
-      "Adenosine"
-    ],
-    "correctAnswer": 0,
-    "explanation": "L'atropine est le médicament utilisé pour traiter une bradycardie mal tolérée ou un bloc sino-auriculaire.",
-    "id": "Prepaconcoursiade-Complet__page_059_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 59,
-    "page_id": "Prepaconcoursiade-Complet__page_059",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.904
-  },
-  {
-    "text": "Est-ce que le glucose peut être utilisé pour faire du remplissage vasculaire ?",
-    "options": [
-      "Oui",
-      "Non",
-      "Il faut diluer le glucose avant l'administration",
-      "Le volume persistant dans le secteur vasculaire après perfusion intraveineuse est significatif"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Non, le glucose ne peut pas être utilisé pour faire du remplissage vasculaire car son volume persistant dans le secteur vasculaire après perfusion intraveineuse est insignifiant.",
-    "id": "Prepaconcoursiade-Complet__page_059_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 59,
-    "page_id": "Prepaconcoursiade-Complet__page_059",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.914
-  },
-  {
-    "text": "Quel est le seul colloïde naturel d'origine humaine mentionné dans le texte ?",
-    "options": [
-      "Albumine",
-      "Gélatines",
-      "Dextran",
-      "Voluven"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Albumine is the only natural colloid of human origin mentioned in the text.",
-    "id": "Prepaconcoursiade-Complet__page_060_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 60,
-    "page_id": "Prepaconcoursiade-Complet__page_060",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.928
-  },
-  {
-    "text": "Parmi les solutés listés, quels sont des hydroxyéthylamidons ?",
-    "options": [
-      "Gélatines",
-      "Plasmion",
-      "HEA",
-      "Albumine"
-    ],
-    "correctAnswer": 3,
-    "explanation": "HEA (Hydroxyethylamidons) are mentioned as one of the listed solutions.",
-    "id": "Prepaconcoursiade-Complet__page_060_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 60,
-    "page_id": "Prepaconcoursiade-Complet__page_060",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.91
-  },
-  {
-    "text": "Quelle est la normale du taux de sodium dans le sang en mmol/l ?",
-    "options": [
-      "A) 135-145 mmol/l",
-      "B) 3,5-5 mmol",
-      "C) 95-105 mmol",
-      "D) 22-30 mmol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La normale du taux de sodium dans le sang est de 135 à 145 mmol/l.",
-    "id": "Prepaconcoursiade-Complet__page_061_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 61,
-    "page_id": "Prepaconcoursiade-Complet__page_061",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.916
-  },
-  {
-    "text": "Quelle est la normale des taux d'urée et de créatinine en urine en mmol/24h ?",
-    "options": [
-      "A) Urée : 335-500 mmol, Créatinine : 10-22 mmol",
-      "B) Urée : 2,5-7,5 mmol, Créatinine : 50-115 µmol",
-      "C) Urée : 80-270 mmol, Créatinine : 10-22 mmol",
-      "D) Urée : 0, Acétone : 0, Glucose : 0, Créatinine : 50-115 µmol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La normale des taux d'urée et de créatinine en urine est respectivement de 335 à 500 mmol/24h pour l'urée et de 10 à 22 mmol/24h pour la créatinine.",
-    "id": "Prepaconcoursiade-Complet__page_061_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 61,
-    "page_id": "Prepaconcoursiade-Complet__page_061",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.919
-  },
-  {
-    "text": "Quelle est la norme pour les niveaux de HDL (Haut-densité lipoprotéine) dans le sang ?",
-    "options": [
-      "0,85 à 2,15 mmol/l",
-      "4.0 à 5.5 millions/mm3",
-      "94 à 100 %",
-      "60 U/l"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is '0,85 à 2,15 mmol/l'. This is the normal range for HDL levels in blood according to the provided data.",
-    "id": "Prepaconcoursiade-Complet__page_062_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 62,
-    "page_id": "Prepaconcoursiade-Complet__page_062",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.883
-  },
-  {
-    "text": "Quelle est la norme pour les niveaux de SaO2 (Saturation d'oxygène dans l'hémoglobine) ?",
-    "options": [
-      "94 à 100 %",
-      "7,38 à 7,42",
-      "25 à 27 mmol/l",
-      "4.0 à 5.5 millions/mm3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is '94 à 100 %'. This is the normal range for SaO2 according to the provided data.",
-    "id": "Prepaconcoursiade-Complet__page_062_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 62,
-    "page_id": "Prepaconcoursiade-Complet__page_062",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.882
-  },
-  {
-    "text": "Quelle quantité en grammes de lipides est reçue par le patient ?",
-    "options": [
-      "250g",
-      "350g",
-      "450g",
-      "550g"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The patient receives 200g of lipids from 1L at 20%, plus 150g of glucose at 30% in 500ml. Total is 350g.",
-    "id": "Prepaconcoursiade-Complet__page_063_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 63,
-    "page_id": "Prepaconcoursiade-Complet__page_063",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.894
-  },
-  {
-    "text": "Quel est le débit par heure d'xylocaïne lors de l'administration à un patient ?",
-    "options": [
-      "0,2 ml/h",
-      "0,4 ml/h",
-      "0,6 ml/h",
-      "0,8 ml/h"
-    ],
-    "correctAnswer": 3,
-    "explanation": "For a 400mg dose over 10 hours, the rate is 20ml per 10 hours which equals 2ml per hour.",
-    "id": "Prepaconcoursiade-Complet__page_063_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 63,
-    "page_id": "Prepaconcoursiade-Complet__page_063",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.924
-  },
-  {
-    "text": "Quel est le nombre de calories apportées par 50 grammes de glucides ?",
-    "options": [
-      "125 kcal",
-      "250 kcal",
-      "400 kcal",
-      "600 kcal"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Each gram of glucides provides 4 kcal. Therefore, 50g of glucides will provide 50 * 4 = 200 kcal.",
-    "id": "Prepaconcoursiade-Complet__page_064_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 64,
-    "page_id": "Prepaconcoursiade-Complet__page_064",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.899
-  },
-  {
-    "text": "En utilisant le calcul ci-dessus pour un patient sous O2 à un débit de 4 l/min, combien de temps en minutes théorique disposez-vous pour permettre le transport ?",
-    "options": [
-      "100 minutes",
-      "150 minutes",
-      "186,25 minutes",
-      "200 minutes"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The patient has a flow rate of 4L/min. Therefore, the time needed for transport is the total volume divided by the flow rate. Here, it's 585L / 4L/min = 146,25 minutes which is approximately 146 minutes.",
-    "id": "Prepaconcoursiade-Complet__page_064_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 64,
-    "page_id": "Prepaconcoursiade-Complet__page_064",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.897
-  },
-  {
-    "text": "Quelle est la dose en mg/min que doit recevoir le patient ?",
-    "options": [
-      "5 mg/min",
-      "48 mg/min",
-      "0.8 mg/min",
-      "10 gamma/kg/min"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The dose to be received by the patient is 0.8 mg/min.",
-    "id": "Prepaconcoursiade-Complet__page_065_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 65,
-    "page_id": "Prepaconcoursiade-Complet__page_065",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.914
-  },
-  {
-    "text": "Quel est le débit en ml/h du PSE ?",
-    "options": [
-      "9,6 ml/h",
-      "5 ml/h",
-      "48 ml/h",
-      "20 ml/h"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The flow rate of the infusion pump (PSE) is 9.6 ml/h.",
-    "id": "Prepaconcoursiade-Complet__page_065_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 65,
-    "page_id": "Prepaconcoursiade-Complet__page_065",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.93
-  },
-  {
-    "text": "Quel est l'équivalent en UI pour 50 mg d'héparine ?",
-    "options": [
-      "20 000 UI",
-      "10 000 UI",
-      "50 000 UI",
-      "40 000 UI"
-    ],
-    "correctAnswer": 1,
-    "explanation": "En utilisant les conversions fournies dans le texte de cours : 50 mg = 5 000 UI.",
-    "id": "Prepaconcoursiade-Complet__page_066_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 66,
-    "page_id": "Prepaconcoursiade-Complet__page_066",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.938
-  },
-  {
-    "text": "Combien correspond à une cuillère à dessert de 10 ml ?",
-    "options": [
-      "2 cuillères à café",
-      "3 cuillères à soupe",
-      "4 cuillères à café",
-      "5 cuillères à soupe"
-    ],
-    "correctAnswer": 2,
-    "explanation": "En utilisant les conversions fournies dans le texte de cours : 10 ml = 2 cuillères à café.",
-    "id": "Prepaconcoursiade-Complet__page_066_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 66,
-    "page_id": "Prepaconcoursiade-Complet__page_066",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Quels éléments du sang sont divisés en trois grandes familles : lymphocytes, monocytes et polynucléaires neutrophiles ou éosinophiles ?",
-    "options": [
-      "Globules rouges",
-      "Plasma",
-      "Anticorps",
-      "Globules blancs"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Les globules blancs sont divisés en trois grandes familles : lymphocytes, monocytes et polynucléaires neutrophiles ou éosinophiles.",
-    "id": "Prepaconcoursiade-Complet__page_067_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 67,
-    "page_id": "Prepaconcoursiade-Complet__page_067",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.887
-  },
-  {
-    "text": "Parmi les groupes sanguins A, B, AB et O, quels patients peuvent être transfusés avec des anticorps anti-A ?",
-    "options": [
-      "Groupes sanguins A et O",
-      "Groupes sanguins AB et O",
-      "Groupes sanguins A et AB",
-      "Groupes sanguins B et AB"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les groupes sanguins AB et O peuvent être transfusés avec des anticorps anti-A car ils ne contiennent pas le glycoside A.",
-    "id": "Prepaconcoursiade-Complet__page_067_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 67,
-    "page_id": "Prepaconcoursiade-Complet__page_067",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.92
-  },
-  {
-    "text": "Quel est l'antigène présent dans le plasma qui nécessite une transfusion inversée par rapport aux globules rouges ?",
-    "options": [
-      "Anti A",
-      "Anti B",
-      "Anti AB",
-      "Aucun antigène"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le plasma ne possède pas d'antigène, donc il n'y a pas d'agglutination.",
-    "id": "Prepaconcoursiade-Complet__page_068_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 68,
-    "page_id": "Prepaconcoursiade-Complet__page_068",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.937
-  },
-  {
-    "text": "Pour transfuser du plasma vers un individu groupe AB, quels anticorps doivent être présents ?",
-    "options": [
-      "Anti A",
-      "Anti B",
-      "Aucun anticorp",
-      "Les deux anti A et anti B"
-    ],
-    "correctAnswer": 4,
-    "explanation": "L'individu groupe AB n'a pas d'anticorps A ou B. Donc pour transfuser du plasma vers un individu AB, il n'y a pas de compatibilité requise.",
-    "id": "Prepaconcoursiade-Complet__page_068_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 68,
-    "page_id": "Prepaconcoursiade-Complet__page_068",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.919
-  },
-  {
-    "text": "Quel est le contrôle ultime prétransfusionnel qui doit être réalisé avant toute transfusion ?",
-    "options": [
-      "Identité du patient et date de naissance",
-      "Paramètres vitaux du patient",
-      "RAI négatives de moins de 72 h",
-      "La prescription médicale de produit sanguin labile"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le contrôle ultime prétransfusionnel comprend le contrôle ultime de concordance et le contrôle ultime de compatibilité ABO, qui doit être réalisé avant toute transfusion.",
-    "id": "Prepaconcoursiade-Complet__page_069_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 69,
-    "page_id": "Prepaconcoursiade-Complet__page_069",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "En quoi consiste l'accord à l'EFS lors d'une transfusion ?",
-    "options": [
-      "Une demande de sang phénotypé",
-      "Un médecin devra signer et demander l'accord pour les RAI positifs",
-      "Les RAI sont valables jusqu’à 21 jours s’il y a eu de transfusion durant cette période",
-      "Le contrôle ultime prétransfusionnel doit être réalisé et conforme."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Il est possible de transfuser un patient lorsque les RAI sont positifs, mais pour cela il faut faire une demande de sang phénotypé avec une compatibilité à l'EFS.",
-    "id": "Prepaconcoursiade-Complet__page_069_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 69,
-    "page_id": "Prepaconcoursiade-Complet__page_069",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.925
-  },
-  {
-    "text": "Quels incidents peuvent survenir pendant une transfusion et qu'est-ce qui doit être fait en cas d'accident transfusionnel ?",
-    "options": [
-      "A) Hémolyse par incompatibilité ABO, Infection virale, Réaction allergique, OAP de surcharge (TACO) - Traitement médicamenteux et surveillance des paramètres vitaux.",
-      "B) Douleurs abdominales, Fièvre, Angoisse, Signes hémodynamiques, Signes respiratoires, Signes cutanés - Rappeler immédiatement le personnel médical.",
-      "C) Les paramètres vitaux doivent être surveillés pendant 2 heures après la transfusion. Il faudra maintenir la voie veineuse grâce à un cristalloïde tout en surveillant de manière rapprochée les paramètres vitaux.",
-      "D) Infection bactérienne, Réaction allergique, OAP de surcharge (TACO), OAP lésionnel (TRALI - Traitement médicamenteux et surveillance des paramètres vitaux."
-    ],
-    "correctAnswer": 1,
-    "explanation": "En cas d'accidents transfusionnels, il est primordial de réagir rapidement en arrêtant d'emblée la transfusion (tout en conservant la poche) et en appelant immédiatement le médecin.",
-    "id": "Prepaconcoursiade-Complet__page_070_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 70,
-    "page_id": "Prepaconcoursiade-Complet__page_070",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Chez une femme enceinte rhésus -, quelle mesure doit être prise pour prévenir l'allo-immunisation anti-D ?",
-    "options": [
-      "A) Systematique de l'administration de gammaglobulines anti-D (Rophylac®).",
-      "B) Surveillance du taux d’anticorps dans le sang maternel et de surveiller l’évolution du fœtus par échographie.",
-      "C) Transfusion du fœtus in utero lors de la grossesse.",
-      "D) Les paramètres vitaux doivent être surveillés pendant 2 heures après la transfusion."
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'allo-immunisation anti-D peut être prévenue par l'injection de gammaglobulines anti-D (Rophylac®) proposée systématiquement aux femmes enceintes rhésus -.",
-    "id": "Prepaconcoursiade-Complet__page_070_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 70,
-    "page_id": "Prepaconcoursiade-Complet__page_070",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Quelle est l'objet de la matériovigilance ?",
-    "options": [
-      "A. Surveillance et prévention du risque infectieux en lien avec les pratiques de soins.",
-      "B. Gestion des médicaments pour prévenir le risque d’effet indésirable.",
-      "C. Surveillance des incidents et risques d'incidents résultant de l'utilisation d'un dispositif médical de diagnostic in vitro.",
-      "D. Ensemble des mesures spécifiques de surveillance et des programmes de prévention des infections nosocomiales."
-    ],
-    "correctAnswer": 1,
-    "explanation": "La matériovigilance a pour objectif d’éviter que ne se (re)produisent des incidents et risques d'incidents graves mettant en cause des dispositifs médicaux, en prenant les mesures préventives et/ou correctives appropriées.",
-    "id": "Prepaconcoursiade-Complet__page_071_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 71,
-    "page_id": "Prepaconcoursiade-Complet__page_071",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.919
-  },
-  {
-    "text": "Quelle est la branche de la vigilance liée à l’ensemble des procédures de surveillance, d’évaluation et de prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles ?",
-    "options": [
-      "A. Matériovigilance",
-      "B. Hémovigilance",
-      "C. Infectiovigilance",
-      "D. Pharmacovigilance"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L’hémovigilance a pour objet l’ensemble des procédures de surveillance, d’évaluation et de prévention des incidents et effets indésirables survenant chez les donneurs ou les receveurs de produits sanguins labiles.",
-    "id": "Prepaconcoursiade-Complet__page_071_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 71,
-    "page_id": "Prepaconcoursiade-Complet__page_071",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.801
-  },
-  {
-    "text": "Quel comité est responsable du contrôle des infections nosocomiales ?",
-    "options": [
-      "CLIN",
-      "CLUD",
-      "CLAN",
-      "CME"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Comité de lutte contre les infections nosocomiales (CLIN) is responsible for controlling hospital-acquired infections.",
-    "id": "Prepaconcoursiade-Complet__page_072_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 72,
-    "page_id": "Prepaconcoursiade-Complet__page_072",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.923
-  },
-  {
-    "text": "Quel comité a pour mission la lutte contre la douleur ?",
-    "options": [
-      "CLIN",
-      "CLUD",
-      "CLAN",
-      "CME"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Comité de lutte contre la douleur (CLUD) is responsible for fighting pain.",
-    "id": "Prepaconcoursiade-Complet__page_072_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 72,
-    "page_id": "Prepaconcoursiade-Complet__page_072",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.919
-  },
-  {
-    "text": "Quel type d'acte relève du rôle propre de l'infirmier et ne nécessite pas les techniques de rééducation pour aider le patient à marche?",
-    "options": [
-      "Option A: Ventilation manuelle instrumentale par masque",
-      "Option B: Administration en aérosols de produits non médicamenteux",
-      "Option C: Lever du patient et aide à la marche ne faisant pas appel aux techniques de rééducation",
-      "Option D: Installation du patient dans une position en rapport avec sa pathologie ou son handicap"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Lever du patient et aide à la marche ne faisant pas appel aux techniques de rééducation relève du rôle propre de l'infirmier.",
-    "id": "Prepaconcoursiade-Complet__page_073_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 73,
-    "page_id": "Prepaconcoursiade-Complet__page_073",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "Quel acte peut être réalisé par un infirmier pour prévenir des thromboses veineuses non médicamenteusement?",
-    "options": [
-      "Option A: Administration en aérosols de produits non médicamenteux",
-      "Option B: Ventilation manuelle instrumentale par masque",
-      "Option C: Prévention non médicamenteuse des thromboses veineuses",
-      "Option D: Préparation des injections"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Prévention non médicamenteuse des thromboses veineuses est un acte que peut être réalisé par un infirmier.",
-    "id": "Prepaconcoursiade-Complet__page_073_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 73,
-    "page_id": "Prepaconcoursiade-Complet__page_073",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.914
-  },
-  {
-    "text": "Quel est le but principal du livre ?",
-    "options": [
-      "A. Apprendre les schémas pour gagner des points facilement",
-      "B. Révision des pathologies de base",
-      "C. Réussir l'épreuve écrite",
-      "D. Calculs de doses et la transfusion"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le livre vise à réussir l'épreuve écrite.",
-    "id": "Prepaconcoursiade-Complet__page_074_q1",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 74,
-    "page_id": "Prepaconcoursiade-Complet__page_074",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.948
-  },
-  {
-    "text": "Quel est l'action recommandée pour identifier les faiblesses du candidat ?",
-    "options": [
-      "A. Révision des pathologies de base",
-      "B. Passer sur des annales",
-      "C. Apprendre les schémas pour gagner des points facilement",
-      "D. Calculs de doses et la transfusion"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pour identifier les faiblesses du candidat, il est recommandé de passer sur des annales.",
-    "id": "Prepaconcoursiade-Complet__page_074_q2",
-    "source_pdf": "Prepaconcoursiade-Complet.pdf",
-    "page": 74,
-    "page_id": "Prepaconcoursiade-Complet__page_074",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.918
-  },
-  {
-    "text": "Quel est le but principal d'un projet agile ?",
-    "options": [
-      "A. Réaliser des projets dans un délai court",
-      "B. Suivre strictement la méthode waterfall",
-      "C. Améliorer continuellement le produit en fonction des besoins du client",
-      "D. Planifier et prévoir toutes les étapes du projet"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Le but principal d'un projet agile est d'améliorer continuellement le produit en fonction des besoins du client.",
-    "id": "annalescorrigées-Volume-2__page_001_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
     "page": 1,
-    "page_id": "annalescorrigées-Volume-2__page_001",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.929
-  },
-  {
-    "text": "Comment se distingue la méthode waterfall de l'agilité ?",
-    "options": [
-      "A. La méthode waterfall est un type de projet agile",
-      "B. Les phases du projet sont parallèles dans la méthode waterfall",
-      "C. Le produit est amélioré en fonction des besoins du client dans la méthode waterfall",
-      "D. La méthode waterfall est une méthode de projet structurel où chaque étape se suit logiquement"
-    ],
-    "correctAnswer": 4,
-    "explanation": "La méthode waterfall est une méthode de projet structurel où chaque étape se suit logiquement.",
-    "id": "annalescorrigées-Volume-2__page_001_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 1,
-    "page_id": "annalescorrigées-Volume-2__page_001",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.938
-  },
-  {
-    "text": "Quel est le but principal des annales corrigées ?",
-    "options": [
-      "A. Créer un ouvrage utilisé pour passer l'examen oral",
-      "B. Fournir des supports d'entraînement pour les examens écrits",
-      "C. Servir de guide pour les étudiants en quête de bonnes réponses",
-      "D. Aider à trouver des annales correctement corrigées"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les annales corrigées sont utilisés pour s'entraîner pour les examens écrits.",
-    "id": "annalescorrigées-Volume-2__page_002_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 2,
-    "page_id": "annalescorrigées-Volume-2__page_002",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.925
-  },
-  {
-    "text": "Pour quelle raison le texte recommande de traiter le plus grand nombre de questions avant de passer l'examen ?",
-    "options": [
-      "A. Pour que les étudiants bloquent sur la journée J",
-      "B. Pour être préparés à toute éventualité",
-      "C. Pour espérer trouver toutes les réponses lors du examen",
-      "D. Pour éviter de faire des recherches personnelles"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'idée est de traiter le plus grand nombre de questions avant de passer l'examen afin d'être préparés à toute éventualité.",
-    "id": "annalescorrigées-Volume-2__page_002_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 2,
-    "page_id": "annalescorrigées-Volume-2__page_002",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.922
-  },
-  {
-    "text": "Quel est l'équivalent du cycle cardiaque au niveau duquel on trouve l'onde P ?",
-    "options": [
-      "A - Onde T",
-      "B - Espace PR",
-      "C - Complexe QRS",
-      "D - Onde T et espace ST"
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'onde P est observée à l'étape de la dépolarisation atriale du cycle cardiaque.",
-    "id": "annalescorrigées-Volume-2__page_003_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 3,
-    "page_id": "annalescorrigées-Volume-2__page_003",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.925
-  },
-  {
-    "text": "Quels sont les douze paires de nerfs crâniens ?",
-    "options": [
-      "A - Nerf olfactif, nerf optique, nerf trigéminal, nerf abducent, nerf facial, nerf auditif interne",
-      "B - Nerf abducent, nerf facial, nerf auditory externe, nerf glossopharyngien, nerf vagus, nerf accèsire",
-      "C - Nerf olfactif, nerf optique, nerf trigéminal, nerf facial, nerf acoustico-facial, nerf glossopharyngien",
-      "D - Nerf olfactif, nerf optique, nerf facial, nerf auditory interne, nerf vagus, nerf accèsire"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Les douze paires de nerfs crâniens sont le nerf olfactif, nerf optique, nerf trigéminal, nerf abducent, nerf facial, nerf acoustico-facial (qui se divise en nerf auditory interne et externe), nerf glossopharyngien, nerf vagus, et nerf accèsire.",
-    "id": "annalescorrigées-Volume-2__page_003_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 3,
-    "page_id": "annalescorrigées-Volume-2__page_003",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.896
-  },
-  {
-    "text": "Quelle est la situation de la personne ?",
-    "options": [
-      "La personne est en arrêt cardio-respiratoire.",
-      "La personne a une fracture du fémur.",
-      "La pression artérielle de la personne est normale.",
-      "La personne souffre d'une hypertension."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Il s'agit d'une situation où le patient a une fracture du fémur.",
-    "id": "annalescorrigées-Volume-2__page_004_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 4,
-    "page_id": "annalescorrigées-Volume-2__page_004",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.938
-  },
-  {
-    "text": "Pourquoi la pression artérielle du patient est-elle basse ?",
-    "options": [
-      "Cela peut être dû à l'hémorragie associée à la fracture.",
-      "Il souffre d'une hypotension artérielle primitive.",
-      "Le Ringer utilisé a une propriété diurétique.",
-      "La tachycardie est la cause de la basse pression artérielle."
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'hémorragie associée à la fracture du fémur peut expliquer la basse pression artérielle du patient.",
-    "id": "annalescorrigées-Volume-2__page_004_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 4,
-    "page_id": "annalescorrigées-Volume-2__page_004",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.948
-  },
-  {
-    "text": "Quels sont les 10 signes cliniques et/ou paracliniques d'une embolie pulmonaire ?",
-    "options": [
-      "Signes A, B, C, D",
-      "Signes E, F, G, H",
-      "Signes I, J, K, L",
-      "Signes M, N, O, P"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les signes A, B, C et D sont des signes cliniques et paracliniques d'une embolie pulmonaire, mais les signes E, F, G, H sont ceux d'une crise d'asthme.",
-    "id": "annalescorrigées-Volume-2__page_005_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 5,
-    "page_id": "annalescorrigées-Volume-2__page_005",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.895
-  },
-  {
-    "text": "Quels sont les types de cristalloïde et quels sont leurs exemples ?",
-    "options": [
-      "Type A : Eau pure ; Type B : Solution saline isotonique ; Type C : Glucose 5% ; Type D : Solution physiologique",
-      "Type A : Eau pure ; Type B : Solution saline hypotónique ; Type C : Glycérol ; Type D : Solution de déxtrose 5%"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Les types de cristalloïde sont le Type A (Eau pure), le Type B (Solution saline isotonique), le Type C (Glucose 5%) et le Type D (Solution physiologique).",
-    "id": "annalescorrigées-Volume-2__page_005_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 5,
-    "page_id": "annalescorrigées-Volume-2__page_005",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.895
-  },
-  {
-    "text": "Est-il vrai ou faux que mettre une femme enceinte en décubitus latéral droit est bénéfique ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Faux, la position de décubitus latéral gauche est préférée pour une femme enceinte car elle favorise le déplacement du foie et du gros fœtus.",
-    "id": "annalescorrigées-Volume-2__page_006_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 6,
-    "page_id": "annalescorrigées-Volume-2__page_006",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Est-il vrai ou faux qu'un score d’apgar à 6 est un score normal ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Faux, un score d’apgar à 6 indique que le nouveau-né a des problèmes respiratoires graves.",
-    "id": "annalescorrigées-Volume-2__page_006_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 6,
-    "page_id": "annalescorrigées-Volume-2__page_006",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quel est le temps de conduction auriculo-ventriculaire ?",
-    "options": [
-      "L'onde P",
-      "L'espace PR",
-      "L'onde QRS",
-      "L'onde T"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'espace PR reflète le temps de conduction auriculo-ventriculaire.",
-    "id": "annalescorrigées-Volume-2__page_007_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 7,
-    "page_id": "annalescorrigées-Volume-2__page_007",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.94
-  },
-  {
-    "text": "Quelle est la normale PO2 du patient ?",
-    "options": [
-      "80 à 100 mmHg",
-      "25 à 27 mmol/l",
-      "94 à 100%",
-      "22 à 26 mmol/l"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La normale PO2 du patient est comprise entre 80 à 100 mmHg.",
-    "id": "annalescorrigées-Volume-2__page_007_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 7,
-    "page_id": "annalescorrigées-Volume-2__page_007",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "Quel nerf est associé au nerf optique ?",
-    "options": [
-      "Nerf I - nerf olfactif",
-      "Nerf II - nerf optique",
-      "Nerf III - nerf oculomoteur, ou moteur oculaire commun",
-      "Nerf IV - nerf trochléaire ou pathétique"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le nerf optique (Nerf II) est associé au nerf optique.",
-    "id": "annalescorrigées-Volume-2__page_008_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 8,
-    "page_id": "annalescorrigées-Volume-2__page_008",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
-  },
-  {
-    "text": "En quelle échelle d'auto-évaluation de la douleur est le patient amené à côté sa douleur en y associant un nombre de 0 à 10 ?",
-    "options": [
-      "EVA : échelle visuelle analogique",
-      "EN : échelle numérique",
-      "EVS : échelle visuelle simple",
-      "Toutes les réponses sont des échelles d'auto-évaluation de la douleur"
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'échelle numérique (EN) permet au patient de côté sa douleur en y associant un nombre de 0 à 10.",
-    "id": "annalescorrigées-Volume-2__page_008_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 8,
-    "page_id": "annalescorrigées-Volume-2__page_008",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.896
-  },
-  {
-    "text": "Quel est le premier signe d'alerte d'une hypovolémie chez Mr A ?",
-    "options": [
-      "Incision chirurgicale",
-      "Hypotension",
-      "Augmentation de fréquence cardiaque",
-      "Nausées"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'hypotension est plus tardive mais elle est le premier signe d'alerte d'une hypovolémie chez Mr A.",
-    "id": "annalescorrigées-Volume-2__page_009_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 9,
-    "page_id": "annalescorrigées-Volume-2__page_009",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.904
-  },
-  {
-    "text": "Pour la prise en charge d'une hypovolémie majeure, quel type de fluide est recommandé dans un premier temps ?",
-    "options": [
-      "Colloïde",
-      "Plasma",
-      "Ringer",
-      "Sérum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Un cristalloïde comme le Ringer est recommandé d'abord pour la prise en charge d'une hypovolémie majeure.",
-    "id": "annalescorrigées-Volume-2__page_009_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 9,
-    "page_id": "annalescorrigées-Volume-2__page_009",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.915
-  },
-  {
-    "text": "Quel signe est associé à l'embolie pulmonaire ?",
-    "options": [
-      "Tachycardie",
-      "Hémoptysie",
-      "Hyperthermie",
-      "Augmentation des D-dimères"
-    ],
-    "correctAnswer": 4,
-    "explanation": "L'augmentation des D-dimères est un signe de l'embolie pulmonaire.",
-    "id": "annalescorrigées-Volume-2__page_010_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 10,
-    "page_id": "annalescorrigées-Volume-2__page_010",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.935
-  },
-  {
-    "text": "Quel est le signe de l'embolie pulmonaire qui peut être associé à la thrombose veineuse profonde ?",
-    "options": [
-      "Tachypnée",
-      "Turgescence jugulaire",
-      "Hémoptysie",
-      "Hyperthermie"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La turgescence jugulaire peut être associée à la thrombose veineuse profonde et à l'embolie pulmonaire.",
-    "id": "annalescorrigées-Volume-2__page_010_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 10,
-    "page_id": "annalescorrigées-Volume-2__page_010",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.907
-  },
-  {
-    "text": "Quel est le temps requis pour la formation du caillot fibrino-plaquettaire ?",
-    "options": [
-      "3 à 5 minutes",
-      "5 à 12 minutes",
-      "45 à 72h",
-      "Il n'y a pas de caillot fibrino-plaquettaire"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La coagulation plasmatique permet la formation d'un caillot fibrino-plaquettaire insoluble entre 5 à 12 minutes.",
-    "id": "annalescorrigées-Volume-2__page_011_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 11,
-    "page_id": "annalescorrigées-Volume-2__page_011",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.924
-  },
-  {
-    "text": "Quel est le soluté isotonique de l'osmolarité proche du sang ?",
-    "options": [
-      "Nacl 0,9%",
-      "Glucose 2,5%",
-      "Nacl 10%",
-      "Il n'y a pas de soluté isotonique"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le NaCl 0,9% est un soluté isotonique dont l'osmolarité est proche de celle du sang.",
-    "id": "annalescorrigées-Volume-2__page_011_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 11,
-    "page_id": "annalescorrigées-Volume-2__page_011",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Quel est le médicament qui agit comme un parasympatholytique ?",
-    "options": [
-      "L'éphédrine",
-      "La néostigmine",
-      "L'atropine",
-      "La phényléphrine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La néostigmine est un parasympathomimétique.",
-    "id": "annalescorrigées-Volume-2__page_012_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 12,
-    "page_id": "annalescorrigées-Volume-2__page_012",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Le choc anaphylactique est-il un choc quantitatif ?",
-    "options": [
-      "Vrai",
-      "Faux"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le choc anaphylactique n'est pas un choc quantitatif.",
-    "id": "annalescorrigées-Volume-2__page_012_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 12,
-    "page_id": "annalescorrigées-Volume-2__page_012",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.93
-  },
-  {
-    "text": "Quelles sont les quatre familles de médicaments utilisés comme antihypertenseurs ?",
-    "options": [
-      "A. ACE inhibiteurs, B. Diurétiques, C. Calcium canaux bloquant, D. Régulateurs de l'angiotensine II"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Les quatre familles de médicaments utilisés comme antihypertenseurs sont ACE inhibiteurs (B), Diurétiques (A), Calcium canaux bloquant (C) et Régulateurs de l'angiotensine II (D).",
-    "id": "annalescorrigées-Volume-2__page_013_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 13,
-    "page_id": "annalescorrigées-Volume-2__page_013",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.91
-  },
-  {
-    "text": "Décrivez la procédure de transfusion de culot globulaire à Mme E",
-    "options": [
-      "A. Ouvrir le sac de sang, préparer les matériels nécessaires et commencer l'injection directement dans la veine de Mme E sans utiliser de filtre.",
-      "B. Préparer les matériels nécessaires, ouvrir le sac de sang et utiliser un filtre pour nettoyer le sang avant d'injecter dans la veine de Mme E.",
-      "C. Ouvrir le sac de sang, préparer les matériels nécessaires et commencer l'injection directement dans une veine de Mme E sans utiliser de tube.",
-      "D. Prendre une ampoule de culot globulaire prête à l'utilisation pour injection directe dans la veine de Mme E."
-    ],
-    "correctAnswer": 2,
-    "explanation": "La procédure de transfusion de culot globulaire comprend l'ouverture du sac de sang, utilisation d'un filtre pour nettoyer le sang avant d'injecter dans la veine (B). Une fois le filtre mis en place, on peut commencer l'injection et surveiller les réactions de Mme E.",
-    "id": "annalescorrigées-Volume-2__page_013_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 13,
-    "page_id": "annalescorrigées-Volume-2__page_013",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.91
-  },
-  {
-    "text": "Comment préparer une seringue de midazolam à 15mg/h en utilisant des ampoules de 50mg dans 10ml ?",
-    "options": [
-      "Utiliser 3 seringues de 50ml et enlever 5 ml chaque fois",
-      "Utiliser 2 seringues de 50ml et enlever 7,5 ml la première fois et 2,5 ml la deuxième fois",
-      "Utiliser 1 seringue de 50ml et enlever tout le contenu",
-      "Aucune des réponses est correcte, il manque des informations."
-    ],
-    "correctAnswer": 2,
-    "explanation": "En utilisant 2 seringues de 50ml, on peut enlever 7,5 ml la première fois pour obtenir 15 mg de midazolam et 2,5 ml la deuxième fois pour atteindre le débit de 15mg/h.",
-    "id": "annalescorrigées-Volume-2__page_014_q1",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 14,
-    "page_id": "annalescorrigées-Volume-2__page_014",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.921
-  },
-  {
-    "text": "Quelle surveillance clinique et paraclinique doit être effectuée sur un patient sous Lasilix® ?",
-    "options": [
-      "Monitoring des niveaux d'ions sodium, potassium et chlore dans le sang",
-      "Surveillance des niveaux de glucose et bilirubine dans le sang",
-      "Monitoring du poids et de la tension artérielle",
-      "Surveillance des niveaux de créatinine et d'urée dans l'urine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Un patient sous Lasilix® doit être surveillé pour détecter des modifications des niveaux de glucose et bilirubine dans le sang.",
-    "id": "annalescorrigées-Volume-2__page_014_q2",
-    "source_pdf": "annalescorrigées-Volume-2.pdf",
-    "page": 14,
-    "page_id": "annalescorrigées-Volume-2__page_014",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.925
-  },
-  {
-    "text": "Quel est le rôle du surfactant dans le corps humain ?",
-    "options": [
-      "A. Il aide à la respiration en réduisant la tension surface à l'intérieur des alvéoles pulmonaires.",
-      "B. Il est utilisé pour soigner les brûlures.",
-      "C. Il est un médicament anti-inflammatoire.",
-      "D. Il est un agent de nettoyage pour les vêtements."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le surfactant aide à la respiration en réduisant la tension surface à l'intérieur des alvéoles pulmonaires, ce qui permet aux poumons de rester ouverts et d'expirer facilement.",
-    "id": "annalescorrigées-Volume-1__page_011_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 11,
-    "page_id": "annalescorrigées-Volume-1__page_011",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.932
-  },
-  {
-    "text": "Quelle quantité de glucose perfusez-vous en 24 heures à un patient avec des ampoules de G30% ?",
-    "options": [
-      "A. 60ml",
-      "B. 120ml",
-      "C. 240ml",
-      "D. 480ml"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La concentration de glucose est de 30%, donc 120g correspond à 400ml. Divisé par 3 pour le débit horaire donné (400ml/3), il reste 133.33 ml restant à infuser en 24 heures, ce qui donne un total de 299.99ml. Cependant, les quantités doivent être arrondies pour la pratique clinique, donc on infuse 300ml.",
-    "id": "annalescorrigées-Volume-1__page_011_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 11,
-    "page_id": "annalescorrigées-Volume-1__page_011",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.887
-  },
-  {
-    "text": "Quels sont les barorécepteurs impliqués dans la régulation de la pression artérielle à court terme ?",
-    "options": [
-      "Sinus carotidien, crosse aortique et oreillette droite du cœur, sinus pulmonaire",
-      "Sinus carotidien, crosse aortique, oreillette droite du cœur et sinus coronarien",
-      "Sinus carotidien, crosse aortique, oreillette droite du cœur et ganglion trigeminal",
-      "Sinus carotidien, crosse aortique, oreilletle droite du cœur et sinus vagal"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Les barorécepteurs impliqués dans la régulation de la pression artérielle à court terme sont le sinus carotidien, la crosse aortique et l'oreilletle droite du cœur.",
-    "id": "annalescorrigées-Volume-1__page_010_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 10,
-    "page_id": "annalescorrigées-Volume-1__page_010",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.897
-  },
-  {
-    "text": "Quel est le facteur natriurétique qui régule la pression artérielle à moyen terme ?",
-    "options": [
-      "Régulation de la pression artérielle n'est pas impliquée dans un processus de moyen terme",
-      "Facteur natrial natriurétique type A",
-      "Facteur natrial natriurétique type B",
-      "Facteur natrial natriurétique type C"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le facteur natriloïde natriurétique régule la pression artérielle à moyen terme.",
-    "id": "annalescorrigées-Volume-1__page_010_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 10,
-    "page_id": "annalescorrigées-Volume-1__page_010",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Quelle hormone est hyperglycémiante ?",
-    "options": [
-      "L'adrénaline",
-      "Le cortisol",
-      "L'insuline",
-      "Le glucagon"
-    ],
-    "correctAnswer": 3,
-    "explanation": "L'insuline est une hormone hyperglycémiante qui permet de stimuler l'utilisation du glucose par les cellules.",
-    "id": "annalescorrigées-Volume-1__page_012_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 12,
-    "page_id": "annalescorrigées-Volume-1__page_012",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.949
-  },
-  {
-    "text": "Quel médicament agit au niveau de l'anse de Henlé ?",
-    "options": [
-      "L'espace ST",
-      "La vasopressine",
-      "Le rythme cardiaque",
-      "Contrairement à la fréquence cardiaque"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La vasopressine agit au niveau de l'anse de Henlé pour réduire la diuresis et ainsi conserver plus d'eau dans le corps.",
-    "id": "annalescorrigées-Volume-1__page_012_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 12,
-    "page_id": "annalescorrigées-Volume-1__page_012",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.949
-  },
-  {
-    "text": "Le pancréas est-il la seule glande mixte du corps ?",
-    "options": [
-      "Oui",
-      "Non, il y en a plusieurs",
-      "Je ne sais pas",
-      "Il n'y a pas de glandes mixtes"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le pancréas n'est pas la seule glande mixte du corps.",
-    "id": "annalescorrigées-Volume-1__page_013_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 13,
-    "page_id": "annalescorrigées-Volume-1__page_013",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.938
-  },
-  {
-    "text": "Quel est le liquide céphalo-rachidien et quels sont ses rôles physiologiques ?",
-    "options": [
-      "Liquide cérébrospinal : transporteur de nutrition, régulateur de la pression intracranienne et fournisseur de nutriments aux nerfs",
-      "Sang : transporteur d'oxygène et de déchets",
-      "Eau : régule la température du corps",
-      "Acide urique : déchet éliminé par le foie"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Le liquide cérébrospinal est un liquide extracellulaire qui remplit les espaces autour et dans la moelle épinière. Il a pour rôles physiologiques le transport de nutriments aux nerfs, la régulation de la pression intracranienne et l'évacuation des déchets du système nerveux central.",
-    "id": "annalescorrigées-Volume-1__page_013_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 13,
-    "page_id": "annalescorrigées-Volume-1__page_013",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.9
-  },
-  {
-    "text": "Quel rôle joue le surfactant dans les alvéoles pulmonaires ?",
-    "options": [
-      "Il aide à l'absorption d'oxygène",
-      "Il est responsable de la mécanique ventilatoire",
-      "Il protège les alvéoles des microbes",
-      "Il joue un rôle dans le transfert de carbone"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le surfactant joue un rôle dans la mécanique ventilatoire en empêchant l'affaissement des alvéoles pulmonaires.",
-    "id": "annalescorrigées-Volume-1__page_014_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 14,
-    "page_id": "annalescorrigées-Volume-1__page_014",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.922
-  },
-  {
-    "text": "Combien de millilitres de solution glucosée à 30% est nécessaire pour obtenir 120g de glucose?",
-    "options": [
-      "200ml",
-      "300ml",
-      "400ml",
-      "500ml"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Pour obtenir 120g de glucose, il faut prendre 4 ampoules de G30, ce qui correspond à 400ml de solution.",
-    "id": "annalescorrigées-Volume-1__page_014_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 14,
-    "page_id": "annalescorrigées-Volume-1__page_014",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.937
-  },
-  {
-    "text": "Quelle hormone est hyperglycémiante ?",
-    "options": [
-      "L’adrénaline",
-      "Le glucagon",
-      "Les hormones T3 et T4",
-      "La rénine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le glucagon est une hormone hyperglycémiante.",
-    "id": "annalescorrigées-Volume-1__page_015_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 15,
-    "page_id": "annalescorrigées-Volume-1__page_015",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.926
-  },
-  {
-    "text": "Où l’acétylcholine agit ?",
-    "options": [
-      "Au niveau de la moelle épinière",
-      "Dans le système nerveux périphérique",
-      "Au niveau des surrénales",
-      "Leuromédiateur principal du système sympathique"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L’acétylcholine est le neuromédiateur principal du système parasympathique.",
-    "id": "annalescorrigées-Volume-1__page_015_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 15,
-    "page_id": "annalescorrigées-Volume-1__page_015",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.957
-  },
-  {
-    "text": "Quelle est la différence entre le diabète de type 1 et le diabète de type 2 ?",
-    "options": [
-      "Diabète de type 1 est insulinodépendant, tandis que le diabète de type 2 n'est pas.",
-      "Le diabète de type 1 est auto-immune et provoque la destruction des cellules β des îlots de langerhans, alors que le diabète de type 2 est acquis et résulte d'insulinorésistance.",
-      "Le diabète de type 1 se caractérise par une brûlure sur le corps selon la règle des 9 de Wallace, tandis que le diabète de type 2 ne l'a pas.",
-      "Diabète de type 1 est une maladie rare, alors que diabète de type 2 est plus fréquent."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le diabète de type 1 est auto-immune et provoque la destruction des cellules β des îlots de langerhans, alors que le diabète de type 2 est acquis et résulte d'insulinorésistance.",
-    "id": "annalescorrigées-Volume-1__page_017_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 17,
-    "page_id": "annalescorrigées-Volume-1__page_017",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.912
-  },
-  {
-    "text": "Quel est le rôle du glucagon dans le corps ?",
-    "options": [
-      "Le glucagon est sécrété par les cellules β des îlots de langerhans.",
-      "Le glucagon permet la dégradation biologique de la molécule de glycogène présent dans le foie afin de le transformer en glucose.",
-      "Le glucagon est une loi qui se nomme la loi de Boyle Mariotte.",
-      "Le glucagon provoque la destruction des cellules β des îlots de langerhans."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Le glucagon permet la dégradation biologique de la molécule de glycogène présent dans le foie afin de le transformer en glucose.",
-    "id": "annalescorrigées-Volume-1__page_017_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 17,
-    "page_id": "annalescorrigées-Volume-1__page_017",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.943
-  },
-  {
-    "text": "A quelle famille appartiennent les médicaments suivants ?",
-    "options": [
-      "Groupe Antigène",
-      "Groupe Anticorps",
-      "Groupe ABO",
-      "Inconnu"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Les médicaments ne sont pas de la famille des antigènes, anticorps ou groupes ABO. Ils sont donc inconnus.",
-    "id": "annalescorrigées-Volume-1__page_019_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 19,
-    "page_id": "annalescorrigées-Volume-1__page_019",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.934
-  },
-  {
-    "text": "Quels sont les signes cliniques de déshydratations chez l'enfant ?",
-    "options": [
-      "Fievre, craques auditifs, douleurs musculaires",
-      "Vomissements, faiblesse musculaire, taches blanchâtres sur la peau",
-      "Douleur d'œil, dysphagie, diarrhée",
-      "Palpitations, toux, craquelure des muqueuses"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les signes cliniques de déshydratations chez l'enfant incluent des vomissements, faiblesse musculaire et taches blanchâtres sur la peau.",
-    "id": "annalescorrigées-Volume-1__page_019_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 19,
-    "page_id": "annalescorrigées-Volume-1__page_019",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
     "biomedical_score": 0.917
   },
   {
-    "text": "Qu'est-ce que le système rénine-angiotensine-aldostérone ? Décrivez-le.",
+    "text": "Quel mode ventilatoire est utilisé pour procurer une ventilation avec une pression positive continue ?",
     "options": [
-      "A. Un système hormonal responsable de la régulation de la pression artérielle et du volume sanguin.",
-      "B. Un système qui contrôle le taux d'insuline dans le sang.",
-      "C. Un système responsable de la réponse immunitaire au niveau des cellules souches.",
-      "D. Un système hormonal responsable de la régulation du métabolisme lipidique."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Le système rénine-angiotensine-aldostérone (RAA) est un système hormonal responsable de la régulation de la pression artérielle et du volume sanguin.",
-    "id": "annalescorrigées-Volume-1__page_018_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 18,
-    "page_id": "annalescorrigées-Volume-1__page_018",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.939
-  },
-  {
-    "text": "Quels sont les signes cliniques et paracliniques d’une détresse respiratoire chez l’adulte ?",
-    "options": [
-      "A. Un taux de CO2 normal dans le sang, une fréquence cardiaque normale et un taux de pO2 supérieur à 70 mmHg.",
-      "B. Une fréquence respiratoire accrue, une douleur thoracique au niveau de la poitrine, une cyanose des lèvres et un taux de CO2 normal dans le sang.",
-      "C. Un taux de CO2 supérieur à 45 mmHg, une fréquence cardiaque accrue et une hypertension artérielle.",
-      "D. Une fréquence respiratoire normale, un taux de pO2 inférieur à 60 mmHg et une saturation en oxygène dans le sang supérieure à 95%."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Les signes cliniques et paracliniques d’une détresse respiratoire chez l’adulte peuvent inclure une fréquence respiratoire accrue, une douleur thoracique au niveau de la poitrine, une cyanose des lèvres et un taux de CO2 normal dans le sang.",
-    "id": "annalescorrigées-Volume-1__page_018_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 18,
-    "page_id": "annalescorrigées-Volume-1__page_018",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.894
-  },
-  {
-    "text": "Quelle concentration doit-on obtenir en ampoule de noradrénaline à 8 mg/4 ml pour avoir une solution de 16 µg/ml ?",
-    "options": [
-      "Option A: Diviser le volume par 2",
-      "Option B: Multiplier la dose par 2 et diviser par le nouveau volume",
-      "Option C: Multiplier la dose par 4 et diviser par le nouveau volume",
-      "Option D: Multiplier la dose par 8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La concentration initiale est de 8 mg/4 ml. Pour avoir 16 µg/ml, multiplions la dose (8) par 2 (car 1 µg = 1/1000 mg) et divisez par le nouveau volume. Donc, le nouveau volume doit être 4/2 = 2 ml.",
-    "id": "annalescorrigées-Volume-1__page_020_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 20,
-    "page_id": "annalescorrigées-Volume-1__page_020",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.91
-  },
-  {
-    "text": "À quels facteurs de coagulation synthétisés par le foie les médicaments suivants sont-ils associés ?",
-    "options": [
-      "Option A: Héparine non fractionnée, Antiagrégant plaquettaire et Sintron",
-      "Option B: Antiagrégant plaquettaire, Anti vitamine K et Lovenox",
-      "Option C: Héparine de bas poids moléculaire, Plavix et Innohep",
-      "Option D: Calciparine, Fraxiparine et Previscan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "L'Antiagrégant plaquettaire est un inhibiteur des facteurs de coagulation IIb et IIIa. Anti vitamine K est utilisé pour traiter des pathologies de coagulation dépendantes de la vitamine K (facteurs VII, IX et X). Lovenox est un anticoagulant qui agit en bloquant les facteurs de coagulation II et X.",
-    "id": "annalescorrigées-Volume-1__page_020_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 20,
-    "page_id": "annalescorrigées-Volume-1__page_020",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.887
-  },
-  {
-    "text": "Est l'aspiration des sécrétions d'un patient un acte du rôle propre de l'infirmière ou sur prescription ?",
-    "options": [
-      "Du rôle propre",
-      "Sur prescription",
-      "Aucun des deux",
-      "Non applicable"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'aspiration des sécrétions d'un patient est un acte sur prescription.",
-    "id": "annalescorrigées-Volume-1__page_022_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 22,
-    "page_id": "annalescorrigées-Volume-1__page_022",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.915
-  },
-  {
-    "text": "Est la pose de bandages de contention un acte du rôle propre de l'infirmière ou sur prescription ?",
-    "options": [
-      "Du rôle propre",
-      "Sur prescription",
-      "Aucun des deux",
-      "Non applicable"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La pose de bandages de contention est un acte du rôle propre de l'infirmière.",
-    "id": "annalescorrigées-Volume-1__page_022_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 22,
-    "page_id": "annalescorrigées-Volume-1__page_022",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.896
-  },
-  {
-    "text": "Quels sont les signes d'une phlébite ?",
-    "options": [
-      "A) Fatigue et douleurs aux jambes, inflammation des veines visibles, rougeur de la peau autour des veines, sensation de chaleur dans la zone touchée",
-      "B) Douleurs au niveau du foie, inflammation des veines visibles sur le dos, sensation de froid dans la zone touchée",
-      "C) Tous les signes mentionnés dans les options A et B",
-      "D) Douleurs aux pieds, inflammation des veines visibles sur les pieds"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Inflammation des veines visibles est un signe de phlébite. Cette question ne mentionne pas les signes incorrects pour la phlébite.",
-    "id": "annalescorrigées-Volume-1__page_021_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 21,
-    "page_id": "annalescorrigées-Volume-1__page_021",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.885
-  },
-  {
-    "text": "Quelle prise en charge doit être appliquée pour une phlébite ?",
-    "options": [
-      "A) Médication orale et infiltrations locales",
-      "B) Chirurgie lourde",
-      "C) Médication orale seule",
-      "D) Traitement aux antidouleurs locaux"
-    ],
-    "correctAnswer": 1,
-    "explanation": "La prise en charge de la phlébite peut inclure des médications orales et infiltrations locales. Cette question ne mentionne pas les options incorrectes.",
-    "id": "annalescorrigées-Volume-1__page_021_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 21,
-    "page_id": "annalescorrigées-Volume-1__page_021",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.913
-  },
-  {
-    "text": "Quel est le premier effet de l'angiotensine II dans le système rénine-angiotensine-aldostérone?",
-    "options": [
-      "A - Vasodilatation",
-      "B - Vasoconstriction",
-      "C - Secretion d'insuline",
-      "D - Réabsorption de potassium"
-    ],
-    "correctAnswer": 2,
-    "explanation": "L'angiotensine II provoque une vasoconstriction.",
-    "id": "annalescorrigées-Volume-1__page_023_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 23,
-    "page_id": "annalescorrigées-Volume-1__page_023",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.949
-  },
-  {
-    "text": "Où se trouve l'enzyme responsable de la conversion de l'angiotensine I en angiotensine II?",
-    "options": [
-      "A - Appareil juxtaglomérulaire",
-      "B - Hépatocytes (foie)",
-      "C - Enzyme de conversion pulmonaire",
-      "D - Cellules de l'intestin"
-    ],
-    "correctAnswer": 3,
-    "explanation": "L'enzyme responsable de la conversion se trouve au niveau pulmonaire.",
-    "id": "annalescorrigées-Volume-1__page_023_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 23,
-    "page_id": "annalescorrigées-Volume-1__page_023",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.943
-  },
-  {
-    "text": "Quelle vérification doit être effectuée au niveau du patient ?",
-    "options": [
-      "L'étanchéité du dispositif",
-      "La conscience",
-      "La ventilation",
-      "Évaluer la douleur"
-    ],
-    "correctAnswer": 2,
-    "explanation": "La conscience doit être vérifiée au niveau du patient.",
-    "id": "annalescorrigées-Volume-1__page_024_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 24,
-    "page_id": "annalescorrigées-Volume-1__page_024",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.936
-  },
-  {
-    "text": "Quelle mesure doit-il éviter à Mr. M ?",
-    "options": [
-      "Il ne doit pas porter de charges lourdes avec son bras droit",
-      "Il doit mettre de glace sur la FAV",
-      "Il ne doit pas prendre de pression artérielle au bras gauche",
-      "Il ne doit pas dormir du côté gauche"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mr. M doit éviter de mettre de glace sur la FAV.",
-    "id": "annalescorrigées-Volume-1__page_024_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 24,
-    "page_id": "annalescorrigées-Volume-1__page_024",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.954
-  },
-  {
-    "text": "Quel groupe sanguin peut présenter l'antigène A et le facteur Rh positif?",
-    "options": [
-      "A. A",
-      "B. B",
-      "C. AB",
-      "D. O"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The group A blood type has both the antigen A and Rh positive factor.",
-    "id": "annalescorrigées-Volume-1__page_026_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 26,
-    "page_id": "annalescorrigées-Volume-1__page_026",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.94
-  },
-  {
-    "text": "Quel signe clinique est associé à une déshydratation chez l'enfant?",
-    "options": [
-      "A. Pli cutané",
-      "B. Dépression de la fontanelle",
-      "C. Sécheresse des muqueuses",
-      "D. Diurèse augmentée"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Presence of a skin fold (pli cutané) is a sign of dehydration in a child.",
-    "id": "annalescorrigées-Volume-1__page_026_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 26,
-    "page_id": "annalescorrigées-Volume-1__page_026",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.915
-  },
-  {
-    "text": "Quelle est la concentration en noradrénaline que l'on doit obtenir ?",
-    "options": [
-      "0.25 mg/ml",
-      "0.5 mg/ml",
-      "1 mg/ml",
-      "2 mg/ml"
-    ],
-    "correctAnswer": 3,
-    "explanation": "La concentration désirée est de 0.5 mg/ml.",
-    "id": "annalescorrigées-Volume-1__page_027_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 27,
-    "page_id": "annalescorrigées-Volume-1__page_027",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.937
-  },
-  {
-    "text": "Pour obtenir une dilution de noradrénaline à 16 µg/ml, combien doit-on diviser la concentration initiale par ?",
-    "options": [
-      "400",
-      "500",
-      "800",
-      "1000"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pour obtenir 16 µg/ml, il faut diviser par 500.",
-    "id": "annalescorrigées-Volume-1__page_027_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 27,
-    "page_id": "annalescorrigées-Volume-1__page_027",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.908
-  },
-  {
-    "text": "Quel état de choc est une réaction d’hypersensibilité systémique qui peut engager le pronostic vital?",
-    "options": [
-      "Choc anaphylactique",
-      "Choc septique",
-      "Choc hémorragique",
-      "Choc cardiogénique"
+      "CPAP (Continuous Positive Airway Pressure)",
+      "IMV (Intermittent Mandatory Ventilation)",
+      "SIMV (Synchronized Intermittent Mandatory Ventilation)",
+      "Pressure Support Ventilation"
     ],
     "correctAnswer": 0,
-    "explanation": "Le choc anaphylactique est une réaction d'hypersensibilité systémique.",
-    "id": "annalescorrigées-Volume-1__page_028_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 28,
-    "page_id": "annalescorrigées-Volume-1__page_028",
-    "module_id": "unknown",
+    "explanation": "CPAP (Continuous Positive Airway Pressure) utilise une pression positive continue pour maintenir les voies aériennes patentes et améliorer l'oxygénation.",
+    "id": "ventilation_targeted_4_0",
+    "module_id": "ventilation",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.933
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.945
   },
   {
-    "text": "Les facteurs vitamine K dépendants sont-ils le facteur IX, X, VII et II ?",
+    "text": "Quel équipement est nécessaire lors d'une intubation pour la ventilation mécanique ?",
     "options": [
-      "Facteur IX, X, VII et II",
-      "Facteur II, VII, IX et X",
-      "Facteur IX, VII, VIII et II",
-      "Facteur II, IX, X et XI"
+      "Laryngoscope, étrier de trachée, masque à oxygène, circuit respiratoire",
+      "Stethoscope, stylette nasotrachéal, masque à oxygène, circuit respiratoire",
+      "Laryngoscope, étrier de trachée, stylette nasotrachéal, circuit respiratoire",
+      "Stethoscope, étrier de trachée, masque à oxygène, styloscope"
     ],
     "correctAnswer": 1,
-    "explanation": "Les facteurs dépendants de la vitamine K sont les facteurs II, VII, IX et X.",
-    "id": "annalescorrigées-Volume-1__page_028_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 28,
-    "page_id": "annalescorrigées-Volume-1__page_028",
-    "module_id": "unknown",
+    "explanation": "Lors d'une intubation pour la ventilation mécanique, un laryngoscope et un étrier de trachée sont nécessaires. Le masque à oxygène est également important mais n'est pas lié directement à l'intubation.",
+    "id": "ventilation_targeted_4_1",
+    "module_id": "ventilation",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.884
-  },
-  {
-    "text": "Quel est le score normal d'apgar pour un nouveau-né ?",
-    "options": [
-      "A: Score inférieur à 7",
-      "B: Score entre 41 et 60",
-      "C: Score supérieur à 80",
-      "D: Pas de score défini"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Un score d'apgar normal est un score supérieur à 7.",
-    "id": "annalescorrigées-Volume-1__page_029_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 29,
-    "page_id": "annalescorrigées-Volume-1__page_029",
-    "module_id": "unknown",
-    "difficulty": "medium",
-    "mode": "revision",
-    "generation_method": "massive_optimized",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
     "biomedical_score": 0.941
   },
   {
-    "text": "En quoi consiste la matériovigilance ?",
+    "text": "Un nouveau-né a un score Apgar à 1 minute élevé (9 ou 10). Quelle est la probabilité qu'il nécessite une réanimation néonatale ?",
     "options": [
-      "A: Surveillance des médicaments",
-      "B: Évaluation des incidents liés aux dispositifs médicaux",
-      "C: Suivi des receveurs de produits sanguins labiles",
-      "D: Prise en charge de l'embolie pulmonaire"
+      "A) Très faible",
+      "B) Faible",
+      "C) Modérée",
+      "D) Élevée"
     ],
-    "correctAnswer": 2,
-    "explanation": "La matériovigilance a pour objectif d’éviter que ne se (re) produisent des incidents et risques graves mettant en cause des dispositifs médicaux, en prenant les mesures préventives et/ou correctives appropriées.",
-    "id": "annalescorrigées-Volume-1__page_029_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 29,
-    "page_id": "annalescorrigées-Volume-1__page_029",
-    "module_id": "unknown",
+    "correctAnswer": "A",
+    "explanation": "Un score Apgar élevé à 1 minute indique un nouveau-né en bonne santé et la probabilité de nécessiter une réanimation néonatale est très faible.",
+    "id": "pediatrie_targeted_0_0",
+    "module_id": "pediatrie",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.909
+  },
+  {
+    "text": "Pour doser l'intubation pédiatrique, quel est le débit minimal recommandé pour une enfant de 5 kg ?",
+    "options": [
+      "A) 2 L/min",
+      "B) 4 L/min",
+      "C) 6 L/min",
+      "D) 8 L/min"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pour un enfant de 5 kg, le débit minimal recommandé pour l'intubation pédiatrique est de 6 L/min.",
+    "id": "pediatrie_targeted_0_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.906
+  },
+  {
+    "text": "Enquêtez-vous quels sont les facteurs considérés lors du dosage de médicaments pédiatriques ?",
+    "options": [
+      "A) Poids, âge et taille de l'enfant",
+      "B) Age et poids de l'enfant seulement",
+      "C) Taille, poids et sexe de l'enfant",
+      "D) Poids et sexe de l'enfant seulement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lors du dosage de médicaments pour un enfant, il est important d'avoir en compte le poids, l'âge et la taille de l'enfant. Cela sert à garantir une dose adéquate tout en minimisant les effets indésirables.",
+    "id": "pediatrie_targeted_1_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.937
+  },
+  {
+    "text": "Que représente le score Apgar ?",
+    "options": [
+      "A) Score d'évaluation de la condition physique du nouveau-né dans ses premières minutes",
+      "B) Score de l'état de santé général de l'enfant à un âge plus avancé",
+      "C) Score de l'état de santé psychologique de l'enfant",
+      "D) Score de l'efficacité d'une anesthésie pédiatrique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le score Apgar est un test utilisé pour évaluer le nouvel-né immédiatement après la naissance. Il vise à déterminer si l'enfant nécessite de l'aide en raison d'un stress perinatal.",
+    "id": "pediatrie_targeted_1_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.945
+  },
+  {
+    "text": "Dans quelle échelle de 0 à 10 est évalué le nouveau-né immédiatement après la naissance, en fonction de son aspect général, de sa coloration et de ses réflexes ?",
+    "options": [
+      "Score Apgar",
+      "Score Paediatric",
+      "Hospital Score",
+      "Newborn Assessment Score"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Le score Apgar est utilisé pour évaluer le nouveau-né immédiatement après la naissance.",
+    "id": "pediatrie_targeted_2_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.933
+  },
+  {
+    "text": "Quel dosage pédiatrique représente la moitié de celui pour les adultes ?",
+    "options": [
+      "Dosage pédiatrique standard",
+      "Dosage pédiatrique faible",
+      "Dosage pédiatrique élevé",
+      "Dosage pédiatrique adapté"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le dosage pédiatrique faible représente la moitié de celui pour les adultes.",
+    "id": "pediatrie_targeted_2_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.915
+  },
+  {
+    "text": "Dans une anesthésie pédiatrique, quelle est l'échelle utilisée pour évaluer le score de l'état du nouveau-né immédiatement après la naissance ?",
+    "options": [
+      "Score Apgar 1",
+      "Score Apgar 2",
+      "Score Apgar 3",
+      "Score Apgar 4"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Le score Apgar est un système d'évaluation simple et rapide de l'état de santé d'un nouveau-né immédiatement après la naissance. Il comprend des critères sur le tonus musculaire, la respiration, la couleur de peau, les réflexes et la ponction péricentrale.",
+    "id": "pediatrie_targeted_3_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.914
+  },
+  {
+    "text": "En réanimation néonatale, quelle est la dose recommandée pour un dosage pédiatrique de suxamethonium ?",
+    "options": [
+      "0.5 mg/kg",
+      "1 mg/kg",
+      "2 mg/kg",
+      "4 mg/kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En réanimation néonatale, le dosage recommandé pour un suxamethonium pédiatrique est de 1 mg/kg.",
+    "id": "pediatrie_targeted_3_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.911
+  },
+  {
+    "text": "Dans la réanimation néonatale, quel est le score Apgar après une minute de vie ?",
+    "options": [
+      "0-1 points",
+      "2-3 points",
+      "4-5 points",
+      "6-10 points"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le score Apgar à 1 minute évalue la respiration, la couleur de la peau et la tonus musculaire. Il peut aller de 0 à 10 points, mais après une minute, un nouveau-né avec une respiration régulière, une couleur de peau pâle et un tonus musculaire normal obtient généralement entre 2 et 3 points.",
+    "id": "pediatrie_targeted_4_0",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.91
+  },
+  {
+    "text": "En cas d'anesthésie pédiatrique, quel dosage est le plus approprié pour un enfant de 5 ans ?",
+    "options": [
+      "La dose d'un adulte",
+      "Un quart de la dose d'un adulte",
+      "Une moitié de la dose d'un adulte",
+      "La dose de l'enfant est individualisée selon son poids"
+    ],
+    "correctAnswer": 3,
+    "explanation": "En anesthésie pédiatrique, les doses sont adaptées à l'âge et au poids de l'enfant. Une dose d'un adulte est généralement trop élevée pour un enfant de 5 ans. La dose de l'enfant doit être individualisée selon son poids.",
+    "id": "pediatrie_targeted_4_1",
+    "module_id": "pediatrie",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.897
+  },
+  {
+    "text": "Durant l'anesthésie, une cathéter artériel est utilisé pour effectuer le monitorage de la pression artérielle. Quel est son autre avantage important ?",
+    "options": [
+      "A) Il permet de mesurer la saturation en oxygène (SpO2)",
+      "B) Il peut être utilisé pour l'ECG",
+      "C) Il permet de mesurer le débit sanguin",
+      "D) Il peut être utilisé pour la capnographie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'ECG (Electrocardiogramme) peut être réalisé grâce à un cathéter artériel.",
+    "id": "monitorage_targeted_0_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
     "biomedical_score": 0.925
   },
   {
-    "text": "Quel type de soin implique la mise en place et l'ablation d'un cathéter ?",
+    "text": "Quelle technique de monitorage est utilisée pour mesurer la concentration de dioxyde de carbone (CO2) dans les gaz échangés par les poumons ?",
     "options": [
-      "Soins de bouche",
-      "Prévention des escarres",
-      "Enregistrement d'électrocardiogramme",
-      "Mise en place de sondes gastriques"
+      "A) ECG",
+      "B) Capnographie",
+      "C) SpO2",
+      "D) Cathéter artériel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La capnographie est utilisée pour mesurer la concentration de dioxyde de carbone dans les gaz échangés par les poumons.",
+    "id": "monitorage_targeted_0_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.916
+  },
+  {
+    "text": "Quel instrument est utilisé pour la capnographie lors de l'anesthésie ?",
+    "options": [
+      "ECG",
+      "SpO2",
+      "Cathéter artériel",
+      "Un dispositif dédié à la capnographie"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Un dispositif dédié à la capnographie est utilisé pour mesurer les gaz éliminés par l'appareil respiratoire lors de l'anesthésie.",
+    "id": "monitorage_targeted_1_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.929
+  },
+  {
+    "text": "Quel signal peut être obtenu via un cathéter artériel dans le contexte du monitorage anesthésique ?",
+    "options": [
+      "CO2",
+      "O2",
+      "ECG",
+      "Température"
     ],
     "correctAnswer": 1,
-    "explanation": "La mise en place et l'ablation d'un cathéter relatent aux soins de bouche avec application de produits médicamenteux.",
-    "id": "annalescorrigées-Volume-1__page_030_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 30,
-    "page_id": "annalescorrigées-Volume-1__page_030",
-    "module_id": "unknown",
+    "explanation": "Un cathéter artériel peut être utilisé pour mesurer le niveau de dioxyde de carbone (CO2) dans l'organisme. Cela aide à surveiller la respiration et la ventilation lors de l'anesthésie.",
+    "id": "monitorage_targeted_1_1",
+    "module_id": "monitorage",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.94
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.939
   },
   {
-    "text": "Quel type de dispositif est utilisé pour la ventilation manuelle instrumentale par masque ?",
+    "text": "Quel dispositif est utilisé pour mesurer la saturation d'oxygène dans le sang de la peau ?",
     "options": [
-      "Defibrillateur semi-automatique",
-      "Cathéter",
-      "Sondes gastriques",
-      "Enregistrement d'électrocardiogramme"
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "SpO2"
     ],
     "correctAnswer": 3,
-    "explanation": "La ventilation manuelle instrumentale par masque est réalisée avec un appareil de ventilation artificielle.",
-    "id": "annalescorrigées-Volume-1__page_030_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 30,
-    "page_id": "annalescorrigées-Volume-1__page_030",
-    "module_id": "unknown",
+    "explanation": "L'SpO2 (Saturation d'oxygène dans le sang) est mesurée par un dispositif appelé SpO2, qui utilise des lumières pour mesurer la quantité de oxygène dans le sang.",
+    "id": "monitorage_targeted_2_0",
+    "module_id": "monitorage",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.924
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.906
   },
   {
-    "text": "Quel est le moyen d'envoyer une question ou un retour sur l'ebook ?",
+    "text": "Quel dispositif est utilisé pour mesurer la pression artérielle ?",
     "options": [
-      "En envoyant un email à laprepaiade@gmail.com",
-      "En rejoignant le groupe Facebook www.facebook.com/La-Prépa-Concours-IADE",
-      "Par la répétition du livre sur le site www.prepaconcoursiade.com",
-      "En utilisant un logiciel de reproduction ou de revente"
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "SpO2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le cathéter artériel est utilisé pour mesurer la pression artérielle. Il est inséré dans une artère, généralement l'artère radiale ou la grosse artère fémorale.",
+    "id": "monitorage_targeted_2_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.925
+  },
+  {
+    "text": "Quel appareil est utilisé pour mesurer la saturation d'oxygène dans le sang d'une personne sous anesthésie ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "Thermomètre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le SpO2 est mesuré par un capteur de saturation d'oxygène placé sur la peau d'une personne. Ce capteur ne peut pas être confondu avec le cathéter artériel ou l'ECG, qui ont des usages différents.",
+    "id": "monitorage_targeted_3_0",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.91
+  },
+  {
+    "text": "En surveillance anesthésique, quel type de cathéter est utilisé pour mesurer la pression artérielle ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "Thermomètre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le cathéter artériel est utilisé pour mesurer la pression artérielle directement dans l'artère. Les autres appareils ne sont pas destinés à cette fonction.",
+    "id": "monitorage_targeted_3_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.926
+  },
+  {
+    "text": "Quel opioïde est utilisé pour traiter la douleur intense et la fiévre ?",
+    "options": [
+      "A) Morphine",
+      "B) Fentanyl",
+      "C) Naloxone",
+      "D) Dextropropoxyphene"
     ],
     "correctAnswer": 1,
-    "explanation": "Le moyen de poser des questions est en rejoindant le groupe Facebook.",
-    "id": "annalescorrigées-Volume-1__page_031_q1",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 31,
-    "page_id": "annalescorrigées-Volume-1__page_031",
-    "module_id": "unknown",
+    "explanation": "Morphine est utilisé pour traiter la douleur intense et la fiévre dans le contexte de l'anesthésie.",
+    "id": "pharma_opioides_targeted_0_0",
+    "module_id": "pharma_opioides",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.94
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.919
   },
   {
-    "text": "Quelle action est interdite sur ce livre ?",
+    "text": "Quel opioïde est utilisé comme antidote en cas d'overdose d'opioïdes ?",
     "options": [
-      "La reproduction du livre",
-      "L'achat de livres",
-      "La vente du livre",
-      "L'échange d'idées sur le groupe Facebook"
+      "A) Morphine",
+      "B) Fentanyl",
+      "C) Naloxone",
+      "D) Dextropropoxyphene"
     ],
     "correctAnswer": 3,
-    "explanation": "La revente du livre est absolument interdite.",
-    "id": "annalescorrigées-Volume-1__page_031_q2",
-    "source_pdf": "annalescorrigées-Volume-1.pdf",
-    "page": 31,
-    "page_id": "annalescorrigées-Volume-1__page_031",
-    "module_id": "unknown",
+    "explanation": "Naloxone est utilisé comme antidote en cas d'overdose d'opioïdes.",
+    "id": "pharma_opioides_targeted_0_1",
+    "module_id": "pharma_opioides",
     "difficulty": "medium",
     "mode": "revision",
-    "generation_method": "massive_optimized",
-    "biomedical_score": 0.954
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.905
+  },
+  {
+    "text": "Quel opioïde est utilisé comme antagoniste pour bloquer les effets d'opioïdes sur le système nerveux central?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Dextropropoxyphene"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Naloxone est un antagoniste opioïde qui bloque les effets d'opioïdes sur le système nerveux central.",
+    "id": "pharma_opioides_targeted_1_0",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.903
+  },
+  {
+    "text": "Fentanyl est...",
+    "options": [
+      "Un antidote pour la surdose d'opioïdes",
+      "Un opioïde de forte puissance",
+      "Un analgésique utilisé dans le traitement de l'asthme",
+      "Un antagoniste opioïde"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fentanyl est un opioïde de forte puissance utilisé pour soulager la douleur extrême.",
+    "id": "pharma_opioides_targeted_1_1",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.93
+  },
+  {
+    "text": "Quel est l'analgésique opioïde synthétique le plus puissant utilisé en anesthésie ?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Codeine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fentanyl est un analgésique opioïde synthétique plus puissant que la morphine.",
+    "id": "pharma_opioides_targeted_2_0",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.943
+  },
+  {
+    "text": "Quel antagoniste des récepteurs opioïdes peut être utilisé pour traiter une surdose d'opioïdes ?",
+    "options": [
+      "Morphine",
+      "Fentanyl",
+      "Naloxone",
+      "Codeine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Naloxone est un antagoniste des récepteurs opioïdes utilisé pour traiter une surdose d'opioïdes.",
+    "id": "pharma_opioides_targeted_2_1",
+    "module_id": "pharma_opioides",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.918
+  },
+  {
+    "text": "Quelle est la loi qui régit l'activité de l'IADE en matière d'anesthésie ?",
+    "options": [
+      "Loi no 2016-1691 relative à la modernisation du système hospitalier, des recherches médicales et de la santé publique",
+      "Code de la santé publique",
+      "Code de la sécurité sociale",
+      "Aucun des précédents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La loi qui régit l'activité de l'IADE en matière d'anesthésie est le Code de la santé publique.",
+    "id": "legislation_targeted_0_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.934
+  },
+  {
+    "text": "Quel rôle doit-il revenir au consentement éclairé du patient pour une intervention anesthésique ?",
+    "options": [
+      "Il n'y a pas de rôle pour le consentement éclairé",
+      "Le consentement éclairé est nécessaire mais non suffisant",
+      "Le consentement éclairé est nécessaire et suffisant",
+      "Le consentement éclairé n'est pas requis en anesthésie"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le rôle du consentement éclairé du patient pour une intervention anesthésique est de le rendre nécessaire et suffisant.",
+    "id": "legislation_targeted_0_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.956
+  },
+  {
+    "text": "Quel est le rôle de l'IADE en matière de consentement éclairé lors d'une anesthésie ?",
+    "options": [
+      "Il est responsable du consentement éclairé du patient",
+      "Il peut fournir des informations au médecin anesthésiste pour lui permettre de faire valider le consentement par l'IADE",
+      "Il ne joue aucun rôle dans le consentement éclairé",
+      "L'IADE est responsable du consentement éclairé du patient et peut également fournir des informations au médecin anesthésiste"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Contrairement à certaines idées reçues, l'IADE ne joue pas directement le rôle du consentement éclairé. Cependant, il peut fournir des informations au médecin anesthésiste pour lui permettre de faire valider le consentement par l'IADE.",
+    "id": "legislation_targeted_1_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.944
+  },
+  {
+    "text": "Quelle déontologie régit généralement les actions des IADE ?",
+    "options": [
+      "Déontologie Médicale",
+      "Déontologie Pharmaceutique",
+      "Déontologie Informatique",
+      "Déontologie de l'Éthique"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Les IADE sont régis par une déontologie qui s'apparente à celle de l'Éthique. Il s'agit d'une déontologie spécifique aux IADE et qui définit les devoirs moraux et éthiques des professionnels de la gestion des données personnelles.",
+    "id": "legislation_targeted_1_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.944
+  },
+  {
+    "text": "Quelle est la loi française régissant l'anesthésie en matière de consentement éclairé du patient ?",
+    "options": [
+      "Loi no 2004-800 relative à la qualité du système hospitalier, au renouvellement du régime des établissements publics d'hospitalisation et à la réforme des établissements de santé",
+      "Loi no 2009-1670 relative à la transparence, à l'égalité, au contrat et à la responsabilité des entreprises",
+      "Code de la santé publique",
+      "Article L.1234-1 du Code de la santé publique"
+    ],
+    "correctAnswer": 3,
+    "explanation": "L'anesthésie est régie par le Code de la santé publique en France. La loi sur le consentement éclairé est prévue à l'article L1205-1.",
+    "id": "legislation_targeted_2_0",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.912
+  },
+  {
+    "text": "Quel est le rôle de l'IADE (Infirmier anesthésiste réanimateur) dans le cadre légal de l'anesthésie en matière de déontologie ?",
+    "options": [
+      "Assurer le respect des droits et libertés du patient tout au long de la procédure",
+      "Veiller à la qualité technique des soins anesthésiques et réanimentaires",
+      "Réaliser les soins en collaboration avec le médecin anesthésiste",
+      "Assurer la conformité des soins aux normes éthiques définies par la déontologie professionnelle"
+    ],
+    "correctAnswer": 4,
+    "explanation": "L'IADE (Infirmier anesthésiste réanimateur) a pour rôle de veiller au respect des droits et libertés du patient tout au long de la procédure, mais également d'assurer la conformité des soins aux normes éthiques définies par la déontologie professionnelle.",
+    "id": "legislation_targeted_2_1",
+    "module_id": "legislation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.927
   }
 ]
