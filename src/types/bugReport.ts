@@ -1,54 +1,51 @@
 /**
  * Types pour le système de rapport de bugs structuré
- * Permet aux utilisateurs de remonter des problèmes spécifiques
- * Format exploitable par l'IA pour corrections automatiques
+ * v2.0 : Support multi-catégories + Redis par catégorie
  */
 
 export type BugCategory = 
-  | 'question_ambigue'           // Question mal formulée ou ambiguë
-  | 'reponse_incorrecte'         // Mauvaise réponse marquée comme correcte
-  | 'plusieurs_reponses'         // Plusieurs réponses possibles
-  | 'explication_manquante'      // Explication absente ou incomplète
-  | 'explication_incorrecte'     // Explication fausse ou confuse
-  | 'reference_incorrecte'       // Lien vers cours pointant vers mauvaise page
-  | 'faute_orthographe'          // Faute d'orthographe ou grammaire
-  | 'terme_medical_incorrect'    // Terme biomédical erroné
-  | 'options_repetees'           // Options en double ou trop similaires
-  | 'difficulte_mal_calibree'    // Difficulté (easy/medium/hard) inadaptée
-  | 'hors_programme'             // Question hors du programme IADE
-  | 'autre';                     // Autre problème
+  | 'question_ambigue'
+  | 'reponse_incorrecte'
+  | 'plusieurs_reponses'
+  | 'explication_manquante'
+  | 'explication_incorrecte'
+  | 'reference_incorrecte'
+  | 'faute_orthographe'
+  | 'terme_medical_incorrect'
+  | 'options_repetees'
+  | 'difficulte_mal_calibree'
+  | 'hors_programme'
+  | 'autre';
 
 export interface BugReport {
-  // Identification
-  bugId: string;                 // ID unique du bug
-  questionId: string;            // ID de la question concernée
-  userId?: string;               // ID anonyme de l'utilisateur (optionnel)
+  bugId: string;
+  questionId: string;
+  userId?: string;
   
-  // Classification
-  category: BugCategory;         // Type de bug
-  severity: 'low' | 'medium' | 'high'; // Gravité
+  // ✅ v2.0 : MULTI-CATÉGORIES
+  categories: BugCategory[];  // Plusieurs catégories possibles
+  severity: 'low' | 'medium' | 'high';
   
-  // Description
-  description: string;           // Description libre du problème
-  suggestedFix?: string;         // Suggestion de correction (optionnel)
+  // ✅ v2.0 : UN SEUL CHAMP GLOBAL
+  description: string;  // Couvre toutes les catégories
+  suggestedFix?: string;
   
-  // Contexte
-  userAnswer?: number;           // Réponse choisie par l'utilisateur
-  expectedAnswer?: number;       // Réponse attendue selon l'utilisateur
+  userAnswer?: number;
+  expectedAnswer?: number;
+  
   context: {
-    mode: 'revision' | 'entrainement' | 'concours'; // Mode d'utilisation
-    moduleId: string;            // Module concerné
-    timestamp: string;           // Quand le bug a été rencontré
-    deviceInfo?: string;         // Info device (mobile/desktop)
+    mode: 'revision' | 'entrainement' | 'concours';
+    moduleId: string;
+    timestamp: string;
+    deviceInfo?: string;
   };
   
-  // Métadonnées
-  status: 'pending' | 'reviewed' | 'fixed' | 'rejected'; // Statut du traitement
+  status: 'pending' | 'reviewed' | 'fixed' | 'rejected';
   aiAnalysis?: {
-    confidence: number;          // Confiance de l'IA (0-1)
-    suggestedCategory?: BugCategory; // Catégorie suggérée par l'IA
-    autoFixable: boolean;        // Peut être corrigé automatiquement
-    proposedCorrection?: string; // Correction proposée par l'IA
+    confidence: number;
+    suggestedCategory?: BugCategory;
+    autoFixable: boolean;
+    proposedCorrection?: string;
   };
   
   createdAt: string;
@@ -68,9 +65,8 @@ export interface BugReportStats {
 }
 
 export interface BugReportFormData {
-  category: BugCategory;
+  categories: BugCategory[];  // ✅ Plusieurs catégories
   description: string;
   suggestedFix?: string;
   expectedAnswer?: number;
 }
-

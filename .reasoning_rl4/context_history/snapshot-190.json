@@ -1,0 +1,22 @@
+{
+  "snapshot_id": 190,
+  "range": [
+    91,
+    190
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:31:53.375Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.044328703703703703,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 477
+  },
+  "files_active": [
+    "src/components/BugReportModal.tsx",
+    "src/utils/bugReportApi.ts"
+  ]
+}

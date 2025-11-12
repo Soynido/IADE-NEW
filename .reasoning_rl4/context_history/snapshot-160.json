@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 160,
+  "range": [
+    61,
+    160
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:26:53.008Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.037384259259259256,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 177
+  },
+  "files_active": [
+    "src/types/bugReport.ts",
+    "src/components/BugReportModal.tsx",
+    "src/utils/bugReportApi.ts",
+    "src/components/QuestionCard.tsx",
+    "scripts/bug_analysis/analyze_bug_reports.py"
+  ]
+}

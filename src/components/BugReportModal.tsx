@@ -99,7 +99,8 @@ export function BugReportModal({
   onClose,
   onSubmit
 }: BugReportModalProps) {
-  const [category, setCategory] = useState<BugCategory | ''>('');
+  // ✅ v2.0 : Multi-catégories
+  const [categories, setCategories] = useState<BugCategory[]>([]);
   const [description, setDescription] = useState('');
   const [suggestedFix, setSuggestedFix] = useState('');
   const [expectedAnswer, setExpectedAnswer] = useState<number | undefined>(undefined);
@@ -108,10 +109,20 @@ export function BugReportModal({
 
   if (!isOpen) return null;
 
+  // ✅ v2.0 : Toggle catégorie (multi-sélection)
+  const toggleCategory = (cat: BugCategory) => {
+    if (categories.includes(cat)) {
+      setCategories(categories.filter(c => c !== cat));
+    } else {
+      setCategories([...categories, cat]);
+    }
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (!category || !description.trim()) {
+    // ✅ v2.0 : Au moins une catégorie + description
+    if (categories.length === 0 || !description.trim()) {
       return;
     }
 
@@ -119,7 +130,7 @@ export function BugReportModal({
 
     try {
       const reportData: BugReportFormData = {
-        category,
+        categories,  // ✅ Plusieurs catégories
         description: description.trim(),
         suggestedFix: suggestedFix.trim() || undefined,
         expectedAnswer
@@ -139,7 +150,7 @@ export function BugReportModal({
   };
 
   const handleClose = () => {
-    setCategory('');
+    setCategories([]);
     setDescription('');
     setSuggestedFix('');
     setExpectedAnswer(undefined);
@@ -147,8 +158,9 @@ export function BugReportModal({
     onClose();
   };
 
-  const selectedCategory = BUG_CATEGORIES.find(c => c.value === category);
-  const requiresExpectedAnswer = category === 'reponse_incorrecte' || category === 'plusieurs_reponses';
+  const requiresExpectedAnswer = 
+    categories.includes('reponse_incorrecte') || 
+    categories.includes('plusieurs_reponses');
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black bg-opacity-50">
@@ -201,35 +213,54 @@ export function BugReportModal({
               </div>
             </div>
 
-            {/* Sélection catégorie */}
+            {/* Sélection catégories (multi-sélection) */}
             <div className="mb-6">
-              <label className="block text-sm font-semibold text-gray-700 mb-3">
-                Type de problème *
+              <label className="block text-sm font-semibold text-gray-700 mb-2">
+                Type(s) de problème(s) * 
+                <span className="text-gray-500 font-normal ml-2">
+                  (Vous pouvez en sélectionner plusieurs)
+                </span>
               </label>
               <div className="grid grid-cols-2 gap-3">
-                {BUG_CATEGORIES.map((cat) => (
-                  <button
-                    key={cat.value}
-                    type="button"
-                    onClick={() => setCategory(cat.value)}
-                    className={`p-3 rounded-lg border-2 text-left transition ${
-                      category === cat.value
-                        ? 'border-red-500 bg-red-50'
-                        : 'border-gray-200 hover:border-red-300 hover:bg-gray-50'
-                    }`}
-                  >
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="text-xl">{cat.icon}</span>
-                      <span className="font-medium text-sm">{cat.label}</span>
-                    </div>
-                    <p className="text-xs text-gray-500">{cat.description}</p>
-                  </button>
-                ))}
+                {BUG_CATEGORIES.map((cat) => {
+                  const isSelected = categories.includes(cat.value);
+                  return (
+                    <label
+                      key={cat.value}
+                      className={`p-3 rounded-lg border-2 text-left transition cursor-pointer ${
+                        isSelected
+                          ? 'border-red-500 bg-red-50'
+                          : 'border-gray-200 hover:border-red-300 hover:bg-gray-50'
+                      }`}
+                    >
+                      <div className="flex items-start gap-2">
+                        <input
+                          type="checkbox"
+                          checked={isSelected}
+                          onChange={() => toggleCategory(cat.value)}
+                          className="mt-1 h-4 w-4 text-red-600 focus:ring-red-500 border-gray-300 rounded"
+                        />
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-1">
+                            <span className="text-xl">{cat.icon}</span>
+                            <span className="font-medium text-sm">{cat.label}</span>
+                          </div>
+                          <p className="text-xs text-gray-500">{cat.description}</p>
+                        </div>
+                      </div>
+                    </label>
+                  );
+                })}
               </div>
+              {categories.length > 0 && (
+                <p className="mt-2 text-sm text-green-600 font-medium">
+                  ✓ {categories.length} problème{categories.length > 1 ? 's' : ''} sélectionné{categories.length > 1 ? 's' : ''}
+                </p>
+              )}
             </div>
 
             {/* Bonne réponse attendue (si applicable) */}
-            {requiresExpectedAnswer && category && (
+            {requiresExpectedAnswer && categories.length > 0 && (
               <div className="mb-6 bg-yellow-50 border border-yellow-200 rounded-lg p-4">
                 <label className="block text-sm font-semibold text-gray-700 mb-2">
                   Quelle est la bonne réponse selon vous ?
@@ -258,20 +289,25 @@ export function BugReportModal({
             <div className="mb-6">
               <label className="block text-sm font-semibold text-gray-700 mb-2">
                 Description du problème *
+                {categories.length > 1 && (
+                  <span className="text-gray-500 font-normal ml-2">
+                    (Précisez chaque problème)
+                  </span>
+                )}
               </label>
               <textarea
                 value={description}
                 onChange={(e) => setDescription(e.target.value)}
-                placeholder={selectedCategory 
-                  ? `Décrivez le problème : ${selectedCategory.description}` 
-                  : "Expliquez en détail le problème rencontré..."
+                placeholder={categories.length > 0
+                  ? `Décrivez les problèmes sélectionnés :\n${categories.map(c => `• ${BUG_CATEGORIES.find(cat => cat.value === c)?.label}`).join('\n')}`
+                  : "Expliquez en détail le ou les problème(s) rencontré(s)..."
                 }
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none"
-                rows={4}
+                rows={5}
                 required
               />
               <p className="text-xs text-gray-500 mt-1">
-                Plus vous êtes précis, plus l'IA pourra corriger efficacement
+                💡 Astuce : Si plusieurs problèmes, décrivez-les point par point
               </p>
             </div>
 
@@ -301,7 +337,7 @@ export function BugReportModal({
               </button>
               <button
                 type="submit"
-                disabled={!category || !description.trim() || isSubmitting}
+                disabled={categories.length === 0 || !description.trim() || isSubmitting}
                 className="flex-1 px-6 py-3 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-lg hover:from-red-600 hover:to-orange-600 disabled:opacity-50 disabled:cursor-not-allowed transition font-semibold"
               >
                 {isSubmitting ? 'Envoi en cours...' : 'Envoyer le signalement'}

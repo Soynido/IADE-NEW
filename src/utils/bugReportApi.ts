@@ -38,7 +38,7 @@ function detectDeviceInfo(): string {
 }
 
 function estimateSeverity(
-  category: BugReportFormData['category'],
+  category: string,
   question: Question
 ): 'low' | 'medium' | 'high' {
   // Sévérité haute : réponse incorrecte, terme médical incorrect
@@ -72,11 +72,19 @@ export async function submitBugReport(
 ): Promise<BugReport> {
   const bugId = generateBugId();
   
+  // ✅ v2.0 : Multi-catégories + sévérité maximale
+  const maxSeverity = formData.categories
+    .map(cat => estimateSeverity(cat, question))
+    .sort((a, b) => {
+      const order = { high: 3, medium: 2, low: 1 };
+      return order[b] - order[a];
+    })[0] || 'medium';
+  
   const report: BugReport = {
     bugId,
     questionId: question.id || question.chunk_id,
-    category: formData.category,
-    severity: estimateSeverity(formData.category, question),
+    categories: formData.categories,  // ✅ Plusieurs catégories
+    severity: maxSeverity,
     description: formData.description,
     suggestedFix: formData.suggestedFix,
     userAnswer,
@@ -94,12 +102,12 @@ export async function submitBugReport(
   // 1. Sauvegarde localStorage (backup local)
   await saveBugReportLocally(report);
   
-  // 2. Envoi Redis (si configuré)
+  // 2. Envoi Redis (si configuré) - ✅ v2.0 : Par catégorie
   if (REDIS_ENABLED) {
     await sendBugReportToRedis(report);
   }
   
-  console.info('[BugReport] ✅ Rapport enregistré:', bugId);
+  console.info('[BugReport] ✅ Rapport enregistré:', bugId, 'Catégories:', formData.categories);
   
   return report;
 }
@@ -128,10 +136,49 @@ async function saveBugReportLocally(report: BugReport): Promise<void> {
 
 /**
  * Envoie vers Redis Upstash
+ * ✅ v2.0 : Structure optimisée par catégorie
  */
 async function sendBugReportToRedis(report: BugReport): Promise<void> {
   try {
-    // 1. Ajouter à la liste globale des bugs
+    const questionId = report.questionId;
+    
+    // ✅ 1. LISTES PAR CATÉGORIE (pour traiter section par section)
+    for (const category of report.categories) {
+      await fetch(`${REDIS_URL}/lpush/bug:${category}/${questionId}`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${REDIS_TOKEN}`
+        }
+      });
+      
+      // Compteur par catégorie
+      await fetch(`${REDIS_URL}/hincrby/bug_stats:by_category/${category}/1`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${REDIS_TOKEN}`
+        }
+      });
+    }
+    
+    // ✅ 2. DÉTAILS COMPLETS PAR QUESTION
+    await fetch(`${REDIS_URL}/set/bug_details:${questionId}`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${REDIS_TOKEN}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(report)
+    });
+    
+    // ✅ 3. COMPTEUR PAR QUESTION (sorted set pour ranking)
+    await fetch(`${REDIS_URL}/zincrby/bug_stats:by_question/1/${questionId}`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${REDIS_TOKEN}`
+      }
+    });
+    
+    // ✅ 4. LISTE GLOBALE (backup)
     await fetch(`${REDIS_URL}/lpush/bug_reports:all`, {
       method: 'POST',
       headers: {
@@ -141,33 +188,15 @@ async function sendBugReportToRedis(report: BugReport): Promise<void> {
       body: JSON.stringify(report)
     });
     
-    // 2. Indexer par question (pour voir tous les bugs d'une question)
-    await fetch(`${REDIS_URL}/lpush/bug_reports:question:${report.questionId}`, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${REDIS_TOKEN}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(report)
-    });
-    
-    // 3. Indexer par catégorie (pour stats)
-    await fetch(`${REDIS_URL}/hincrby/bug_stats:categories/${report.category}/1`, {
+    // 5. Expiration 90 jours sur les détails
+    await fetch(`${REDIS_URL}/expire/bug_details:${questionId}/7776000`, {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${REDIS_TOKEN}`
       }
     });
     
-    // 4. Expiration 90 jours
-    await fetch(`${REDIS_URL}/expire/bug_reports:question:${report.questionId}/7776000`, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${REDIS_TOKEN}`
-      }
-    });
-    
-    console.info('[BugReport] ✅ Envoyé vers Redis');
+    console.info('[BugReport] ✅ Envoyé vers Redis - Catégories:', report.categories.join(', '));
   } catch (error) {
     console.warn('[BugReport] Erreur Redis (ignorée):', error);
   }
