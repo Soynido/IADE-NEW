@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-11-12T10:03:31.509Z",
+  "current_cycle": 20,
+  "pattern": "",
+  "pattern_confidence": 0,
+  "forecast": "",
+  "forecast_confidence": 0,
+  "intent": "unknown",
+  "adr": null,
+  "files": [
+    "src/components/TrainingMode.tsx",
+    "src/components/QuestionCard.tsx",
+    "src/components/ExamMode.tsx",
+    "src/components/Dashboard.tsx",
+    "src/components/PDFViewer.tsx"
+  ],
+  "stats": {
+    "total_cycles": 20,
+    "total_patterns": 0,
+    "total_forecasts": 0,
+    "total_adrs": 0
+  }
+}

@@ -62,8 +62,8 @@ export function RevisionMode() {
     setCurrentIndex(0); // Reset à la première question
   }, [selectedModule, questions]);
 
-  // Récupération modules uniques
-  const modules = Array.from(new Set(questions.map(q => q.module_id))).sort();
+  // Récupération modules uniques (filtre les undefined/null)
+  const modules = Array.from(new Set(questions.map(q => q.module_id).filter(Boolean))).sort();
 
   const handleAnswer = (questionId: string, selectedAnswer: number, isCorrect: boolean) => {
     const currentQuestion = filteredQuestions[currentIndex];
@@ -202,7 +202,7 @@ export function RevisionMode() {
               <option value="all">Tous les modules ({questions.length})</option>
               {modules.map(module => (
                 <option key={module} value={module}>
-                  {module.replace('_', ' ').toUpperCase()} (
+                  {(module || '').replace('_', ' ').toUpperCase()} (
                     {questions.filter(q => q.module_id === module).length}
                   )
                 </option>

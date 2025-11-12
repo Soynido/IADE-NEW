@@ -92,7 +92,7 @@ export function Dashboard() {
                 <div key={moduleId}>
                   <div className="flex items-center justify-between mb-1">
                     <span className="text-sm font-medium text-gray-700">
-                      {moduleId.replace('_', ' ').toUpperCase()}
+                      {(moduleId || 'module').replace('_', ' ').toUpperCase()}
                     </span>
                     <span className="text-sm font-semibold text-gray-900">
                       {(score * 100).toFixed(0)}%
@@ -130,7 +130,7 @@ export function Dashboard() {
                 <div key={index} className="p-4 bg-gray-50 rounded-lg">
                   <div className="flex items-center justify-between mb-1">
                     <span className="text-sm font-medium text-gray-700">
-                      {result.examId.replace(/_/g, ' ').toUpperCase()}
+                      {(result.examId || 'exam').replace(/_/g, ' ').toUpperCase()}
                     </span>
                     <span className={`text-lg font-bold ${
                       result.score >= 80 ? 'text-green-600' :
@@ -189,7 +189,7 @@ export function Dashboard() {
                     return (
                       <tr key={moduleId} className="border-t border-gray-200">
                         <td className="px-4 py-3 text-sm text-gray-900">
-                          {moduleId.replace('_', ' ').toUpperCase()}
+                          {(moduleId || 'module').replace('_', ' ').toUpperCase()}
                         </td>
                         <td className="px-4 py-3 text-sm text-center text-gray-700">
                           {data.attempts}

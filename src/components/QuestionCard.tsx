@@ -90,14 +90,14 @@ export function QuestionCard({
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center gap-2">
           <span className="px-3 py-1 text-xs font-semibold rounded-full bg-primary-100 text-primary-700">
-            {question.module_id?.replace('_', ' ').toUpperCase()}
+            {(question.module_id || 'module').replace('_', ' ').toUpperCase()}
           </span>
           <span className={`px-3 py-1 text-xs font-semibold rounded-full ${
             question.difficulty === 'easy' ? 'bg-green-100 text-green-700' :
             question.difficulty === 'hard' ? 'bg-red-100 text-red-700' :
             'bg-yellow-100 text-yellow-700'
           }`}>
-            {question.difficulty?.toUpperCase()}
+            {(question.difficulty || 'medium').toUpperCase()}
           </span>
         </div>
         

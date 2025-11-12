@@ -262,7 +262,7 @@ export function ExamMode() {
       <div className="bg-white rounded-xl shadow-lg p-6 mb-6">
         <div className="flex items-start justify-between mb-4">
           <span className="px-3 py-1 text-xs font-semibold rounded-full bg-primary-100 text-primary-700">
-            {currentQuestion.module_id?.replace('_', ' ').toUpperCase()}
+            {(currentQuestion.module_id || 'module').replace('_', ' ').toUpperCase()}
           </span>
         </div>
 

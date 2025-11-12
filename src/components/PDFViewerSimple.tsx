@@ -35,7 +35,7 @@ export function PDFViewerSimple() {
             Ouverture du cours
           </h1>
           <p className="text-gray-600">
-            {pdfFile.replace('.pdf', '')}
+            {(pdfFile || 'document').replace('.pdf', '')}
           </p>
         </div>
 

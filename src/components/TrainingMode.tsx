@@ -53,7 +53,8 @@ export function TrainingMode() {
     loadQuestions();
   }, []);
 
-  const modules = Array.from(new Set(questions.map(q => q.module_id))).sort();
+  // Récupération modules uniques (filtre les undefined/null)
+  const modules = Array.from(new Set(questions.map(q => q.module_id).filter(Boolean))).sort();
 
   const startSession = () => {
     if (!selectedModule) return;
@@ -201,7 +202,7 @@ export function TrainingMode() {
                   }`}
                 >
                   <h3 className="font-semibold text-gray-900 mb-1">
-                    {module.replace('_', ' ').toUpperCase()}
+                    {(module || '').replace('_', ' ').toUpperCase()}
                   </h3>
                   <p className="text-sm text-gray-600">
                     {moduleQuestionsCount} questions disponibles
@@ -253,7 +254,7 @@ export function TrainingMode() {
         <div className="flex items-center justify-between">
           <div>
             <h2 className="text-xl font-semibold text-gray-900">
-              Session : {selectedModule?.replace('_', ' ').toUpperCase()}
+              Session : {(selectedModule || '').replace('_', ' ').toUpperCase()}
             </h2>
             <p className="text-sm text-gray-600">
               Question {currentIndex + 1} / {sessionQuestions.length} • Niveau: {currentDifficulty.toUpperCase()}

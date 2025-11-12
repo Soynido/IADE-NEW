@@ -90,7 +90,7 @@ export function PDFViewer() {
 
           <div className="flex-1 text-center">
             <h1 className="text-sm sm:text-lg font-semibold text-gray-800 truncate">
-              {pdfFile.replace('.pdf', '')}
+              {(pdfFile || 'document').replace('.pdf', '')}
             </h1>
             <p className="text-xs text-gray-500">
               Page {currentPage} / {numPages || '...'}
