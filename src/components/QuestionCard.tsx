@@ -13,6 +13,9 @@
 
 import { useState, useEffect } from 'react';
 import { Question } from '@/types';
+import { BugReportModal } from './BugReportModal';
+import { submitBugReport } from '@/utils/bugReportApi';
+import { BugReportFormData } from '@/types/bugReport';
 
 interface QuestionCardProps {
   question: Question;
@@ -33,6 +36,7 @@ export function QuestionCard({
 }: QuestionCardProps) {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [hasAnswered, setHasAnswered] = useState(false);
+  const [showBugReportModal, setShowBugReportModal] = useState(false);
 
   // Reset l'état quand la question change
   useEffect(() => {
@@ -58,6 +62,20 @@ export function QuestionCard({
   const handleFeedback = (score: 1 | 2 | 3) => {
     if (onFeedback) {
       onFeedback(question.id || question.chunk_id, score);
+    }
+  };
+
+  const handleBugReport = async (reportData: BugReportFormData) => {
+    try {
+      await submitBugReport(
+        reportData,
+        question,
+        'revision', // TODO: passer le mode réel depuis props
+        selectedAnswer ?? undefined
+      );
+    } catch (error) {
+      console.error('Erreur soumission bug report:', error);
+      throw error;
     }
   };
 
@@ -164,7 +182,7 @@ export function QuestionCard({
       {hasAnswered && showFeedback && (
         <div className="mt-4 pt-4 border-t border-gray-200">
           <p className="text-sm text-gray-600 mb-2">Cette question vous a-t-elle été utile ?</p>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             <button
               onClick={() => handleFeedback(1)}
               className="px-4 py-2 text-sm rounded-lg border-2 border-red-300 text-red-700 hover:bg-red-50 transition"
@@ -183,9 +201,28 @@ export function QuestionCard({
             >
               😊 Très utile
             </button>
+            
+            {/* Bouton rapport de bug */}
+            <button
+              onClick={() => setShowBugReportModal(true)}
+              className="ml-auto px-4 py-2 text-sm rounded-lg border-2 border-orange-300 text-orange-700 hover:bg-orange-50 transition font-medium"
+              title="Signaler un problème avec cette question"
+            >
+              🐛 Signaler un bug
+            </button>
           </div>
         </div>
       )}
+
+      {/* Modal de rapport de bug */}
+      <BugReportModal
+        question={question}
+        mode="revision" // TODO: passer le mode réel depuis props
+        userAnswer={selectedAnswer ?? undefined}
+        isOpen={showBugReportModal}
+        onClose={() => setShowBugReportModal(false)}
+        onSubmit={handleBugReport}
+      />
     </div>
   );
 }

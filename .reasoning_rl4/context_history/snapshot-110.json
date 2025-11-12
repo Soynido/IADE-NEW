@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 110,
+  "range": [
+    11,
+    110
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:18:32.343Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.025810185185185186,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 114
+  },
+  "files_active": [
+    "src/components/Dashboard.tsx",
+    "src/components/PDFViewer.tsx",
+    "src/components/PDFViewerSimple.tsx",
+    "BUGFIX_REPLACE_UNDEFINED.md",
+    "TEST_FEEDBACK_FLOW.md"
+  ]
+}

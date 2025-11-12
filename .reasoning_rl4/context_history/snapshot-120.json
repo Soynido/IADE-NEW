@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 120,
+  "range": [
+    21,
+    120
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:20:12.411Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.028125,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 214
+  },
+  "files_active": [
+    "src/components/PDFViewer.tsx",
+    "src/components/PDFViewerSimple.tsx",
+    "BUGFIX_REPLACE_UNDEFINED.md",
+    "TEST_FEEDBACK_FLOW.md",
+    "test_redis_api.js"
+  ]
+}

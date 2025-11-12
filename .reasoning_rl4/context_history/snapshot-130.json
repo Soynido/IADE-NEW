@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 130,
+  "range": [
+    31,
+    130
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:21:52.529Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.030439814814814812,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 314
+  },
+  "files_active": [
+    "test_redis_api.js",
+    "REDIS_FEEDBACK_FIXED.md",
+    "src/types/bugReport.ts",
+    "src/components/BugReportModal.tsx",
+    "src/utils/bugReportApi.ts"
+  ]
+}

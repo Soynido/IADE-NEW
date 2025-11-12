@@ -1,9 +1,9 @@
 {
   "date": "2025-11-12",
-  "generated_at": "2025-11-12T10:15:12.105Z",
-  "total_cycles": 90,
+  "generated_at": "2025-11-12T10:23:32.522Z",
+  "total_cycles": 140,
   "total_events": 0,
-  "cognitive_load_avg": 0.021180555555555553,
+  "cognitive_load_avg": 0.032754629629629634,
   "hours": [
     {
       "hour": 0,
@@ -150,15 +150,15 @@
     },
     {
       "hour": 11,
-      "timestamp": "2025-11-12T10:15:12.066Z",
+      "timestamp": "2025-11-12T10:23:32.469Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
       "intent": "fix",
-      "cycles_count": 90,
+      "cycles_count": 140,
       "events_count": 0,
-      "cognitive_load": 0.25,
+      "cognitive_load": 0.3888888888888889,
       "files": [
         "src/components/RevisionMode.tsx",
         "src/components/TrainingMode.tsx",
@@ -193,15 +193,15 @@
     },
     {
       "hour": 14,
-      "timestamp": "2025-11-05T13:54:45.012Z",
+      "timestamp": "2025-11-05T13:59:55.090Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
       "intent": "unknown",
-      "cycles_count": 93,
+      "cycles_count": 124,
       "events_count": 0,
-      "cognitive_load": 0.25833333333333336,
+      "cognitive_load": 0.34444444444444444,
       "files": [
         "spec.md",
         "plan.md",
@@ -210,16 +210,20 @@
     },
     {
       "hour": 15,
-      "timestamp": "2025-11-12T15:00:00Z",
+      "timestamp": "2025-11-05T14:03:05.134Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
-      "intent": "none",
-      "cycles_count": 0,
+      "intent": "unknown",
+      "cycles_count": 19,
       "events_count": 0,
-      "cognitive_load": 0,
-      "files": []
+      "cognitive_load": 0.05277777777777778,
+      "files": [
+        "spec.md",
+        "plan.md",
+        "tasks.md"
+      ]
     },
     {
       "hour": 16,
@@ -328,6 +332,6 @@
   ],
   "top_pattern": "",
   "top_forecast": "",
-  "dominant_intent": "fix",
-  "most_active_hour": 14
+  "dominant_intent": "unknown",
+  "most_active_hour": 11
 }

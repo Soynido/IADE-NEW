@@ -293,3 +293,135 @@
 {"timestamp":"2025-11-12T10:16:32.099Z","level":"CYCLE","cycle_id":98,"message":"START — Phase: cognitive-cycle"}
 {"timestamp":"2025-11-12T10:16:32.101Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
 {"timestamp":"2025-11-12T10:16:32.155Z","level":"CYCLE","cycle_id":98,"phase":"complete","message":"Cycle #98 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":56,"health":{"drift":0.40490040852433984,"coherence":0.8729646520369967,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:16:42.105Z","level":"CYCLE","cycle_id":99,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:16:42.106Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:16:42.148Z","level":"CYCLE","cycle_id":99,"phase":"complete","message":"Cycle #99 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":43,"health":{"drift":0.38023934695435013,"coherence":0.9171614546803005,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:16:52.106Z","level":"CYCLE","cycle_id":100,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:16:52.109Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:16:52.278Z","level":"CYCLE","cycle_id":100,"phase":"complete","message":"Cycle #100 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":172,"health":{"drift":0.32128865127499373,"coherence":0.7845147458909233,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:02.119Z","level":"CYCLE","cycle_id":101,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:02.120Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:02.160Z","level":"CYCLE","cycle_id":101,"phase":"complete","message":"Cycle #101 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":41,"health":{"drift":0.45990240548750505,"coherence":0.7756455846949678,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:12.119Z","level":"CYCLE","cycle_id":102,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:12.120Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:12.171Z","level":"CYCLE","cycle_id":102,"phase":"complete","message":"Cycle #102 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":52,"health":{"drift":0.1673561286756875,"coherence":0.7379094078127083,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:22.135Z","level":"CYCLE","cycle_id":103,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:22.136Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:22.228Z","level":"CYCLE","cycle_id":103,"phase":"complete","message":"Cycle #103 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":93,"health":{"drift":0.31800085106817877,"coherence":0.8868588323425756,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:32.160Z","level":"CYCLE","cycle_id":104,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:32.161Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:32.197Z","level":"CYCLE","cycle_id":104,"phase":"complete","message":"Cycle #104 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":37,"health":{"drift":0.3815119259575379,"coherence":0.9088462886456337,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:42.182Z","level":"CYCLE","cycle_id":105,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:42.182Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:42.224Z","level":"CYCLE","cycle_id":105,"phase":"complete","message":"Cycle #105 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":42,"health":{"drift":0.14454581782729636,"coherence":0.8778949886063618,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:17:52.188Z","level":"CYCLE","cycle_id":106,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:17:52.189Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:17:52.298Z","level":"CYCLE","cycle_id":106,"phase":"complete","message":"Cycle #106 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":111,"health":{"drift":0.3902805744017368,"coherence":0.953440895599506,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:02.187Z","level":"CYCLE","cycle_id":107,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:02.188Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:02.247Z","level":"CYCLE","cycle_id":107,"phase":"complete","message":"Cycle #107 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":60,"health":{"drift":0.4445512431428841,"coherence":0.8186400848439769,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:12.187Z","level":"CYCLE","cycle_id":108,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:12.190Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:12.390Z","level":"CYCLE","cycle_id":108,"phase":"complete","message":"Cycle #108 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":203,"health":{"drift":0.15802848378242185,"coherence":0.9594162384528873,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:22.187Z","level":"CYCLE","cycle_id":109,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:22.190Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:22.295Z","level":"CYCLE","cycle_id":109,"phase":"complete","message":"Cycle #109 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":108,"health":{"drift":0.13080906283319016,"coherence":0.7437145277083513,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:32.211Z","level":"CYCLE","cycle_id":110,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:32.211Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:32.347Z","level":"CYCLE","cycle_id":110,"phase":"complete","message":"Cycle #110 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":136,"health":{"drift":0.20652312852999344,"coherence":0.7331736605081256,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:42.211Z","level":"CYCLE","cycle_id":111,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:42.212Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:42.296Z","level":"CYCLE","cycle_id":111,"phase":"complete","message":"Cycle #111 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":85,"health":{"drift":0.40782360893267977,"coherence":0.9068200456661547,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:18:52.239Z","level":"CYCLE","cycle_id":112,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:18:52.239Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:18:52.281Z","level":"CYCLE","cycle_id":112,"phase":"complete","message":"Cycle #112 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":42,"health":{"drift":0.2716877211120957,"coherence":0.840609967897332,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:02.254Z","level":"CYCLE","cycle_id":113,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:02.255Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:02.360Z","level":"CYCLE","cycle_id":113,"phase":"complete","message":"Cycle #113 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":106,"health":{"drift":0.28120869110658553,"coherence":0.8783658442954938,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:12.259Z","level":"CYCLE","cycle_id":114,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:12.260Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:12.306Z","level":"CYCLE","cycle_id":114,"phase":"complete","message":"Cycle #114 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":47,"health":{"drift":0.13156800301471572,"coherence":0.8463678852332323,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:22.292Z","level":"CYCLE","cycle_id":115,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:22.292Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:22.343Z","level":"CYCLE","cycle_id":115,"phase":"complete","message":"Cycle #115 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":51,"health":{"drift":0.22666763982106264,"coherence":0.84331881615792,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:32.292Z","level":"CYCLE","cycle_id":116,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:32.293Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:32.334Z","level":"CYCLE","cycle_id":116,"phase":"complete","message":"Cycle #116 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":42,"health":{"drift":0.15569586756333154,"coherence":0.871494595445048,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:42.295Z","level":"CYCLE","cycle_id":117,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:42.295Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:42.334Z","level":"CYCLE","cycle_id":117,"phase":"complete","message":"Cycle #117 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":39,"health":{"drift":0.265698208212121,"coherence":0.8148167786037996,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:19:52.299Z","level":"CYCLE","cycle_id":118,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:19:52.299Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:19:52.338Z","level":"CYCLE","cycle_id":118,"phase":"complete","message":"Cycle #118 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":39,"health":{"drift":0.24052068703524643,"coherence":0.8928485861456026,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:02.300Z","level":"CYCLE","cycle_id":119,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:02.301Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:02.384Z","level":"CYCLE","cycle_id":119,"phase":"complete","message":"Cycle #119 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":84,"health":{"drift":0.4630065273545415,"coherence":0.9296817927167629,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:12.302Z","level":"CYCLE","cycle_id":120,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:12.304Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:12.415Z","level":"CYCLE","cycle_id":120,"phase":"complete","message":"Cycle #120 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":113,"health":{"drift":0.1965989757360257,"coherence":0.9929633894002262,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:22.311Z","level":"CYCLE","cycle_id":121,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:22.312Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:22.356Z","level":"CYCLE","cycle_id":121,"phase":"complete","message":"Cycle #121 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":45,"health":{"drift":0.3028206180314469,"coherence":0.8062338256984403,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:32.317Z","level":"CYCLE","cycle_id":122,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:32.317Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:32.357Z","level":"CYCLE","cycle_id":122,"phase":"complete","message":"Cycle #122 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":40,"health":{"drift":0.47194822078562304,"coherence":0.7574368121781093,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:42.341Z","level":"CYCLE","cycle_id":123,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:42.341Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:42.416Z","level":"CYCLE","cycle_id":123,"phase":"complete","message":"Cycle #123 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":75,"health":{"drift":0.18558726627836153,"coherence":0.8107471601600826,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:20:52.343Z","level":"CYCLE","cycle_id":124,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:20:52.344Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:20:52.386Z","level":"CYCLE","cycle_id":124,"phase":"complete","message":"Cycle #124 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":43,"health":{"drift":0.33721308142389217,"coherence":0.9989103712791452,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:02.362Z","level":"CYCLE","cycle_id":125,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:02.362Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:02.404Z","level":"CYCLE","cycle_id":125,"phase":"complete","message":"Cycle #125 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":42,"health":{"drift":0.4800975019627438,"coherence":0.7253879456224732,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:12.396Z","level":"CYCLE","cycle_id":126,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:12.397Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:12.437Z","level":"CYCLE","cycle_id":126,"phase":"complete","message":"Cycle #126 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":41,"health":{"drift":0.05505409647001869,"coherence":0.9228032249372825,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:22.397Z","level":"CYCLE","cycle_id":127,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:22.398Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:22.500Z","level":"CYCLE","cycle_id":127,"phase":"complete","message":"Cycle #127 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":102,"health":{"drift":0.45401228923486336,"coherence":0.8682427733745219,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:32.408Z","level":"CYCLE","cycle_id":128,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:32.408Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:32.448Z","level":"CYCLE","cycle_id":128,"phase":"complete","message":"Cycle #128 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":40,"health":{"drift":0.33547048877420926,"coherence":0.9020432846835644,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:42.410Z","level":"CYCLE","cycle_id":129,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:42.411Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:42.451Z","level":"CYCLE","cycle_id":129,"phase":"complete","message":"Cycle #129 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":41,"health":{"drift":0.042875164825417866,"coherence":0.9438674019209519,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:21:52.411Z","level":"CYCLE","cycle_id":130,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:21:52.411Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:21:52.533Z","level":"CYCLE","cycle_id":130,"phase":"complete","message":"Cycle #130 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":122,"health":{"drift":0.08220197258533446,"coherence":0.7275732516078333,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:02.414Z","level":"CYCLE","cycle_id":131,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:02.415Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:02.468Z","level":"CYCLE","cycle_id":131,"phase":"complete","message":"Cycle #131 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":54,"health":{"drift":0.05313017598074843,"coherence":0.9934521287527958,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:12.433Z","level":"CYCLE","cycle_id":132,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:12.434Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:12.482Z","level":"CYCLE","cycle_id":132,"phase":"complete","message":"Cycle #132 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":49,"health":{"drift":0.33343534553986776,"coherence":0.7938261927024531,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:22.432Z","level":"CYCLE","cycle_id":133,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:22.433Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:22.488Z","level":"CYCLE","cycle_id":133,"phase":"complete","message":"Cycle #133 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":56,"health":{"drift":0.3431573430512296,"coherence":0.7511308643564737,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:32.452Z","level":"CYCLE","cycle_id":134,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:32.453Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:32.510Z","level":"CYCLE","cycle_id":134,"phase":"complete","message":"Cycle #134 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":58,"health":{"drift":0.4768055993532465,"coherence":0.9993399196048545,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:42.455Z","level":"CYCLE","cycle_id":135,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:42.455Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:42.491Z","level":"CYCLE","cycle_id":135,"phase":"complete","message":"Cycle #135 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":36,"health":{"drift":0.3827211818074181,"coherence":0.78399162329447,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:22:52.457Z","level":"CYCLE","cycle_id":136,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:22:52.458Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:22:52.500Z","level":"CYCLE","cycle_id":136,"phase":"complete","message":"Cycle #136 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":43,"health":{"drift":0.17467674966222368,"coherence":0.8572547408317746,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:02.463Z","level":"CYCLE","cycle_id":137,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:02.463Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:02.507Z","level":"CYCLE","cycle_id":137,"phase":"complete","message":"Cycle #137 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":43,"health":{"drift":0.3112042760576019,"coherence":0.9541720365962407,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:12.467Z","level":"CYCLE","cycle_id":138,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:12.469Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:12.510Z","level":"CYCLE","cycle_id":138,"phase":"complete","message":"Cycle #138 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":43,"health":{"drift":0.08477900898172819,"coherence":0.8988308834614533,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:22.468Z","level":"CYCLE","cycle_id":139,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:22.469Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:22.562Z","level":"CYCLE","cycle_id":139,"phase":"complete","message":"Cycle #139 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":94,"health":{"drift":0.05936099719822319,"coherence":0.8167921905844302,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:32.468Z","level":"CYCLE","cycle_id":140,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:32.469Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:32.603Z","level":"CYCLE","cycle_id":140,"phase":"complete","message":"Cycle #140 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":136,"health":{"drift":0.20207557831106315,"coherence":0.9754944323945034,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:42.470Z","level":"CYCLE","cycle_id":141,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:42.471Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:42.551Z","level":"CYCLE","cycle_id":141,"phase":"complete","message":"Cycle #141 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":81,"health":{"drift":0.21334315338551735,"coherence":0.8291248132019126,"status":"stable"}}}
+{"timestamp":"2025-11-12T10:23:52.469Z","level":"CYCLE","cycle_id":142,"message":"START — Phase: cognitive-cycle"}
+{"timestamp":"2025-11-12T10:23:52.470Z","level":"WARNING","message":"[DEBUG] No correlations generated - check traces/ directory"}
+{"timestamp":"2025-11-12T10:23:52.525Z","level":"CYCLE","cycle_id":142,"phase":"complete","message":"Cycle #142 completed","metrics":{"patterns":0,"correlations":0,"forecasts":0,"adrs":0,"duration_ms":56,"health":{"drift":0.1574600324818176,"coherence":0.9178953267538366,"status":"stable"}}}
