@@ -1,0 +1,24 @@
+{
+  "snapshot_id": 210,
+  "range": [
+    111,
+    210
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:35:13.088Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.04895833333333333,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 33
+  },
+  "files_active": [
+    "src/components/BugReportModal.tsx",
+    "src/utils/bugReportApi.ts",
+    "scripts/bug_analysis/fix_by_category.py",
+    "GUIDE_BUG_WORKFLOW.md"
+  ]
+}

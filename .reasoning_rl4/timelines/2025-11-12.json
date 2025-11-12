@@ -1,9 +1,9 @@
 {
   "date": "2025-11-12",
-  "generated_at": "2025-11-12T10:33:32.919Z",
-  "total_cycles": 200,
+  "generated_at": "2025-11-12T10:36:53.498Z",
+  "total_cycles": 220,
   "total_events": 0,
-  "cognitive_load_avg": 0.04664351851851852,
+  "cognitive_load_avg": 0.05127314814814815,
   "hours": [
     {
       "hour": 0,
@@ -150,15 +150,15 @@
     },
     {
       "hour": 11,
-      "timestamp": "2025-11-12T10:33:32.821Z",
+      "timestamp": "2025-11-12T10:36:52.973Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
       "intent": "feature",
-      "cycles_count": 200,
+      "cycles_count": 220,
       "events_count": 0,
-      "cognitive_load": 0.5555555555555556,
+      "cognitive_load": 0.6111111111111112,
       "files": [
         "src/components/RevisionMode.tsx",
         "src/components/TrainingMode.tsx",
@@ -210,15 +210,15 @@
     },
     {
       "hour": 15,
-      "timestamp": "2025-11-05T14:13:05.258Z",
+      "timestamp": "2025-11-05T14:16:25.294Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
       "intent": "unknown",
-      "cycles_count": 79,
+      "cycles_count": 99,
       "events_count": 0,
-      "cognitive_load": 0.21944444444444444,
+      "cognitive_load": 0.275,
       "files": [
         "spec.md",
         "plan.md",
