@@ -1,9 +1,9 @@
 {
   "date": "2025-11-12",
-  "generated_at": "2025-11-12T10:03:31.516Z",
-  "total_cycles": 20,
+  "generated_at": "2025-11-12T10:15:12.105Z",
+  "total_cycles": 90,
   "total_events": 0,
-  "cognitive_load_avg": 0.004976851851851851,
+  "cognitive_load_avg": 0.021180555555555553,
   "hours": [
     {
       "hour": 0,
@@ -150,15 +150,15 @@
     },
     {
       "hour": 11,
-      "timestamp": "2025-11-12T10:03:31.456Z",
+      "timestamp": "2025-11-12T10:15:12.066Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
-      "intent": "unknown",
-      "cycles_count": 20,
+      "intent": "fix",
+      "cycles_count": 90,
       "events_count": 0,
-      "cognitive_load": 0.05555555555555555,
+      "cognitive_load": 0.25,
       "files": [
         "src/components/RevisionMode.tsx",
         "src/components/TrainingMode.tsx",
@@ -193,15 +193,15 @@
     },
     {
       "hour": 14,
-      "timestamp": "2025-11-05T13:43:04.772Z",
+      "timestamp": "2025-11-05T13:54:45.012Z",
       "pattern": "",
       "pattern_confidence": 0,
       "forecast": "",
       "forecast_confidence": 0,
       "intent": "unknown",
-      "cycles_count": 23,
+      "cycles_count": 93,
       "events_count": 0,
-      "cognitive_load": 0.06388888888888888,
+      "cognitive_load": 0.25833333333333336,
       "files": [
         "spec.md",
         "plan.md",
@@ -328,6 +328,6 @@
   ],
   "top_pattern": "",
   "top_forecast": "",
-  "dominant_intent": "unknown",
+  "dominant_intent": "fix",
   "most_active_hour": 14
 }

@@ -12,5 +12,54 @@
     "file": "snapshot-20.json",
     "compressed": false,
     "size_bytes": 530
+  },
+  {
+    "cycle": 30,
+    "timestamp": "2025-11-12T10:05:11.686Z",
+    "file": "snapshot-30.json",
+    "compressed": false,
+    "size_bytes": 531
+  },
+  {
+    "cycle": 40,
+    "timestamp": "2025-11-12T10:06:51.779Z",
+    "file": "snapshot-40.json",
+    "compressed": false,
+    "size_bytes": 532
+  },
+  {
+    "cycle": 50,
+    "timestamp": "2025-11-12T10:08:31.892Z",
+    "file": "snapshot-50.json",
+    "compressed": false,
+    "size_bytes": 532
+  },
+  {
+    "cycle": 60,
+    "timestamp": "2025-11-12T10:10:11.972Z",
+    "file": "snapshot-60.json",
+    "compressed": false,
+    "size_bytes": 531
+  },
+  {
+    "cycle": 70,
+    "timestamp": "2025-11-12T10:11:52.017Z",
+    "file": "snapshot-70.json",
+    "compressed": false,
+    "size_bytes": 532
+  },
+  {
+    "cycle": 80,
+    "timestamp": "2025-11-12T10:13:32.113Z",
+    "file": "snapshot-80.json",
+    "compressed": false,
+    "size_bytes": 532
+  },
+  {
+    "cycle": 90,
+    "timestamp": "2025-11-12T10:15:12.162Z",
+    "file": "snapshot-90.json",
+    "compressed": false,
+    "size_bytes": 531
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 40,
+  "range": [
+    1,
+    40
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:06:51.779Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.009606481481481481,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 199
+  },
+  "files_active": [
+    "src/components/TrainingMode.tsx",
+    "src/components/QuestionCard.tsx",
+    "src/components/ExamMode.tsx",
+    "src/components/Dashboard.tsx",
+    "src/components/PDFViewer.tsx"
+  ]
+}

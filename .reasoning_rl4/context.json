@@ -1,21 +1,21 @@
 {
-  "last_updated": "2025-11-12T10:03:31.509Z",
-  "current_cycle": 20,
+  "last_updated": "2025-11-12T10:16:32.151Z",
+  "current_cycle": 98,
   "pattern": "",
   "pattern_confidence": 0,
   "forecast": "",
   "forecast_confidence": 0,
-  "intent": "unknown",
+  "intent": "fix",
   "adr": null,
   "files": [
-    "src/components/TrainingMode.tsx",
-    "src/components/QuestionCard.tsx",
-    "src/components/ExamMode.tsx",
     "src/components/Dashboard.tsx",
-    "src/components/PDFViewer.tsx"
+    "src/components/PDFViewer.tsx",
+    "src/components/PDFViewerSimple.tsx",
+    "BUGFIX_REPLACE_UNDEFINED.md",
+    "TEST_FEEDBACK_FLOW.md"
   ],
   "stats": {
-    "total_cycles": 20,
+    "total_cycles": 98,
     "total_patterns": 0,
     "total_forecasts": 0,
     "total_adrs": 0
