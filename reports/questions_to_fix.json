@@ -1,0 +1,78 @@
+{
+  "Prepaconcoursiade-Complet__page_033_q2": {
+    "text": "Quel type de cellule gliale est responsable de la synthèse de la myéline ?",
+    "options": [
+      "A. Astrocyte",
+      "B. Oligodendrocyte",
+      "C. Cellule de Schwann",
+      "D. Microglie"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La synthèse de la myéline est assurée par les oligodendrocytes.",
+    "id": "Prepaconcoursiade-Complet__page_033_q2",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 33,
+    "page_id": "Prepaconcoursiade-Complet__page_033",
+    "module_id": "neuro",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized",
+    "biomedical_score": 0.934
+  },
+  "Prepaconcoursiade-Complet__page_064_q1": {
+    "text": "Quel est le nombre de calories apportées par 50 grammes de glucides ?",
+    "options": [
+      "125 kcal",
+      "250 kcal",
+      "400 kcal",
+      "600 kcal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Each gram of glucides provides 4 kcal. Therefore, 50g of glucides will provide 50 * 4 = 200 kcal.",
+    "id": "Prepaconcoursiade-Complet__page_064_q1",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 64,
+    "page_id": "Prepaconcoursiade-Complet__page_064",
+    "module_id": "unknown",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized",
+    "biomedical_score": 0.899
+  },
+  "annalescorrigées-Volume-2__page_013_q1": {
+    "text": "Quelles sont les quatre familles de médicaments utilisés comme antihypertenseurs ?",
+    "options": [
+      "A. ACE inhibiteurs, B. Diurétiques, C. Calcium canaux bloquant, D. Régulateurs de l'angiotensine II"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Les quatre familles de médicaments utilisés comme antihypertenseurs sont ACE inhibiteurs (B), Diurétiques (A), Calcium canaux bloquant (C) et Régulateurs de l'angiotensine II (D).",
+    "id": "annalescorrigées-Volume-2__page_013_q1",
+    "source_pdf": "annalescorrigées-Volume-2.pdf",
+    "page": 13,
+    "page_id": "annalescorrigées-Volume-2__page_013",
+    "module_id": "reanimation",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "massive_optimized",
+    "biomedical_score": 0.91
+  },
+  "monitorage_targeted_3_1": {
+    "text": "En surveillance anesthésique, quel type de cathéter est utilisé pour mesurer la pression artérielle ?",
+    "options": [
+      "Capnographe",
+      "ECG",
+      "Cathéter artériel",
+      "Thermomètre"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Le cathéter artériel est utilisé pour mesurer la pression artérielle directement dans l'artère. Les autres appareils ne sont pas destinés à cette fonction.",
+    "id": "monitorage_targeted_3_1",
+    "module_id": "monitorage",
+    "difficulty": "medium",
+    "mode": "revision",
+    "generation_method": "targeted_simple",
+    "source_pdf": "Prepaconcoursiade-Complet.pdf",
+    "page": 1,
+    "biomedical_score": 0.926
+  }
+}

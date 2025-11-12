@@ -54,7 +54,19 @@ def fetch_all_bug_reports() -> List[Dict[str, Any]]:
         
         if response.status_code == 200:
             data = response.json()
-            reports = data.get('result', [])
+            raw_reports = data.get('result', [])
+            
+            # Parse JSON strings si nécessaire
+            reports = []
+            for r in raw_reports:
+                if isinstance(r, str):
+                    try:
+                        reports.append(json.loads(r))
+                    except json.JSONDecodeError:
+                        print(f"⚠️  Erreur parsing rapport: {r[:50]}...")
+                else:
+                    reports.append(r)
+            
             print(f"✅ {len(reports)} rapports récupérés depuis Redis")
             return reports
         else:

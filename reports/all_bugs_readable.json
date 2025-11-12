@@ -1,0 +1,66 @@
+[
+  {
+    "bugId": "bug_1762944470221_nbqmnbymc",
+    "questionId": "monitorage_targeted_3_1",
+    "category": "reponse_incorrecte",
+    "severity": "high",
+    "description": "l'interface nous dit que la bonne réponse est le thermomètre alors que la bonne réponse est le cathéter artériel ( mais donne la bonne réponse dans les explications ) , donc la réponse est compté comme fausse",
+    "userAnswer": 2,
+    "context": {
+      "mode": "revision",
+      "moduleId": "monitorage",
+      "timestamp": "2025-11-12T10:47:50.221Z",
+      "deviceInfo": "desktop"
+    },
+    "status": "pending",
+    "createdAt": "2025-11-12T10:47:50.221Z"
+  },
+  {
+    "bugId": "bug_1762944352967_3i2gjkbdl",
+    "questionId": "annalescorrigées-Volume-2__page_013_q1",
+    "category": "autre",
+    "severity": "low",
+    "description": "Il n'y a qu'une seule proposition dans les choix",
+    "userAnswer": 0,
+    "context": {
+      "mode": "revision",
+      "moduleId": "reanimation",
+      "timestamp": "2025-11-12T10:45:52.967Z",
+      "deviceInfo": "desktop"
+    },
+    "status": "pending",
+    "createdAt": "2025-11-12T10:45:52.967Z"
+  },
+  {
+    "bugId": "bug_1762944270773_chsovd4iw",
+    "questionId": "Prepaconcoursiade-Complet__page_064_q1",
+    "category": "reponse_incorrecte",
+    "severity": "high",
+    "description": "réponse correcte non proposé , effectivement 1g de glucide équivaut à 4kcal donc 50g de glucide 200 kcal",
+    "userAnswer": 1,
+    "context": {
+      "mode": "revision",
+      "moduleId": "unknown",
+      "timestamp": "2025-11-12T10:44:30.773Z",
+      "deviceInfo": "desktop"
+    },
+    "status": "pending",
+    "createdAt": "2025-11-12T10:44:30.773Z"
+  },
+  {
+    "bugId": "bug_1762944148596_eankiwdmf",
+    "questionId": "Prepaconcoursiade-Complet__page_033_q2",
+    "category": "plusieurs_reponses",
+    "severity": "medium",
+    "description": "La synthèse de la myéline peut être réalisée aussi bien par les cellules de Schwann ( présentent  dans le SNP ) que par les oligodendrocytes ( présentent dans le SNC)",
+    "userAnswer": 1,
+    "context": {
+      "mode": "revision",
+      "moduleId": "neuro",
+      "timestamp": "2025-11-12T10:42:28.596Z",
+      "deviceInfo": "desktop"
+    },
+    "status": "pending",
+    "createdAt": "2025-11-12T10:42:28.596Z"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "total_reports": 4,
+  "by_category": {
+    "reponse_incorrecte": 2,
+    "autre": 1,
+    "plusieurs_reponses": 1
+  },
+  "by_severity": {
+    "high": 2,
+    "low": 1,
+    "medium": 1
+  },
+  "by_module": {
+    "monitorage": 1,
+    "reanimation": 1,
+    "unknown": 1,
+    "neuro": 1
+  },
+  "most_reported_questions": [
+    {
+      "question_id": "monitorage_targeted_3_1",
+      "report_count": 1,
+      "categories": [
+        "reponse_incorrecte"
+      ],
+      "severity_max": "high"
+    },
+    {
+      "question_id": "annalescorrigées-Volume-2__page_013_q1",
+      "report_count": 1,
+      "categories": [
+        "autre"
+      ],
+      "severity_max": "low"
+    },
+    {
+      "question_id": "Prepaconcoursiade-Complet__page_064_q1",
+      "report_count": 1,
+      "categories": [
+        "reponse_incorrecte"
+      ],
+      "severity_max": "high"
+    },
+    {
+      "question_id": "Prepaconcoursiade-Complet__page_033_q2",
+      "report_count": 1,
+      "categories": [
+        "plusieurs_reponses"
+      ],
+      "severity_max": "medium"
+    }
+  ],
+  "critical_issues": [],
+  "analysis_date": "2025-11-12T11:50:12.440481"
+}

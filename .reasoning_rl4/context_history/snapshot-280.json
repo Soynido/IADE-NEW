@@ -1,0 +1,25 @@
+{
+  "snapshot_id": 280,
+  "range": [
+    181,
+    280
+  ],
+  "duration_sec": 1000,
+  "source": "auto",
+  "timestamp": "2025-11-12T10:46:53.698Z",
+  "patterns": [],
+  "forecasts": [],
+  "correlations": [],
+  "cognitive_load": 0.06516203703703703,
+  "git_context": {
+    "last_commit": "",
+    "time_since_commit_sec": 547
+  },
+  "files_active": [
+    "src/utils/bugReportApi.ts",
+    "scripts/bug_analysis/fix_by_category.py",
+    "GUIDE_BUG_WORKFLOW.md",
+    "test_redis_api.js",
+    "DEPLOYMENT_SUMMARY.md"
+  ]
+}
